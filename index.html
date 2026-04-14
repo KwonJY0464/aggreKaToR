@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>기반구축사업 일정</title>
+  <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js'></script>
+  <style>
+    /* 색상 변수 설정 (라이트/다크 모드) */
+    :root {
+      --bg-color: #f8f9fa;
+      --text-color: #333333;
+      --cal-bg: #ffffff;
+      --border-color: #dddddd;
+      --btn-hover: #e9ecef;
+    }
+    
+    [data-theme="dark"] {
+      --bg-color: #1a1a1a;
+      --text-color: #e0e0e0;
+      --cal-bg: #2d2d2d;
+      --border-color: #444444;
+      --btn-hover: #3d3d3d;
+    }
+
+    body { 
+      font-family: 'Malgun Gothic', sans-serif; 
+      padding: 40px; 
+      background-color: var(--bg-color); 
+      color: var(--text-color);
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    /* 다크모드 토글 버튼 (우측 상단 배치) */
+    #theme-toggle {
+      position: absolute;
+      top: 35px;
+      right: 40px;
+      background: var(--cal-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 50%;
+      width: 45px;
+      height: 45px;
+      font-size: 20px;
+      cursor: pointer;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      transition: all 0.3s ease;
+    }
+    #theme-toggle:hover {
+      background: var(--btn-hover);
+    }
+
+    /* 달력 본체 스타일 */
+    #calendar { 
+      max-width: 1100px; 
+      margin: 0 auto; 
+      background: var(--cal-bg); 
+      padding: 20px; 
+      border-radius: 8px; 
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: background-color 0.3s ease;
+    }
+
+    /* FullCalendar 내부 선, 글씨 색상 덮어쓰기 */
+    .fc { color: var(--text-color) !important; }
+    .fc-theme-standard td, .fc-theme-standard th, .fc-theme-standard .fc-scrollgrid { 
+      border-color: var(--border-color) !important; 
+    }
+  </style>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // 1. 다크/라이트 모드 스위치 로직
+      const toggleBtn = document.getElementById('theme-toggle');
+      const htmlEl = document.documentElement;
+      
+      toggleBtn.addEventListener('click', () => {
+        if (htmlEl.getAttribute('data-theme') === 'dark') {
+          htmlEl.removeAttribute('data-theme');
+          toggleBtn.textContent = '🌙'; // 라이트모드일 때는 달 아이콘
+        } else {
+          htmlEl.setAttribute('data-theme', 'dark');
+          toggleBtn.textContent = '🌞'; // 다크모드일 때는 해 아이콘
+        }
+      });
+
+      // 2. 캘린더 그리기
+      var calendarEl = document.getElementById('calendar');
+      var calendar = new FullCalendar.Calendar(calendarEl, {
+        initialView: 'dayGridMonth',
+        locale: 'ko',
+        events: 'events.json',
+        headerToolbar: {
+          left: 'prev,next today',
+          center: 'title',
+          right: 'dayGridMonth,listMonth'
+        }
+      });
+      calendar.render();
+    });
+  </script>
+</head>
+<body>
+  <button id="theme-toggle" title="화면 테마 변경">🌙</button>
+  <h2 style="text-align: center;">🏛️ KIAT 기반구축사업 공고 일정</h2>
+  <div id="calendar"></div>
+</body>
+</html>
