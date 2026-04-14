@@ -118,3 +118,11 @@ if new_events_found > 0:
     print(f"🎉 업데이트 완료! {new_events_found}개의 기반구축사업이 캘린더에 추가되었습니다.")
 else:
     print("🤷‍♂️ 새로 추가할 기반구축사업이 없습니다.")
+    
+# 기존 코드
+if "기반구축" not in raw_title:
+    continue
+
+# 수정 코드 (테스트용: '기반'이라는 단어만 들어가면 수집)
+if "기반" not in raw_title:
+    continue
