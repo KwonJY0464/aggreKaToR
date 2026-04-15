@@ -1,0 +1,30 @@
+name: Update News Dashboard
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # 2시간마다 실행
+  workflow_dispatch: # 수동 실행 버튼
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run Scraper
+        env:
+          NAVID: ${{ secrets.NAVID }}
+          NAVPASS: ${{ secrets.NAVPASS }}
+        run: python update_news.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name "NewsBot"
+          git config --global user.email "bot@github.com"
+          git add news.json
+          git commit -m "Auto update news" || exit 0
+          git push
