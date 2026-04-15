@@ -2,54 +2,170 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>KTR 트렌드 모니터링</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>뉴스수집기</title>
     <style>
-        :root { --bg: #ffffff; --text: #333333; --card: #f9f9f9; }
-        [data-theme='dark'] { --bg: #1a1a1a; --text: #f0f0f0; --card: #2d2d2d; }
-        body { background: var(--bg); color: var(--text); font-family: sans-serif; transition: 0.3s; margin: 0; }
-        header { display: flex; justify-content: space-between; padding: 20px; border-bottom: 1px solid #ccc; }
-        .container { display: flex; flex-direction: column; gap: 30px; padding: 20px; max-width: 1200px; margin: 0 auto; }
-        .column { width: 100%; }
-        .news-card { background: var(--card); padding: 15px; margin-bottom: 15px; border-radius: 8px; font-size: 0.9em; }
-        .news-card a { color: inherit; text-decoration: none; font-weight: bold; }
-        h2 { border-left: 5px solid #0056b3; padding-left: 10px; }
+        /* 기본 테마 변수 */
+        :root {
+            --bg: #ffffff; --text: #222; --card: #f8f9fa; --border: #ddd; --accent: #0056b3;
+        }
+        [data-theme='dark'] {
+            --bg: #121212; --text: #e0e0e0; --card: #1e1e1e; --border: #333; --accent: #4dabff;
+        }
+
+        /* 레이아웃 설정 */
+        body {
+            background: var(--bg); color: var(--text);
+            font-family: 'Malgun Gothic', sans-serif; margin: 0; transition: 0.3s;
+            height: 100vh; display: flex; flex-direction: column;
+        }
+
+        header {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 10px 25px; border-bottom: 1px solid var(--border);
+        }
+
+        h1 {
+            font-family: "Gungsuh", "궁서", serif; font-size: 1.8rem; margin: 0;
+        }
+
+        .theme-toggle {
+            cursor: pointer; font-size: 1.5rem; background: none; border: none; color: var(--text);
+        }
+
+        /* L자형 그리드 시스템 */
+        .main-container {
+            display: grid;
+            grid-template-columns: 400px 1fr;
+            grid-template-rows: 1fr 1fr;
+            gap: 15px; padding: 15px; flex-grow: 1; overflow: hidden;
+        }
+
+        .pane {
+            background: var(--card); border: 1px solid var(--border);
+            border-radius: 12px; display: flex; flex-direction: column; overflow: hidden;
+        }
+
+        /* 1번칸 (왼쪽 세로 전체 차지) */
+        .pane-1 { grid-row: 1 / span 2; }
+
+        .pane-header {
+            padding: 12px 15px; font-weight: bold; border-bottom: 1px solid var(--border);
+            display: flex; justify-content: space-between; align-items: center;
+            background: rgba(0,0,0,0.05);
+        }
+
+        /* 독립 스크롤 영역 */
+        .scroll-content {
+            flex-grow: 1; overflow-y: auto; padding: 10px;
+        }
+
+        /* 뉴스 카드 스타일 */
+        .news-item {
+            padding: 12px; border-bottom: 1px dotted var(--border);
+        }
+        .news-item:last-child { border-bottom: none; }
+        .news-item a { color: var(--accent); text-decoration: none; font-weight: bold; font-size: 1rem; }
+        .news-item p { font-size: 0.85rem; margin: 5px 0; color: #777; line-height: 1.4; }
+        .news-item span { font-size: 0.75rem; color: #999; }
+
+        /* 3번칸 키워드 탭 */
+        .tabs { display: flex; gap: 8px; margin-top: 5px; }
+        .tab-btn {
+            padding: 4px 10px; border-radius: 20px; border: 1px solid var(--accent);
+            background: none; color: var(--accent); cursor: pointer; font-size: 0.8rem;
+        }
+        .tab-btn.active { background: var(--accent); color: white; }
+
+        /* 스크롤바 커스텀 */
+        .scroll-content::-webkit-scrollbar { width: 6px; }
+        .scroll-content::-webkit-scrollbar-thumb { background: #888; border-radius: 10px; }
     </style>
 </head>
-<body>
+<body data-theme="light">
     <header>
-        <h1>프로젝트명: KTR 실시간 뉴스 봇</h1>
-        <button onclick="toggleTheme()">다크/라이트 모드</button>
+        <h1>뉴스수집기</h1>
+        <button class="theme-toggle" onclick="toggleTheme()" id="themeIcon">🌙</button>
     </header>
-    <div class="container">
-        <div class="column"><h2>주요 뉴스</h2><div id="major-news"></div></div>
-        <div class="column"><h2>산업부 소식</h2><div id="industry-news"></div></div>
-        <div class="column"><h2>트럼프 동향</h2><div id="trump-news"></div></div>
+
+    <div class="main-container">
+        <div class="pane pane-1">
+            <div class="pane-header">1. 속보 (최근 48시간)</div>
+            <div class="scroll-content" id="pane1-content">뉴스를 불러오는 중...</div>
+        </div>
+
+        <div class="pane">
+            <div class="pane-header">2. 부처/기관 소식 (최신순)</div>
+            <div class="scroll-content" id="pane2-content">뉴스를 불러오는 중...</div>
+        </div>
+
+        <div class="pane">
+            <div class="pane-header">
+                3. 키워드 모니터링
+                <div class="tabs" id="kw-tabs"></div>
+            </div>
+            <div class="scroll-content" id="pane3-content">키워드를 선택하세요.</div>
+        </div>
     </div>
 
     <script>
+        let allData = null;
+
         function toggleTheme() {
-            const current = document.body.getAttribute('data-theme');
-            document.body.setAttribute('data-theme', current === 'dark' ? 'light' : 'dark');
+            const body = document.body;
+            const icon = document.getElementById('themeIcon');
+            if (body.getAttribute('data-theme') === 'light') {
+                body.setAttribute('data-theme', 'dark');
+                icon.innerText = '☀️';
+            } else {
+                body.setAttribute('data-theme', 'light');
+                icon.innerText = '🌙';
+            }
         }
 
-        async function loadNews() {
-            const res = await fetch('news.json');
-            const data = await res.json();
-            renderSection('major-news', data.major);
-            renderSection('industry-news', data.industry);
-            renderSection('trump-news', data.trump);
+        async function init() {
+            try {
+                const res = await fetch('news.json');
+                allData = await res.json();
+                
+                renderNews('pane1-content', allData.pane1);
+                renderNews('pane2-content', allData.pane2);
+                
+                // 3번칸 초기화
+                const kwTabs = document.getElementById('kw-tabs');
+                const keywords = Object.keys(allData.pane3);
+                kwTabs.innerHTML = keywords.map((kw, i) => 
+                    `<button class="tab-btn ${i===0?'active':''}" onclick="switchKW('${kw}', this)">${kw}</button>`
+                ).join('');
+                switchKW(keywords[0], kwTabs.firstChild);
+                
+            } catch (e) {
+                document.querySelectorAll('.scroll-content').forEach(el => el.innerText = "데이터가 아직 없습니다. 깃허브 액션이 완료될 때까지 기다려주세요.");
+            }
         }
 
-        function renderSection(id, items) {
-            const div = document.getElementById(id);
-            div.innerHTML = items.map(item => `
-                <div class="news-card">
+        function renderNews(targetId, items) {
+            const container = document.getElementById(targetId);
+            if (!items || items.length === 0) {
+                container.innerHTML = "관련 뉴스가 없습니다.";
+                return;
+            }
+            container.innerHTML = items.map(item => `
+                <div class="news-item">
                     <a href="${item.link}" target="_blank">${item.title.replace(/<[^>]*>?/gm, '')}</a>
-                    <p>${item.description.replace(/<[^>]*>?/gm, '').substring(0, 100)}...</p>
+                    <p>${item.description.replace(/<[^>]*>?/gm, '')}</p>
+                    <span>${item.pubDate}</span>
                 </div>
             `).join('');
         }
-        loadNews();
+
+        function switchKW(kw, btn) {
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            renderNews('pane3-content', allData.pane3[kw]);
+        }
+
+        init();
     </script>
 </body>
 </html>
