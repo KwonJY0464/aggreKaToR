@@ -1,11 +1,786 @@
 {
-  "pane1": [],
+  "pane1": [
+    {
+      "title": "미세먼지 잡는 가로수 따로 있다…“수종 선택이 관건”",
+      "originallink": "http://www.lak.co.kr/news/boardview.php?id=22908",
+      "link": "http://www.lak.co.kr/news/boardview.php?id=22908",
+      "description": "산림과학<b>속보</b> ‘미세먼지를 줄이는 나무는?’ 표지(사진=산림청 제공) 미세먼지를 줄이기 위해서는 가로수 식재 단계에서부터 저감 효과가 높은 수종을 선택하는 것이 중요하다는 연구 결과가 나왔다. 산림청... ",
+      "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] SK하이닉스 사상 최고가 경신...삼성전자 21만 안착",
+      "originallink": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260415508&PRO_CODE=99",
+      "link": "https://n.news.naver.com/mnews/article/655/0000030617?sid=101",
+      "description": "미국과 이란 간 2차 협상이 열릴 것이라는 기대에 SK하이닉스가 또다시 사상최고가를 경신했습니다. 삼성전자 역시 2%대 오르며 '21만 전자'에 안착했습니다. 15일 한국거래소에 따르면 SK하이닉스는 전 거래일보다... ",
+      "pubDate": "Wed, 15 Apr 2026 17:38:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 여야, 오는 17일 본회의 열기로…&quot;정치개혁 법안 처리&quot;",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=837920",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=837920",
+      "description": "천준호 더불어민주당 원내운영수석부대표는 15일 국회의장 주재 여야 원내대표단 회동을 마친 뒤 기자들과 만나 &quot;여야는 오는 17일 금요일에 본회의를 열기로 했다&quot;며 &quot;본회의에서는 정치개혁과 관련된 내용을... ",
+      "pubDate": "Wed, 15 Apr 2026 17:36:00 +0900"
+    },
+    {
+      "title": "[AI로 길 찾는 증권가②] IR 끝나면 바로 뿌려지는 리포트, 리서치센터 ...",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=435797",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435797",
+      "description": "KB증권리서치본부는 2024년부터 생성형 AI를 활용해 작성한 'AI 실적<b>속보</b>'를 발간하고 있다. 기업설명회(IR)가 끝나는 즉시 AI가 실적발표 내용을 정리해 핵심 내용을 전달하는 것이 특징이다. 기존에는 애널리스트가 IR... ",
+      "pubDate": "Wed, 15 Apr 2026 17:30:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 대통령 지시 하루만에 칼 뺀 경찰… 삼립 '손가락 절단' 전담팀 ...",
+      "originallink": "https://www.kyeonggi.com/article/20260415580468",
+      "link": "https://n.news.naver.com/mnews/article/666/0000103427?sid=102",
+      "description": "상미당홀딩스(구 SPC그룹) 관계사인 삼립 시화공장에서 발생한 근로자 손가락 절단 사고와 관련해 경찰이 전담 수사팀을 편성하고 본격적인 수사에 나섰다. 시흥경찰서는 형사1과를 중심으로 8명 규모의 수사전담팀을... ",
+      "pubDate": "Wed, 15 Apr 2026 17:28:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 여야, 4월 17일 본회의 열기로…&quot;정치개혁 법안 처리&quot;",
+      "originallink": "https://news.tf.co.kr/read/ptoday/2313652.htm",
+      "link": "https://n.news.naver.com/mnews/article/629/0000491757?sid=100",
+      "description": "여야가 오는 17일 본회의를 열기로 했다. 천준호 더불어민주당 원내수석부대표는 15일 국회의장 주재 여야 원내대표단 회동을 마친 뒤 기자들과 만나 이같은 내용을 전하며 &quot;본회의에서 정치개혁과 관련된 내용을... ",
+      "pubDate": "Wed, 15 Apr 2026 17:27:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 여야 “4월 국회, 28일 종료…5월 국회, 6일부터 시작”",
+      "originallink": "https://www.mk.co.kr/article/12017875",
+      "link": "https://n.news.naver.com/mnews/article/024/0000104821?sid=102",
+      "description": "여야 “4월 국회, 28일 종료…5월 국회, 6일부터 시작”",
+      "pubDate": "Wed, 15 Apr 2026 17:27:00 +0900"
+    },
+    {
+      "title": "‘환경미화원 갑질·괴롭힘’···‘계엄령 놀이’ 양양 공무원 징역형",
+      "originallink": "https://www.kwnews.co.kr/page/view/2026041550128100000",
+      "link": "https://n.news.naver.com/mnews/article/087/0001187198?sid=102",
+      "description": "<b>속보</b>=환경미화원에 대한 갑질과 괴롭힘으로 법정에 선 양양군 7급 공무원(본보 지난 3월12일자 5면 등 보도)이 징역형을 선고받았다. 춘천지법 속초지원 형사1단독은 15일 양양군 소속 7급 운전직 공무원 40대 A씨의 강요... ",
+      "pubDate": "Wed, 15 Apr 2026 17:26:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 여야 “오는 17일 본회의 열기로…정치개혁법 처리 목표”",
+      "originallink": "https://www.mk.co.kr/article/12017871",
+      "link": "https://n.news.naver.com/mnews/article/009/0005666473?sid=100",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 17:25:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 여야 &quot;오는 17일 본회의 열기로…정치개혁법 처리 목표&quot;",
+      "originallink": "https://www.newsis.com/view/NISX20260415_0003592894",
+      "link": "https://n.news.naver.com/mnews/article/003/0013889957?sid=100",
+      "description": "후속기사가 이어집니다",
+      "pubDate": "Wed, 15 Apr 2026 17:22:00 +0900"
+    },
+    {
+      "title": "광주시 &quot;16일 경기체육대회 개회....오후 일부 교통통제&quot;",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3557976",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3557976",
+      "description": "<b>속보</b>(사진=국제뉴스DB) 경기 광주 일부 도로가 통제될 예정이다. 15일 광주시에 따르면 경기도체육대회 개회식으로 16일 오후 3~5시 쌍령회전교차로~양벌현대주유소앞삼거리 교통통제된다. 이에 우회도로 및... ",
+      "pubDate": "Wed, 15 Apr 2026 17:20:00 +0900"
+    },
+    {
+      "title": "[재난문자] 이천 대월면 공장서 화재...창문 닫기 당부",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3557973",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3557973",
+      "description": "119소방차, 화재, 소방, <b>속보</b> (사진=국제뉴스DB) 경기 이천에서 화재가 발생했다. 15일 이천시에 따르면 이날 오후 4시 37분 기준 대월면 사동리 80-1번지 공장에서 불이 났다. 이에 차량은 건물 주변 도로를 우회하고... ",
+      "pubDate": "Wed, 15 Apr 2026 17:18:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 여야, 오는 17일 국회 본회의 개최 합의…“정치개혁법안 등 처...",
+      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8536675&ref=A",
+      "link": "https://n.news.naver.com/mnews/article/056/0012162895?sid=100",
+      "description": "여야, 오는 17일 국회 본회의 개최 합의…“정치개혁법안 등 처리 예정”",
+      "pubDate": "Wed, 15 Apr 2026 17:16:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 여야 &quot;4월 17일 본회의 열기로…정치개혁법안 처리 목표&quot;",
+      "originallink": "https://www.news1.kr/politics/assembly/6137768",
+      "link": "https://n.news.naver.com/mnews/article/421/0008892035?sid=100",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 17:14:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 여야 &quot;4월 국회, 28일에 종료…5월 국회, 6일부터 시작&quot;",
+      "originallink": "https://www.news1.kr/politics/assembly/6137776",
+      "link": "https://n.news.naver.com/mnews/article/421/0008892036?sid=100",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 17:14:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 펄어비스 '붉은사막', 전세계 500만장 판매 돌파",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=255626",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=255626",
+      "description": "펄어비스가 '붉은사막(Crimson Desert)'의 글로벌 누적 판매량이 500만 장을 달성했다고 15일 밝혔다.",
+      "pubDate": "Wed, 15 Apr 2026 17:06:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 에이프로젠, 파멥신과 면역항암제 기술도입 계약 해지 공시",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=568063",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568063",
+      "description": "자료사진. AI가 생성한 이미지. 에이프로젠이 파멥신과 체결했던 면역항암제 기술도입 계약을 해지했다. 에이프로젠은 15일 공시를 통해 &quot;2025년 8월 18일 체결한 독점실시권 라이선스 계약(기술도입 계약)을... ",
+      "pubDate": "Wed, 15 Apr 2026 17:04:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 이천 대월면 공장 화재…주변 도로 통제·인근 주택 창문 폐쇄 권...",
+      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=863731",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=863731",
+      "description": "경기 이천시 대월면 공장에서 화재가 발생해 주변 지역에 긴급 안내가 내려졌다. 차량 통행과 주민 생활에 직접적인 영향이 이어지는 상황이다. 이천시에 따르면 15일 오후 4시 37분께 대월면 사동리 80-1번지 공장에서... ",
+      "pubDate": "Wed, 15 Apr 2026 17:02:00 +0900"
+    },
+    {
+      "title": "강원소방, 춘천 대곡리 화재 계기 오지마을 맞춤형 소방안전 대책 추진",
+      "originallink": "https://www.kado.net/news/articleView.html?idxno=2044861",
+      "link": "https://n.news.naver.com/mnews/article/654/0000175864?sid=102",
+      "description": "<b>속보</b>=소방차 진입이 불가능한 내수면 오지마을에서 불이 나 주택 1채가 전소되는 피해가 발생하자 춘천시와 춘천소방서가 화재 대응체계 보완(본지 2월 11일자 10면 등)에 나선 데 이어, 강원소방본부도 맞춤형... ",
+      "pubDate": "Wed, 15 Apr 2026 16:47:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 靑 &quot;국힘, 조폭설 악의적 허위로 민주주의 근간 선거제 왜곡&quot;",
+      "originallink": "https://www.news1.kr/politics/president/6137691",
+      "link": "https://n.news.naver.com/mnews/article/421/0008891951?sid=100",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 16:40:00 +0900"
+    },
+    {
+      "title": "트럼프 &quot;전쟁 곧 끝나&quot;...'이슬라마바드 2차 회동' 급물살",
+      "originallink": "https://www.ytn.co.kr/_ln/0104_202604151637385461",
+      "link": "https://n.news.naver.com/mnews/article/052/0002341243?sid=104",
+      "description": "조금 전에 <b>속보</b>가 들어왔는데요. 파키스탄 총리가 출국을 했다고 합니다. 그런데 오는 18일까지 사우디 등을 방문할 예정이라고 합니다. 이렇게 된다면 파키스탄에서 2차 협상 이번 주 내에 개최될 가능성은 낮아진 것... ",
+      "pubDate": "Wed, 15 Apr 2026 16:37:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>]트럼프 &quot;전쟁 곧 끝나간다. 종료에 근접&quot;…'美·이란 2차 회동' 급...",
+      "originallink": "https://www.ikbc.co.kr/article/view/kbc202604150035",
+      "link": "https://n.news.naver.com/mnews/article/660/0000107455?sid=104",
+      "description": "미국과 이란이 첫 종전 협상이 무산된 지 수일 만에 2차 대면하는 가능성을 열어두고 물밑 접촉을 이어가고 있습니다. 지난 1차 협상이 소득 없이 마무리된 가운데, 휴전 만료 시한을 앞둔 이번 주 후반이 최악의 파국을... ",
+      "pubDate": "Wed, 15 Apr 2026 16:31:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 정부, 쉰들러 ISDS 소송비용 96억 전액 환수…역대 최대 규모",
+      "originallink": "https://www.segye.com/newsView/20260415520041?OutUrl=naver",
+      "link": "https://n.news.naver.com/mnews/article/022/0004121095?sid=100",
+      "description": "스위스 승강기 업체 쉰들러 홀딩 아게(Schindler Holding AG) 국제 분쟁에서 승소한 정부가 선고 약 한 달 만에 소송비용 96억원을 전액 돌려받았다. 지난달 14일 정성호 법무부 장관이 서울 종로구 정부서울청사에서... ",
+      "pubDate": "Wed, 15 Apr 2026 16:29:00 +0900"
+    },
+    {
+      "title": "영동군, 수의계약 의혹과 관련 해명",
+      "originallink": "http://www.dynews.co.kr/news/articleView.html?idxno=846870",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=846870",
+      "description": "<b>속보</b>= 영동군이 '일부 업체 밀어주기 계약'과 관련 '올해 사업발주 물량이 시작되는 시점에서 단순히 1분기 수의계약 건을 기준으로 평가해 전체 수의계약이 잘못된 것처럼 단정 짓는 것은 맞지 않는다'고 해명했다.... ",
+      "pubDate": "Wed, 15 Apr 2026 16:24:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>]코스피 '6,000p 재돌파' 6,091.39 마감... SK하이닉스 113만 고지 '...",
+      "originallink": "https://www.ikbc.co.kr/article/view/kbc202604150039",
+      "link": "https://n.news.naver.com/mnews/article/660/0000107454?sid=101",
+      "description": "미국과 이란의 2차 협상이 기정사실화 하면서 코스피 지수가 이틀 연속 급등했습니다. 15일 코스피 지수는 전장보다 123.64포인트(2.07%) 상승한 6,091.39로 마감했습니다. 코스피 초반 상승 강세는 전날보다... ",
+      "pubDate": "Wed, 15 Apr 2026 16:22:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>]검찰, 보완수사로 독거노인 폭행 조현병 환자 '살인미수' 혐의 구...",
+      "originallink": "http://www.edaily.co.kr/news/newspath.asp?newsid=04493606645416448",
+      "link": "https://n.news.naver.com/mnews/article/018/0006257961?sid=102",
+      "description": "검찰이 혼자 사는 85세 노인을 잔혹하게 폭행해 늑골 16개를 골절시킨 조현병 환자를 보완수사를 통해 살인미수 혐의로 구속 기소했다. 서울중앙지검 전경. (사진=백주아 기자) 서울중앙지검 형사제1부(부장검사 신도욱)는... ",
+      "pubDate": "Wed, 15 Apr 2026 16:22:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 은평구 신사동서 70대 운전 건설장비, 무인편의점 돌진…운전자...",
+      "originallink": "https://www.dt.co.kr/article/12057614?ref=naver",
+      "link": "https://n.news.naver.com/mnews/article/029/0003021860?sid=102",
+      "description": "15일 오전 서울 은평구 신사동에서 70대가 운전하던 건설장비 로드롤러가 무인 편의점으로 돌진하는 사고가 발생했다. 해당 사고로 70대 남성 운전자가 다쳐 병원으로 이송됐고, 가게 일부가 파손됐다. 이 운전자는 인근... ",
+      "pubDate": "Wed, 15 Apr 2026 16:15:00 +0900"
+    },
+    {
+      "title": "세종 북부권 유일 '홈플' 휴업… &quot;장보러 신도시까지 가라고요?&quot;",
+      "originallink": "https://www.joongdo.co.kr/web/view.php?key=20260415010004751",
+      "link": "https://www.joongdo.co.kr/web/view.php?key=20260415010004751",
+      "description": "&lt;<b>속보</b>&gt;=세종시 홈플러스 조치원점이 15일 휴업에 들어갔다. 북부권 유일의 대형 종합 쇼핑공간으로서 20년 가까이 읍·면 지역을 지켜왔지만, 기업 회생절차의 여파를 피해가진 못했다. 특히 조치원 인근엔 대체할... ",
+      "pubDate": "Wed, 15 Apr 2026 16:14:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>] 동두천역 인근 산업단지 공장 화재 발생",
+      "originallink": "https://www.etoday.co.kr/news/view/2576067",
+      "link": "https://www.etoday.co.kr/news/view/2576067",
+      "description": "이투데이=기정아 기자 | 안전재난문자 발송…“차량 우회·주민 대피” 경기 동두천시 산업단지 내 공장에서 화재가 발생해 당국이 대응에 나섰다. 수도권 1호선 지하철 동두천역 인근이다. 동두천시는 15일 오후 3시... ",
+      "pubDate": "Wed, 15 Apr 2026 16:00:00 +0900"
+    },
+    {
+      "title": "[<b>속보</b>]국민의힘 곽규택 &quot;돌아오라, 한동훈&quot; , 복당 후 단일화 제안",
+      "originallink": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260415.99099004409",
+      "link": "https://n.news.naver.com/mnews/article/658/0000141135?sid=100",
+      "description": "국민의힘 곽규택 의원(부산 서·동)은 15일 국민의힘에서 제명된 한동훈 전 대표에 대해 “지금이 복당해야 할 시점”이라고 말했다. 당 원내수석대변인이자 공천관리위원회 당연직 위원을 맡은 지도부 일원인 곽 의원은... ",
+      "pubDate": "Wed, 15 Apr 2026 15:56:00 +0900"
+    }
+  ],
   "pane2": [],
   "pane3": {
-    "호르무즈": [],
-    "트럼프": [],
-    "유가": [],
-    "코스피": []
+    "호르무즈": [
+      {
+        "title": "정부 &quot;이란에 대가 지불할 계획 없어... 한국 선박 정보, 걸프국·미국에...",
+        "originallink": "https://www.hankookilbo.com/news/article/A2026041516150003443?did=NA",
+        "link": "https://n.news.naver.com/mnews/article/469/0000925654?sid=100",
+        "description": "정부가 <b>호르무즈</b>해협에 발이 묶인 한국 선박 26척을 빼내기 위해 이란에 통행료를 지불할 계획이 없다고 15일... 이란과 미국이 <b>호르무즈</b>해협 통제권을 두고 봉쇄와 역봉쇄를 이어가면서 한국 선박 26척과 한국인 선원 170여... ",
+        "pubDate": "Wed, 15 Apr 2026 17:46:00 +0900"
+      },
+      {
+        "title": "종전 기대에 코스피 6100선 회복…환율 하락 '금융시장 안정'",
+        "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=285915",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=285915",
+        "description": "<b>호르무즈</b> 해협 봉쇄 우려가 완화되면서 위험자산 선호 심리가 회복됐고, 외국인은 전날 9164억원 순매수에 이어 이날도 5523억원을 추가로 사들이며 증시 상승을 견인했다. 도널드 트럼프 미국 대통령의 발언도 시장... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "위기 때 빛난 인도의 에너지 도입 “몇 달치 확보”",
+        "originallink": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=99394",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=99394",
+        "description": "▲<b>호르무즈</b> 해협 통과한 후 인도 뭄바이항에 도착한 LPG 운반선[로이터 연합뉴스 자료사진]●이란서 루피화... 인도가 필요로 하는 원유와 액화석유가스(LPG)의 절반가량이 <b>호르무즈</b> 해협을 통과한다.실제로 로이터... ",
+        "pubDate": "Wed, 15 Apr 2026 17:42:00 +0900"
+      },
+      {
+        "title": "한미일 해군 수뇌부 “북핵 위협 대응 논의”",
+        "originallink": "https://www.chosun.com/politics/diplomacy-defense/2026/04/15/COH7NIWXOVDD7H6BHPJV5TDB2I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "link": "https://n.news.naver.com/mnews/article/023/0003971029?sid=100",
+        "description": "하지만 미국이 <b>호르무즈</b> 해협을 중심으로 대(對)이란 해상봉쇄 군사작전을 진행 중인 시점에 이뤄지는 3국 해군 수뇌부 회담인 만큼, 관련 논의가 이뤄질 가능성도 있다. 만찬 회동에 앞서 한미, 한일 간 양자 대담이... ",
+        "pubDate": "Wed, 15 Apr 2026 17:42:00 +0900"
+      },
+      {
+        "title": "“<b>호르무즈</b> 외부 석유저장시설…산유국과 구축 논의”",
+        "originallink": "https://www.sedaily.com/article/20032948?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/011/0004611079?sid=100",
+        "description": "이에 산업계에서는 강 실장이 산유국들과 외부 석유 저장 시설 구축 등 <b>호르무즈</b>해협 봉쇄로 인한 근본적... 이어 “(이번 방문에서) 산유국들과 <b>호르무즈</b>해협 봉쇄로 인한 리스크를 근본적으로 해소하기 위해 여러 분야의... ",
+        "pubDate": "Wed, 15 Apr 2026 17:41:00 +0900"
+      },
+      {
+        "title": "한미일 해군 수뇌부, 서울서 회동…&quot;북핵 위협 대응 논의&quot;",
+        "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519690&plink=ORI&cooper=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/055/0001348832?sid=100",
+        "description": "중동 정세는 공식 의제에 포함되지 않았지만, 미국이 <b>호르무즈</b> 해협을 중심으로 대(對)이란 해상봉쇄 군사작전을 진행 중인 시점에 이뤄지는 3국 해군 수뇌부 회담인 만큼, 관련 논의가 이뤄질 가능성도 있습니다. 만찬... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "강훈식 비서실장 &quot;원유 2억7300만배럴 도입 확정…나프타 210만t도 확보&quot;",
+        "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=867860",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=867860",
+        "description": "그는 &quot;이번에 확보한 원유와 나프타는 <b>호르무즈</b> 해협 봉쇄와 무관한 대체 공급선에서 도입될 예정&quot;이라며... 만나 <b>호르무즈</b> 해협에 있는 한국 선박 26척의 안전한 통과를 위해 지원을 해달라고 요청했고 &quot;적극 협조하겠다... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "비중동 원유 운임 차액 보전…나프타 수입 비용 지원",
+        "originallink": "http://www.4th.kr/news/articleView.html?idxno=2110508",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2110508",
+        "description": "비서실장은 올해 말까지 원유 2억7300만 배럴 도입을 확정했다고 이날 밝혔다. 나프타 역시 최대 210만톤을 추가로 확보했다는 설명이다. 해당 물량은 <b>호르무즈</b> 해협 영향을 받지 않는 대체 공급선을 통해 도입될 예정이다.",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "조현, 선박 통항 관련 &quot;이란에 대가 지불할 계획 없어&quot;",
+        "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519685&plink=ORI&cooper=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/055/0001348827?sid=100",
+        "description": "조현 외교부 장관은 15일 <b>호르무즈</b> 해협에 발이 묶인 한국 관련 선박의 통항과 관련, &quot;현재로서는 이란에... 그는 <b>호르무즈</b> 해협에서 못 나오고 있는 한국 관련 선박 26척의 안전을 위해 관련 정보를 여러 국가에... ",
+        "pubDate": "Wed, 15 Apr 2026 17:35:00 +0900"
+      },
+      {
+        "title": "강훈식 &quot;원유 2억7천300만배럴 도입 확정…나프타 210만톤 확보&quot;",
+        "originallink": "https://www.kbsm.net/news/view.php?idx=516156",
+        "link": "https://www.kbsm.net/news/view.php?idx=516156",
+        "description": "그는 &quot;이번에 확보한 원유와 나프타는 <b>호르무즈</b> 해협 봉쇄와 무관한 대체 공급선에서 도입될 예정&quot;이라며... 만나 <b>호르무즈</b> 해협에 있는 한국 선박 26척의 안전한 통과를 위해 지원을 해달라고 요청했고 &quot;적극 협조하겠다... ",
+        "pubDate": "Wed, 15 Apr 2026 17:34:00 +0900"
+      },
+      {
+        "title": "산업부 &quot;6월까지 비중동 대체 원유 운임차액 전액 보전&quot;",
+        "originallink": "https://www.ytn.co.kr/_ln/0102_202604151734239726",
+        "link": "https://n.news.naver.com/mnews/article/052/0002341279?sid=101",
+        "description": "정부는 정유사가 <b>호르무즈</b> 해협을 피해 더 먼 곳에서 대체 원유를 확보했을 때 추가 부담해야 하는 운임 차액을 전액 보전해주기로 했습니다. 산업통상부는 오늘(15일) 석탄회관에서 김정관 장관은 정유, 석유화학... ",
+        "pubDate": "Wed, 15 Apr 2026 17:34:00 +0900"
+      },
+      {
+        "title": "'이란 사태' 원유·나프타 비상…산업부 김정관 &quot;공급선 다변화·대체 물...",
+        "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011703",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011703",
+        "description": "중동 지역은 최근 미국과 이란 간 단기간 휴전으로 일시적 긴장 완화 국면에 들어갔지만 <b>호르무즈</b> 해협 통항 여부와 해상 운송 불확실성은 여전히 남아있는 상황이다. 특히 국내 원유 도입의 69%, 나프타 도입의 73%를... ",
+        "pubDate": "Wed, 15 Apr 2026 17:34:00 +0900"
+      },
+      {
+        "title": "대통령 특사단, 원유 2억 7300만 배럴·나프타 210만 톤 확보",
+        "originallink": "https://www.korea.kr/news/policyNewsView.do?newsId=148962757&call_from=naver_news",
+        "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148962757&call_from=naver_news",
+        "description": "이어 &quot;특히 원유·나프타는 <b>호르무즈</b> 봉쇄와 무관하게 대체 공급선으로 도입할 예정이기 때문에, 국내 수급... 강 비서실장은 오만 방문 성과에 대해 &quot;우리 측은 <b>호르무즈</b> 해협 안쪽에 정박중인 우리 국적 선박 26척이... ",
+        "pubDate": "Wed, 15 Apr 2026 17:34:00 +0900"
+      },
+      {
+        "title": "포스코이앤씨 시행사에 '이란전쟁 리스크' 공지, 공사비 상승 우려 커져",
+        "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=435813",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435813",
+        "description": "또한 &quot;자재 협력사는 국제유가 및 환율 급등, 운송비 증가, <b>호르무즈</b> 해협 봉쇄 등으로 나프타 등 주요 원자재 수급에 어려움을 호소하고 있어 주요 자재 단가를 인상할 예정이라고 전달했다&quot;고 설명했다. 이어... ",
+        "pubDate": "Wed, 15 Apr 2026 17:34:00 +0900"
+      },
+      {
+        "title": "“원유 2억7300만 배럴 도입… 나프타 210만 톤 추가 확보”",
+        "originallink": "https://kookbang.dema.mil.kr/newsWeb/20260416/6/ATCE_CTGR_0030010000/view.do",
+        "link": "https://kookbang.dema.mil.kr/newsWeb/20260416/6/ATCE_CTGR_0030010000/view.do",
+        "description": "강 실장은 이어 “이 물량은 지난해 기준으로 별도 비상조치 없이 경제가 정상 운영되는 상황에서 석 달 이상 사용할 수 있는 규모”라며 “특히 이번에 확보한 원유와 나프타는 <b>호르무즈</b> 봉쇄와는 무관한 대체... ",
+        "pubDate": "Wed, 15 Apr 2026 17:32:00 +0900"
+      },
+      {
+        "title": "한미일 해군 수뇌부 서울 회동‥미국엔 '핵잠 노하우' 전수 당부",
+        "originallink": "https://imnews.imbc.com/news/2026/politics/article/6815486_36911.html",
+        "link": "https://n.news.naver.com/mnews/article/214/0001493068?sid=100",
+        "description": "중동 사태는 공식 의제에 포함되지 않았지만, 미국이 <b>호르무즈</b> 해협을 중심으로 대이란 '역봉쇄' 군사작전을 진행 중인 만큼 관련 논의가 이뤄질 가능성도 있습니다. 만찬 회동에 앞서 열린 한미 양자대담에선 함정... ",
+        "pubDate": "Wed, 15 Apr 2026 17:31:00 +0900"
+      },
+      {
+        "title": "알고리즘의 시대, 왜 서민경제가 먼저 흔들리나[남영동에서]",
+        "originallink": "https://www.newsway.co.kr/news/view?ud=2026041516423112600",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026041516423112600",
+        "description": "<b>호르무즈</b>를 둘러싼 공급 충격에 유가가 뛰면 물류비가 오르고, 물류비가 오르면 원자재와 식료품 가격이 흔들린다. 한 번 흔들린 공급망은 의지만으로 되돌릴 수 없다. 다시 안정되는 데 드는 건 시간보다 돈이고, 그... ",
+        "pubDate": "Wed, 15 Apr 2026 17:30:00 +0900"
+      },
+      {
+        "title": "강훈식 비서실장 “원유 2.7억배럴 도입 확정…3개월분 수급 숨통”",
+        "originallink": "https://www.tfmedia.co.kr/news/article.html?no=203746",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=203746",
+        "description": "대통령 특사 중동 4개국 방문 성과…나프타 210만톤 추가 확보 <b>호르무즈</b> 봉쇄 무관 ‘대체선’ 뚫었다…“돈... ◇ ‘<b>호르무즈</b> 리스크’ 우회…사우디·오만서 대체선 확보 이번 특사 활동의 최대 성과는 지정학적... ",
+        "pubDate": "Wed, 15 Apr 2026 17:28:00 +0900"
+      },
+      {
+        "title": "중동 쇼크에 '수입물가 16%↑'…외환위기 이후 최대폭",
+        "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1297980&inflow=N",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1297980&inflow=N",
+        "description": "지난달 수출입물가가 증가한 배경에는 중동 전쟁으로 <b>호르무즈</b> 해협의 통행이 중단되면서 석유류 공급... 산업부는 &quot;중동의 경우 <b>호르무즈</b> 해협 봉쇄 등으로 물류에 일부 차질이 빚어지고 있는 데다, 아시아에서는... ",
+        "pubDate": "Wed, 15 Apr 2026 17:28:00 +0900"
+      },
+      {
+        "title": "[포토] 오만 연안 <b>호르무즈</b> 해협 위의 선박",
+        "originallink": "https://www.news1.kr/photos/7856635",
+        "link": "https://n.news.naver.com/mnews/article/421/0008892062?sid=104",
+        "description": "12일(현지시간) 오만 무산담 주 해안 인근 <b>호르무즈</b> 해협의 선박 모습. 2026.04.12. ⓒ 로이터=뉴스1",
+        "pubDate": "Wed, 15 Apr 2026 17:27:00 +0900"
+      }
+    ],
+    "트럼프": [
+      {
+        "title": "<b>트럼프</b> &quot;미·이란 전쟁 종결 임박&quot;…이스라바마드 협상 재개 가능성 시...",
+        "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=133872",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=133872",
+        "description": "도널드 <b>트럼프</b> 대통령. 사진=백악관 도널드 <b>트럼프</b> 미국 대통령이 미국과 이란 간 군사 충돌이 사실상 종결 단계에 접어들고 있다는 인식을 밝히며, 조만간 협상이 재개될 가능성을 언급했다. 교착 상태에 빠졌던 양국... ",
+        "pubDate": "Wed, 15 Apr 2026 17:46:00 +0900"
+      },
+      {
+        "title": "&quot;스테이블코인 사업, NFT 전철 피해야&quot; 리서치·컨설팅 진단은",
+        "originallink": "https://www.mt.co.kr/stock/2026/04/15/2026041517382113279",
+        "link": "https://n.news.naver.com/mnews/article/008/0005344777?sid=101",
+        "description": "지난해 들어선 미국 <b>트럼프</b> 2기 행정부가 각종 입법을 추진하면서 스테이블코인·실물토큰화자산(RWA)·토큰증권(STO) 사업이 활성화하는 추세다. 윤 이사는 &quot;나이키·아디다스 등 여러 기업이 NFT를 중심으로 신사업을... ",
+        "pubDate": "Wed, 15 Apr 2026 17:45:00 +0900"
+      },
+      {
+        "title": "종전 기대에 코스피 6100선 회복…환율 하락 '금융시장 안정'",
+        "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=285915",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=285915",
+        "description": "도널드 <b>트럼프</b> 미국 대통령의 발언도 시장 기대를 키웠다. 그는 인터뷰에서 &quot;이틀 안에 중요한 진전이 있을 수 있다&quot;고 언급한 데 이어 &quot;전쟁이 거의 끝난 것 같다&quot;고 밝히며 협상 타결 가능성을 시사했다.... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "미 검찰, 연준 본부 '급습'…파월 의장 옥죄기 최고조",
+        "originallink": "https://www.news1.kr/world/usa-canada/6137818",
+        "link": "https://n.news.naver.com/mnews/article/421/0008892091?sid=104",
+        "description": "이번 방문은 표면적으로 연준 청사 신축 공사비 증액 문제를 명분으로 내세웠으나, 사실상 도널드 <b>트럼프</b>... 이번 수사는 <b>트럼프</b> 대통령이 지명한 케빈 워시 차기 연준 의장 후보자의 인준 절차에도 영향을 미치고 있다. 톰... ",
+        "pubDate": "Wed, 15 Apr 2026 17:43:00 +0900"
+      },
+      {
+        "title": "<b>트럼프</b> 행정부 종교자유위, 최종 청문회 개최",
+        "originallink": "https://www.christiantoday.co.kr/news/374563",
+        "link": "https://www.christiantoday.co.kr/news/374563",
+        "description": "그의 연설 뒤 패트릭 부지사는 “위원회를 구성할 당시 도널드 <b>트럼프</b>(Donald Trump) 대통령과 서로 다른 신앙을 존중하는 문제를 논의했으며, 극단적 세속주의는 모든 종교의 공통된 적”이라고 말했다. 그는 “세속주의... ",
+        "pubDate": "Wed, 15 Apr 2026 17:42:00 +0900"
+      },
+      {
+        "title": "미 IRS, 디지털 자산 새 보고 기준 공식 시행",
+        "originallink": "https://www.tokenpost.kr/news/breaking/349812",
+        "link": "https://www.tokenpost.kr/news/breaking/349812",
+        "description": "앞서 <b>트럼프</b> 행정부는 유니스왑과 같은 프런트엔드 서비스 제공업체를 보고 대상에 포함했던 이른바 '디파이 브로커' 지정은 폐지했다. 다만 IRS는 온체인 활동에 대한 포렌식 감사를 강화할 방침이며, 보고 요건을... ",
+        "pubDate": "Wed, 15 Apr 2026 17:42:00 +0900"
+      },
+      {
+        "title": "'레바논은 휴전 무관' 공식화…이스라엘-헤즈볼라 전쟁 종식 난망",
+        "originallink": "https://www.newsis.com/view/NISX20260415_0003592498",
+        "link": "https://n.news.naver.com/mnews/article/003/0013889996?sid=104",
+        "description": "월스트리트저널(WSJ)에 따르면 도널드 <b>트럼프</b> 대통령조차 처음에는 이에 동의했던 것으로 알려진다. 그러나... 베냐민 네타냐후 이스라엘 총리가 주창하고 <b>트럼프</b> 행정부가 수용한 레바논 공격 지속을 레바논 정부도... ",
+        "pubDate": "Wed, 15 Apr 2026 17:41:00 +0900"
+      },
+      {
+        "title": "1년에 한 번 꼴 중국 방문… 스페인 총리의 ‘마이웨이’",
+        "originallink": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=99393",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=99393",
+        "description": "도널드 <b>트럼프</b> 미국 대통령과 대립각을 세워온 페드로 산체스 스페인 총리가 4월 13일부터 16일까지 중국을... 특히 미국이 이런 여러 전선에서 물러나기로 결정한 상황에서는 더욱 그렇다”면서 <b>트럼프</b> 2기 정부 출범 이후... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "美 재무부, 은행 고객 ‘국적 확인’ 의무화 추진",
+        "originallink": "https://www.g-enews.com/view.php?ud=2026041517364229819a1f309431_1",
+        "link": "https://www.g-enews.com/view.php?ud=2026041517364229819a1f309431_1",
+        "description": "도널드 <b>트럼프</b> 미국 행정부가 은행 고객의 국적 정보를 의무적으로 수집하도록 하는 행정명령을 추진 중인... 이번 조치는 여권 등 시민권 증빙 서류 제출을 은행 이용 과정에서 요구하는 방안으로 도널드 <b>트럼프</b> 미국... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "[자막뉴스] &quot;왕권이 교황권 압도&quot; 초유의 압박…&quot;선 넘었다&quot; 전통 지지층...",
+        "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519515&plink=ORI&cooper=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/055/0001348833?sid=104",
+        "description": "<b>트럼프</b> 미국 대통령과 갈등을 빚은 교황 레오 14세가 이번에는 '사이비 민주주의'를 언급하며 <b>트럼프</b> 미국 정부에 대한 우회 비판에 나섰습니다. 로이터 통신에 따르면 레오 14세 교황은 현지시간 어제(14일) 교황청이 발행한... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "[속보] SK하이닉스 사상 최고가 경신...삼성전자 21만 안착",
+        "originallink": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260415508&PRO_CODE=99",
+        "link": "https://n.news.naver.com/mnews/article/655/0000030617?sid=101",
+        "description": "도널드 <b>트럼프</b> 미국 대통령은 14일(현지시간) 뉴욕포스트 기자와의 통화에서 &quot;이틀 안에 무슨 일이 벌어질 수 있다&quot;며 추가 회담 가능성을 시사한 상황입니다. 미 노동부 노동통계국이 발표한 3월 생산자물가지수... ",
+        "pubDate": "Wed, 15 Apr 2026 17:38:00 +0900"
+      },
+      {
+        "title": "<b>트럼프</b>, 멜로니 총리와 결별하나…&quot;전쟁에서 우리 안 도와줘&quot;",
+        "originallink": "https://www.sidae.com/article/2026041517342681905",
+        "link": "https://n.news.naver.com/mnews/article/417/0001139174?sid=104",
+        "description": "도널드 <b>트럼프</b> 미국 대통령이 레오 14세 교황을 두둔한 조르자 멜로니 이탈리아 총리를 비판했다. <b>트럼프</b> 대통령은 지난 14일(이하 현지시각) 이탈리아 매체 '코리에레 델라 세라'와의 전화 인터뷰에서 &quot;저는 그에게 충격을... ",
+        "pubDate": "Wed, 15 Apr 2026 17:38:00 +0900"
+      },
+      {
+        "title": "[특징주] 건설주 급등…종전 기대에 재건 테마 재점화&quot;",
+        "originallink": "http://www.4th.kr/news/articleView.html?idxno=2110511",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2110511",
+        "description": "도널드 <b>트럼프</b> 대통령 역시 &quot;이틀 안에 무언가 일어날 수 있다&quot;고 언급하며 기대감을 키웠다. 시장에서는 종전 이후 재건 수요가 빠르게 현실화될 것으로 보고 있다. 전쟁 여파로 지연됐던 정유·가스 플랜트, 도로... ",
+        "pubDate": "Wed, 15 Apr 2026 17:38:00 +0900"
+      },
+      {
+        "title": "미국, ‘상호 관세 위법’ 판결에 1660억달러 환급…20일부터",
+        "originallink": "https://www.hani.co.kr/arti/international/america/1254368.html",
+        "link": "https://n.news.naver.com/mnews/article/028/0002800915?sid=104",
+        "description": "이번 관세 환급 시스템 가동은 지난 2월20일 미국 대법원이 <b>트럼프</b> 행정부가 1977년 제정된 국제비상경제권한법(IEEPA)을 근거로 이른바 ‘상호관세’를 부과한 것은 위법하다고 판결한 데 따른 것이다. 법원 제출 서류에... ",
+        "pubDate": "Wed, 15 Apr 2026 17:36:00 +0900"
+      },
+      {
+        "title": "헝가리 정권교체에… EU “앓던 이가 빠졌다” 반응",
+        "originallink": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=99392",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=99392",
+        "description": "이에 따라 2010년 집권 이후 ‘유럽의 <b>트럼프</b>’로 불리며 러시아와 각별하게 밀착해온 오르반 총리도 16년... 그린란드 강제 병합 논란, 이란 전쟁 등을 거치면서 나토와 관계 재정립을 공언한 <b>트럼프</b> 대통령으로서도... ",
+        "pubDate": "Wed, 15 Apr 2026 17:36:00 +0900"
+      },
+      {
+        "title": "中, 미-이란 추가 회담 재개 기류에 &quot;휴전 기여 모든 노력 환영&quot;",
+        "originallink": "https://www.news1.kr/world/northeast-asia/6137806",
+        "link": "https://n.news.naver.com/mnews/article/421/0008892080?sid=104",
+        "description": "정은지 특파원 = 중국은 도널드 <b>트럼프</b> 미국 대통령이 이틀 내에 파키스탄에서 이란과 회담이 열릴 것이라고... 궈 대변인은 &quot;<b>트럼프</b> 대통령의 중국 방문에 대해선 양측은 소통을 유지하고 있다&quot;고 부연했다. 베선트 장관이... ",
+        "pubDate": "Wed, 15 Apr 2026 17:36:00 +0900"
+      },
+      {
+        "title": "코스피, 6000선 안착…외국인 매수에 2% 상승 마감",
+        "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=234762",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=234762",
+        "description": "도널드 <b>트럼프</b> 대통령이 추가 회담 가능성을 시사하면서 중동 긴장 완화 기대가 확산됐고 이에 따라 위험자산 선호 심리가 회복됐다. 여기에 미국 물가 지표 둔화로 인플레이션 우려가 완화된 점도 투자심리를... ",
+        "pubDate": "Wed, 15 Apr 2026 17:36:00 +0900"
+      },
+      {
+        "title": "'종전 시그널' 켜지자 증시 회복세…코스피 '6000 고지' 밟았다",
+        "originallink": "https://www.hankyung.com/article/2026041534131",
+        "link": "https://n.news.naver.com/mnews/article/015/0005275390?sid=101",
+        "description": "이날 도널드 <b>트럼프</b> 미국 대통령은 “이란과의 전쟁이 끝나간다”고 언급했고, 이스라엘과 레바논의 휴전 협상도 진행됐다. 이경민 대신증권 연구원은 “미국과 이란의 2차 종전 협상 기대가 커지면서... ",
+        "pubDate": "Wed, 15 Apr 2026 17:34:00 +0900"
+      },
+      {
+        "title": "라인하트 &quot;달러, 도전 직면…위안화 대안 안 돼&quot; [GFC 2026]",
+        "originallink": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604140332&t=NNv",
+        "link": "https://n.news.naver.com/mnews/article/215/0001249131?sid=101",
+        "description": "&lt;기자&gt; <b>트럼프</b> 2기 출범으로 다시 불 붙은 미중 무역갈등은 통화 패권 경쟁으로 번져가는 중입니다. 각국 중앙은행들은 통상 불확실성에 금을 사들이고 있고, 디지털화폐 실험과 스테이블코인의 확산까지, 이른바 80년... ",
+        "pubDate": "Wed, 15 Apr 2026 17:33:00 +0900"
+      },
+      {
+        "title": "&quot;후보들 피눈물, 당대표는 화보&quot;…장동혁, 방미 '인증샷' 비판 쏟아져",
+        "originallink": "https://news.jtbc.co.kr/article/NB12294355?influxDiv=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/437/0000487526?sid=100",
+        "description": "장 대표는 소셜미디어를 통해 &quot;<b>트럼프</b> 측 핵심 싱크탱크와 만나 신 안보전략을 논의했다&quot;며 방미 성과를 강조했습니다. &quot;한미동맹을 더욱 튼튼히 하겠다&quot;며 글로벌 중추 국가로의 도약이라는 명분도 내걸었습니다. 하지만... ",
+        "pubDate": "Wed, 15 Apr 2026 17:32:00 +0900"
+      }
+    ],
+    "유가": [
+      {
+        "title": "여야 인천시장 후보, '확실한 한 표' 위한 텃밭 다지기 열중",
+        "originallink": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3019814",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3019814",
+        "description": "이번 방문은 중동 정세 불안에 따른 고<b>유가</b> 상황 속에서 농산물 유통 현장의 목소리를 직접 듣고 장바구니... 특히 고<b>유가</b>와 나프타 등 원자재 수급 불안정으로 힘든 상황에 있는 상인들을 격려했다. 또 도매시장 법인... ",
+        "pubDate": "Wed, 15 Apr 2026 17:46:00 +0900"
+      },
+      {
+        "title": "중동 리스크 확산…광주·전남 수출기업 '물류·거래 이중압박'",
+        "originallink": "https://www.namdonews.com/news/articleView.html?idxno=907622",
+        "link": "https://www.namdonews.com/news/articleView.html?idxno=907622",
+        "description": "지역 경제계 관계자는 &quot;운임과 환율, <b>유가</b>가 동시에 흔들리는 상황에서 수출기업의 부담이 빠르게 커지고 있다&quot;며 &quot;단기적인 비용 지원과 함께 시장 다변화, 물류 안정화 전략이 병행돼야 한다&quot;고 말했다.",
+        "pubDate": "Wed, 15 Apr 2026 17:46:00 +0900"
+      },
+      {
+        "title": "[퇴근길머니] 한달만에 6,000선 회복…전쟁 뒤엔 '물가 폭탄'",
+        "originallink": "http://www.yonhapnewstv.co.kr/MYH20260415174544Haz",
+        "link": "https://n.news.naver.com/mnews/article/422/0000855426?sid=101",
+        "description": "<b>유가</b>증권시장에서 외국인이 순매수에 나서면서 지수를 끌어올렸고, 개인과 기관은 순매도하며 차익 실현에... 전쟁 당시 <b>유가</b> 급등과 환율이 1,500원대까지 올랐던 영향이 시차를 두고 반영되고 있는 겁니다. 문제는... ",
+        "pubDate": "Wed, 15 Apr 2026 17:46:00 +0900"
+      },
+      {
+        "title": "전쟁發 금융거래 급증…월가 은행들 '최대 실적'",
+        "originallink": "https://www.hankyung.com/article/2026041535141",
+        "link": "https://n.news.naver.com/mnews/article/015/0005275417?sid=101",
+        "description": "<b>유가</b> 상승이 아직 미국 기업이나 가계에 큰 충격을 주지 않은 점도 실적 호조에 한몫했다. 파이낸셜타임스(FT)는 “1분기에는 미국의 베네수엘라 군사 작전과 이란 전쟁을 포함한 지정학적 충격이 두드러졌다”며... ",
+        "pubDate": "Wed, 15 Apr 2026 17:45:00 +0900"
+      },
+      {
+        "title": "박홍근 &quot;지출구조조정으로 50조 재원 마련&quot;",
+        "originallink": "https://www.yna.co.kr/view/AKR20260415163400002?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016023782?sid=101",
+        "description": "박 장관은 고<b>유가</b> 피해지원금 대상 여부는 내달께 확인할 수 있다고 설명했다. 그는 &quot;물가가 전반적으로 올라갈 것이라고 보는 추세기 때문에 <b>유가</b>뿐만 아니라 물가에 관해서도 부담을 완화하는 데 쓰라는 뜻이 있다&quot;고... ",
+        "pubDate": "Wed, 15 Apr 2026 17:45:00 +0900"
+      },
+      {
+        "title": "종전 기대에 코스피 6100선 회복…환율 하락 '금융시장 안정'",
+        "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=285915",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=285915",
+        "description": "국제<b>유가</b>가 하락세로 돌아선 가운데 코스피는 6100선에 근접하며 상승 마감했고, 원·달러 환율도 하락했다. 다만 전쟁 관련 불확실성이 완전히 해소되지 않은 만큼 시장 변동성 확대 가능성에 대한 경계감도 여전히... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "중고차 시장 주춤했지만…'20대·친환경차·테슬라'는 성장",
+        "originallink": "https://www.newsway.co.kr/news/view?ud=2026041517373004800",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026041517373004800",
+        "description": "여기에 충전 인프라 확충과 고<b>유가</b>에 따른 유지비 절감 인식 역시 수요를 떠받치는 요인으로 지목된다. 수입차 시장에서는 테슬라의 존재감이 빠르게 커지고 있다. 테슬라 중고차 거래는 54.3% 증가하며 주요 수입차... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "'항공기 띄울수록 손해'…중동 한파에 몸집 줄이는 LCC",
+        "originallink": "https://news.mtn.co.kr/news-detail/2026041516390280158",
+        "link": "https://news.mtn.co.kr/news-detail/2026041516390280158",
+        "description": "고<b>유가</b>·고환율 여파로 비상경영에 돌입한 항공업계의 고군분투가 이어지고 있는 가운데 특히 LCC... 없는..]항공<b>유가</b> 배럴당 200달러를 웃돌자 LCC들은 중거리 노선을 중심으로 운항을 대폭 줄이고 있는 상황.중동전쟁... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "“버티던 집들이 무너진다”…4월 포항 경매시장, 고<b>유가</b>까지 덮친 ‘복...",
+        "originallink": "https://www.kbmaeil.com/article/20260415500181",
+        "link": "https://www.kbmaeil.com/article/20260415500181",
+        "description": "고금리와 공급 과잉, 지역 경기 둔화라는 기존 악재에 더해, 최근 중동발 전쟁으로 촉발된 고<b>유가</b>까지 겹치며... 여기에 최근 중동발 고<b>유가</b>가 결정적인 변수로 작용하고 있다. <b>유가</b> 상승은 단순한 생활비 부담 증가를 넘어... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "'주식+채권' 분산투자 공식 깨졌다",
+        "originallink": "https://www.hankyung.com/article/2026041535151",
+        "link": "https://n.news.naver.com/mnews/article/015/0005275412?sid=101",
+        "description": "고물가와 <b>유가</b> 급등이 경기 침체와 금리 인상을 동시에 자극하며 서로 반대로 움직여야 할 주식과 채권... 특히 이란 전쟁 등 지정학적 갈등으로 <b>유가</b>가 주식과 채권 시장의 흐름을 결정하는 핵심 지표로 부상하면서 이런... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "신상 논란에 고개 숙인 신현송 &quot;한국 위해 마지막 헌신&quot;",
+        "originallink": "https://news.mtn.co.kr/news-detail/2026041516390874277",
+        "link": "https://news.mtn.co.kr/news-detail/2026041516390874277",
+        "description": "신 후보자는 <b>유가</b> 상승과 고환율이 물가를 자극할 수 있다고 보면서도, 현재 기준금리 동결 기조를 '전략적 인내'로 평가했습니다.즉각적인 금리 대응보다는 상황을 보며 결정하겠다는 겁니다.최근 환율 상승과 관련해서는... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "'불법어업 근절·청렴 공직 강화' 충남, '수산자원 보호·신뢰 행정' 동...",
+        "originallink": "https://www.bzeronews.com/news/articleView.html?idxno=816112",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=816112",
+        "description": "이번 단속은 산란기 어패류 보호와 어업질서 확립을 목표로, 고<b>유가</b> 상황 속 수익 극대화를 노린 불법조업 시도를 사전에 차단하는 데 초점이 맞춰졌다. 최근 5년간 도내 불법어업 단속 건수는 2021년 102건에서 2025년... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "중국산 전기차 '테·B·폴'의 질주",
+        "originallink": "https://www.hankyung.com/article/2026041534811",
+        "link": "https://n.news.naver.com/mnews/article/015/0005275411?sid=101",
+        "description": "국제 <b>유가</b> 급등으로 전기차와 하이브리드카 수요가 증가하며 3월 전체 승용차 판매 가운데 친환경차 비중이 59%에 달했다. 3월 자동차 수출액은 지난해 같은 기간보다 2.2% 늘어난 63억7000만달러를 기록했다.... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "신현송 한은 총재 후보자 “물가·성장 상충하면 물가에 무게둘 것···...",
+        "originallink": "https://www.khan.co.kr/article/202604151743001",
+        "link": "https://n.news.naver.com/mnews/article/032/0003440088?sid=101",
+        "description": "신현송 한국은행 총재 후보자가 15일 인사청문회에서 “물가와 성장이 상충하면 한국처럼 <b>유가</b>에 민감한 경제에선 물가에 무게를 두겠다”며 “중동리스크가 진행돼 근원물가나 기대인플레이션으로 전이되는 2차... ",
+        "pubDate": "Wed, 15 Apr 2026 17:43:00 +0900"
+      },
+      {
+        "title": "위기 때 빛난 인도의 에너지 도입 “몇 달치 확보”",
+        "originallink": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=99394",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=99394",
+        "description": "액화석<b>유가</b>스(LPG) 등 에너지 수급에 어려움을 겪고 있는 가운데, 인도 정부의 발 빠른 대응이 눈길을 끈다.... 인도가 필요로 하는 원유와 액화석<b>유가</b>스(LPG)의 절반가량이 호르무즈 해협을 통과한다.실제로 로이터 통신... ",
+        "pubDate": "Wed, 15 Apr 2026 17:42:00 +0900"
+      },
+      {
+        "title": "중동발 원자재 대란에…송미령 장관, 현장 점검 나서",
+        "originallink": "http://www.yonhapnewstv.co.kr/AKR20260415174015xud",
+        "link": "https://n.news.naver.com/mnews/article/422/0000855423?sid=101",
+        "description": "이번 현장 방문은 중동 전쟁 여파로 국제<b>유가</b>와 나프타 가격 변동성이 확대되면서 원자재 비용 상승 우려가 커진 데 따른 조치라고 농식품부는 설명했습니다. 간담회에서 송 장관은 업계의 원·부자재 확보 현황을 점검하고... ",
+        "pubDate": "Wed, 15 Apr 2026 17:41:00 +0900"
+      },
+      {
+        "title": "창원시 통합 돌봄 전담 인력 확보 위한 조례안 상정 요구",
+        "originallink": "https://www.idomin.com/news/articleView.html?idxno=2003668",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=2003668",
+        "description": "노조는 &quot;지금 읍면동 조합원들은 선거 사무에 도민 생활지원금, 고<b>유가</b> 피해지원금 지급까지 겹쳐 과부하가 심각한 상황에서도 통합돌봄 업무 수행을 위해 현장에서 고군분투하고 있다&quot;며 &quot;결국 시민 복지 서비스 저하로... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "<b>유가</b>·환율 급등에 3월 수출입물가 동반 상승",
+        "originallink": "https://news.mtn.co.kr/news-detail/2026041516070556180",
+        "link": "https://news.mtn.co.kr/news-detail/2026041516070556180",
+        "description": "국제<b>유가</b>와 환율 상승 영향으로 지난달 수출입물가가 큰 폭으로 올랐습니다.한국은행은 지난달 원화 기준 수출물가가 전월보다 16.3%, 수입물가는 16.1% 상승했다고 밝혔습니다. 두바이유 월평균 가격이 87.9% 급등하고... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "&quot;농업인 어려우면 농협도 어려워져&quot;… 괴산농협, 영농 자재 등 가격 보...",
+        "originallink": "https://www.asiatoday.co.kr/view.php?key=20260415010004702",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260415010004702",
+        "description": "중동발 <b>유가</b>상승 등으로 농사여건이 악화되고 있는 것에 대한 대응조치다.김 조합장은 &quot;밭작물 재배에 주로... <b>유가</b>정보시스템 오피넷을 보면 전날 기준 시설원예 농가 난방 및 농산물 건조장치 등에 활용되는 면세유... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "'에너지 안보 위기' 대응 속 '지역경제 영향 최소화'",
+        "originallink": "https://www.bzeronews.com/news/articleView.html?idxno=816111",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=816111",
+        "description": "강원 속초시가 미국과 이란 간 전쟁 여파로 고<b>유가</b>가 지속되는 상황에서 에너지 절감 정책에는 동참하되, 전통시장과 관광지 상권 위축을 방지하기 위해 일부 공영주차장을 승용차 5부제 적용 대상에서 제외하기로 했다.... ",
+        "pubDate": "Wed, 15 Apr 2026 17:38:00 +0900"
+      }
+    ],
+    "코스피": [
+      {
+        "title": "[오늘의 주목주] '베트남 투자 확대' 삼성전기 5%대 올라, <b>코스피</b> 6천선...",
+        "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=435816",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435816",
+        "description": "오늘 <b>코스피</b>와 코스닥 시가총액 상위 30개 종목 가운데 주가가 가장 크게 움직인 종목은 무엇일까요?... 15일 <b>코스피</b> 시가총액 상위 30개 종목 가운데 삼성전기 주가가 정규거래 종가 기준 가장 크게 움직였다. 이날... ",
+        "pubDate": "Wed, 15 Apr 2026 17:46:00 +0900"
+      },
+      {
+        "title": "에이프로젠, 파멥신과 독점실시권 라이선스 계약 해지 결정",
+        "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=657277",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=657277",
+        "description": "에이프로젠은 1995년 7월 8일 <b>코스피</b> 시장에 상장된 기타 금속 가공제품 제조업체다. 2026년 4월 15일 오후 4시 10분 한국거래소 기준 에이프로젠의 주가는 전일 대비 보합인 293원에 거래를 마쳤다.... ",
+        "pubDate": "Wed, 15 Apr 2026 17:46:00 +0900"
+      },
+      {
+        "title": "[퇴근길머니] 한달만에 6,000선 회복…전쟁 뒤엔 '물가 폭탄'",
+        "originallink": "http://www.yonhapnewstv.co.kr/MYH20260415174544Haz",
+        "link": "https://n.news.naver.com/mnews/article/422/0000855426?sid=101",
+        "description": "<b>코스피</b>가 장중 6,100선을 넘어서는 등 강한 반등세를 보였는데요. 전반적으로 분위기가 많이 살아난 모습이죠? [기자] 네, 맞습니다. 오늘 시장은 한마디로 리스크 완화 기대가 반영된 반등 장세였습니다. <b>코스피</b>는 장... ",
+        "pubDate": "Wed, 15 Apr 2026 17:46:00 +0900"
+      },
+      {
+        "title": "계룡건설산업 자회사 업성개발피에프브이, 채무보증 결정",
+        "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=657278",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=657278",
+        "description": "계룡건설산업은 1996년 1월 30일 <b>코스피</b> 시장에 상장된 토목 건설업체다. 타인에대한채무보증결정 【채무자의 요약 재무상황】(단위 : 백만원)[건설업을 영위하는 법인의 프로젝트 파이낸싱(PF) 관련사항](단위... ",
+        "pubDate": "Wed, 15 Apr 2026 17:46:00 +0900"
+      },
+      {
+        "title": "종전 기대에 <b>코스피</b> 6100선 회복…환율 하락 '금융시장 안정'",
+        "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=285915",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=285915",
+        "description": "가운데 <b>코스피</b>는 6100선에 근접하며 상승 마감했고, 원·달러 환율도 하락했다. 다만 전쟁 관련 불확실성이 완전히 해소되지 않은 만큼 시장 변동성 확대 가능성에 대한 경계감도 여전히 존재한다. 15일 <b>코스피</b> 지수는... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "레버리지·커버드콜 쏟아져…ETF 열풍에 파생도 들썩 [30년 파생시장 재...",
+        "originallink": "https://news.mtn.co.kr/news-detail/2026041516392083371",
+        "link": "https://news.mtn.co.kr/news-detail/2026041516392083371",
+        "description": "하반기에는 <b>코스피</b>200 및 코스닥150 위클리 옵션의 만기 요일을 월요일, 목요일에서 매일로 확대할 계획입니다.]확대되는 시장에 발맞춰 제도 개선도 병행합니다.거래소는 <b>코스피</b>200 옵션의 행사가격 범위를 확대해... ",
+        "pubDate": "Wed, 15 Apr 2026 17:44:00 +0900"
+      },
+      {
+        "title": "신한투자증권, 기업 임원 대상 'C-Level 연금컨설팅' 강화",
+        "originallink": "https://www.koreaittimes.com/news/articleView.html?idxno=153048",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=153048",
+        "description": "신한투자증권 <b>코스피</b> 6000 여의도역사 / 사진=신한투자증권 제공 신한투자증권이 법인 최고경영자(CEO)와 임원 등 자산가를 대상으로 한 연금 컨설팅 서비스를 확대한다. 신한투자증권은 15일 기업 임원들의 체계적인... ",
+        "pubDate": "Wed, 15 Apr 2026 17:42:00 +0900"
+      },
+      {
+        "title": "우리자산운용 반도체액티브 ETF, 선제적 종목 재편으로 수익률 1위",
+        "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=300403",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=300403",
+        "description": "같은 기간 <b>코스피</b> 지수가 4.42% 하락한 것과 대비되는 수치다. 수익률은 1개월 16.8%, 6개월 112.4%를 기록했으며 1년 수익률은 292.6%다. 개인 투자자 매수세가 이어지며 순자산은 전날 기준 2060억원을 기록해 2000억원을... ",
+        "pubDate": "Wed, 15 Apr 2026 17:42:00 +0900"
+      },
+      {
+        "title": "우리운용 반도체밸류체인액티브 ETF, 변동성 장세 수익률 1위",
+        "originallink": "https://www.hankyung.com/article/2026041534716",
+        "link": "https://n.news.naver.com/mnews/article/015/0005275405?sid=101",
+        "description": "같은 기간 <b>코스피</b>는 4.42% 하락하고, SK하이닉스와 삼성전자 주가도 하락한 것과 대조된다. 1개월 수익률도 16.8%로, 전체 10개 반도체 밸류체인 ETF 중 가장 높았다. 6개월 수익률은 112.4%, 1년 수익률은 292.6% 기록했다.... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "美월가 찾은 구윤철 &quot;MSCI지수 편입 앞둔 韓증시, 믿고 투자를&quot;",
+        "originallink": "https://www.mk.co.kr/article/12017921",
+        "link": "https://n.news.naver.com/mnews/article/009/0005666504?sid=101",
+        "description": "특히 구 부총리는 <b>코스피</b>가 지난해 6월 새 정부 출범 이후 배 이상 상승했고, 지난 1일 세계국채지수(WGBI) 편입 이후 약 51억달러가 한국 국채에 신규 투자됐다고 강조했다. 또 모건스탠리캐피털인터내셔널(MSCI) 선진국... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "외국인 '사자' 지속…<b>코스피</b>·코스닥 2%대 상승",
+        "originallink": "https://news.mtn.co.kr/news-detail/2026041515395088723",
+        "link": "https://news.mtn.co.kr/news-detail/2026041515395088723",
+        "description": "외국인투자자의 순매수가 이어지면서 <b>코스피</b>와 코스닥이 2%대 상승 마감했습니다.삼성전자와 SK하이닉스가 2%대 상승한 가운데 오늘 <b>코스피</b>는 전 거래일보다 123.64포인트(2.07%) 오른 6091.39에 장을... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "AI發 메모리 수요 폭증 … 외국인 &quot;삼전닉스 베팅&quot;",
+        "originallink": "https://www.mk.co.kr/article/12017920",
+        "link": "https://n.news.naver.com/mnews/article/009/0005666503?sid=101",
+        "description": "32거래일만에 6000피 삼전닉스 모두 2%대 오르며 장중엔 <b>코스피</b> 6100 넘기도 앤스로픽 서버 부족 소식에 시장선 &quot;반도체 수요 더 늘것&quot; 미국과 이란 간 종전 협상 기대감이 살아나면서 <b>코스피</b>가 32거래일 만에 종가 기준... ",
+        "pubDate": "Wed, 15 Apr 2026 17:40:00 +0900"
+      },
+      {
+        "title": "[중시 오늘] <b>코스피</b> 6000선 안착",
+        "originallink": "https://www.bigtanews.co.kr/article/view/big202604150010",
+        "link": "https://www.bigtanews.co.kr/article/view/big202604150010",
+        "description": "<b>코스피</b>가 2% 넘게 올라 6,000선에 안착했다. 종가 기준 6,000선 안착은 전쟁 발발 직전 거래일인 지난 2월 27일(6,244.13) 이후 처음이다. 코스닥도 3% 가까이 상승했다. 15일 한국거래소(KRX)에 따르면 <b>코스피</b>는... ",
+        "pubDate": "Wed, 15 Apr 2026 17:36:00 +0900"
+      },
+      {
+        "title": "<b>코스피</b>, 6000선 안착…외국인 매수에 2% 상승 마감",
+        "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=234762",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=234762",
+        "description": "중동발 지정학 리스크 완화와 글로벌 증시 훈풍 그리고 외국인 매수세가 맞물리며 <b>코스피</b>는 6000선 안착에 성공했다. 이날 <b>코스피</b>는 전 거래일보다 2.07% 오른 6091.39에 장을 마쳤다. 장 초반 6100선을 넘어선 데 이어 한때... ",
+        "pubDate": "Wed, 15 Apr 2026 17:36:00 +0900"
+      },
+      {
+        "title": "'종전 시그널' 켜지자 증시 회복세…<b>코스피</b> '6000 고지' 밟았다",
+        "originallink": "https://www.hankyung.com/article/2026041534131",
+        "link": "https://n.news.naver.com/mnews/article/015/0005275390?sid=101",
+        "description": "<b>코스피</b>지수가 2%대 상승하면서 6000을 넘어섰다. 미국과 이란 간 전쟁으로 5000까지 내린 <b>코스피</b>지수가 전쟁 후 처음으로 6000 고지를 다시 밟았다. 글로벌 증시도 전쟁 공포에서 벗어나면서 일제히 상승세가... ",
+        "pubDate": "Wed, 15 Apr 2026 17:34:00 +0900"
+      },
+      {
+        "title": "미·이란 종전 협상 기대에 환율 이틀 연속 하락",
+        "originallink": "http://www.segyebiz.com/newsView/20260415522140?OutUrl=naver",
+        "link": "http://www.segyebiz.com/newsView/20260415522140?OutUrl=naver",
+        "description": "이란 전쟁 이후 처음으로 <b>코스피</b>는 전장보다 123.64포인트(2.07%) 오른 6091.39를 돌파했다. 장중에는 6000선을 넘기면서 환율 상승 압력을 완화했다. 유가증권시장에서도 개인과 기관은 각각 9349억원, 224억원 순매도한... ",
+        "pubDate": "Wed, 15 Apr 2026 17:32:00 +0900"
+      },
+      {
+        "title": "&quot;실적 확실한 종목만 베팅&quot;…<b>코스피</b> '반도체 쏠림' 심화",
+        "originallink": "https://www.hankyung.com/article/2026041534141",
+        "link": "https://n.news.naver.com/mnews/article/015/0005275385?sid=101",
+        "description": "<b>코스피</b>지수가 6000선에 다시 안착한 가운데 ‘반도체 투톱’ 쏠림 현상이 심화한 것으로 나타났다.... 15일 한국거래소에 따르면 이날 <b>코스피</b> 상승분(123.64포인트·2.07%)에서 삼성전자와 SK하이닉스의 기여도는 각각... ",
+        "pubDate": "Wed, 15 Apr 2026 17:32:00 +0900"
+      },
+      {
+        "title": "법제처 문턱도 넘었다…'단일종목 2배 ETF' 본격 시동",
+        "originallink": "https://www.hankyung.com/article/2026041534171",
+        "link": "https://n.news.naver.com/mnews/article/015/0005275381?sid=101",
+        "description": "일각에선 투기적 거래가 확산할 것이란 우려도 나온다. 지난달 <b>코스피</b>200 2배 레버리지 상품에만 43조원이 몰렸다. 주가 추이에 대한 예측이 빗나갈 경우 원금 손실 속도가 커질 수 있다는 지적이다.",
+        "pubDate": "Wed, 15 Apr 2026 17:31:00 +0900"
+      },
+      {
+        "title": "[A 현장] 우리파이낸스포럼 &quot;채권은 중단기 크레딧 중심...연금 개시는 ...",
+        "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=246534",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=246534",
+        "description": "현재 <b>코스피</b> 상승을 주도하고 있는 삼성전자와 SK하이닉스에 대해서는 &quot;빅테크의 인공지능(AI) 관련 과잉투자가 지속될 동안 계속 이익을 거둘 것&quot;이라고 내다봤다. 보험회사에서 지급하는 보험금이 해마다 크게... ",
+        "pubDate": "Wed, 15 Apr 2026 17:30:00 +0900"
+      },
+      {
+        "title": "ETF 순자산 400조 돌파...&quot;투자지도가 달라졌다&quot;",
+        "originallink": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604150411&t=NNv",
+        "link": "https://n.news.naver.com/mnews/article/215/0001249128?sid=101",
+        "description": "이는 <b>코스피</b> 시장 대비 70%에 달하는 규모로, 특히 지난 4일(9.11이후 최대 폭락)에는 최대 44조원까지... 개정안에 따르면 단일 종목 ETF의 대상 종목은 <b>코스피</b> 내 평균 시총 비중 10% 이상, 평균 거래대금 비중 5% 이상... ",
+        "pubDate": "Wed, 15 Apr 2026 17:30:00 +0900"
+      }
+    ]
   },
-  "last_updated": "2026-04-15 08:45:36"
+  "last_updated": "2026-04-15 08:48:14"
 }
