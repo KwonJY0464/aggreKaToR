@@ -3,6 +3,7 @@ name: News Dashboard Bot
 on:
   schedule:
     - cron: '*/30 * * * *' # 30분마다 실행
+  workflow_dispatch:      # 
 
 jobs:
   build:
@@ -26,4 +27,5 @@ jobs:
           git config --global user.email "bot@github.com"
           git add news.json
           git commit -m "Auto-update news (30min)" || exit 0
+          git pull --rebase origin main   # 💡 교통사고 방지용 코드 (충돌 해결)
           git push
