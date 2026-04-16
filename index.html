@@ -13,26 +13,26 @@
             --border: #e0e0e0; 
             --accent: #000000;      /* 선택 시: 블랙 */
             --unselected: #777777;  /* 미선택 시: 차콜 */
-            --news-title: #004a99;  /* 뉴스 제목: 파란색 계열 */
-            --left-width: 50%;      /* 기본 설정: 50% */
+            --news-title: #004a99;  /* 뉴스 제목: 파란색 */
+            --left-width: 50%;      /* 기본 5:5 설정 */
         }
         [data-theme='dark'] { 
             --bg: #121212; 
             --text: #e0e0e0; 
             --card: #1e1e1e; 
             --border: #333; 
-            --accent: #ffffff; 
+            --accent: #ffffff;      /* 다크모드 선택 */
             --unselected: #555555; 
             --news-title: #59a5ff; 
         }
 
-        body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
-        header { display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; border-bottom: 1px solid var(--border); background: var(--bg); z-index: 100; }
+        body { background: var(--bg); color: var(--text); font-family: -apple-system, sans-serif; margin: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+        header { display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; border-bottom: 1px solid var(--border); background: var(--bg); z-index: 100; flex-shrink: 0; }
         
-        h1 { font-family: 'Nanum Myeongjo', serif; font-size: 1.5rem; margin: 0; cursor: default; }
+        h1 { font-family: 'Nanum Myeongjo', serif; font-size: 1.5rem; margin: 0; cursor: default; flex-shrink: 0; }
 
-        /* 텍스트 스위치 디자인 */
-        .mode-tabs { display: flex; gap: 25px; align-items: center; margin-left: 40px; flex: 1; }
+        /* 텍스트 메뉴 스타일 */
+        .mode-tabs { display: flex; gap: 25px; margin-left: 40px; flex: 1; }
         .mode-btn { 
             font-size: 1.1rem; font-weight: 700; border: none; background: none; padding: 0;
             cursor: pointer; transition: color 0.2s ease; color: var(--unselected);
@@ -40,45 +40,35 @@
         .mode-btn.active { color: var(--accent); position: relative; }
         .mode-btn.active::after { content: ''; position: absolute; bottom: -5px; left: 0; width: 100%; height: 2px; background: var(--accent); }
 
-        .wrapper { display: flex; flex: 1; min-height: 0; position: relative; transition: opacity 0.3s ease; }
-        .pane-left { width: var(--left-width); min-width: 350px; display: flex; flex-direction: column; padding: 15px; box-sizing: border-box; }
+        .wrapper { display: flex; flex: 1; min-height: 0; position: relative; }
+        .pane-left { width: var(--left-width); min-width: 300px; display: flex; flex-direction: column; padding: 15px; box-sizing: border-box; }
         
-        .resizer { 
-            width: 8px; cursor: col-resize; background: transparent; transition: 0.2s;
-            display: flex; align-items: center; justify-content: center;
-        }
+        .resizer { width: 8px; cursor: col-resize; background: transparent; transition: 0.2s; display: flex; align-items: center; justify-content: center; }
         .resizer:hover { background: rgba(0, 0, 0, 0.05); }
         .resizer::after { content: "||"; color: var(--border); font-size: 10px; }
 
-        .pane-right { flex: 1; display: grid; grid-template-rows: 1fr 1fr; gap: 15px; padding: 15px; min-width: 400px; }
-        .pane { background: var(--card); border: 1px solid var(--border); border-radius: 12px; display: flex; flex-direction: column; overflow: hidden; }
-        .pane-header { padding: 12px 15px; font-weight: bold; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01); font-size: 0.85rem; color: var(--unselected); }
+        .pane-right { flex: 1; display: grid; grid-template-rows: 1fr 1fr; gap: 15px; padding: 15px; min-width: 350px; }
+        .pane { background: var(--card); border: 1px solid var(--border); border-radius: 12px; display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .pane-header { padding: 12px 15px; font-weight: bold; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01); font-size: 0.85rem; color: #888; }
         .scroll-content { flex: 1; overflow-y: auto; padding: 5px 10px; }
         
-        /* 뉴스/일정 아이템 스타일 */
-        .item { padding: 18px 15px; border-bottom: 1px solid var(--border); cursor: pointer; transition: background 0.15s; }
+        /* 뉴스 아이템 폰트 키움 및 파란색 제목 */
+        .item { padding: 18px 15px; border-bottom: 1px solid var(--border); cursor: pointer; transition: background 0.1s; }
         .item:hover { background: rgba(0, 0, 0, 0.02); }
-        .item h3 { 
-            font-size: 1.15rem; /* 폰트 확대 */
-            margin: 0 0 10px 0; 
-            color: var(--news-title); /* 파란색 적용 */
-            line-height: 1.45; 
-            font-weight: 700; 
-            letter-spacing: -0.03em;
-        }
-        .item p { font-size: 0.95rem; margin: 0; line-height: 1.65; color: var(--text); opacity: 0.85; }
+        .item h3 { font-size: 1.2rem; margin: 0 0 10px 0; color: var(--news-title); line-height: 1.4; font-weight: 700; }
+        .item p { font-size: 0.95rem; margin: 0; line-height: 1.6; color: var(--text); opacity: 0.85; }
         .item .meta { font-size: 0.8rem; color: #999; margin-top: 10px; display: block; }
 
-        .ai-summary-box { padding: 20px; font-size: 1.05rem; line-height: 1.8; color: var(--text); }
-        .tab-btn { padding: 4px 12px; border-radius: 6px; border: 1px solid var(--border); background: none; color: #888; cursor: pointer; font-size: 0.75rem; margin-left: 5px; font-weight: 600; }
+        .ai-box { padding: 20px; font-size: 1rem; line-height: 1.8; color: var(--text); }
+        .tab-btn { padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); background: none; color: #888; cursor: pointer; font-size: 0.75rem; margin-left: 5px; font-weight: 600; }
         .tab-btn.active { border-color: var(--accent); color: var(--accent); background: rgba(0,0,0,0.03); }
 
-        /* 모바일 세로 배치 */
+        /* 모바일 최적화 (세로 배치) */
         @media (max-width: 768px) {
             body { overflow-y: auto; height: auto; }
-            header { position: sticky; top: 0; padding: 10px 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); flex-wrap: wrap; }
+            header { position: sticky; top: 0; padding: 10px 20px; flex-wrap: wrap; }
             .mode-tabs { margin: 10px 0 0 0; width: 100%; order: 3; gap: 20px; }
-            .wrapper { flex-direction: column; opacity: 1 !important; }
+            .wrapper { flex-direction: column; }
             .pane-left { width: 100% !important; min-width: 0; height: auto; padding: 10px; }
             .pane-right { width: 100%; min-width: 0; height: auto; display: flex; flex-direction: column; padding: 10px; }
             .resizer { display: none; }
@@ -99,18 +89,18 @@
     <div class="wrapper" id="mainWrapper">
         <div class="pane-left">
             <div class="pane" style="height:100%">
-                <div class="pane-header"><div id="pane1-header">인기뉴스</div> <span id="time-1"></span></div>
+                <div class="pane-header"><div id="pane1-title">인기뉴스</div> <span id="time-1"></span></div>
                 <div id="pane1-content" class="scroll-content"></div>
             </div>
         </div>
         <div class="resizer" id="resizer"></div>
         <div class="pane-right">
             <div class="pane">
-                <div class="pane-header"><div id="pane2-header">부처/기관 <span id="pane2-tabs"></span></div><span id="time-2"></span></div>
+                <div class="pane-header"><div id="pane2-title">부처/기관 <span id="pane2-tabs"></span></div><span id="time-2"></span></div>
                 <div id="pane2-content" class="scroll-content"></div>
             </div>
             <div class="pane">
-                <div class="pane-header"><div id="pane3-header">AI 분석 브리핑 <span id="pane3-tabs"></span></div><span id="time-3"></span></div>
+                <div class="pane-header"><div id="pane3-title">AI 분석 브리핑 <span id="pane3-tabs"></span></div><span id="time-3"></span></div>
                 <div id="pane3-content" class="scroll-content"></div>
             </div>
         </div>
@@ -127,9 +117,9 @@
         resizer.addEventListener('mousedown', () => isResizing = true);
         document.addEventListener('mousemove', (e) => {
             if (!isResizing) return;
-            const offsetLeft = e.clientX;
-            if (offsetLeft > 300 && offsetLeft < window.innerWidth - 400) {
-                document.documentElement.style.setProperty('--left-width', `${offsetLeft}px`);
+            const x = e.clientX;
+            if (x > 300 && x < window.innerWidth - 350) {
+                document.documentElement.style.setProperty('--left-width', `${x}px`);
             }
         });
         document.addEventListener('mouseup', () => isResizing = false);
@@ -142,12 +132,16 @@
 
         function renderItems(targetId, items) {
             const container = document.getElementById(targetId);
-            container.innerHTML = (items && items.length > 0) ? items.map(item => `
+            if (!items || items.length === 0) {
+                container.innerHTML = "<div style='padding:20px; color:#999;'>데이터가 없습니다.</div>";
+                return;
+            }
+            container.innerHTML = items.map(item => `
                 <div class="item" onclick="if('${item.link}') window.open('${item.link}', '_blank')">
                     <h3>${item.title.replace(/<[^>]*>?/gm, '')}</h3>
                     <p>${item.ai_summary || item.time || ''}</p>
                     <span class="meta">${item.formatted_date || (item.committee ? item.committee + ' | ' + item.location : '')}</span>
-                </div>`).join('') : "<div style='padding:20px; color:#999;'>데이터가 없습니다.</div>";
+                </div>`).join('');
         }
 
         function switchTab(p, kw, btn) {
@@ -161,59 +155,60 @@
             document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
             document.getElementById(`mode-${mode}`).classList.add('active');
             
-            if (window.innerWidth > 768) wrapper.style.opacity = 0;
-            
-            setTimeout(async () => {
-                if (mode === 'news') await loadNewsData();
-                else await loadAssemblyData();
-                if (window.innerWidth > 768) wrapper.style.opacity = 1;
-            }, 200);
+            if (mode === 'news') await loadNewsData();
+            else await loadAssemblyData();
         }
 
         async function loadNewsData() {
-            document.getElementById('pane1-header').innerHTML = `인기뉴스`;
-            document.getElementById('pane2-header').innerHTML = `부처/기관 <span id="pane2-tabs"></span>`;
-            document.getElementById('pane3-header').innerHTML = `AI 분석 브리핑 <span id="pane3-tabs"></span>`;
+            document.getElementById('pane1-title').innerText = "인기뉴스";
+            document.getElementById('pane2-title').innerHTML = '부처/기관 <span id="pane2-tabs"></span>';
+            document.getElementById('pane3-title').innerHTML = 'AI 키워드 타게팅 <span id="pane3-tabs"></span>';
             
             try {
                 const res = await fetch(`news.json?t=${Date.now()}`); 
+                if (!res.ok) throw new Error();
                 allData = await res.json();
                 
                 renderItems('pane1-content', allData.pane1);
                 ['pane2', 'pane3'].forEach(id => {
                     const n = id.slice(-1); 
                     const kws = Object.keys(allData[id]);
-                    const t = document.getElementById(`${id}-tabs`);
+                    const t = document.getElementById(`pane${n}-tabs`);
                     if(t) {
                         t.innerHTML = kws.map((kw, i) => `<button class="tab-btn ${i===0?'active':''}" onclick="switchTab(${n},'${kw}',this)">${kw}</button>`).join('');
                         switchTab(n, kws[0], t.firstChild);
                     }
                 });
-
                 const ts = `업데이트: ${allData.last_updated.substring(11, 16)}`;
                 ['1','2','3'].forEach(n => document.getElementById(`time-${n}`).innerText = ts);
-            } catch (e) { console.error(e); }
+            } catch (e) {
+                document.getElementById('pane1-content').innerHTML = "<div style='padding:20px;'>데이터를 불러오는 중입니다...</div>";
+            }
         }
 
         async function loadAssemblyData() {
-            document.getElementById('pane1-header').innerHTML = `핵심 의사일정`;
-            document.getElementById('pane2-header').innerHTML = `입법/정책 동향`;
-            document.getElementById('pane3-header').innerHTML = `Gemma 3 27B 전략 요약`;
-            
+            document.getElementById('pane1-title').innerText = "핵심 의사일정";
+            document.getElementById('pane2-title').innerHTML = "입법/정책 동향";
+            document.getElementById('pane3-title').innerHTML = "AI 요약";
             document.getElementById('pane2-tabs').innerHTML = '';
             document.getElementById('pane3-tabs').innerHTML = '';
 
             try {
                 const res = await fetch(`assembly.json?t=${Date.now()}`);
+                if (!res.ok) throw new Error();
                 const data = await res.json();
                 
                 renderItems('pane1-content', data.schedules);
                 document.getElementById('pane2-content').innerHTML = `<div style="padding:50px; text-align:center; opacity:0.4;">의안 데이터 API 연동 대기 중</div>`;
-                document.getElementById('pane3-content').innerHTML = `<div class="ai-summary-box">${data.summary ? data.summary.replace(/\n/g, '<br>') : '요약 정보가 없습니다.'}</div>`;
+                document.getElementById('pane3-content').innerHTML = `<div class="ai-box">${data.summary ? data.summary.replace(/\n/g, '<br>') : '요약 정보가 없습니다.'}</div>`;
                 
                 const ts = `업데이트: ${data.last_updated.substring(11, 16)}`;
                 ['1','2','3'].forEach(n => document.getElementById(`time-${n}`).innerText = ts);
-            } catch (e) { console.error(e); }
+            } catch (e) {
+                document.getElementById('pane1-content').innerHTML = "<div style='padding:20px;'>데이터가 아직 생성되지 않았습니다.</div>";
+                document.getElementById('pane2-content').innerHTML = "";
+                document.getElementById('pane3-content').innerHTML = "";
+            }
         }
 
         switchMode('news');
