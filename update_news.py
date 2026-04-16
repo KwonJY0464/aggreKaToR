@@ -2,6 +2,7 @@ import os
 import requests
 import json
 import re
+import time
 from datetime import datetime, timedelta, timezone
 from google import genai
 
@@ -97,12 +98,15 @@ p3_all = {kw: fetch_news(kw, 10) for kw in p3_kw}  # 3번 칸 각 10개씩
 # 2. 요약할 전체 기사 리스트화 (총 약 95개)
 total_news = p1 + sum(p2_all.values(), []) + sum(p3_all.values(), [])
 
-# 3. 10개씩 묶어서 요약 (API 호출 10회 미만으로 끝남)
+# 3. 10개씩 묶어서 요약
 batch_size = 10
 summaries = []
 for i in range(0, len(total_news), batch_size):
     batch = total_news[i : i + batch_size]
     summaries.extend(get_batch_summaries(batch))
+    
+    # 💡 핵심: 한 바구니 요약하고 5초 동안 봇을 강제로 재웁니다. (과속 방지턱)
+    time.sleep(5)
 
 # 4. 요약된 텍스트를 각 기사에 매칭
 for idx, item in enumerate(total_news):
