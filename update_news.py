@@ -30,7 +30,7 @@ def get_batch_summaries(news_items):
 
     try:
         response = client.models.generate_content(
-            model='gemini-2.5-flash',
+            model='gemini-3.1-flash-lite'
             contents=prompt,
             config={'response_mime_type': 'application/json'} # 💡 JSON 형식 강제
         )
