@@ -1,12 +1,11 @@
 name: News Dashboard Bot
 
 on:
-
   schedule:
-
-    - cron: '*/30 * * * *'
-
-  workflow_dispatch:
+    # 💡 월~금, 한국 시간(KST) 오전 8시 ~ 오후 9시까지만 30분마다 작동
+    # UTC 기준으로는 23시(전날) ~ 12시입니다.
+    - cron: '*/30 23,0-12 * * 1-5'
+  workflow_dispatch: # 이건 수동 버튼이니 그대로 두세요!
 
 jobs:
 
