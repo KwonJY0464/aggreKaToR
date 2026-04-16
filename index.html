@@ -2,83 +2,43 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>뉴스수집기</title>
+    <title>KTR 뉴스 관제탑</title>
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap" rel="stylesheet">
     <style>
-        /* 변수 설정 */
-        :root { --bg: #ffffff; --text: #222; --card: #fdfdfd; --border: #e0e0e0; --accent: #0056b3; --header-bg: #f8f9fa; }
-        [data-theme='dark'] { --bg: #121212; --text: #e0e0e0; --card: #1e1e1e; --border: #333; --accent: #4dabff; --header-bg: #252525; }
+        :root { --bg: #ffffff; --text: #222; --card: #fdfdfd; --border: #e0e0e0; --accent: #0056b3; --left-width: 400px; }
+        [data-theme='dark'] { --bg: #121212; --text: #e0e0e0; --card: #1e1e1e; --border: #333; --accent: #4dabff; }
 
-        /* 전체 구조 */
-        body { 
-            background: var(--bg); color: var(--text); 
-            font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; 
-            margin: 0; padding: 0; height: 100vh; display: flex; flex-direction: column; transition: 0.3s;
+        body { background: var(--bg); color: var(--text); font-family: sans-serif; margin: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+        header { display: flex; justify-content: space-between; align-items: center; padding: 10px 25px; border-bottom: 1px solid var(--border); }
+        h1 { font-family: 'Nanum Myeongjo', serif; font-size: 1.5rem; margin: 0; }
+
+        /* 조절 가능한 레이아웃 설정 */
+        .wrapper { display: flex; flex: 1; min-height: 0; position: relative; }
+        
+        .pane-left { width: var(--left-width); min-width: 300px; display: flex; flex-direction: column; padding: 15px; box-sizing: border-box; }
+        
+        /* 💡 너비 조절 바 (Resizer) */
+        .resizer { 
+            width: 8px; cursor: col-resize; background: transparent; transition: 0.2s;
+            display: flex; align-items: center; justify-content: center;
         }
+        .resizer:hover { background: rgba(0, 86, 179, 0.1); }
+        .resizer::after { content: "||"; color: var(--border); font-size: 10px; }
 
-        header { 
-            display: flex; justify-content: space-between; align-items: center; 
-            padding: 12px 25px; border-bottom: 1px solid var(--border); background: var(--bg);
-        }
+        .pane-right { flex: 1; display: grid; grid-template-rows: 1fr 1fr; gap: 15px; padding: 15px; min-width: 400px; }
 
-        h1 { 
-            font-family: 'Nanum Myeongjo', serif; font-size: 1.6rem; margin: 0; color: var(--text);
-        }
+        .pane { background: var(--card); border: 1px solid var(--border); border-radius: 12px; display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .pane-header { padding: 10px 15px; font-weight: bold; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.02); font-size: 0.9rem; }
+        .scroll-content { flex: 1; overflow-y: auto; padding: 5px 10px; }
+        
+        .news-item { padding: 12px; border-bottom: 1px solid var(--border); cursor: pointer; }
+        .news-item:hover { background: rgba(0, 86, 179, 0.03); }
+        .news-item h3 { font-size: 0.92rem; margin: 0 0 5px 0; color: var(--accent); line-height: 1.4; }
+        .news-item p { font-size: 0.85rem; margin: 0; line-height: 1.5; color: var(--text); opacity: 0.9; }
+        .news-item .date { font-size: 0.72rem; color: #999; margin-top: 6px; display: block; }
 
-        /* 메인 레이아웃 (L자형 그리드 고정) */
-        .main-container { 
-            display: grid; 
-            grid-template-columns: 380px 1fr; 
-            grid-template-rows: 1fr 1fr; 
-            gap: 15px; padding: 15px; flex: 1; min-height: 0; /* 중요: 부모 높이 고정 */
-        }
-
-        .pane { 
-            background: var(--card); border: 1px solid var(--border); 
-            border-radius: 12px; display: flex; flex-direction: column; 
-            overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-        }
-
-        /* 1번칸 (왼쪽 세로 전체) */
-        .pane-1 { grid-row: 1 / span 2; }
-
-        .pane-header { 
-            padding: 12px 15px; font-weight: bold; border-bottom: 1px solid var(--border);
-            display: flex; justify-content: space-between; align-items: center; 
-            background: var(--header-bg); font-size: 0.95rem;
-        }
-
-        .update-time { font-size: 0.7rem; color: #999; font-weight: normal; }
-
-        /* 독립 스크롤 영역 보정 */
-        .scroll-content { 
-            flex: 1; overflow-y: auto; padding: 5px 10px; 
-            min-height: 0; /* 스크롤 작동 보장 */
-        }
-
-        /* 뉴스 카드 */
-        .news-item { 
-            padding: 14px 10px; border-bottom: 1px solid var(--border); 
-            cursor: pointer; transition: 0.2s; 
-        }
-        .news-item:hover { background: rgba(0,0,0,0.04); }
-        .news-item h3 { font-size: 0.95rem; margin: 0 0 6px 0; color: var(--accent); line-height: 1.4; }
-        .news-item p { font-size: 0.85rem; margin: 0; line-height: 1.5; color: var(--text); opacity: 0.8; }
-        .news-item .date { font-size: 0.75rem; color: #999; margin-top: 8px; display: block; }
-
-        /* 탭 디자인 */
-        .tabs { display: flex; gap: 6px; }
-        .tab-btn { 
-            padding: 3px 10px; border-radius: 15px; border: 1px solid var(--accent); 
-            background: none; color: var(--accent); cursor: pointer; font-size: 0.75rem;
-        }
+        .tab-btn { padding: 2px 8px; border-radius: 12px; border: 1px solid var(--accent); background: none; color: var(--accent); cursor: pointer; font-size: 0.7rem; margin-left: 4px; }
         .tab-btn.active { background: var(--accent); color: white; }
-
-        /* 스크롤바 미니멀 디자인 */
-        .scroll-content::-webkit-scrollbar { width: 5px; }
-        .scroll-content::-webkit-scrollbar-thumb { background: #ccc; border-radius: 10px; }
-        [data-theme='dark'] .scroll-content::-webkit-scrollbar-thumb { background: #444; }
     </style>
 </head>
 <body data-theme="light">
@@ -87,49 +47,67 @@
         <button style="background:none; border:none; font-size:1.4rem; cursor:pointer;" onclick="toggleTheme()" id="themeIcon">🌙</button>
     </header>
 
-    <div class="main-container">
-        <div class="pane pane-1">
-            <div class="pane-header">1. 실시간 속보 <span class="update-time" id="time-1"></span></div>
-            <div id="pane1-content" class="scroll-content"></div>
+    <div class="wrapper" id="mainWrapper">
+        <div class="pane-left">
+            <div class="pane" style="height:100%">
+                <div class="pane-header">1. 속보 <span id="time-1" style="font-size:0.7rem; color:#999;"></span></div>
+                <div id="pane1-content" class="scroll-content"></div>
+            </div>
         </div>
 
-        <div class="pane">
-            <div class="pane-header">
-                <div class="tabs">2. 부처/기관 <span id="pane2-tabs" style="margin-left:8px"></span></div>
-                <span class="update-time" id="time-2"></span>
-            </div>
-            <div id="pane2-content" class="scroll-content"></div>
-        </div>
+        <div class="resizer" id="resizer"></div>
 
-        <div class="pane">
-            <div class="pane-header">
-                <div class="tabs">3. 키워드 모니터링 <span id="pane3-tabs" style="margin-left:8px"></span></div>
-                <span class="update-time" id="time-3"></span>
+        <div class="pane-right">
+            <div class="pane">
+                <div class="pane-header"><div>2. 부처/기관 <span id="pane2-tabs"></span></div><span id="time-2" style="font-size:0.7rem; color:#999;"></span></div>
+                <div id="pane2-content" class="scroll-content"></div>
             </div>
-            <div id="pane3-content" class="scroll-content"></div>
+            <div class="pane">
+                <div class="pane-header"><div>3. 모니터링 <span id="pane3-tabs"></span></div><span id="time-3" style="font-size:0.7rem; color:#999;"></span></div>
+                <div id="pane3-content" class="scroll-content"></div>
+            </div>
         </div>
     </div>
 
     <script>
         let allData = null;
+        
+        // 너비 조절 로직
+        const resizer = document.getElementById('resizer');
+        const wrapper = document.getElementById('mainWrapper');
+        let isResizing = false;
+
+        resizer.addEventListener('mousedown', () => isResizing = true);
+        document.addEventListener('mousemove', (e) => {
+            if (!isResizing) return;
+            const offsetLeft = e.clientX;
+            if (offsetLeft > 300 && offsetLeft < window.innerWidth - 400) {
+                document.documentElement.style.setProperty('--left-width', `${offsetLeft}px`);
+            }
+        });
+        document.addEventListener('mouseup', () => isResizing = false);
+
         function toggleTheme() {
             const b = document.body; const isDark = b.getAttribute('data-theme') === 'dark';
             b.setAttribute('data-theme', isDark ? 'light' : 'dark');
             document.getElementById('themeIcon').innerText = isDark ? '🌙' : '☀️';
         }
+
         function renderNews(targetId, items) {
             const container = document.getElementById(targetId);
             container.innerHTML = (items && items.length > 0) ? items.map(item => `
                 <div class="news-item" onclick="window.open('${item.link}', '_blank')">
                     <h3>${item.title.replace(/<[^>]*>?/gm, '')}</h3>
-                    <p>${item.ai_summary || '요약 중...'}</p>
-                    <span class="date">${item.pubDate}</span>
-                </div>`).join('') : "<div style='padding:20px; color:#999;'>뉴스가 없습니다.</div>";
+                    <p>${item.ai_summary}</p>
+                    <span class="date">${item.formatted_date}</span>
+                </div>`).join('') : "<div style='padding:20px; color:#999;'>조건에 맞는 뉴스가 없습니다.</div>";
         }
+
         function switchTab(p, kw, btn) {
             document.querySelectorAll(`#pane${p}-tabs .tab-btn`).forEach(b => b.classList.remove('active'));
             btn.classList.add('active'); renderNews(`pane${p}-content`, allData[`pane${p}`][kw]);
         }
+
         async function init() {
             try {
                 const res = await fetch(`news.json?t=${Date.now()}`); allData = await res.json();
@@ -142,7 +120,7 @@
                 });
                 const ts = `업데이트: ${allData.last_updated.substring(11, 16)}`;
                 ['1','2','3'].forEach(n => document.getElementById(`time-${n}`).innerText = ts);
-            } catch (e) { document.querySelectorAll('.scroll-content').forEach(el => el.innerText = "데이터 연결 대기 중..."); }
+            } catch (e) { console.error("데이터 로드 실패"); }
         }
         init();
     </script>
