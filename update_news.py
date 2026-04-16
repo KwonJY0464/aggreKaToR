@@ -10,8 +10,7 @@ from google import genai
 client = genai.Client(api_key="AIzaSyDc1BpjVqBOR4jVyFWXMbZvn_nYnQSpZXc")
 
 print("🔍 사용 가능한 Gemini 모델 목록 검색 중...")
-for m in client.models.list_models():
-    # 이름에 lite나 flash가 들어간 것만 필터링해서 출력
+for m in client.models.list():
     if 'lite' in m.name.lower() or 'flash' in m.name.lower():
         print(f"진짜 API 이름: {m.name}")
 
