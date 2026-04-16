@@ -1,0 +1,34 @@
+name: Assembly Aggregator Bot
+
+on:
+  schedule:
+    # KST 기준: 평일(1-5:월~금) 오전 8:17, 낮 12:17, 오후 4:17
+    # UTC 기준: 23:17(전날), 03:17, 07:17
+    - cron: '17 23,3,7 * * 1-5'
+  workflow_dispatch: # 수동 타격용
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests google-genai
+      - name: Run Scraper (Assembly Only)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ASSEMBLY_API_KEY: ${{ secrets.ASSEMBLY_API_KEY }}
+        run: python update_assembly.py
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "KTR-Assembly-Bot"
+          git config --global user.email "bot@github.com"
+          git add assembly.json
+          git commit -m "Auto-update Assembly" || exit 0
+          git pull --rebase origin main
+          git push
