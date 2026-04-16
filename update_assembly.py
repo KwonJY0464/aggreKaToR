@@ -16,7 +16,13 @@ def fetch_assembly_schedule():
     try:
         response = requests.get(URL)
         data = response.json()
-        rows = data.get('nwzbkafmavshvabbi', [{}])[1].get('row', [])
+        
+        # 💡 방어 로직: 정상적인 데이터('nwzbkafmavshvabbi')가 안 왔을 때 진짜 이유를 출력!
+        if 'nwzbkafmavshvabbi' not in data:
+            print(f"⚠️ 국회 API 거절/오류 메세지: {data}")
+            return []
+            
+        rows = data['nwzbkafmavshvabbi'][1].get('row', [])
         
         today = datetime.now().strftime("%Y-%m-%d")
         important_meetings = []
@@ -39,7 +45,7 @@ def fetch_assembly_schedule():
         print(f"국회 데이터 수집 에러: {e}")
         return []
 
-# 3. 제미나이 3.1 Lite로 일정 요약하기
+# 3. Gemma 3 27B로 일정 요약하기
 def summarize_with_gemini(schedule_data):
     if not schedule_data:
         return "예정된 주요 상임위/본회의 일정이 없습니다."
@@ -56,6 +62,7 @@ def summarize_with_gemini(schedule_data):
     """
     
     try:
+        # 💡 Gemma 3 27B 모델 사용
         response = client.models.generate_content(
             model='gemma-3-27b-it',
             contents=prompt,
@@ -65,7 +72,7 @@ def summarize_with_gemini(schedule_data):
         )
         return response.text.strip()
     except Exception as e:
-        print(f"제미나이 요약 에러: {e}")
+        print(f"AI 요약 에러: {e}")
         return "일정 요약을 생성하지 못했습니다."
 
 # 4. 메인 실행 및 JSON 저장
