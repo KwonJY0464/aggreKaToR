@@ -2,57 +2,72 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>AGGREKaToR</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AGGREKaToR 2.0</title>
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap" rel="stylesheet">
     <style>
-        :root { --bg: #ffffff; --text: #222; --card: #fdfdfd; --border: #e0e0e0; --accent: #0056b3; --left-width: 400px; }
-        [data-theme='dark'] { --bg: #121212; --text: #e0e0e0; --card: #1e1e1e; --border: #333; --accent: #4dabff; }
-
-        body { background: var(--bg); color: var(--text); font-family: sans-serif; margin: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
-        header { display: flex; justify-content: space-between; align-items: center; padding: 10px 25px; border-bottom: 1px solid var(--border); }
-        
-        /* 💡 상단 모드 전환 버튼 스타일 추가 */
-        .mode-tabs { display: flex; gap: 10px; align-items: center; }
-        .mode-btn { 
-            padding: 8px 18px; font-size: 1.1rem; font-weight: bold; border: 1px solid var(--border); border-radius: 20px; 
-            cursor: pointer; transition: all 0.2s ease; background: var(--bg); color: var(--text); font-family: 'Nanum Myeongjo', serif;
+        :root { 
+            --bg: #ffffff; --text: #222; --card: #fdfdfd; --border: #e0e0e0; 
+            --accent: #000000; /* 선택: 블랙 */
+            --unselected: #333333; /* 미선택: 차콜 */
+            --left-width: 50%; /* 💡 데스크톱 기본 너비 50%로 상향 */
         }
-        .mode-btn.active { background: var(--accent); color: white; border-color: var(--accent); box-shadow: 0 4px 10px rgba(0, 86, 179, 0.2); }
-        .mode-btn:hover:not(.active) { background: rgba(0, 86, 179, 0.05); }
+        [data-theme='dark'] { --bg: #121212; --text: #e0e0e0; --card: #1e1e1e; --border: #333; --accent: #ffffff; --unselected: #444444; }
 
-        /* 조절 가능한 레이아웃 설정 */
-        .wrapper { display: flex; flex: 1; min-height: 0; position: relative; transition: opacity 0.3s ease; } /* 페이드 효과 추가 */
+        body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+        header { display: flex; justify-content: space-between; align-items: center; padding: 12px 20px; border-bottom: 1px solid var(--border); background: var(--bg); z-index: 100; }
         
-        .pane-left { width: var(--left-width); min-width: 300px; display: flex; flex-direction: column; padding: 15px; box-sizing: border-box; }
+        /* 💡 세련된 모드 전환 버튼 (블랙 & 차콜) */
+        .mode-tabs { display: flex; gap: 8px; background: #f0f0f0; padding: 4px; border-radius: 12px; }
+        [data-theme='dark'] .mode-tabs { background: #252525; }
+        
+        .mode-btn { 
+            padding: 8px 16px; font-size: 0.95rem; font-weight: 600; border: none; border-radius: 8px; 
+            cursor: pointer; transition: all 0.2s ease; background: var(--unselected); color: #bbb;
+        }
+        .mode-btn.active { background: var(--accent); color: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
+        [data-theme='dark'] .mode-btn.active { color: #000; }
+
+        /* 레이아웃 */
+        .wrapper { display: flex; flex: 1; min-height: 0; position: relative; transition: opacity 0.3s ease; }
+        
+        .pane-left { width: var(--left-width); min-width: 350px; display: flex; flex-direction: column; padding: 15px; box-sizing: border-box; }
         
         .resizer { 
             width: 8px; cursor: col-resize; background: transparent; transition: 0.2s;
             display: flex; align-items: center; justify-content: center;
         }
-        .resizer:hover { background: rgba(0, 86, 179, 0.1); }
+        .resizer:hover { background: rgba(0, 0, 0, 0.05); }
         .resizer::after { content: "||"; color: var(--border); font-size: 10px; }
 
         .pane-right { flex: 1; display: grid; grid-template-rows: 1fr 1fr; gap: 15px; padding: 15px; min-width: 400px; }
 
-        .pane { background: var(--card); border: 1px solid var(--border); border-radius: 12px; display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-        .pane-header { padding: 10px 15px; font-weight: bold; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.02); font-size: 0.9rem; }
+        .pane { background: var(--card); border: 1px solid var(--border); border-radius: 12px; display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.03); }
+        .pane-header { padding: 12px 15px; font-weight: bold; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01); font-size: 0.85rem; letter-spacing: -0.02em; }
         .scroll-content { flex: 1; overflow-y: auto; padding: 5px 10px; }
         
-        /* 뉴스 아이템 스타일 */
-        .news-item { padding: 12px; border-bottom: 1px solid var(--border); cursor: pointer; }
-        .news-item:hover { background: rgba(0, 86, 179, 0.03); }
-        .news-item h3 { font-size: 0.92rem; margin: 0 0 5px 0; color: var(--accent); line-height: 1.4; }
-        .news-item p { font-size: 0.85rem; margin: 0; line-height: 1.5; color: var(--text); opacity: 0.9; }
-        .news-item .date { font-size: 0.72rem; color: #999; margin-top: 6px; display: block; }
+        /* 뉴스/국회 아이템 공통 */
+        .item { padding: 15px; border-bottom: 1px solid var(--border); cursor: pointer; transition: background 0.2s; }
+        .item:hover { background: rgba(0, 0, 0, 0.02); }
+        .item h3 { font-size: 0.95rem; margin: 0 0 8px 0; color: var(--accent); line-height: 1.4; font-weight: 700; }
+        .item p { font-size: 0.88rem; margin: 0; line-height: 1.6; color: var(--text); opacity: 0.8; }
+        .item .meta { font-size: 0.75rem; color: #999; margin-top: 8px; display: block; }
 
-        /* 국회 아이템 스타일 추가 */
-        .assembly-item { padding: 12px; border-bottom: 1px solid var(--border); }
-        .assembly-item h3 { font-size: 0.95rem; margin: 0 0 5px 0; color: var(--accent); line-height: 1.4; }
-        .assembly-item p { font-size: 0.82rem; margin: 0; line-height: 1.5; color: var(--text); opacity: 0.9; }
-        .assembly-summary { padding: 15px; font-size: 0.95rem; line-height: 1.6; color: var(--text); }
+        .ai-summary-box { padding: 18px; font-size: 0.95rem; line-height: 1.7; color: var(--text); }
 
-        .tab-btn { padding: 2px 8px; border-radius: 12px; border: 1px solid var(--accent); background: none; color: var(--accent); cursor: pointer; font-size: 0.7rem; margin-left: 4px; }
-        .tab-btn.active { background: var(--accent); color: white; }
+        .tab-btn { padding: 3px 10px; border-radius: 6px; border: 1px solid var(--border); background: none; color: #888; cursor: pointer; font-size: 0.75rem; margin-left: 5px; font-weight: 600; }
+        .tab-btn.active { border-color: var(--accent); color: var(--accent); background: rgba(0,0,0,0.03); }
+
+        /* 📱 모바일 최적화 (세로 배치) */
+        @media (max-width: 768px) {
+            body { overflow-y: auto; height: auto; }
+            header { position: sticky; top: 0; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+            .wrapper { flex-direction: column; opacity: 1 !important; }
+            .pane-left { width: 100% !important; min-width: 0; height: auto; padding: 10px; }
+            .pane-right { width: 100%; min-width: 0; height: auto; display: flex; flex-direction: column; padding: 10px; }
+            .resizer { display: none; }
+            .pane { height: 500px; margin-bottom: 10px; } /* 모바일에서 각 패널 높이 고정 */
+        }
     </style>
 </head>
 <body data-theme="light">
@@ -61,13 +76,13 @@
             <button id="mode-news" class="mode-btn active" onclick="switchMode('news')">뉴스수집기</button>
             <button id="mode-assembly" class="mode-btn" onclick="switchMode('assembly')">국회수집기</button>
         </div>
-        <button style="background:none; border:none; font-size:1.4rem; cursor:pointer;" onclick="toggleTheme()" id="themeIcon">🌙</button>
+        <button style="background:none; border:none; font-size:1.2rem; cursor:pointer;" onclick="toggleTheme()" id="themeIcon">🌙</button>
     </header>
 
     <div class="wrapper" id="mainWrapper">
         <div class="pane-left">
             <div class="pane" style="height:100%">
-                <div class="pane-header"><div id="pane1-header-left">1. 인기뉴스</div> <span id="time-1" style="font-size:0.7rem; color:#999;"></span></div>
+                <div class="pane-header"><div id="pane1-header">1. 인기뉴스</div> <span id="time-1" style="font-size:0.7rem; color:#999;"></span></div>
                 <div id="pane1-content" class="scroll-content"></div>
             </div>
         </div>
@@ -76,11 +91,11 @@
 
         <div class="pane-right">
             <div class="pane">
-                <div class="pane-header"><div id="pane2-header-left">2. 부처/기관 <span id="pane2-tabs"></span></div><span id="time-2" style="font-size:0.7rem; color:#999;"></span></div>
+                <div class="pane-header"><div id="pane2-header">2. 부처/기관 <span id="pane2-tabs"></span></div><span id="time-2" style="font-size:0.7rem; color:#999;"></span></div>
                 <div id="pane2-content" class="scroll-content"></div>
             </div>
             <div class="pane">
-                <div class="pane-header"><div id="pane3-header-left">3. 모니터링 <span id="pane3-tabs"></span></div><span id="time-3" style="font-size:0.7rem; color:#999;"></span></div>
+                <div class="pane-header"><div id="pane3-header">3. 모니터링 <span id="pane3-tabs"></span></div><span id="time-3" style="font-size:0.7rem; color:#999;"></span></div>
                 <div id="pane3-content" class="scroll-content"></div>
             </div>
         </div>
@@ -88,9 +103,8 @@
 
     <script>
         let allData = null;
-        let currentMode = 'news'; // 현재 모드 상태 저장
+        let currentMode = 'news';
         
-        // 너비 조절 로직
         const resizer = document.getElementById('resizer');
         const wrapper = document.getElementById('mainWrapper');
         let isResizing = false;
@@ -111,55 +125,44 @@
             document.getElementById('themeIcon').innerText = isDark ? '🌙' : '☀️';
         }
 
-        function renderNews(targetId, items) {
+        function renderItems(targetId, items) {
             const container = document.getElementById(targetId);
             container.innerHTML = (items && items.length > 0) ? items.map(item => `
-                <div class="news-item" onclick="window.open('${item.link}', '_blank')">
+                <div class="item" onclick="if('${item.link}') window.open('${item.link}', '_blank')">
                     <h3>${item.title.replace(/<[^>]*>?/gm, '')}</h3>
-                    <p>${item.ai_summary}</p>
-                    <span class="date">${item.formatted_date}</span>
-                </div>`).join('') : "<div style='padding:20px; color:#999;'>조건에 맞는 뉴스가 없습니다.</div>";
+                    <p>${item.ai_summary || item.time || ''}</p>
+                    <span class="meta">${item.formatted_date || (item.committee ? item.committee + ' | ' + item.location : '')}</span>
+                </div>`).join('') : "<div style='padding:20px; color:#999;'>데이터가 없습니다.</div>";
         }
 
         function switchTab(p, kw, btn) {
             document.querySelectorAll(`#pane${p}-tabs .tab-btn`).forEach(b => b.classList.remove('active'));
-            btn.classList.add('active'); renderNews(`pane${p}-content`, allData[`pane${p}`][kw]);
+            btn.classList.add('active'); renderItems(`pane${p}-content`, allData[`pane${p}`][kw]);
         }
 
-        // 💡 핵심: 모드 전환 함수
         async function switchMode(mode) {
-            if (currentMode === mode && document.getElementById('pane1-content').innerHTML !== '') return;
             currentMode = mode;
-            
-            // 버튼 활성화 UI 변경
             document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
             document.getElementById(`mode-${mode}`).classList.add('active');
             
-            // 화면 페이드 아웃
-            wrapper.style.opacity = 0;
+            // 모바일이 아닐 때만 페이드 효과
+            if (window.innerWidth > 768) wrapper.style.opacity = 0;
             
             setTimeout(async () => {
-                if (mode === 'news') {
-                    await loadNewsData();
-                } else {
-                    await loadAssemblyData();
-                }
-                // 화면 페이드 인
-                wrapper.style.opacity = 1;
-            }, 300);
+                if (mode === 'news') await loadNewsData();
+                else await loadAssemblyData();
+                if (window.innerWidth > 768) wrapper.style.opacity = 1;
+            }, 200);
         }
 
-        // 기존 뉴스 로딩 함수
         async function loadNewsData() {
-            // 패널 제목을 뉴스용으로 복구
-            document.getElementById('pane1-header-left').innerHTML = `1. 인기뉴스`;
-            document.getElementById('pane2-header-left').innerHTML = `2. 부처/기관 <span id="pane2-tabs"></span>`;
-            document.getElementById('pane3-header-left').innerHTML = `3. 모니터링 <span id="pane3-tabs"></span>`;
-
+            document.getElementById('pane1-header').innerHTML = `1. 인기뉴스`;
+            document.getElementById('pane2-header').innerHTML = `2. 부처/기관 <span id="pane2-tabs"></span>`;
+            document.getElementById('pane3-header').innerHTML = `3. 모니터링 <span id="pane3-tabs"></span>`;
             try {
                 const res = await fetch(`news.json?t=${Date.now()}`); 
                 allData = await res.json();
-                renderNews('pane1-content', allData.pane1);
+                renderItems('pane1-content', allData.pane1);
                 ['pane2', 'pane3'].forEach(id => {
                     const n = id.slice(-1); const kws = Object.keys(allData[id]);
                     const t = document.getElementById(`${id}-tabs`);
@@ -168,66 +171,24 @@
                 });
                 const ts = `업데이트: ${allData.last_updated.substring(11, 16)}`;
                 ['1','2','3'].forEach(n => document.getElementById(`time-${n}`).innerText = ts);
-            } catch (e) { 
-                document.getElementById('pane1-content').innerHTML = "<div style='padding:20px; color:#999;'>뉴스 데이터를 불러올 수 없습니다. 봇이 아직 작동하지 않았거나 오류가 발생했습니다.</div>";
-                document.getElementById('pane2-content').innerHTML = "";
-                document.getElementById('pane3-content').innerHTML = "";
-            }
+            } catch (e) { console.error(e); }
         }
 
-        // 신규 국회 로딩 함수
         async function loadAssemblyData() {
-            // 패널 제목을 국회용으로 변경
-            document.getElementById('pane1-header-left').innerHTML = `🏛️ 1. 핵심 의사일정 (산자/과방/환노/본회의)`;
-            document.getElementById('pane2-header-left').innerHTML = `📜 2. 입법/정책 동향`;
-            document.getElementById('pane3-header-left').innerHTML = `🤖 3. Gemma 3 27B 요약 브리핑`;
-
+            document.getElementById('pane1-header').innerHTML = `🏛️ 핵심 의사일정`;
+            document.getElementById('pane2-header').innerHTML = `📜 입법/정책 동향`;
+            document.getElementById('pane3-header').innerHTML = `🤖 Gemma 3 27B 요약`;
             try {
-                const response = await fetch(`assembly.json?t=${Date.now()}`);
-                const data = await response.json();
-                
-                // 1. 일정 렌더링
-                let scheduleHTML = '';
-                if(data.schedules && data.schedules.length > 0) {
-                    scheduleHTML = data.schedules.map(item => `
-                        <div class="assembly-item">
-                            <h3>[${item.date}] ${item.title}</h3>
-                            <p>🕒 ${item.time} | 📍 ${item.committee} (${item.location})</p>
-                        </div>
-                    `).join('');
-                } else {
-                    scheduleHTML = "<div style='padding:20px; color:#999;'>예정된 주요 일정이 없습니다.</div>";
-                }
-                document.getElementById('pane1-content').innerHTML = scheduleHTML;
-
-                // 2. 법안 (임시 공사 중 화면)
-                document.getElementById('pane2-content').innerHTML = `
-                    <div style="padding:40px 20px; color:var(--text); opacity:0.8; text-align:center;">
-                        <span style="font-size:2.5rem;">🚧</span><br><br>
-                        <strong>의안(법안) 수집 API 연동 대기 중</strong><br><br>
-                        <span style="font-size:0.85rem; color:#888;">국회 활용 승인이 완료되면<br>이곳에 KTR 관련 법안이 자동 업데이트됩니다.</span>
-                    </div>
-                `;
-
-                // 3. AI 요약 브리핑
-                const summaryHtml = data.summary ? data.summary.replace(/\n/g, '<br>') : "요약 정보가 없습니다.";
-                document.getElementById('pane3-content').innerHTML = `
-                    <div class="assembly-summary">${summaryHtml}</div>
-                `;
-
-                // 업데이트 시간 표시
+                const res = await fetch(`assembly.json?t=${Date.now()}`);
+                const data = await res.json();
+                renderItems('pane1-content', data.schedules);
+                document.getElementById('pane2-content').innerHTML = `<div style="padding:40px; text-align:center; opacity:0.5;">의안 데이터 연동 대기 중</div>`;
+                document.getElementById('pane3-content').innerHTML = `<div class="ai-summary-box">${data.summary ? data.summary.replace(/\n/g, '<br>') : '요약 중...'}</div>`;
                 const ts = `업데이트: ${data.last_updated.substring(11, 16)}`;
                 ['1','2','3'].forEach(n => document.getElementById(`time-${n}`).innerText = ts);
-                
-            } catch (e) {
-                document.getElementById('pane1-content').innerHTML = "<div style='padding:20px; color:#999;'>국회 데이터(assembly.json)를 수집 중이거나 아직 생성되지 않았습니다.</div>";
-                document.getElementById('pane2-content').innerHTML = "";
-                document.getElementById('pane3-content').innerHTML = "";
-                ['1','2','3'].forEach(n => document.getElementById(`time-${n}`).innerText = "");
-            }
+            } catch (e) { console.error(e); }
         }
 
-        // 초기 실행: 뉴스 모드로 시작
         switchMode('news');
     </script>
 </body>
