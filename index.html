@@ -7,71 +7,47 @@
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap" rel="stylesheet">
     <style>
         :root { 
-            --bg: #ffffff; 
-            --text: #222; 
-            --card: #fdfdfd; 
-            --border: #e0e0e0; 
-            --accent: #000000;      /* 선택 시: 블랙 */
-            --unselected: #777777;  /* 미선택 시: 차콜 */
-            --news-title: #004a99;  /* 뉴스 제목: 파란색 */
-            --left-width: 50%;      /* 기본 5:5 설정 */
+            --bg: #ffffff; --text: #222; --card: #fdfdfd; --border: #e0e0e0; 
+            --accent: #000; --unselected: #777; --news-title: #004a99; --left-width: 50%;
+            --sanja-color: #007bff; --gihyu-color: #ffc107;
         }
-        [data-theme='dark'] { 
-            --bg: #121212; 
-            --text: #e0e0e0; 
-            --card: #1e1e1e; 
-            --border: #333; 
-            --accent: #ffffff;      /* 다크모드 선택 */
-            --unselected: #555555; 
-            --news-title: #59a5ff; 
-        }
+        [data-theme='dark'] { --bg: #121212; --text: #e0e0e0; --card: #1e1e1e; --border: #333; --accent: #fff; --unselected: #555; --news-title: #59a5ff; }
 
         body { background: var(--bg); color: var(--text); font-family: -apple-system, sans-serif; margin: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
-        header { display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; border-bottom: 1px solid var(--border); background: var(--bg); z-index: 100; flex-shrink: 0; }
-        
-        h1 { font-family: 'Nanum Myeongjo', serif; font-size: 1.5rem; margin: 0; cursor: default; flex-shrink: 0; }
-
-        /* 텍스트 메뉴 스타일 */
+        header { display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; border-bottom: 1px solid var(--border); background: var(--bg); flex-shrink: 0; z-index: 100; }
+        h1 { font-family: 'Nanum Myeongjo', serif; font-size: 1.5rem; margin: 0; }
         .mode-tabs { display: flex; gap: 25px; margin-left: 40px; flex: 1; }
-        .mode-btn { 
-            font-size: 1.1rem; font-weight: 700; border: none; background: none; padding: 0;
-            cursor: pointer; transition: color 0.2s ease; color: var(--unselected);
-        }
-        .mode-btn.active { color: var(--accent); position: relative; }
+        .mode-btn { font-size: 1.1rem; font-weight: 700; border: none; background: none; cursor: pointer; color: var(--unselected); position: relative; }
+        .mode-btn.active { color: var(--accent); }
         .mode-btn.active::after { content: ''; position: absolute; bottom: -5px; left: 0; width: 100%; height: 2px; background: var(--accent); }
 
-        .wrapper { display: flex; flex: 1; min-height: 0; position: relative; }
-        .pane-left { width: var(--left-width); min-width: 300px; display: flex; flex-direction: column; padding: 15px; box-sizing: border-box; }
-        
-        .resizer { width: 8px; cursor: col-resize; background: transparent; transition: 0.2s; display: flex; align-items: center; justify-content: center; }
-        .resizer:hover { background: rgba(0, 0, 0, 0.05); }
+        .wrapper { display: flex; flex: 1; min-height: 0; }
+        .pane-left { width: var(--left-width); display: flex; flex-direction: column; padding: 15px; box-sizing: border-box; }
+        .resizer { width: 8px; cursor: col-resize; display: flex; align-items: center; justify-content: center; }
         .resizer::after { content: "||"; color: var(--border); font-size: 10px; }
-
-        .pane-right { flex: 1; display: grid; grid-template-rows: 1fr 1fr; gap: 15px; padding: 15px; min-width: 350px; }
-        .pane { background: var(--card); border: 1px solid var(--border); border-radius: 12px; display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .pane-right { flex: 1; display: grid; grid-template-rows: 1fr 1fr; gap: 15px; padding: 15px; }
+        .pane { background: var(--card); border: 1px solid var(--border); border-radius: 12px; display: flex; flex-direction: column; overflow: hidden; }
         .pane-header { padding: 12px 15px; font-weight: bold; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01); font-size: 0.85rem; color: #888; }
         .scroll-content { flex: 1; overflow-y: auto; padding: 5px 10px; }
-        
-        /* 뉴스 아이템 폰트 키움 및 파란색 제목 */
-        .item { padding: 18px 15px; border-bottom: 1px solid var(--border); cursor: pointer; transition: background 0.1s; }
-        .item:hover { background: rgba(0, 0, 0, 0.02); }
-        .item h3 { font-size: 1.2rem; margin: 0 0 10px 0; color: var(--news-title); line-height: 1.4; font-weight: 700; }
-        .item p { font-size: 0.95rem; margin: 0; line-height: 1.6; color: var(--text); opacity: 0.85; }
-        .item .meta { font-size: 0.8rem; color: #999; margin-top: 10px; display: block; }
 
-        .ai-box { padding: 20px; font-size: 1rem; line-height: 1.8; color: var(--text); }
-        .tab-btn { padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); background: none; color: #888; cursor: pointer; font-size: 0.75rem; margin-left: 5px; font-weight: 600; }
-        .tab-btn.active { border-color: var(--accent); color: var(--accent); background: rgba(0,0,0,0.03); }
+        /* 달력 스타일 */
+        #calendar-container { padding: 10px; background: rgba(0,0,0,0.02); border-bottom: 1px solid var(--border); display: none; }
+        .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); text-align: center; gap: 5px; font-size: 0.8rem; }
+        .cal-day { padding: 5px; position: relative; border-radius: 4px; }
+        .cal-dot { width: 5px; height: 5px; border-radius: 50%; display: inline-block; margin: 0 1px; }
+        .dot-sanja { background: var(--sanja-color); }
+        .dot-gihyu { background: var(--gihyu-color); }
 
-        /* 모바일 최적화 (세로 배치) */
+        /* 아이템 스타일 */
+        .item { padding: 18px 15px; border-bottom: 1px solid var(--border); cursor: pointer; position: relative; }
+        .item h3 { font-size: 1.2rem; margin: 0 0 10px 0; color: var(--news-title); display: flex; align-items: center; gap: 8px; }
+        .item p { font-size: 0.95rem; margin: 0; line-height: 1.6; opacity: 0.85; }
+        .type-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+
         @media (max-width: 768px) {
             body { overflow-y: auto; height: auto; }
-            header { position: sticky; top: 0; padding: 10px 20px; flex-wrap: wrap; }
-            .mode-tabs { margin: 10px 0 0 0; width: 100%; order: 3; gap: 20px; }
             .wrapper { flex-direction: column; }
-            .pane-left { width: 100% !important; min-width: 0; height: auto; padding: 10px; }
-            .pane-right { width: 100%; min-width: 0; height: auto; display: flex; flex-direction: column; padding: 10px; }
-            .resizer { display: none; }
+            .pane-left, .pane-right { width: 100% !important; height: auto; padding: 10px; }
             .pane { height: 500px; margin-bottom: 15px; }
         }
     </style>
@@ -89,6 +65,7 @@
     <div class="wrapper" id="mainWrapper">
         <div class="pane-left">
             <div class="pane" style="height:100%">
+                <div id="calendar-container"></div>
                 <div class="pane-header"><div id="pane1-title">인기뉴스</div> <span id="time-1"></span></div>
                 <div id="pane1-content" class="scroll-content"></div>
             </div>
@@ -109,20 +86,6 @@
     <script>
         let allData = null;
         let currentMode = 'news';
-        
-        const resizer = document.getElementById('resizer');
-        const wrapper = document.getElementById('mainWrapper');
-        let isResizing = false;
-
-        resizer.addEventListener('mousedown', () => isResizing = true);
-        document.addEventListener('mousemove', (e) => {
-            if (!isResizing) return;
-            const x = e.clientX;
-            if (x > 300 && x < window.innerWidth - 350) {
-                document.documentElement.style.setProperty('--left-width', `${x}px`);
-            }
-        });
-        document.addEventListener('mouseup', () => isResizing = false);
 
         function toggleTheme() {
             const b = document.body; const isDark = b.getAttribute('data-theme') === 'dark';
@@ -132,89 +95,94 @@
 
         function renderItems(targetId, items) {
             const container = document.getElementById(targetId);
-            if (!items || items.length === 0) {
-                container.innerHTML = "<div style='padding:20px; color:#999;'>데이터가 없습니다.</div>";
-                return;
-            }
-            container.innerHTML = items.map(item => `
+            if (!items || items.length === 0) { container.innerHTML = "<div style='padding:20px; color:#999;'>데이터가 없습니다.</div>"; return; }
+            container.innerHTML = items.map(item => {
+                let dot = "";
+                if(item.type === 'sanja') dot = '<div class="type-dot" style="background:var(--sanja-color)"></div>';
+                if(item.type === 'gihyu') dot = '<div class="type-dot" style="background:var(--gihyu-color)"></div>';
+                return `
                 <div class="item" onclick="if('${item.link}') window.open('${item.link}', '_blank')">
-                    <h3>${item.title.replace(/<[^>]*>?/gm, '')}</h3>
+                    <h3>${dot}${item.title.replace(/<[^>]*>?/gm, '')}</h3>
                     <p>${item.ai_summary || item.time || ''}</p>
-                    <span class="meta">${item.formatted_date || (item.committee ? item.committee + ' | ' + item.location : '')}</span>
-                </div>`).join('');
-        }
-
-        function switchTab(p, kw, btn) {
-            document.querySelectorAll(`#pane${p}-tabs .tab-btn`).forEach(b => b.classList.remove('active'));
-            btn.classList.add('active'); 
-            renderItems(`pane${p}-content`, allData[`pane${p}`][kw]);
+                    <span style="font-size:0.8rem; color:#999; margin-top:8px; display:block;">${item.formatted_date || (item.committee + ' | ' + item.location)}</span>
+                </div>`;
+            }).join('');
         }
 
         async function switchMode(mode) {
             currentMode = mode;
             document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
             document.getElementById(`mode-${mode}`).classList.add('active');
-            
-            if (mode === 'news') await loadNewsData();
-            else await loadAssemblyData();
+            document.getElementById('calendar-container').style.display = (mode === 'assembly') ? 'block' : 'none';
+            if (mode === 'news') await loadNewsData(); else await loadAssemblyData();
         }
 
         async function loadNewsData() {
             document.getElementById('pane1-title').innerText = "인기뉴스";
             document.getElementById('pane2-title').innerHTML = '부처/기관 <span id="pane2-tabs"></span>';
             document.getElementById('pane3-title').innerHTML = 'AI 키워드 타게팅 <span id="pane3-tabs"></span>';
-            
             try {
-                const res = await fetch(`news.json?t=${Date.now()}`); 
-                if (!res.ok) throw new Error();
-                allData = await res.json();
-                
+                const res = await fetch(`news.json?t=${Date.now()}`); allData = await res.json();
                 renderItems('pane1-content', allData.pane1);
                 ['pane2', 'pane3'].forEach(id => {
-                    const n = id.slice(-1); 
-                    const kws = Object.keys(allData[id]);
+                    const n = id.slice(-1); const kws = Object.keys(allData[id]);
                     const t = document.getElementById(`pane${n}-tabs`);
                     if(t) {
                         t.innerHTML = kws.map((kw, i) => `<button class="tab-btn ${i===0?'active':''}" onclick="switchTab(${n},'${kw}',this)">${kw}</button>`).join('');
                         switchTab(n, kws[0], t.firstChild);
                     }
                 });
-                const ts = `업데이트: ${allData.last_updated.substring(11, 16)}`;
-                ['1','2','3'].forEach(n => document.getElementById(`time-${n}`).innerText = ts);
-            } catch (e) {
-                document.getElementById('pane1-content').innerHTML = "<div style='padding:20px;'>데이터를 불러오는 중입니다...</div>";
-            }
+                updateTimestamp(allData.last_updated);
+            } catch (e) { }
         }
 
-        async function loadAssemblyData() {  // 1. 제목을 먼저 바꿉니다. (이 과정에서 기존 뉴스 탭 스팬은 자동 삭제됨)
+        function switchTab(p, kw, btn) {
+            document.querySelectorAll(`#pane${p}-tabs .tab-btn`).forEach(b => b.classList.remove('active'));
+            btn.classList.add('active'); renderItems(`pane${p}-content`, allData[`pane${p}`][kw]);
+        }
+
+        async function loadAssemblyData() {
             document.getElementById('pane1-title').innerText = "핵심 의사일정";
-            document.getElementById('pane2-title').innerText = "입법/정책 동향"; // innerText 사용 권장
-            document.getElementById('pane3-title').innerText = "AI 요약";
-
-    // 💡 중요: 여기서 document.getElementById('pane2-tabs') 등을 호출하면 에러가 나므로 삭제함
-
+            document.getElementById('pane2-title').innerText = "입법/정책 동향";
+            document.getElementById('pane3-title').innerText = "요약";
+            document.getElementById('pane2-tabs').innerHTML = ''; document.getElementById('pane3-tabs').innerHTML = '';
             try {
-                const res = await fetch(`assembly.json?t=${Date.now()}`);
-                if (!res.ok) throw new Error();
-                const data = await res.json();
-        
-        // 데이터 렌더링
+                const res = await fetch(`assembly.json?t=${Date.now()}`); const data = await res.json();
                 renderItems('pane1-content', data.schedules);
-            document.getElementById('pane2-content').innerHTML = `<div style="padding:50px; text-align:center; opacity:0.4;">의안 데이터 API 연동 대기 중</div>`;
-            document.getElementById('pane3-content').innerHTML = `<div class="ai-box">${data.summary ? data.summary.replace(/\n/g, '<br>') : '요약 정보가 없습니다.'}</div>`;
-        
-        // 업데이트 시간 표시
-                const ts = `업데이트: ${data.last_updated.substring(11, 16)}`;
-                ['1','2','3'].forEach(n => {
-                const timeEl = document.getElementById(`time-${n}`);
-                if (timeEl) timeEl.innerText = ts;
-                });
-            } catch (e) {
-                console.error("국회 데이터 로드 실패:", e); // 디버깅용 로그
-                document.getElementById('pane1-content').innerHTML = "<div style='padding:20px;'>데이터가 아직 생성되지 않았습니다.</div>";
-                document.getElementById('pane2-content').innerHTML = "";
-                document.getElementById('pane3-content').innerHTML = "";
+                renderCalendar(data.schedules);
+                document.getElementById('pane2-content').innerHTML = `<div style="padding:40px; text-align:center; opacity:0.4;">의안 데이터 API 연동 대기 중</div>`;
+                document.getElementById('pane3-content').innerHTML = `<div style="padding:20px; line-height:1.8;">${data.summary.replace(/\n/g, '<br>')}</div>`;
+                updateTimestamp(data.last_updated);
+            } catch (e) { }
+        }
+
+        function renderCalendar(schedules) {
+            const now = new Date();
+            const year = now.getFullYear(); const month = now.getMonth();
+            const firstDay = new Date(year, month, 1).getDay();
+            const lastDate = new Date(year, month + 1, 0).getDate();
+            
+            let html = `<div style="text-align:center; font-weight:bold; margin-bottom:5px;">${month+1}월 국회 상황판</div><div class="cal-grid">`;
+            const days = ['일','월','화','수','목','금','토'];
+            days.forEach(d => html += `<div style="color:#999">${d}</div>`);
+            for(let i=0; i<firstDay; i++) html += `<div></div>`;
+            for(let d=1; d<=lastDate; d++) {
+                const dateStr = `${year}-${String(month+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+                const daily = schedules.filter(s => s.date === dateStr);
+                let dots = "";
+                if(daily.some(s => s.type === 'sanja')) dots += '<span class="cal-dot dot-sanja"></span>';
+                if(daily.some(s => s.type === 'gihyu')) dots += '<span class="cal-dot dot-gihyu"></span>';
+                html += `<div class="cal-day">${d}${dots?'<br>'+dots:''}</div>`;
             }
+            html += `</div>`;
+            document.getElementById('calendar-container').innerHTML = html;
+        }
+
+        function updateTimestamp(ts) {
+            ['1','2','3'].forEach(n => {
+                const el = document.getElementById(`time-${n}`);
+                if(el) el.innerText = `업데이트: ${ts.substring(11, 16)}`;
+            });
         }
 
         switchMode('news');
