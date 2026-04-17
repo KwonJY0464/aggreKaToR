@@ -1,69 +1,13 @@
 {
-  "last_updated": "2026-04-17 04:09:50",
+  "last_updated": "2026-04-17 04:54:20",
   "schedules": [
-    {
-      "date": "2026-04-30",
-      "time": "19:20",
-      "title": "필수의료 강화 및 의료격차 해소를 위한 과제: 찾아가는 현장 토론회 in 충북",
-      "committee": "",
-      "location": "기타 : 오송첨단의료산업진흥재단 커뮤니케이션센터 대회의실(C센터 2층)",
-      "type": "etc"
-    },
     {
       "date": "2026-04-30",
       "time": "14:00~17:00",
       "title": "탄소중립 선언 5년 지방정부의 성과와 한계",
       "committee": "",
       "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-30",
-      "time": "14:00~16:30",
-      "title": "돌봄통합지원법의 원활한 시행을 위한 국회토론회",
-      "committee": "",
-      "location": "의원회관 제5간담회의실(208호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-30",
-      "time": "10:30",
-      "title": "제137회 세계 노동자의 날 기념 시리즈 좌담회: 다시, 노동의 시간: 5회차 다시, 노동의 시간",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-29",
-      "time": "15:00~17:00",
-      "title": "제1회 학교상담 국회정책 토론회",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-29",
-      "time": "10:00",
-      "title": "2026 지방선거와 여성의 대표성! 어디까지 왔는가? 정책 토론회",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-28",
-      "time": "14:00",
-      "title": "성소수자 노동실태조사 결과 발표 국회토론회",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-28",
-      "time": "10:00~12:30",
-      "title": "소년법 개정을 위한 국회 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-28",
@@ -71,15 +15,7 @@
       "title": "제434회국회(임시회) 제5차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-28",
-      "time": "08:00",
-      "title": "미·중 AI 기술 패권 경쟁 속 대한민국 성장전략",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-27",
@@ -87,7 +23,7 @@
       "title": "버리지 않고 고치는 사회: 수리할 권리와 순환경제사회전환을 위한 정책토론회",
       "committee": "",
       "location": "의원회관 제11간담회의실(216호)",
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-27",
@@ -95,111 +31,7 @@
       "title": "지자체 재생에너지 공간계획 의무화 및 탄소중립기본법 개정 과제",
       "committee": "",
       "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-27",
-      "time": "14:00",
-      "title": "4·27 판문점선언 8주년 기념식: \"우리가 지키는 평화의 힘\"",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-27",
-      "time": "14:00",
-      "title": "안중근의사 유해발굴 봉환을 위해 국회·범정부 추진과제 마련 국회토론회",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-27",
-      "time": "13:00",
-      "title": "집단소송법 제정안 법리적 쟁점과 오남용 방지 대책",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-27",
-      "time": "10:00",
-      "title": "소비자안전기본법 제정을 위한 입법 공청회",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-23",
-      "time": "18:20~19:10",
-      "title": "창립 21주년 기념식 국가발전정책연구원 제100차 정책세미나 \"리더십을 넘어 거버넌스로\"",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-23",
-      "time": "15:00",
-      "title": "고령화 시대, 생애 전주기 예방접종 전략 정책토론회",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-23",
-      "time": "14:00",
-      "title": "제434-6차(의사일정)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-23",
-      "time": "13:30~15:30",
-      "title": "지식의 평등으로 대체자료 지원 체계 개선 방안 모색 간담회",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-23",
-      "time": "10:30",
-      "title": "제137회 세계 노동자의 날 기념 시리즈 좌담회: 다시, 노동의 시간: 4회차 공공의 노동",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-23",
-      "time": "10:00~12:00",
-      "title": "AI·디지털 전환 시대, 직업훈련의 품질개선과 혁신, 지원 개선 방안",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-23",
-      "time": "10:00",
-      "title": "부동산정상화, 주거안정의 새로운 길을 묻다",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "15:00",
-      "title": "제434회국회(임시회) 제3차 정보통신방송미디어법안심사소위원회",
-      "committee": "과학기술정보방송통신위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "14:30~17:00",
-      "title": "방송미디어통신위원회 시대 방송통신발전기금 제도개선 방안",
-      "committee": "",
-      "location": "의원회관 제1간담회의실(201호)",
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-22",
@@ -207,79 +39,7 @@
       "title": "K콘텐츠 산업 동반성장을 위한 정책방향과 과제",
       "committee": "",
       "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "14:00~17:00",
-      "title": "공기업 혁신: KORAIL-SR 통합의 의의와 방향",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "14:00",
-      "title": "한국 이주노동제도 진단과 대안 토론회",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "14:00",
-      "title": "류우익 서울대 명예교수 초청특강 ［판이 흔들릴 때］",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "10:30",
-      "title": "디지털자산 범죄의 진화와 금융시장 대응 전략을 위한 학술 컨퍼런스 개최",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "10:30",
-      "title": "2026 대한민국노동이사 통합 대회",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "10:00~14:30",
-      "title": "제3회 농림수산식품 벤처투자 정책포럼",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "10:00~13:00",
-      "title": "예술 활동 증명, 현장의 언어로 묻다",
-      "committee": "",
-      "location": "의원회관 제5간담회의실(208호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "10:00~12:00",
-      "title": "자궁경부암 조기 퇴치를 위한 국가검진 체계 전환 정책토론회",
-      "committee": "",
-      "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-22",
-      "time": "10:00~12:00",
-      "title": "아동·청소년 SNS 규제추세에 따른 대응방안 모색",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-21",
@@ -287,15 +47,7 @@
       "title": "한국 영상 콘텐츠 산업의 경제적 기여 보고서(ECR) 발간 세미나",
       "committee": "",
       "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "14:00",
-      "title": "종교시설과 노유자시설간 복수용도 허용에 관한 시행규칙 활성화 방안 토론회",
-      "committee": "",
-      "location": "의원회관 제11간담회의실(216호)",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-21",
@@ -303,87 +55,7 @@
       "title": "K-리커머스! 새로운 산업으로, 세계시장으로: 조세특례제한법 개정안의 의미와 효과",
       "committee": "",
       "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "14:00",
-      "title": "발전공기업 '하나로 통합'이 답이다!",
-      "committee": "",
-      "location": "국회도서관 소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "13:30~16:00",
-      "title": "OTT시대 FAST의 등장과 미디어 시장 변화 전망과 정책 제언",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "11:00~11:50",
-      "title": "안전한 청춘 버스: 2030 청춘건설노동자와 함께하는 정책간담회",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "10:00~12:00",
-      "title": "개방형 AI 생태계 구축을 위한 국회 토론회",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "10:00",
-      "title": "이재명 정부 국정과제 세부 정책 수립을 위한 사회연대경제 연속토론회",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "10:00",
-      "title": "상법 개정 이후 남은 주주 보호의 과제: 주가누르기 방지와 고의상폐 차단을 위한 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "10:00",
-      "title": "특수고용·플랫폼 노동자성 인정 근로기준법 개정 촉구 증언대회",
-      "committee": "",
-      "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "10:00",
-      "title": "제3회 벤처·스타트업 성장포럼",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "10:00",
-      "title": "유방암 여성 환자 30만 시대, 재발 관리의 현황과 과제",
-      "committee": "",
-      "location": "의원회관 제11간담회의실(216호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-21",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제2차 정보통신방송미디어법안심사소위원회",
-      "committee": "과학기술정보방송통신위원회",
-      "location": null,
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-21",
@@ -391,95 +63,7 @@
       "title": "왜 한국 농업은 '산업'이 되지 못했는가?",
       "committee": "",
       "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-20",
-      "time": "15:00",
-      "title": "우주데이터센터포럼 출범 국회 토론회",
-      "committee": "",
-      "location": "국회도서관 소강당",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-20",
-      "time": "14:00",
-      "title": "지역화학사고대비체계 활성화를 위한 국회토론회",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-20",
-      "time": "14:00",
-      "title": "제434회국회(임시회) 제1차 법안심사소위원회",
-      "committee": "교육위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-20",
-      "time": "13:30~16:00",
-      "title": "계단식 탈수급을 위한 기초생활보장제도 개선 입법 간담회",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-20",
-      "time": "10:00",
-      "title": "담배사업법 개정을 위한 국회세미나",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-20",
-      "time": "10:00",
-      "title": "「국방우주법」 제정을 위한 국회 정책토론회",
-      "committee": "",
-      "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-20",
-      "time": "10:00",
-      "title": "피지컬AI 최강국 도약을 위한 입법 논의 라운드 테이블",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-20",
-      "time": "09:30",
-      "title": "간첩은 누가 잡나?",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "18:00",
-      "title": "피지컬AI와 로보틱스, 로보틱스랩의 도전",
-      "committee": "",
-      "location": "의원회관 제5간담회의실(208호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "17:00",
-      "title": "본회의 (본회의장)",
-      "committee": "",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "17:00",
-      "title": "제434-5차(의사일정)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-17",
@@ -487,7 +71,7 @@
       "title": "제434회국회(임시회) 제2차 전체회의",
       "committee": "법제사법위원회",
       "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-17",
@@ -495,95 +79,7 @@
       "title": "제434회국회(임시회) 제4차 전체회의",
       "committee": "재정경제기획위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "14:00",
-      "title": "지방선거 승리를 위한 다문화위원회 정책 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "14:00",
-      "title": "Water-Energy-AI Nexus 활성화 어떻게 할 것인가?: 국회물포럼 제34차 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "13:30",
-      "title": "육·해·공군 사관학교 통합 이슈 진단 정책 포럼",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "13:00~18:00",
-      "title": "디지털자산기본법을 둘러싼 법적 쟁점",
-      "committee": "",
-      "location": "국회도서관 강당",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "11:00",
-      "title": "제434회국회(임시회) 제8차 공직선거법및지방선거구제개편심사소위원회(정치개혁특별위원회)",
-      "committee": "행정안전위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "10:30",
-      "title": "제434회국회(임시회) 제3차 정치관계법 심사소위원회(정치개혁특별위원회)",
-      "committee": "행정안전위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "10:00~12:30",
-      "title": "제15차 해운·조선·물류 안정화 포럼·",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "10:00~12:00",
-      "title": "미국의 스테이블코인 규율체계와 한국 디지털자산 입법 과제",
-      "committee": "",
-      "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "09:30",
-      "title": "2026 국가비전 입법정책 컨퍼런스 (의원회관 제1소회의실)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-17",
-      "time": "09:00",
-      "title": "국회입법조사처- 국세청 불평등지수 MOU 체결 (국회접견실)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "15:00~17:30",
-      "title": "직장 내 괴롭힘, 왜 반복되는가 -일터의 존엄과 안전을 위한 제도 개선 과제-",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-16",
@@ -591,55 +87,7 @@
       "title": "수소연료전지 산업 활성화를 통한 GX&AX  추진과 수출산업화",
       "committee": "",
       "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "15:00",
-      "title": "세월호참사 12주기 기억식(안산 화랑유원지 제3주차장)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "14:42",
-      "title": "정치 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "14:19",
-      "title": "여수 택배노동자 산재사고 의식불명 41일째, CJ대한통운 책임 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "14:01",
-      "title": "원폭피해자법 개정안 발의 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "14:00~16:00",
-      "title": "제15차 K-바이오헬스 포럼: 기증 인체조직의 올바른 사용을 위한 합리적 규제 방안",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "13:43",
-      "title": "국민의힘 최보윤 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-16",
@@ -651,99 +99,11 @@
     },
     {
       "date": "2026-04-16",
-      "time": "13:23",
-      "title": "택시발전법 개정안 위헌성 규탄 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "13:01",
-      "title": "KT토탈영업 TF 해체 환영 및 개혁 과제 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "11:40",
-      "title": "지방소멸대응 자문위원회 결과보고회 (국회접견실)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "11:19",
-      "title": "6.3 지방선거 여성농민 요구안 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "10:59",
-      "title": "국가기관 공무직 처우 실태 및 기획예산처 원청교섭 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "10:43",
-      "title": "교육대개혁 요구 1,000인 선언 추진 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "10:30",
-      "title": "PBR 1배 미만 상장사 기업가치 제고 공시 의무화를 통한 자본시장 선진화 방안",
-      "committee": "",
-      "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "10:30",
-      "title": "제137회 세계 노동자의 날 기념 시리즈 좌담회: 다시, 노동의 시간: 3회차 내일의 노동",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
       "time": "10:30",
       "title": "제434회국회(임시회) 제3차 전체회의",
       "committee": "국토교통위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "10:06",
-      "title": "디지털자산 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "10:00~12:30",
-      "title": "전국 공원묘원 플라스틱 조화 문제 해결을 위한 국회 토론회",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "10:00~12:00",
-      "title": "\"피해 어민의 목소리를 듣다\": 감척지원금 과세 문제의 올바른 해결을 위한 국회 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-16",
@@ -751,23 +111,7 @@
       "title": "제434회국회(임시회) 제8차 전체회의(윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사특별위원회)",
       "committee": "특별위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "10:00",
-      "title": "AI 전환 시대, 청소년활동 지원 정책 방향 간담회",
-      "committee": "",
-      "location": "기타 : 국회 의원회관 제4공용회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "10:00",
-      "title": "이재명 정부 노동구조개혁 무엇을 어떻게 할 것인가?",
-      "committee": "",
-      "location": "국회도서관 소회의실",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-16",
@@ -775,23 +119,7 @@
       "title": "한반도 평화공존을 위한 남북 에너지 협력방안 마련 토론회",
       "committee": "",
       "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "09:39",
-      "title": "더불어민주당 서울시당 대학생위원회 정책 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "09:30",
-      "title": "공론화위원회 백서 전달 및 미래세대 대표 면담 (국회접견실)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-16",
@@ -799,71 +127,7 @@
       "title": "2026 상반기 탄소중립 K-Tech 포럼",
       "committee": "",
       "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-16",
-      "time": "08:58",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "16:00",
-      "title": "마산 화양연화 르네상스를 위한 국회토론회",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "15:49",
-      "title": "국민의힘 박충권 의원(원내수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "15:29",
-      "title": "국민의힘 박성훈 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "15:16",
-      "title": "더불어민주당 이원호 남양주시장 예비후보 정책 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "15:00",
-      "title": "미래 장교 양성체계 혁신을 위한 사관학교 통합 세미나",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "14:25",
-      "title": "은평에서 시작되는 새로운 변화와 희망 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "14:20",
-      "title": "국민의힘 서울시당 청년정치 거점 특구 지정 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-15",
@@ -879,135 +143,7 @@
       "title": "AI 접근성과 산업 경쟁력: 정책과제와 산업 대응",
       "committee": "",
       "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "14:00",
-      "title": "국가보안법 피해자 연속 증언 프로젝트 목소리들",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "14:00",
-      "title": "취약계층노동자· 미등록이주노동자 건강권 보장을 위한 토론회",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "13:59",
-      "title": "상속세(가업상속공제) 법안 발의 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "13:38",
-      "title": "공공기관의 운영에 관한 법률 일부개정법률안 발의 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "13:30~16:30",
-      "title": "글로벌 기관투자자 라운드테이블: ICGN&더불어민주당 K-자본시장 특별위원회",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "13:19",
-      "title": "더불어민주당 박해철 의원(대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "11:41",
-      "title": "울산광역시장 단일화 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "11:19",
-      "title": "반개혁 농협 기득권 카르텔 규탄, 농협개혁 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "11:00",
-      "title": "해병대 창설 77주년 기념: 해병대 위상 강화를 위한 준4군 체제 입법 설명회 및 원로 위로 행사",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:59",
-      "title": "조작기소 국조특위 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:40",
-      "title": "개인정보 유출기업 영업정지법 발의 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:30",
-      "title": "AI 시대의 K-게임, 노동자에게 길을 묻다",
-      "committee": "",
-      "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:29",
-      "title": "더불어민주당 문금주 의원(원내대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:03",
-      "title": "더불어민주당 세월호특별위원회 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:00~12:00",
-      "title": "장애인 치과의료 접근성 개선을 위한 지역장애인구강진료센터의 제도화와 지속가능한 운영방안 모색",
-      "committee": "",
-      "location": "의원회관 제11간담회의실(216호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:00",
-      "title": "적극적이고 투명한 주주권 행사를 위한 개선방안 토론회",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-15",
@@ -1015,7 +151,7 @@
       "title": "지속가능한 AI 시대를 위한 탄소중립과 산업정책 토론회",
       "committee": "",
       "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-15",
@@ -1023,31 +159,7 @@
       "title": "콘텐츠산업 특성을 반영한 기업육성 정책 차별화 방안 토론회",
       "committee": "",
       "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 교통법안심사소위원회",
-      "committee": "국토교통위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:00",
-      "title": "특수교육대상 영유아 및 학생의 교육권 강화를 위한 학급 운영기준 개선 토론회",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 전체회의",
-      "committee": "외교통일위원회",
-      "location": null,
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-15",
@@ -1055,39 +167,15 @@
       "title": "제434회국회(임시회) 제3차 전체회의",
       "committee": "재정경제기획위원회",
       "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-15",
-      "time": "09:42",
-      "title": "청호나이스 밀실매각 규탄 및 사모펀드 매각 저지 기자회견",
-      "committee": "",
+      "time": "10:00",
+      "title": "제434회국회(임시회) 제1차 전체회의",
+      "committee": "외교통일위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "09:40",
-      "title": "부마민주항쟁 헌법전문 수록 범시민추진위원회 결의대회 (월영광장)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-15",
-      "time": "08:30",
-      "title": "경남MBC 라디오 &lsquo;좋은아침입니다&rsquo; 출연 (경남MBC)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "17:42",
-      "title": "국민의힘 최보윤 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-14",
@@ -1095,55 +183,7 @@
       "title": "제434회국회(임시회) 제4차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "15:45",
-      "title": "세종시장 후보 단일화에 대한 더불어민주당 중앙당 입장 마련 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "15:20",
-      "title": "K-로봇 피지컬AI 실증공유센터 구축 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "14:58",
-      "title": "강원도 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "14:40",
-      "title": "부산대학교 부마민주항쟁탑 참배 및 부마민주항쟁로명예거리 방문(부산대학교 민주언덕(부마민중항쟁탑 앞))",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "14:30",
-      "title": "2026 美 국방전략 대변혁과 한미동맹 비전",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "14:19",
-      "title": "진보당 김종훈 울산시장 후보 단일화 관련 입장 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-14",
@@ -1151,39 +191,7 @@
       "title": "경남형 에너지 일자리 창출을 위한 풍력터빈 민관합작법인 설립 제안",
       "committee": "",
       "location": "의원회관 제1간담회의실(201호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "14:00~16:30",
-      "title": "청소년 성범죄 대응과 피해자 회복을 위한 통합적 접근 모색",
-      "committee": "",
-      "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "14:00",
-      "title": "'보육교사 대 아동 비율 정책의 검토 및 개선 방안 모색' 정책 토론회",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "14:00",
-      "title": "탄소불평등 해결없이 기후정의 없다",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "14:00",
-      "title": "제434회국회(임시회) 제2차 과학기술원자력법안심사소위원회",
-      "committee": "과학기술정보방송통신위원회",
-      "location": null,
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-14",
@@ -1191,7 +199,7 @@
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "국방위원회",
       "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-14",
@@ -1199,119 +207,7 @@
       "title": "AI 바이오헬스산업 지원 전문생산기술연구소의 역할과 과제",
       "committee": "",
       "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "13:50",
-      "title": "정치 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "13:30~16:00",
-      "title": "5극 3특 실현을 위한 지방대학 발전방안 국회정책토론회",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "13:21",
-      "title": "법원·헌법재판소의 장영하 정치재판 부당성 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "13:09",
-      "title": "진보당 손솔 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "11:43",
-      "title": "생명안전기본법 제정 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "11:28",
-      "title": "국민의힘 최보윤 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "11:20",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "10:45",
-      "title": "부마민주항쟁 헌법전문 수록 범시민추진위원회 주최 간담회(민주공원 상설전시실)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "10:38",
-      "title": "정치 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "10:30",
-      "title": "미-이란 충돌 장기화와 호르무즈 해협: 한·미·일전략적 대응",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "10:17",
-      "title": "부천 사립유치원 교사 사망 사건 관련 영유아 교사 휴식권 보장법 대표발의 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "10:15",
-      "title": "부산민주공원 참배 (민주공원 넋기림마당)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 국토법안심사소위원회",
-      "committee": "국토교통위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 농림축산식품법안심사소위원회",
-      "committee": "농림축산식품해양수산위원회",
-      "location": null,
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-14",
@@ -1319,15 +215,7 @@
       "title": "노동자 참여가 산재를 줄인다!: 노동자 참여 실질 보장을 위한 산업안전보건법 개정 및 제도개선 방안 국회 토론회",
       "committee": "",
       "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "10:00",
-      "title": "난임치료 지원정책, 무엇이 바뀌어야 하는가?",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-14",
@@ -1335,71 +223,7 @@
       "title": "제434회국회(임시회) 제7차 전체회의(윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사특별위원회)",
       "committee": "특별위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 정보통신방송법안심사소위원회",
-      "committee": "과학기술정보방송통신위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "09:30",
-      "title": "기술은 누구 편인가? AI시대, 감시를 넘어 민주적 일터로",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-14",
-      "time": "08:00",
-      "title": "경제는 민주당 제48강",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "15:10",
-      "title": "도날드 투스크 폴란드 총리 접견 (국회접견실)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "14:57",
-      "title": "국민의힘 박성훈 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "14:30",
-      "title": "제434-4차(의사일정)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "14:13",
-      "title": "조작기소 국조특위 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "14:06",
-      "title": "당에 대한 제언 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-13",
@@ -1407,7 +231,7 @@
       "title": "AI 파고를 기회로, SW산업의 새로운 미래와 가능성",
       "committee": "",
       "location": "의원회관 제2소회의실",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-13",
@@ -1415,39 +239,7 @@
       "title": "2026 지방선거, 쓰레기 다이어트 시작하기: 친환경 선거운동 입법을 위한 토론회",
       "committee": "",
       "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "14:00",
-      "title": "국민연금의 사회투자 왜 필요한가",
-      "committee": "",
-      "location": "의원회관 제5간담회의실(208호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "14:00",
-      "title": "대정부질문(교육&middot;사회&middot;문화 분야) (본회의장)",
-      "committee": "",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "13:44",
-      "title": "더불어민주당 김현정 의원(원내대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "13:30",
-      "title": "AI 시대의 인격권과 복지국가의 과제 정책 세미나",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-13",
@@ -1455,79 +247,15 @@
       "title": "AI·SW 정책 및 산업 현안 브라운백 4차 포럼",
       "committee": "",
       "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "11:41",
-      "title": "개혁신당 정희윤 수원갑 당협위원장, 수원시장 출마선언 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "11:20",
-      "title": "재외한국학교 지원 확대 및 유치원, 초등학교 무상 교육 입법 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "11:00",
-      "title": "제헌회관 방문 (제헌회관(서울 종로구 자하문로 26))",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "10:58",
-      "title": "부산시장 후보 확정 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "10:35",
-      "title": "장애인 차별금지 및 권리구제 등에 관한 법 조항 신설 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "10:30",
-      "title": "지방재정확충 및 지방세정 선진화를 위한 취득세 성실신고확인제 도입 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "10:20",
-      "title": "네이버의 선거기간 나무위키 노출 제한 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "10:10",
-      "title": "국회 외교통일위원회 소속 국민의힘 위원 일동 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-13",
       "time": "10:00",
-      "title": "교육 현안 관련 기자회견",
-      "committee": "",
+      "title": "제434회국회(임시회) 제2차 전체회의",
+      "committee": "국토교통위원회",
       "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-13",
@@ -1538,316 +266,12 @@
       "type": "gihyu"
     },
     {
-      "date": "2026-04-13",
-      "time": "10:00",
-      "title": "'행정수도 특별법' 국토균형발전의 초석 긴급 토론회",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "10:00",
-      "title": "AI 전환과 노동의 미래: 일자리 위기인가, 기회인가?",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제2차 전체회의",
-      "committee": "국토교통위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "09:30~12:00",
-      "title": "\"아동사망 예방을 위한\" 아동사망검토제도 도입 입법 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "09:21",
-      "title": "행정수도특별법 신속 통과 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-13",
-      "time": "09:00",
-      "title": "국회의장 주재 기관장 업무보고 (국회접견실/비공개)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-12",
-      "time": "14:37",
-      "title": "서영교 의원 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-12",
-      "time": "11:42",
-      "title": "더불어민주당 김현정 의원(원내대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-12",
-      "time": "10:30",
-      "title": "국민의힘 최보윤 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-12",
-      "time": "09:39",
-      "title": "국민의힘 최수진 의원(원내수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "11:08",
-      "title": "국민의힘 박성훈 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "11:00",
-      "title": "제107주년 대한민국임시정부수립 기념식 (대한민국임시정부기념관 의정원홀)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "10:36",
-      "title": "국민의힘 최수진 의원(원내수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "22:00",
-      "title": "제434-3차(의사일정)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
       "date": "2026-04-10",
       "time": "21:20",
       "title": "제434회국회(임시회) 제3차 전체회의",
       "committee": "예산결산특별위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "21:00",
-      "title": "제434회국회(임시회) 제2차 2026년도 제1회 추가경정예산안 등 조정소위원회",
-      "committee": "예산결산특별위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "16:36",
-      "title": "국민의힘 부산지역 국회의원 일동, 전재수 국회의원 무혐의 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "15:28",
-      "title": "국민의힘 박성훈 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "15:20",
-      "title": "국민의힘 박충권 의원(원내수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "15:00",
-      "title": "생명안전기본법 통과 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "14:38",
-      "title": "지역 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "14:22",
-      "title": "정치 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "14:02",
-      "title": "대구시장 경선 관련 대구지역 국회의원 입장 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "14:00~17:00",
-      "title": "장애인차별금지법 시행 18주년 기념 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "14:00~17:00",
-      "title": "주거복지사 운영 실태와 발전 방안",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "14:00~17:00",
-      "title": "호스피스와 통합돌봄의 동행",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "14:00~16:00",
-      "title": "석유화학 탈탄소 전기화 전환의 기회와 정책과제 토론회",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "14:00",
-      "title": "윤석열 정부 방송장악 진상규명 특별법 제정 방안 토론회",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "13:46",
-      "title": "더불어민주당 국민소통위원회 민주파출소 정례브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "13:30~17:00",
-      "title": "사용자 중심의 장애인 접근성 컨퍼런스",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "13:19",
-      "title": "국민의힘 양향자 최고위원, 경기도지사 출마선언 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "11:37",
-      "title": "36명 집단해고, 남웅건설 규탄, SK 책임 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "11:28",
-      "title": "국민의힘 곽규택 의원(원내수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "11:18",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "10:00",
-      "title": "더불어민주당 전북특별자치도 경선 관련 긴급 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "10:00",
-      "title": "대한민국 임시의정원 개원 107주년 기념식 (국회의사당 중앙홀)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 조세소위원회",
-      "committee": "재정경제기획위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-10",
-      "time": "09:42",
-      "title": "기본소득당 6.3 지방선거 1호공약 '기본소득 지방시대' 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "16:00",
-      "title": "대한민국 미래를 바꾸는 청년 정책 제안 세미나",
-      "committee": "",
-      "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-09",
@@ -1855,15 +279,7 @@
       "title": "산업안전규제, 패러다임 대전환이 필요하다",
       "committee": "",
       "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "15:00",
-      "title": "YTN 이사회 방송법 무력화 시도 규탄 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-09",
@@ -1871,55 +287,7 @@
       "title": "제434회국회(임시회) 제6차 전체회의(윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사특별위원회)",
       "committee": "특별위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "14:00~17:00",
-      "title": "숨 쉬기 힘든 아이들: 기후위기  시대의 천식 아동 건강권 보장을 위한 국회토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "14:00~16:00",
-      "title": "장애인 구강관리, 어떻게 해야하나?",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "14:00~16:00",
-      "title": "국가 문화예술 지원 체계 비효율성 개선 방안 모색",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "14:00",
-      "title": "삼균학회 제50회 정기 학술대회",
-      "committee": "",
-      "location": "국회도서관 대강당",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "14:00",
-      "title": "국가 자원순환 진흥을 위한 정책 대전환 간담회",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "14:00",
-      "title": "제434회국회(임시회) 제1차 법률안심사소위원회",
-      "committee": "국방위원회",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-09",
@@ -1927,47 +295,7 @@
       "title": "제1회 솔로프리너포럼: AI 시대, 1인 기업을 넘어 1인 산업을 창조하는 시대로",
       "committee": "",
       "location": "의원회관 제2소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "14:00",
-      "title": "제434회국회(임시회) 제1차 2026년도 제1회 추가경정예산안 등 조정소위원회",
-      "committee": "예산결산특별위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "13:47",
-      "title": "기본소득당 김혁 노동안전위원회 부위원장, 경기도의회 비례대표 후보 출마선언 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "13:36",
-      "title": "국민의힘 최보윤 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "13:30~16:30",
-      "title": "국가 전력망의 미래 전략",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "13:30",
-      "title": "대한민국 임시정부와 기념일 세미나",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-09",
@@ -1975,23 +303,7 @@
       "title": "제434회국회(임시회) 제2차 전체회의",
       "committee": "재정경제기획위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "13:19",
-      "title": "울산 공공하수처리시설 상습화재 문제 해결 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "13:00",
-      "title": "기본소득당 6.3 지방선거 청년공약 1호 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-09",
@@ -1999,87 +311,7 @@
       "title": "중소유통산업 상생을 위한 식자재마트 의견청취 간담회",
       "committee": "",
       "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "12:39",
-      "title": "정치 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "11:40",
-      "title": "민생위기 비상 자문위원회 결과보고회 (국회접견실)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "11:18",
-      "title": "문경 주흘산 케이블카 즉각 철회 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:39",
-      "title": "황명필 전 최고위원, 울산시장 출마선언 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:30",
-      "title": "제137회 세계 노동자의 날 기념 시리즈 좌담회: 다시, 노동의 시간: 2회차 경계 밖 노동",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:30",
-      "title": "SNS중독 플랫폼의 자유인가 방임인가",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:19",
-      "title": "세종·대전 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:00~12:00",
-      "title": "성능개선 충당금 제도 활성화 방안 정책 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:00",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제7차 공직선거법및지방선거구제개편심사소위원회(정치개혁특별위원회)",
-      "committee": "행정안전위원회",
-      "location": null,
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-09",
@@ -2087,127 +319,7 @@
       "title": "제434회국회(임시회) 제3차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 법안심사 소위원회",
-      "committee": "외교통일위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 해양수산법안심사소위원회",
-      "committee": "농림축산식품해양수산위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "10:00",
-      "title": "아동 최우선 이익에 부합하는 국내입양 활성화 간담회",
-      "committee": "",
-      "location": "의원회관 제5간담회의실(208호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "09:40",
-      "title": "김남국 전 국회의원, 안산갑 국회의원 보궐선거 출마선언 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "09:20",
-      "title": "행정수도특별법 조기 제정 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "09:00",
-      "title": "뉴스핌 창간 23주년 포럼 (여의도 페어몬트호텔 그랜드볼룸(B1))",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-09",
-      "time": "09:00",
-      "title": "제434회국회(임시회) 제1차 과학기술원자력법안심사소위원회",
-      "committee": "과학기술정보방송통신위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "15:09",
-      "title": "국민의힘 박성훈 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "15:00",
-      "title": "제434회국회(임시회) 제1차 법안심사제1소위원회",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "14:24",
-      "title": "더불어민주당 김기표 의원(대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "14:01",
-      "title": "한국옵티칼 집단해고 사건에 대한 NCP의 성실 조정 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "14:00~17:00",
-      "title": "미래국토인프라 혁신포럼: 14차 세미나 '국가 인프라 기본법' 입법 추진을 위한 토론회",
-      "committee": "",
-      "location": "국회도서관 소강당",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "14:00~16:00",
-      "title": "혈우병 환자의 건강권 보장 강화를 위한 건강보험제도 개선 정책 토론회",
-      "committee": "",
-      "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "14:00",
-      "title": "디지털서비스법 DSA의 균형모델과 한국형 입법의 실천적 과제: 한국-EU 전문가 포럼",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "14:00",
-      "title": "코스피 8천과 가업승계 활성화를 위한 「상속증여세」 개선방안",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-08",
@@ -2215,23 +327,7 @@
       "title": "초고령화 사회에서 급성 뇌졸중 치료환경 혁신 및 골든타임 확보를 위한 간담회",
       "committee": "",
       "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "14:00",
-      "title": "제8차 자원순환정책포럼",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "14:00",
-      "title": "노동제도 변화에 따른 소상공인 영향과 정책과제 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-08",
@@ -2239,103 +335,7 @@
       "title": "용인 반도체클러스터 호남 이전 위헌·불법 지적 및 신속 준공 위한 토지매입 촉구 기자회견",
       "committee": "",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "13:10",
-      "title": "정책 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "11:40",
-      "title": "이승훈 영등포구청장 예비후보 소상공인 공약 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "11:33",
-      "title": "더불어민주당 문금주 의원(원내대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "11:19",
-      "title": "정치 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "11:01",
-      "title": "여성공천 확대를 위한 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "10:40",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "10:36",
-      "title": "더불어민주당 김기표 의원(대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "10:30~12:30",
-      "title": "「범국민 디지털명함 갖기 캠페인」 선포식",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "10:20",
-      "title": "백화점면세점 노조 원청 교섭 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "10:00~12:00",
-      "title": "통신비밀보호법·의료법 개정을 위한 국회토론회",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "10:00~12:00",
-      "title": "나프타 위기 속 드러난 한계, 탈플라스틱 종합대책 보완 방향",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "10:00",
-      "title": "퇴직연금 정책 방향 평가 및 수익률 제고를 위한 과제",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-08",
@@ -2343,15 +343,7 @@
       "title": "콘텐츠산업 노동자 노동환경 개선을 위한 입법 토론회",
       "committee": "",
       "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "10:00",
-      "title": "연계정보(CI) 제도의 위헌성과 제도 개선 방향",
-      "committee": "",
-      "location": "의원회관 제11간담회의실(216호)",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-08",
@@ -2359,7 +351,7 @@
       "title": "제434회국회(임시회) 제2차 전체회의",
       "committee": "예산결산특별위원회",
       "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-08",
@@ -2367,159 +359,7 @@
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "법제사법위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "10:00",
-      "title": "청년 정치 역할과 청년 정치 참여",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "09:53",
-      "title": "사회적·경제적 사유에 의한 낙태 반대 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "09:40",
-      "title": "윤희숙 서울시장 예비후보 공약 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "09:30",
-      "title": "촉법소년 연령하향 관련 국회 공개 토론회",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "09:21",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "07:00",
-      "title": "피지컬AI 프론티어 강국 신기술 조찬포럼",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "18:00",
-      "title": "제70회 신문의 날 기념 축하연 (한국프레스센터 20층 국제회의장)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "16:37",
-      "title": "국민의힘 최보윤 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "15:00~17:00",
-      "title": "광주광역시 의료관광 포럼",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:59",
-      "title": "더불어민주당 강준현 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:42",
-      "title": "국민의힘 대구광역시장 경선 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:37",
-      "title": "더불어민주당 김기표 의원(대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:22",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:11",
-      "title": "국민의힘 박충권 의원(원내수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:00~17:30",
-      "title": "스테이블코인 제도 설계를 위한 과제",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:00~16:00",
-      "title": "개헌, 어떻게 할 것인가?",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:00",
-      "title": "유튜브 매불쇼 출연",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:00",
-      "title": "간호·간병통합서비스 전면 시행 방안",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:00",
-      "title": "사립학교법 개정안 통과 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-07",
@@ -2527,87 +367,7 @@
       "title": "해상풍력지원선(CTV) 국산화 기술개발 및 표준화 전략 토론회",
       "committee": "",
       "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:00",
-      "title": "모범운전자의 법적 지위 확립 및 실효적 지원 체계 구축",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "14:00",
-      "title": "크루즈 관광활성화 지역경제 살리자",
-      "committee": "",
-      "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "13:39",
-      "title": "핵발전 탄력운전 정책 규탄 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "13:20",
-      "title": "서울시 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "11:40",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "11:19",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "11:00",
-      "title": "제62회 한국보도사진전 &#39;오늘의 보도사진, 내일의 역사가 되다&#39; 展 (광화문광장 놀이마당 전시장 (세종대왕 동상 앞))",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "10:58",
-      "title": "군산시 재선거 조국대표 출마 추진위원회 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "10:38",
-      "title": "사법 카르텔 독점 방지법 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "10:20",
-      "title": "2026년 국회 생생텃밭 개장식 (국회 헌정회 앞 좌측 텃밭)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-07",
@@ -2615,23 +375,7 @@
       "title": "방위산업 등 전략 수출산업 금융지원 방안 마련을 위한 토론회",
       "committee": "",
       "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "10:00~12:00",
-      "title": "K-공정무역인증을 위한 국회 포럼",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "10:00~12:00",
-      "title": "보건의료인력기준 법제화 이제는 이행이다",
-      "committee": "",
-      "location": "국회도서관 대강당",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-07",
@@ -2639,31 +383,7 @@
       "title": "다시 찾아온 에너지 위기, 기후-에너지 정책 어떻게 가야하나?",
       "committee": "",
       "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "10:00",
-      "title": "영케어러 관점에서 본 「위기아동·청년법 시행의 쟁점과 과제」",
-      "committee": "",
-      "location": "의원회관 제3간담회의실(203호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "10:00",
-      "title": "공익신고자 보호법 포괄주의 전환을 위한 입법 간담회",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "10:00",
-      "title": "출국대기소 설치법의 쟁점과 과제 토론회",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-07",
@@ -2671,7 +391,7 @@
       "title": "제434회국회(임시회) 제5차 전체회의(윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사특별위원회)",
       "committee": "특별위원회",
       "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-07",
@@ -2687,15 +407,7 @@
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "국토교통위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제6차 공직선거법및지방선거구제개편심사소위원회(정치개혁특별위원회)",
-      "committee": "행정안전위원회",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-07",
@@ -2703,15 +415,7 @@
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "예산결산특별위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "09:38",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-07",
@@ -2719,23 +423,7 @@
       "title": "제434회국회(임시회) 제2차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "09:20",
-      "title": "정치 현안 관련 입장 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "09:02",
-      "title": "조작기소 국조특위 긴급 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-07",
@@ -2746,44 +434,12 @@
       "type": "gihyu"
     },
     {
-      "date": "2026-04-07",
-      "time": "09:00",
-      "title": "제434회국회(임시회) 제2차 예산결산기금심사소위원회",
-      "committee": "국토교통위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-07",
-      "time": "08:00",
-      "title": "경제는 민주당 제47강",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
       "date": "2026-04-06",
       "time": "시간 미정",
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "행정안전위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "17:20",
-      "title": "국회 행정안전위원회 소속 국민의힘 위원 일동, 추경 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "17:02",
-      "title": "국민의힘 박성훈 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-06",
@@ -2791,15 +447,7 @@
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "재정경제기획위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "15:37",
-      "title": "더불어민주당 박해철 의원(대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-06",
@@ -2807,15 +455,7 @@
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "농림축산식품해양수산위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "15:00",
-      "title": "국가균형발전을 위한 강화 경제자유구역 지정 전략 토론회",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-06",
@@ -2823,15 +463,7 @@
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "문화체육관광위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "14:39",
-      "title": "문신사법 시행 관련 실효성 있는 정책 설계 및 성공적 제도 안착을 위한 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-06",
@@ -2843,99 +475,11 @@
     },
     {
       "date": "2026-04-06",
-      "time": "14:30",
-      "title": "제434회국회(임시회) 제2차 예산결산심사소위원회",
-      "committee": "문화체육관광위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "14:00",
-      "title": "제434-2차(의사일정)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "14:00",
-      "title": "촉법소년 연령 인하 관련 토론회",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "14:00",
-      "title": "대정부질문(경제) (본회의장)",
-      "committee": "",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "13:30",
-      "title": "국가보훈의 사회적 의미와 국민 인식 제고 방안 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "12:00",
-      "title": "JTBC 장르만여의도 출연 (JTBC)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "11:39",
-      "title": "더불어민주당 김현정 의원(원내대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "11:00",
-      "title": "제434회국회(임시회) 제1차 예산결산기금심사소위원회",
-      "committee": "재정경제기획위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
       "time": "11:00",
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "교육위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "10:20",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "10:00~12:00",
-      "title": "이주배경학생 교육지원체계 모색을 위한 국회토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "10:00~12:00",
-      "title": "한국형 소버린 AI 재난·안전 운영체제 구축방향 국회 토론회",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-06",
@@ -2943,7 +487,7 @@
       "title": "소버린 AI와 AI 반도체: 추론 인프라 국가전략 토론회",
       "committee": "",
       "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
+      "type": "sanja"
     },
     {
       "date": "2026-04-06",
@@ -2956,42 +500,10 @@
     {
       "date": "2026-04-06",
       "time": "10:00",
-      "title": "수능 문항거래 관련 학원법 개정 토론회 무엇을 바꿔야 하나",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "10:00",
-      "title": "중단된 제4인터넷뱅크, 재추진 필요한가?",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "10:00",
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 예산·결산기금심사소위원회",
-      "committee": "행정안전위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 예산결산심사소위원회",
-      "committee": "농림축산식품해양수산위원회",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-06",
@@ -2999,207 +511,7 @@
       "title": "제434회국회(임시회) 제1차 전체회의",
       "committee": "정보위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 예산결산기금심사소위원회",
-      "committee": "국토교통위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "09:59",
-      "title": "오중기 전 청와대 선임행정관, 경상북도지사 출마선언 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "09:21",
-      "title": "학교예술교육 추경 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-06",
-      "time": "09:00",
-      "title": "국회의장 주재 기관장 업무보고 (국회접견실/비공개)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-05",
-      "time": "14:00~16:30",
-      "title": "관계의 확장, 미래의 확장: 청년이 감각하는 생활동반자법",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-05",
-      "time": "11:30",
-      "title": "국민의힘 최보윤 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-05",
-      "time": "11:20",
-      "title": "더불어민주당 백승아 의원(원내대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-05",
-      "time": "11:03",
-      "title": "윤상현 의원 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-05",
-      "time": "10:21",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-04",
-      "time": "15:10",
-      "title": "2026년 국회 개방행사 &lsquo;PLAY&amp;BLOOM&rsquo; 국회 봄소풍 (국회)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-04",
-      "time": "11:18",
-      "title": "국민의힘 박성훈 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "17:30",
-      "title": "대한민국 헌법개정안 발의 (의장집무실)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "15:28",
-      "title": "더불어민주당 김기표 의원(대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "15:22",
-      "title": "더불어민주당 박지혜 의원(대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "14:45",
-      "title": "제434회국회(임시회) 제1차 예산결산심사소위원회",
-      "committee": "문화체육관광위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "14:00",
-      "title": "국방 섬유소재의 국산화를 위한 국회 토론회",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "14:00",
-      "title": "원자력 안전 연속토론회: 방사선안전분야",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "14:00",
-      "title": "제434-1차(의사일정)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "14:00",
-      "title": "대정부질문 (본회의장)",
-      "committee": "",
-      "location": null,
       "type": "session"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "13:17",
-      "title": "국민의힘, 통합과 혁신을 위한 유정복 인천시장 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "11:43",
-      "title": "전북지역 경선 여론조사 의혹 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "11:20",
-      "title": "대법원장 탄핵소추안 발의 촉구 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "11:11",
-      "title": "더불어민주당 박지혜 의원(대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "11:03",
-      "title": "일하는 사람 기본법 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "10:23",
-      "title": "추경 쟁점과 사실 관계 확인을 위한 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
     },
     {
       "date": "2026-04-03",
@@ -3207,63 +519,7 @@
       "title": "제434회국회(임시회) 제4차 전체회의(윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사특별위원회)",
       "committee": "특별위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 예산결산심사소위원회",
-      "committee": "과학기술정보방송통신위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "10:00",
-      "title": "한반도 평화공존의 조건과 전략",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제1차 예산결산기금심사소위원회",
-      "committee": "교육위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "10:00",
-      "title": "소비자의 선택이 만드는 GX 생활양식과 구매 전환으로 여는 녹색전환 토론회",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "10:00",
-      "title": "호르무즈의 덫, 미국발 중동전쟁과 한국의 대응전략",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "10:00",
-      "title": "제78주년 4.3 희생자 추념식 (제주4.3 평화공원)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-03",
-      "time": "09:58",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-02",
@@ -3271,15 +527,7 @@
       "title": "제433회국회(임시회) 제4차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "본회의 산회 후 (15:00 예정)",
-      "title": "제433회국회(임시회) 제5차 공직선거법및지방선거구제개편심사소위원회(정치개혁특별위원회)",
-      "committee": "행정안전위원회",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-02",
@@ -3287,71 +535,7 @@
       "title": "제433회국회(임시회) 제2차 전체회의",
       "committee": "정무위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "본회의 산회 직후",
-      "title": "제433회국회(임시회) 제1차 예산결산심사소위원회",
-      "committee": "보건복지위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "17:10",
-      "title": "국민의힘 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "17:07",
-      "title": "더불어민주당 김현정 의원(원내대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "15:54",
-      "title": "국민의힘 박충권 의원(원내수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "15:38",
-      "title": "더불어민주당 김기표 의원(대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "15:16",
-      "title": "국민의힘 최보윤 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "15:03",
-      "title": "전세버스 국가보조금 제도 편입 및 추경 반영 요청 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "15:00",
-      "title": "(글로벌 경쟁력 강화를 위한) 스테이블코인 기반 무역금융 정책·제도·금융 전략 세미나",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-02",
@@ -3359,31 +543,7 @@
       "title": "제433회국회(임시회) 제5차 전체회의",
       "committee": "재정경제기획위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "14:01",
-      "title": "정치 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "14:00~16:30",
-      "title": "수도권 집중을 깨다: AI로 완성하는 지방분권 3.0",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "14:00",
-      "title": "제433-4차(의사일정)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-02",
@@ -3391,79 +551,7 @@
       "title": "제433회국회(임시회) 제3차 전체회의",
       "committee": "농림축산식품해양수산위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "14:00",
-      "title": "본회의(본회의장)",
-      "committee": "",
-      "location": null,
       "type": "session"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "13:42",
-      "title": "아동 관련 개헌 제안 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "13:31",
-      "title": "전현희 의원 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "13:19",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "13:00",
-      "title": "정치 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "13:00",
-      "title": "문화강국 대한민국 K-컬처 예술의 치유적 역할",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "12:40",
-      "title": "지역 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "11:21",
-      "title": "국회 예산결산특별위원회 소속 국민의힘 위원 일동, 추경 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "11:00",
-      "title": "유언장 보관 제도 왜 필요한가?",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "etc"
     },
     {
       "date": "2026-04-02",
@@ -3471,63 +559,7 @@
       "title": "제433회국회(임시회) 제2차 전체회의",
       "committee": "국토교통위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "11:00",
-      "title": "2026 국회세계한인경제포럼 세미나",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:58",
-      "title": "당내 경선 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:50",
-      "title": "격변하는 세계정세에서 한영관계가 나아갈 길",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:41",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:30",
-      "title": "제137회 세계 노동자의 날 기념 시리즈 좌담회: 다시, 노동의 시간: 1회차 소외된 노동",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:30",
-      "title": "(주주가치 제고를 위한) 자본시장법 개정 현안과 향후 과제",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:30",
-      "title": "제433회국회(임시회) 제2차 교통법안심사소위원회",
-      "committee": "국토교통위원회",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-02",
@@ -3535,39 +567,7 @@
       "title": "제433회국회(임시회) 제4차 전체회의",
       "committee": "행정안전위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:30",
-      "title": "모듈러선설 활성화를 위한 체계적 예산 확보 방안: 「국회 모듈러건설 발전방안 연구포럼」 3차 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:02",
-      "title": "고유가 시대 선거운동 방식 전환 제안 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:00",
-      "title": "웹툰 불법 공유 근절 긴급토론회",
-      "committee": "",
-      "location": "의원회관 신관 제3세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:00",
-      "title": "「양샤오차오」 중한우호소조 조장 등 중국 전인대 중한우호소조 방한단 접견(국회접견실)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-02",
@@ -3580,42 +580,10 @@
     {
       "date": "2026-04-02",
       "time": "10:00",
-      "title": "제433회국회(임시회) 제2차 법안심사제1소위원회",
-      "committee": "정무위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:00",
       "title": "제433회국회(임시회) 제3차 전체회의",
       "committee": "보건복지위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "09:30~12:00",
-      "title": "건강수명과 튼튼한 돌봄은 입에서 시작된다",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "09:30",
-      "title": "AI 대전환 시대, 기본소득의 현실적 실현 방안",
-      "committee": "",
-      "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "09:20",
-      "title": "경기 유치원교사 사망 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-02",
@@ -3627,115 +595,11 @@
     },
     {
       "date": "2026-04-01",
-      "time": "15:59",
-      "title": "강서구의회 의장·운영위원장 채용비리 의혹 관련 규탄 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "15:15",
-      "title": "국민의힘 박성훈 의원(수석대변인) 브리핑",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "15:08",
-      "title": "현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "15:00~18:00",
-      "title": "위헌 심판대에 선 비영리법인 허가주의",
-      "committee": "",
-      "location": "국회박물관 국회체험관",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "15:00~17:30",
-      "title": "기초예술 진흥과 예술인 복지 국가 시스템 구축",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "14:30~16:30",
-      "title": "고령자 고용의 합리적 해법: 정년 후 계속고용 활성화 방안 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
       "time": "14:30",
       "title": "제433회국회(임시회) 제3차 전체회의",
       "committee": "문화체육관광위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "14:00~16:00",
-      "title": "3기 국가물관리위원회에 바란다",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "14:00~16:00",
-      "title": "국가균형성장 정책세미나",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "14:00",
-      "title": "이란戰으로 본 AI 전쟁: 국방 혁신과 생명 윤리",
-      "committee": "",
-      "location": "의원회관 제7간담회의실(210호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "14:00",
-      "title": "제9&middot;10대 한국노인종합복지관협회 회장 이&middot;취임식(켄싱턴호텔 여의도 15층 센트럴파크)",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "14:00",
-      "title": "(안전한 모바일 앱 생태계 조성을 위한) 사이버 보안 정책 세미나",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "14:00",
-      "title": "더불어민주당 북한이탈주민특별위원회 입법 및 정책과제 제안 간담회",
-      "committee": "",
-      "location": "의원회관 제2간담회의실(202호)",
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "11:17",
-      "title": "국가폭력 영구책임법 발의 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-01",
@@ -3747,27 +611,11 @@
     },
     {
       "date": "2026-04-01",
-      "time": "10:18",
-      "title": "종교법인해산법 반대 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "10:08",
-      "title": "정치 현안 관련 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
       "time": "10:01",
       "title": "해상풍력 이익공유법 발의 기자회견",
       "committee": "",
       "location": null,
-      "type": "etc"
+      "type": "gihyu"
     },
     {
       "date": "2026-04-01",
@@ -3775,23 +623,7 @@
       "title": "제433회국회(임시회) 제1차 전체회의",
       "committee": "국토교통위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "10:00",
-      "title": "제433회국회(임시회) 제1차 법안심사제2소위원회",
-      "committee": "정무위원회",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "10:00",
-      "title": "글로벌 안보 위기 극복을 위한 한·EU 국방 협력 방안 토론회",
-      "committee": "",
-      "location": "의원회관 제10간담회의실(217호)",
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-01",
@@ -3799,7 +631,7 @@
       "title": "제433회국회(임시회) 제3차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
-      "type": "etc"
+      "type": "session"
     },
     {
       "date": "2026-04-01",
@@ -3807,24 +639,8 @@
       "title": "제433회국회(임시회) 제3차 전체회의",
       "committee": "교육위원회",
       "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "09:43",
-      "title": "쿠팡 영업점 재위탁 및 불법 대체인력 투입 규탄 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
-    },
-    {
-      "date": "2026-04-01",
-      "time": "09:00",
-      "title": "단계적 개헌 촉구 및 시민개헌넷 입장 발표 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "etc"
+      "type": "session"
     }
   ],
-  "summary": "현재 데이터 전수 조사를 위해 AI 요약 기능이 일시 중지되었습니다. 수집된 리스트의 내용을 직접 확인하십시오."
+  "summary": "현재 정밀 키워드 수집 시험 중입니다. AI 분석 결과는 데이터 검증 후 복구 예정입니다."
 }
