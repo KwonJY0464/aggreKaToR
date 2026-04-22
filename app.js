@@ -72,7 +72,6 @@ window.switchMode = async function(mode) {
     if (activeBtn) activeBtn.classList.add('active');
 
     if (mode === 'news') {
-        // 💡 뉴스 모드: 좌측 패널 원래 크기(350px)로 복구
         document.documentElement.style.setProperty('--left-width', '350px');
         
         if (DOM.newsLeftPane) DOM.newsLeftPane.style.display = 'flex';
@@ -83,7 +82,6 @@ window.switchMode = async function(mode) {
         
         await loadNewsData();
     } else {
-        // 💡 국회 모드: 좌측 패널 화면의 25% (25vw)로 축소
         document.documentElement.style.setProperty('--left-width', '25vw');
         
         if (DOM.newsLeftPane) DOM.newsLeftPane.style.display = 'none';
@@ -207,7 +205,7 @@ function updateTimeDisplays(ts, mode) {
 }
 
 // ==========================================
-// 🚀 국회의원 타겟 추적 레이더 (최종 최적화)
+// 🚀 국회의원 타겟 추적 레이더 (최종 본회의/사진/링크 패치)
 // ==========================================
 
 window.searchMember = function() {
@@ -219,11 +217,18 @@ window.searchMember = function() {
     const info = window.radarDB.profiles.find(p => p.HG_NM === name);
     if (!info) {
         DOM.pane2Content.innerHTML = `<div style="padding:40px; text-align:center; color:#e74c3c;">제22대 현역 의원 중 '${name}' 의원을 찾을 수 없습니다.</div>`;
+        DOM.pane3Content.innerHTML = '';
         return;
     }
 
-    // 💡 사진 우선순위 적용 (NAAS_PIC 먼저, 없으면 대체 이미지)
+    // 💡 사진 우선순위 적용 (API가 내려준 텍스트 주소가 최우선)
     const photoUrl = info.NAAS_PIC || `https://www.assembly.go.kr/static/portal/img/open_data/member/${info.MONA_CD}.jpg`;
+
+    // 💡 홈페이지 링크 동적 생성 (정보가 있을 때만 클릭 가능하도록 처리)
+    let nameHtml = `<h2 style="margin: 0; font-size: 1.6rem; color: var(--news-title);">${info.HG_NM}</h2>`;
+    if (info.HOMEPAGE && info.HOMEPAGE.startsWith("http")) {
+        nameHtml = `<h2 style="margin: 0; font-size: 1.6rem; color: var(--news-title); cursor: pointer;" onclick="window.open('${info.HOMEPAGE}', '_blank')" title="홈페이지 열기">🔗 ${info.HG_NM}</h2>`;
+    }
 
     DOM.pane2Title.innerText = "의원 프로필 상세";
     DOM.pane2Content.innerHTML = `
@@ -233,7 +238,7 @@ window.searchMember = function() {
                 <img src="${photoUrl}" onerror="this.src='https://www.assembly.go.kr/photo/${info.MONA_CD}.jpg'" 
                      style="width: 85px; height: 110px; border-radius: 6px; object-fit: cover; border: 1px solid var(--border); background: #333;">
                 <div>
-                    <h2 style="margin: 0; font-size: 1.6rem; color: var(--news-title);">${info.HG_NM}</h2>
+                    ${nameHtml}
                     <span style="display: inline-block; margin-top: 5px; padding: 3px 8px; background: var(--accent); color: var(--bg); border-radius: 4px; font-weight: bold; font-size: 0.85rem;">
                         ${info.POLY_NM}
                     </span>
@@ -249,7 +254,7 @@ window.searchMember = function() {
                 </tr>
                 <tr>
                     <th style="background: rgba(255,255,255,0.05); padding: 8px; border: 1px solid var(--border); color: var(--accent);">소속위원회</th>
-                    <td style="padding: 8px; border: 1px solid var(--border);">${info.CMITS || info.CMIT_NM}</td>
+                    <td style="padding: 8px; border: 1px solid var(--border);">${info.CMITS}</td>
                 </tr>
                 <tr>
                     <th style="background: rgba(255,255,255,0.05); padding: 8px; border: 1px solid var(--border); color: var(--accent);">당선횟수</th>
@@ -295,9 +300,20 @@ window.switchActivityTab = function(name, type, btn) {
             (m.SPK_FIRST_NM && m.SPK_FIRST_NM.includes(name)) || (m.SUB_NAME && m.SUB_NAME.includes(name))
         ).map(r => ({ title: `[발언] ${r.COMM_NAME} - ${r.SUB_NAME}`, meta: `회의일: ${r.MEET_DATE}`, link: r.CONF_LINK_URL || r.PDF_LINK_URL || '#' }));
     } else if (type === 'votes') {
-        // 💡 3번 칸: 파이썬이 긁어온 표결 데이터 출력
+        // 💡 3번 칸: 파이썬이 AGE=22로 긁어온 표결 데이터 출력
         items = window.radarDB.votes.filter(v => v.HG_NM === name)
-        .map(r => ({ title: `[투표] ${r.BILL_NM}`, meta: `결과: <b>${r.RESULT_VOTE_NM}</b> | 표결일: ${r.VOTE_DATE}`, link: '#' }));
+        .map(r => {
+            // 찬성/반대 여부에 따라 색상 다르게 표시
+            let resultColor = 'var(--text)';
+            if(r.RESULT_VOTE_NM === '찬성') resultColor = 'var(--sanja-color)';
+            if(r.RESULT_VOTE_NM === '반대') resultColor = '#e74c3c';
+            
+            return { 
+                title: `[투표] ${r.BILL_NM}`, 
+                meta: `결과: <b style="color:${resultColor};">${r.RESULT_VOTE_NM}</b> | 표결일: ${r.VOTE_DATE}`, 
+                link: '#' 
+            };
+        });
     }
 
     renderItems('pane3-content', items);
