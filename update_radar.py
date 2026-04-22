@@ -30,27 +30,27 @@ if __name__ == "__main__":
     
     # 💡 2. 22대 현역 의원 사진 전용 매칭 (ALLNAMEMBER)
     # AGE=22 또는 UNIT=22를 사용하여 22대 의원 사진 주소만 정확히 추출
+# 💡 2. 22대 현역 의원 사진 전용 매칭 (ALLNAMEMBER)
     print("📸 22대 의원 사진 주소(NAAS_PIC) 수집 중...")
     photo_data = fetch_data("ALLNAMEMBER", {"UNIT": "22", "pSize": 500})
     
-    # 이름과 생년월일을 키로 사용하여 사진 주소 맵 생성
-    # (동명이인을 대비해 생년월일 하이픈 제거 후 매칭)
+    # 생년월일 포맷 불일치 에러를 막기 위해 오직 '이름(HG_NM)'만 사용
     photo_map = {}
     for m in photo_data:
         name = m.get("HG_NM", "").strip()
-        bth = m.get("BTH_DATE", "").replace("-", "")
         if name:
-            photo_map[f"{name}_{bth}"] = m.get("NAAS_PIC", "")
+            # API가 준 진짜 사진 URL을 어떠한 가공도 없이 그대로 저장!
+            photo_map[name] = m.get("NAAS_PIC", "")
 
-    # 3. 데이터 다이어트 및 병합 (사령관님 요청대로 필요한 것만 딱!)
+    # 3. 데이터 다이어트 및 병합
     refined_profiles = []
     for p in raw_profiles:
         name = p.get("HG_NM", "").strip()
-        bth = p.get("BTH_DATE", "").replace("-", "")
-        key = f"{name}_{bth}"
         
-        # 🔗 사진 주소를 텍스트로 기억 (없으면 국회 기본 경로로 대체)
-        pic_url = photo_map.get(key, "")
+        # 이름으로 1:1 직결 매칭
+        pic_url = photo_map.get(name, "")
+        
+        # (혹시라도 빈칸일 경우를 대비한 최후의 보루)
         if not pic_url:
             pic_url = f"https://www.assembly.go.kr/static/portal/img/open_data/member/{p.get('MONA_CD')}.jpg"
 
@@ -65,8 +65,8 @@ if __name__ == "__main__":
             "SECRETARY": p.get("SECRETARY", ""),
             "SECRETARY2": p.get("SECRETARY2", ""),
             "MEM_TITLE": p.get("MEM_TITLE", ""),
-            "HOMEPAGE": p.get("HOMEPAGE", ""), # 홈페이지 주소 기억
-            "NAAS_PIC": pic_url               # 사진 주소 기억
+            "HOMEPAGE": p.get("HOMEPAGE", ""), 
+            "NAAS_PIC": pic_url               # 원본 사진 주소 완벽 적용
         })
 
     # 4. 3번 칸: 본회의 투표 데이터 (22대 강제 고정)
