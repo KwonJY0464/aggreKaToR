@@ -235,8 +235,8 @@ window.searchMember = function() {
         <div style="padding: 15px; background: var(--card); height: 100%; box-sizing: border-box;">
             
             <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-                <img src="${photoUrl}" onerror="this.src='https://www.assembly.go.kr/photo/${info.MONA_CD}.jpg'" 
-                     style="width: 85px; height: 110px; border-radius: 6px; object-fit: cover; border: 1px solid var(--border); background: #333;">
+                <img src="${info.NAAS_PIC}" onerror="this.src='https://www.assembly.go.kr/photo/${info.MONA_CD}.jpg'" 
+                     style="width: 120px; height: 160px; border-radius: 6px; object-fit: cover; border: 1px solid var(--border); background: #333;">
                 <div>
                     ${nameHtml}
                     <span style="display: inline-block; margin-top: 5px; padding: 3px 8px; background: var(--accent); color: var(--bg); border-radius: 4px; font-weight: bold; font-size: 0.85rem;">
@@ -302,16 +302,10 @@ window.switchActivityTab = function(name, type, btn) {
     } else if (type === 'votes') {
         // 💡 3번 칸: 파이썬이 AGE=22로 긁어온 표결 데이터 출력
         items = window.radarDB.votes.filter(v => v.HG_NM === name)
-        .map(r => {
-            // 찬성/반대 여부에 따라 색상 다르게 표시
-            let resultColor = 'var(--text)';
-            if(r.RESULT_VOTE_NM === '찬성') resultColor = 'var(--sanja-color)';
-            if(r.RESULT_VOTE_NM === '반대') resultColor = '#e74c3c';
-            
-            return { 
-                title: `[투표] ${r.BILL_NM}`, 
-                meta: `결과: <b style="color:${resultColor};">${r.RESULT_VOTE_NM}</b> | 표결일: ${r.VOTE_DATE}`, 
-                link: '#' 
+        .map(r => ({
+            title: `[투표] ${r.BILL_NM}`,
+            meta: `결과: <b style="color:${r.RESULT === '찬성' ? 'var(--sanja-color)' : '#e74c3c'}">${r.RESULT}</b> | 일시: ${r.DATE}`,
+            link: '#'
             };
         });
     }
