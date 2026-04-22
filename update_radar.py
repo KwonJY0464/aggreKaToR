@@ -3,6 +3,7 @@ import requests
 import json
 from datetime import datetime, timedelta, timezone
 
+# 설정: KTR 전산실망이 아닌 깃허브 서버에서 안전하게 실행
 ASSEMBLY_KEY = os.environ.get("ASSEMBLY_API_KEY")
 KST = timezone(timedelta(hours=9))
 
@@ -22,81 +23,82 @@ def fetch_data(url_id, extra_params=None):
     return []
 
 if __name__ == "__main__":
-    print("국회 타겟 레이더 DB 구축 시작 ...")
+    print("🚀 [작전명: 사진 복구] 22대 국회 레이더 가동...")
     
-    # 1. 제22대 현역 의원 프로필 원본 (nwvrqwxyaytdsfvhu)
+    # 1. 22대 현역 의원 인적사항 (nwvrqwxyaytdsfvhu)
+    # 여기에 'HG_NM', 'BTH_DATE', 'HOMEPAGE' 등이 다 들어있습니다.
     raw_profiles = fetch_data("nwvrqwxyaytdsfvhu", {"pSize": 300})
     
-    # 2. 역대 의원 사진 통합 DB 수집 (ALLNAMEMBER)
-    photo_dict = {}
-    for p_idx in range(1, 10):
-        history_members = fetch_data("ALLNAMEMBER", {"pIndex": p_idx, "pSize": 1000})
-        if not history_members: break
-        for m in history_members:
-            name = m.get("HG_NM", "")
-            bth_date = m.get("BTH_DATE", "")
-            pic_url = m.get("NAAS_PIC", "")
-            if name and bth_date:
-                photo_dict[f"{name}_{bth_date}"] = pic_url
+    # 💡 2. 22대 현역 의원 사진 전용 매칭 (ALLNAMEMBER)
+    # AGE=22 또는 UNIT=22를 사용하여 22대 의원 사진 주소만 정확히 추출
+    print("📸 22대 의원 사진 주소(NAAS_PIC) 수집 중...")
+    photo_data = fetch_data("ALLNAMEMBER", {"UNIT": "22", "pSize": 500})
     
-    # 💡 3. [최적화] 필요한 9가지 핵심 정보만 추출하여 다이어트된 프로필 생성
-    lightweight_profiles = []
+    # 이름과 생년월일을 키로 사용하여 사진 주소 맵 생성
+    # (동명이인을 대비해 생년월일 하이픈 제거 후 매칭)
+    photo_map = {}
+    for m in photo_data:
+        name = m.get("HG_NM", "").strip()
+        bth = m.get("BTH_DATE", "").replace("-", "")
+        if name:
+            photo_map[f"{name}_{bth}"] = m.get("NAAS_PIC", "")
+
+    # 3. 데이터 다이어트 및 병합 (사령관님 요청대로 필요한 것만 딱!)
+    refined_profiles = []
     for p in raw_profiles:
-        key = f"{p.get('HG_NM')}_{p.get('BTH_DATE')}"
-        pic_url = photo_dict.get(key, "")
+        name = p.get("HG_NM", "").strip()
+        bth = p.get("BTH_DATE", "").replace("-", "")
+        key = f"{name}_{bth}"
         
-        lightweight_profiles.append({
-            "HG_NM": p.get("HG_NM", ""),
+        # 🔗 사진 주소를 텍스트로 기억 (없으면 국회 기본 경로로 대체)
+        pic_url = photo_map.get(key, "")
+        if not pic_url:
+            pic_url = f"https://www.assembly.go.kr/static/portal/img/open_data/member/{p.get('MONA_CD')}.jpg"
+
+        refined_profiles.append({
+            "HG_NM": name,
             "POLY_NM": p.get("POLY_NM", ""),
             "ORIG_NM": p.get("ORIG_NM", ""),
-            "CMITS": p.get("CMITS", "") or p.get("CMIT_NM", ""),
+            "CMITS": p.get("CMITS") or p.get("CMIT_NM", ""),
             "REELE_GBN_NM": p.get("REELE_GBN_NM", ""),
             "UNITS": p.get("UNITS", ""),
             "STAFF": p.get("STAFF", ""),
             "SECRETARY": p.get("SECRETARY", ""),
             "SECRETARY2": p.get("SECRETARY2", ""),
             "MEM_TITLE": p.get("MEM_TITLE", ""),
-            "HOMEPAGE": p.get("HOMEPAGE", ""), # 홈페이지 링크 추가
-            "NAAS_PIC": pic_url,              # 사진 URL 텍스트만 저장
-            "MONA_CD": p.get("MONA_CD", "")
+            "HOMEPAGE": p.get("HOMEPAGE", ""), # 홈페이지 주소 기억
+            "NAAS_PIC": pic_url               # 사진 주소 기억
         })
-        
-    print(f"✅ 프로필 다이어트 및 사진 매칭 완료.")
+
+    # 4. 3번 칸: 본회의 투표 데이터 (22대 강제 고정)
+    print("🗳️ 본회의 투표 현황 추적 중 (최근 30건)...")
+    plenary_bills = fetch_data("ncocpgfiaoituanbr", {"AGE": "22", "pSize": 30})
     
-    # 4. 최근 활동 내역 싹쓸이 (법안, 회의록 - 22대 위주 최신순 1000건)
-    bills = fetch_data("ALLBILL", {"pSize": 1000})
-    minutes = fetch_data("ncwgseseafwbuheph", {"pSize": 1000})
-    
-    # 💡 5. 본회의 표결 싹쓸이 (무조건 22대 강제)
-    print("본회의 표결 데이터 수집 중 (최근 30건)...")
-    recent_plenary_bills = fetch_data("ncocpgfiaoituanbr", {"AGE": "22", "pSize": 30})
-    
-    votes_data = []
-    if recent_plenary_bills:
-        for bill in recent_plenary_bills:
-            bill_id = bill.get("BILL_ID")
-            if not bill_id: continue
-            
-            # 💡 nzmimeepazxkubdpn API에도 AGE=22 필수 적용
-            bill_votes = fetch_data("nzmimeepazxkubdpn", {"BILL_ID": bill_id, "AGE": "22", "pSize": 300})
-            for v in bill_votes:
-                votes_data.append({
-                    "HG_NM": v.get("HG_NM", ""),
-                    "BILL_NM": v.get("BILL_NAME", bill.get("BILL_NAME", "의안명 없음")),
-                    "RESULT_VOTE_NM": v.get("RESULT_VOTE_MOD", "확인불가"),
-                    "VOTE_DATE": v.get("VOTE_DATE", "날짜없음")
+    votes_list = []
+    if plenary_bills:
+        for bill in plenary_bills:
+            b_id = bill.get("BILL_ID")
+            b_name = bill.get("BILL_NAME")
+            # 각 의안별 의원들의 투표 결과 싹쓸이
+            v_rows = fetch_data("nzmimeepazxkubdpn", {"BILL_ID": b_id, "AGE": "22", "pSize": 300})
+            for v in v_rows:
+                votes_list.append({
+                    "HG_NM": v.get("HG_NM", "").strip(),
+                    "BILL_NM": b_name,
+                    "RESULT": v.get("RESULT_VOTE_MOD", "미투표"),
+                    "DATE": v.get("VOTE_DATE", "")
                 })
-    
-    # 6. 초경량 DB 병합
-    db = {
-        "profiles": lightweight_profiles,
-        "bills": bills,
-        "minutes": minutes,
-        "votes": votes_data,
+
+    # 5. 최종 DB 저장
+    final_db = {
+        "profiles": refined_profiles,
+        "votes": votes_list,
+        "bills": fetch_data("ALLBILL", {"pSize": 500}), # 최근 발의 의안
+        "minutes": fetch_data("ncwgseseafwbuheph", {"pSize": 500}), # 최근 회의록
         "last_updated": datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S")
     }
-    
+
     with open("radar_db.json", "w", encoding="utf-8") as f:
-        json.dump(db, f, ensure_ascii=False)
+        json.dump(final_db, f, ensure_ascii=False)
         
-    print(f"✅ 레이더 DB 갱신 완료 (표결 데이터 {len(votes_data)}건 수집됨)")
+    print(f"✅ 작전 완료: {len(refined_profiles)}명의 사진 및 {len(votes_list)}건의 투표 데이터 확보.")
