@@ -38,6 +38,22 @@
         </div>
         
         <div class="resizer" id="resizer"></div>
+
+        <div class="pane-right">
+    <div class="search-container" style="margin-bottom: 15px; display: flex; gap: 10px;">
+        <input type="text" id="member-search-input" placeholder="추적할 국회의원 이름 입력 (예: 김철수)" 
+               style="flex: 1; padding: 10px 15px; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--text);">
+        <button onclick="searchMember()" style="padding: 10px 20px; border-radius: 8px; border: none; background: var(--accent); color: var(--bg); cursor: pointer; font-weight: bold;">추적 시작</button>
+    </div>
+
+        <div class="pane">
+            <div class="pane-header"><div id="pane2-title">입법/정책 동향 <span id="pane2-tabs"></span></div><span id="time-2"></span></div>
+            <div id="pane2-content" class="scroll-content"></div>
+        </div>
+        <div class="pane">
+            <div class="pane-header"><div id="pane3-title">AI 분석 브리핑 <span id="pane3-tabs"></span></div><span id="time-3"></span></div>
+            <div id="pane3-content" class="scroll-content"></div>
+        </div>
         
         <div class="pane-right">
             <div class="pane">
