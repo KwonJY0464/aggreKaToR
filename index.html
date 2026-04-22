@@ -39,63 +39,22 @@
         
         <div class="resizer" id="resizer"></div>
         
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>aggreKaToR</title>
-    <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body data-theme="dark">
-    <header>
-        <h1>aggreKaToR</h1>
-        <div class="mode-tabs">
-            <span id="mode-news" class="mode-btn active" onclick="switchMode('news')">뉴스수집기</span>
-            <span id="mode-assembly" class="mode-btn" onclick="switchMode('assembly')">국회수집기</span>
-        </div>
-        <button style="background:none; border:none; font-size:1.2rem; cursor:pointer;" onclick="toggleTheme()" id="themeIcon">☀️</button>
-    </header>
-
-    <div class="wrapper" id="mainWrapper">
-        <div class="pane-left">
-            <div class="pane" id="news-left-pane" style="display:flex; height:100%; flex-direction:column;">
-                <div class="pane-header"><div id="pane1-title">인기뉴스</div> <span id="time-1-news"></span></div>
-                <div id="pane1-content" class="scroll-content"></div>
-            </div>
-
-            <div id="assembly-left-pane" style="display:none; height:100%; flex-direction:column; gap:15px;">
-                <div class="pane" style="height: auto; flex-shrink: 0;">
-                    <div id="calendar-wrapper" style="padding:5px 15px 15px 15px;"></div>
-                </div>
-                <div class="pane" style="flex: 1; min-height: 0;">
-                    <div class="pane-header"><div>핵심 의사일정 상세</div> <span id="time-1-assembly"></span></div>
-                    <div id="pane1-assembly-content" class="scroll-content">
-                        <div style="padding:40px; text-align:center; color:#999;">날짜를 선택해주세요.</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="resizer" id="resizer"></div>
-        
-        <div class="pane-right" style="display: flex; flex-direction: column; gap: 15px;">
+        <div class="pane-right" style="display: flex; flex-direction: column; gap: 15px; width: 100%; min-width: 0;">
             
             <div id="member-search-container" style="display:none; flex: 0 0 45px; gap: 10px; align-items: center;">
-                <input type="text" id="member-search-input" placeholder="추적할 국회의원 이름 입력 (예: 김동아)" 
+                <input type="text" id="member-search-input" placeholder="추적할 국회의원 이름 입력 (예: 홍길동)" 
                        style="flex: 1; height: 100%; padding: 0 15px; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--text); font-size: 1rem; outline: none; box-sizing: border-box;">
-                <button onclick="searchMember()" style="height: 100%; padding: 0 25px; border-radius: 8px; border: none; background: var(--accent); color: var(--bg); cursor: pointer; font-weight: bold; font-size: 1rem; box-sizing: border-box; white-space: nowrap;">레이더 가동</button>
+                <button onclick="searchMember()" style="height: 100%; padding: 0 25px; border-radius: 8px; border: none; background: var(--accent); color: var(--bg); cursor: pointer; font-weight: bold; font-size: 1rem; box-sizing: border-box; white-space: nowrap;">검색</button>
             </div>
 
-            <div class="pane" id="profile-pane" style="flex: 1.6; min-height: 0;">
+            <div class="pane" id="profile-pane" style="flex: 1.6; min-height: 0; display:flex; flex-direction:column;">
                 <div class="pane-header"><div id="pane2-title">의원 프로필</div><span id="time-2"></span></div>
-                <div id="pane2-content" class="scroll-content"></div>
+                <div id="pane2-content" class="scroll-content" style="flex:1; overflow-y:auto;"></div>
             </div>
 
-            <div class="pane" id="activity-pane" style="flex: 1; min-height: 0;">
+            <div class="pane" id="activity-pane" style="flex: 1; min-height: 0; display:flex; flex-direction:column;">
                 <div class="pane-header"><div id="pane3-title">활동 내역</div><span id="time-3"></span></div>
-                <div id="pane3-content" class="scroll-content"></div>
+                <div id="pane3-content" class="scroll-content" style="flex:1; overflow-y:auto;"></div>
             </div>
         </div>
     </div>
