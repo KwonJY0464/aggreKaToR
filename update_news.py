@@ -52,7 +52,7 @@ def get_batch_summaries(news_items):
     except Exception as e:
         print(f"Batch 요약 치명적 에러: {e}")
         # 전체 에러 시에도 모든 기사에 원문 내용이라도 채워줌
-        return [f"(엔진 오류) {re.sub('<[^>]*>', '', item['description'])[:80]}..." for item in news_items]
+        return [f"(원문) {re.sub('<[^>]*>', '', item['description'])[:80]}..." for item in news_items]
         
 def fetch_news(keyword, count=15, apply_filter=True):
     """뉴스 수집 및 필터링 (KST 날짜 포함)"""
