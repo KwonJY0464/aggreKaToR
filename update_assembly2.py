@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 ASSEMBLY_KEY = os.environ.get("ASSEMBLY_API_KEY")
 KST = timezone(timedelta(hours=9))
 
-# 💡 KTR 미래전략실 핵심 타겟 설정
+# 💡 핵심 타겟 설정
 TARGET_COMMITTEES = ['산업통상자원중소벤처기업위원회', '환경노동위원회', '과학기술정보방송통신위원회', '보건복지위원회']
 TARGET_KEYWORDS = ['이차전지', '배터리', '탄소중립', 'R&D', '연구개발', '인증', '시험', '규제', '모빌리티', '신산업']
 
@@ -102,7 +102,7 @@ if __name__ == "__main__":
         "last_updated": now_kst
     }
 
-    with open("assembly_ktr.json", "w", encoding="utf-8") as f:
+    with open("assembly_2.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"✅ {now_kst} KST - 국회 데이터 총 {len(combined)}건 수집 완료 (AI 분석 제외)")
