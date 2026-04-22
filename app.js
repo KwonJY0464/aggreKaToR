@@ -1,5 +1,5 @@
 window.allData = null;
-window.radarDB = null; // 💡 국회 레이더 DB 보관소
+window.radarDB = null; // 레이더 DB 보관소
 window.currentMode = 'news';
 window.currentCalDate = new Date();
 
@@ -24,30 +24,22 @@ document.addEventListener('DOMContentLoaded', async () => {
         time2:               document.getElementById('time-2'),
         time3:               document.getElementById('time-3'),
         themeIcon:           document.getElementById('themeIcon'),
+        searchContainer:     document.getElementById('member-search-container'),
+        searchInput:         document.getElementById('member-search-input')
     };
 
-    // 의원 검색창 UI 동적 생성
-    const rightPane = document.querySelector('.pane-right');
-    if (rightPane && !document.getElementById('member-search-container')) {
-        const searchHtml = `
-            <div id="member-search-container" style="display:none; margin-bottom: 15px; gap: 10px; flex-shrink: 0;">
-                <input type="text" id="member-search-input" placeholder="타겟 의원 이름 입력 (예: 한동훈)" 
-                       style="flex: 1; padding: 12px 15px; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--text); font-size: 1rem; outline: none;">
-                <button onclick="searchMember()" style="padding: 0 25px; border-radius: 8px; border: none; background: var(--accent); color: var(--bg); cursor: pointer; font-weight: bold; font-size: 1rem;">레이더 가동</button>
-            </div>
-        `;
-        rightPane.insertAdjacentHTML('afterbegin', searchHtml);
-        
-        document.getElementById('member-search-input').addEventListener('keypress', function (e) {
+    // 엔터키 지원
+    if (DOM.searchInput) {
+        DOM.searchInput.addEventListener('keypress', function (e) {
             if (e.key === 'Enter') searchMember();
         });
     }
 
-    // 💡 앱 시작 시 레이더 DB를 한 번만 로드하여 메모리에 적재
+    // 앱 시작 시 파이썬이 구워놓은 레이더 DB 사전 적재
     try {
         const radarRes = await fetch(`radar_db.json?t=${Date.now()}`);
         if (radarRes.ok) window.radarDB = await radarRes.json();
-    } catch(e) { console.warn("레이더 DB가 아직 생성되지 않았습니다."); }
+    } catch(e) { console.warn("레이더 DB가 아직 준비되지 않았습니다."); }
 
     const resizer = document.getElementById('resizer');
     let isResizing = false;
@@ -75,21 +67,20 @@ window.toggleTheme = function() {
 
 window.switchMode = async function(mode) {
     window.currentMode = mode;
+
     document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
     const activeBtn = document.getElementById(`mode-${mode}`);
     if (activeBtn) activeBtn.classList.add('active');
 
-    const searchContainer = document.getElementById('member-search-container');
-
     if (mode === 'news') {
         if (DOM.newsLeftPane) DOM.newsLeftPane.style.display = 'flex';
         if (DOM.assemblyLeftPane) DOM.assemblyLeftPane.style.display = 'none';
-        if (searchContainer) searchContainer.style.display = 'none';
+        if (DOM.searchContainer) DOM.searchContainer.style.display = 'none'; // 뉴스에선 무조건 숨김
         await loadNewsData();
     } else {
         if (DOM.newsLeftPane) DOM.newsLeftPane.style.display = 'none';
         if (DOM.assemblyLeftPane) DOM.assemblyLeftPane.style.display = 'flex';
-        if (searchContainer) searchContainer.style.display = 'flex';
+        if (DOM.searchContainer) DOM.searchContainer.style.display = 'flex'; // 국회에선 무조건 노출
         window.currentCalDate = new Date();
         await loadAssemblyData();
     }
@@ -104,16 +95,19 @@ function setHeaders({ title2, title3, useInnerHTML = false, clearTabs = false })
     }
 }
 
-// --- 뉴스 & 국회 기본 달력 로드 함수 (이전과 완벽히 동일하여 생략 없이 유지) ---
+// --- 뉴스 수집기 로직 ---
 async function loadNewsData() {
     try {
         setHeaders({ title2: '부처/기관 <span id="pane2-tabs"></span>', title3: 'AI 키워드 타게팅 <span id="pane3-tabs"></span>', useInnerHTML: true });
         DOM.pane2Tabs = document.getElementById('pane2-tabs'); DOM.pane3Tabs = document.getElementById('pane3-tabs');
         if (DOM.pane1Title) DOM.pane1Title.innerText = '인기뉴스';
+
         const res = await fetch(`news.json?t=${Date.now()}`);
         if (!res.ok) throw new Error("news.json 로드 실패");
         window.allData = await res.json();
+
         renderItems('pane1-content', window.allData.pane1);
+
         ['pane2', 'pane3'].forEach(id => {
             if (!window.allData[id]) return;
             const n = id.slice(-1); const kws = Object.keys(window.allData[id]);
@@ -124,9 +118,12 @@ async function loadNewsData() {
             }
         });
         updateTimeDisplays(window.allData.last_updated, 'news');
-    } catch (e) { if (DOM.pane1Content) DOM.pane1Content.innerHTML = "<div style='padding:20px; color:#999;'>뉴스를 불러올 수 없습니다.</div>"; }
+    } catch (e) {
+        if (DOM.pane1Content) DOM.pane1Content.innerHTML = "<div style='padding:20px; color:#999;'>뉴스를 불러올 수 없습니다.</div>";
+    }
 }
 
+// --- 국회 수집기 로직 ---
 async function loadAssemblyData() {
     try {
         setHeaders({ title2: '의원 프로필', title3: '활동 내역', clearTabs: true });
@@ -134,12 +131,14 @@ async function loadAssemblyData() {
         if (!res.ok) throw new Error("assembly.json 로드 실패");
         const data = await res.json();
         window.allData = data;
+
         if (data.schedules) {
             renderSingleCalendar(data.schedules);
             const todayStr = new Date().toISOString().split('T')[0];
             const todayEl = document.querySelector(`.cal-day[data-date="${todayStr}"]`);
             if (todayEl) selectDate(todayStr, todayEl);
         }
+
         if (DOM.pane2Content) DOM.pane2Content.innerHTML = `<div style="padding:40px; text-align:center; opacity:0.6;">위 검색창에 타겟 의원 이름을 입력하여<br>추적을 시작하십시오.</div>`;
         if (DOM.pane3Content) DOM.pane3Content.innerHTML = `<div style="padding:40px; text-align:center; opacity:0.6;">대기 중...</div>`;
         updateTimeDisplays(data.last_updated, 'assembly');
@@ -168,7 +167,9 @@ function renderSingleCalendar(schedules) {
 
 window.selectDate = function(date, el) {
     document.querySelectorAll('.cal-day').forEach(d => d.classList.remove('selected')); if (el) el.classList.add('selected');
-    if (window.allData && window.allData.schedules) renderItems('pane1-assembly-content', window.allData.schedules.filter(s => s.date === date));
+    if (window.allData && window.allData.schedules) {
+        renderItems('pane1-assembly-content', window.allData.schedules.filter(s => s.date === date));
+    }
 };
 
 function renderItems(targetId, items) {
@@ -199,17 +200,17 @@ function updateTimeDisplays(ts, mode) {
 }
 
 // ==========================================
-// 🚀 국회의원 타겟 추적 레이더 (API 키 완벽 제거 버전)
+// 🚀 국회의원 타겟 추적 레이더 (전술 1: JSON 창고 필터링)
 // ==========================================
 
 window.searchMember = function() {
-    const name = document.getElementById('member-search-input').value.trim();
+    if (!DOM.searchInput) return;
+    const name = DOM.searchInput.value.trim();
     if (!name) { alert("의원 이름을 입력하십시오."); return; }
-    if (!window.radarDB) { alert("백그라운드에서 레이더 DB(radar_db.json)가 아직 생성되지 않았습니다."); return; }
+    if (!window.radarDB) { alert("파이썬 정찰대가 만든 레이더 DB(radar_db.json)가 아직 로드되지 않았습니다."); return; }
 
     DOM.pane2Content.innerHTML = `<div style="padding:40px; text-align:center;">인적사항 필터링 중...</div>`;
     
-    // 1. JSON DB에서 프로필 찾기
     const info = window.radarDB.profiles.find(p => p.HG_NM === name);
     
     if (!info) {
@@ -234,7 +235,6 @@ window.searchMember = function() {
         </div>
     `;
 
-    // 2. 활동 내역 탭 세팅
     DOM.pane3Title.innerHTML = `활동 내역 (최근 1000건 기준)
         <span id="pane3-tabs">
             <button class="tab-btn active" onclick="switchActivityTab('${name}', 'bills', this)">발의의안</button>
@@ -251,7 +251,6 @@ window.switchActivityTab = function(name, type, btn) {
 
     let formattedItems = [];
 
-    // JSON DB에서 이름이 포함된 데이터만 0.01초 만에 싹 긁어오기
     if (type === 'bills') {
         const myBills = window.radarDB.bills.filter(b => (b.RST_PROPOSER && b.RST_PROPOSER.includes(name)) || (b.PROPOSER && b.PROPOSER.includes(name)));
         formattedItems = myBills.map(r => ({
