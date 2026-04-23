@@ -209,7 +209,7 @@ window.searchMember = function() {
     let partyName = info.POLY_NM || '무소속';
     
     if (partyName.includes('민주')) {
-        partyColor = '#1A70D1'; // 파란색
+        partyColor = '#230b8a'; // 짙은파란색
     } else if (partyName.includes('국민의힘')) {
         partyColor = '#E61E2B'; // 빨간색
     } else if (partyName.includes('개혁신당')) {
