@@ -208,14 +208,14 @@ window.searchMember = function() {
     let partyColor = 'var(--accent)'; // 기본 테마색
     let partyName = info.POLY_NM || '무소속';
     
-    if (partyName.includes('민주')) {
+    if (partyName.includes('더불어민주')) {
         partyColor = '#230b8a'; // 짙은파란색
-    } else if (partyName.includes('국민의힘')) {
+    } else if (partyName.includes('국민의')) {
         partyColor = '#E61E2B'; // 빨간색
     } else if (partyName.includes('개혁신당')) {
         partyColor = '#FF7A1F'; // 주황색
     } else if (partyName.includes('조국')) {
-        partyColor = '#007CFF'; // 밝은 하늘색
+        partyColor = '#0073CF'; // 밝은 하늘색
     }
 
     DOM.pane2Title.innerText = "의원 프로필 상세";
