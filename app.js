@@ -1,5 +1,6 @@
 window.allData = null;
 window.radarDB = null;
+window.profilesDB = null; // 💡 분리된 프로필 DB
 window.currentMode = 'news';
 window.currentCalDate = new Date();
 
@@ -39,21 +40,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     try {
         const radarRes = await fetch(`radar_db.json?t=${Date.now()}`);
         if (radarRes.ok) window.radarDB = await radarRes.json();
-    } catch(e) { console.warn("레이더 DB 대기 중..."); }
-
-    const resizer = document.getElementById('resizer');
-    let isResizing = false;
-    if (resizer) {
-        resizer.addEventListener('mousedown', () => { isResizing = true; });
-        document.addEventListener('mousemove', (e) => {
-            if (!isResizing) return;
-            const x = e.clientX;
-            if (x > 300 && x < window.innerWidth - 350) {
-                document.documentElement.style.setProperty('--left-width', `${x}px`);
-            }
-        });
-        document.addEventListener('mouseup', () => { isResizing = false; });
-    }
+        
+        // 💡 분리된 프로필 DB 호출
+        const profRes = await fetch(`profiles_db.json?t=${Date.now()}`);
+        if (profRes.ok) window.profilesDB = await profRes.json();
+    } catch(e) { console.warn("DB 로드 중..."); }
 
     switchMode('news');
 });
@@ -68,52 +59,45 @@ window.toggleTheme = function() {
 window.switchMode = async function(mode) {
     window.currentMode = mode;
     document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
-    const activeBtn = document.getElementById(`mode-${mode}`);
-    if (activeBtn) activeBtn.classList.add('active');
+    document.getElementById(`mode-${mode}`).classList.add('active');
 
     if (mode === 'news') {
         document.documentElement.style.setProperty('--left-width', '350px');
-        
-        if (DOM.newsLeftPane) DOM.newsLeftPane.style.display = 'flex';
-        if (DOM.assemblyLeftPane) DOM.assemblyLeftPane.style.display = 'none';
-        if (DOM.searchContainer) DOM.searchContainer.style.display = 'none';
-        if (DOM.profilePane) DOM.profilePane.style.flex = '1';
-        if (DOM.activityPane) DOM.activityPane.style.flex = '1';
-        
+        DOM.newsLeftPane.style.display = 'flex';
+        DOM.assemblyLeftPane.style.display = 'none';
+        DOM.searchContainer.style.display = 'none';
+        DOM.profilePane.style.flex = '1';
+        DOM.activityPane.style.flex = '1';
         await loadNewsData();
     } else {
         document.documentElement.style.setProperty('--left-width', '25vw');
-        
-        if (DOM.newsLeftPane) DOM.newsLeftPane.style.display = 'none';
-        if (DOM.assemblyLeftPane) DOM.assemblyLeftPane.style.display = 'flex';
-        if (DOM.searchContainer) DOM.searchContainer.style.display = 'flex';
-        if (DOM.profilePane) DOM.profilePane.style.flex = '1.6';
-        if (DOM.activityPane) DOM.activityPane.style.flex = '1';
-        
+        DOM.newsLeftPane.style.display = 'none';
+        DOM.assemblyLeftPane.style.display = 'flex';
+        DOM.searchContainer.style.display = 'flex';
+        DOM.profilePane.style.flex = '1.6';
+        DOM.activityPane.style.flex = '1';
         window.currentCalDate = new Date();
         await loadAssemblyData();
     }
 };
 
 function setHeaders({ title2, title3, useInnerHTML = false, clearTabs = false }) {
-    if (DOM.pane2Title) useInnerHTML ? (DOM.pane2Title.innerHTML = title2) : (DOM.pane2Title.innerText = title2);
-    if (DOM.pane3Title) useInnerHTML ? (DOM.pane3Title.innerHTML = title3) : (DOM.pane3Title.innerText = title3);
-    if (clearTabs) {
-        if (DOM.pane2Tabs) DOM.pane2Tabs.innerHTML = '';
-        if (DOM.pane3Tabs) DOM.pane3Tabs.innerHTML = '';
+    if (useInnerHTML) {
+        DOM.pane2Title.innerHTML = title2; DOM.pane3Title.innerHTML = title3;
+    } else {
+        DOM.pane2Title.innerText = title2; DOM.pane3Title.innerText = title3;
     }
+    if (clearTabs) { DOM.pane2Tabs.innerHTML = ''; DOM.pane3Tabs.innerHTML = ''; }
 }
 
 async function loadNewsData() {
     try {
         setHeaders({ title2: '부처/기관 <span id="pane2-tabs"></span>', title3: 'AI 키워드 타게팅 <span id="pane3-tabs"></span>', useInnerHTML: true });
         DOM.pane2Tabs = document.getElementById('pane2-tabs'); DOM.pane3Tabs = document.getElementById('pane3-tabs');
-        if (DOM.pane1Title) DOM.pane1Title.innerText = '인기뉴스';
+        DOM.pane1Title.innerText = '인기뉴스';
 
         const res = await fetch(`news.json?t=${Date.now()}`);
-        if (!res.ok) throw new Error("news.json 로드 실패");
         window.allData = await res.json();
-
         renderItems('pane1-content', window.allData.pane1);
 
         ['pane2', 'pane3'].forEach(id => {
@@ -126,16 +110,13 @@ async function loadNewsData() {
             }
         });
         updateTimeDisplays(window.allData.last_updated, 'news');
-    } catch (e) {
-        if (DOM.pane1Content) DOM.pane1Content.innerHTML = "<div style='padding:20px; color:#999;'>뉴스를 불러올 수 없습니다.</div>";
-    }
+    } catch (e) { DOM.pane1Content.innerHTML = "<div style='padding:20px;'>뉴스를 불러올 수 없습니다.</div>"; }
 }
 
 async function loadAssemblyData() {
     try {
         setHeaders({ title2: '의원 프로필 상세', title3: '활동 내역', clearTabs: true });
         const res = await fetch(`assembly.json?t=${Date.now()}`);
-        if (!res.ok) throw new Error("assembly.json 로드 실패");
         const data = await res.json();
         window.allData = data;
 
@@ -146,10 +127,10 @@ async function loadAssemblyData() {
             if (todayEl) selectDate(todayStr, todayEl);
         }
 
-        if (DOM.pane2Content) DOM.pane2Content.innerHTML = `<div style="padding:40px; text-align:center; opacity:0.6;">위 검색창에 타겟 의원 이름을 입력하여<br>추적을 시작하십시오.</div>`;
-        if (DOM.pane3Content) DOM.pane3Content.innerHTML = `<div style="padding:40px; text-align:center; opacity:0.6;">대기 중...</div>`;
+        DOM.pane2Content.innerHTML = `<div style="padding:40px; text-align:center; opacity:0.6;">위 검색창에 타겟 의원 이름을 입력하여<br>추적을 시작하십시오.</div>`;
+        DOM.pane3Content.innerHTML = `<div style="padding:40px; text-align:center; opacity:0.6;">대기 중...</div>`;
         updateTimeDisplays(data.last_updated, 'assembly');
-    } catch (e) { console.error("Assembly Load Error:", e); }
+    } catch (e) {}
 }
 
 window.changeMonth = function(offset) {
@@ -158,7 +139,6 @@ window.changeMonth = function(offset) {
 };
 
 function renderSingleCalendar(schedules) {
-    if (!DOM.calendarWrapper) return;
     const year = window.currentCalDate.getFullYear(); const month = window.currentCalDate.getMonth();
     const days = ['일','월','화','수','목','금','토']; const firstDay = new Date(year, month, 1).getDay();
     const lastDate = new Date(year, month + 1, 0).getDate(); const todayStr = new Date().toISOString().split('T')[0];
@@ -183,13 +163,9 @@ function renderItems(targetId, items) {
     container.innerHTML = items.map(item => {
         let dot = "";
         if (window.currentMode === 'assembly' && item.type !== 'session') {
-            const dotColor = item.type === 'sanja' ? 'var(--sanja-color)' : 'var(--gihyu-color)';
-            dot = `<div class="type-dot" style="background:${dotColor}"></div>`;
+            dot = `<div class="type-dot" style="background:${item.type === 'sanja' ? 'var(--sanja-color)' : 'var(--gihyu-color)'}"></div>`;
         }
-        const titleText = item.title ? item.title.replace(/<[^>]*>?/gm, '') : '제목 없음';
-        const pText = item.ai_summary || item.time || ''; const pTag = pText ? `<p>${pText}</p>` : '';
-        const metaText = item.formatted_date || (item.time + ' | ' + (item.committee||'') + ' | ' + (item.location || '장소미정'));
-        return `<div class="item" onclick="if('${item.link||''}' && '${item.link}' !== '#') window.open('${item.link}', '_blank')"><h3>${dot}${titleText}</h3>${pTag}<span class="meta">${metaText}</span></div>`;
+        return `<div class="item" onclick="if('${item.link||''}' && '${item.link}' !== '#') window.open('${item.link}', '_blank')"><h3>${dot}${item.title}</h3><p>${item.ai_summary || ''}</p><span class="meta">${item.meta || item.formatted_date || item.time}</span></div>`;
     }).join('');
 }
 
@@ -205,37 +181,36 @@ function updateTimeDisplays(ts, mode) {
 }
 
 // ==========================================
-// 🚀 국회의원 타겟 추적 레이더 (최종 무적 패치)
+// 🚀 국회의원 타겟 추적 레이더 (프로필 DB 완전 분리)
 // ==========================================
 
 window.searchMember = function() {
     if (!DOM.searchInput) return;
     const name = DOM.searchInput.value.trim();
-    if (!name) { alert("의원 이름을 입력하십시오."); return; }
-    if (!window.radarDB) { alert("파이썬 정찰대가 만든 레이더 DB(radar_db.json)가 아직 로드되지 않았습니다."); return; }
+    if (!name) return;
+    if (!window.profilesDB) { alert("profiles_db.json 파일이 로드되지 않았습니다."); return; }
 
-    const info = window.radarDB.profiles.find(p => (p.HG_NM || "").trim() === name);
+    // 💡 분리된 프로필 DB에서 검색
+    const info = window.profilesDB.find(p => p.HG_NM === name);
     if (!info) {
-        DOM.pane2Content.innerHTML = `<div style="padding:40px; text-align:center; color:#e74c3c;">제22대 현역 의원 중 '${name}' 의원을 찾을 수 없습니다.</div>`;
+        DOM.pane2Content.innerHTML = `<div style="padding:40px; text-align:center; color:#e74c3c;">'${name}' 의원을 찾을 수 없습니다.</div>`;
         DOM.pane3Content.innerHTML = '';
         return;
     }
 
-    // 💡 사진 주소: DB에 저장된 원본 주소가 있으면 쓰고, 정~ 없으면 국회 기본 사진첩으로 우회 (프론트 방어막)
-    const photoUrl = info.NAAS_PIC || `https://www.assembly.go.kr/static/portal/img/open_data/member/${info.MONA_CD}.jpg`;
+    // 💡 100% 원본 NAAS_PIC 주소를 그대로 src에 꽂습니다.
+    const photoUrl = info.NAAS_PIC;
 
     let displayName = info.HG_NM;
     if (info.HOMEPAGE && info.HOMEPAGE.startsWith("http")) {
-        displayName = `<a href="${info.HOMEPAGE}" target="_blank" style="color:var(--news-title); text-decoration:none;" title="의원 홈페이지/SNS 이동">🔗 ${info.HG_NM}</a>`;
+        displayName = `<a href="${info.HOMEPAGE}" target="_blank" style="color:var(--news-title); text-decoration:none;" title="홈페이지 이동">🔗 ${info.HG_NM}</a>`;
     }
 
     DOM.pane2Title.innerText = "의원 프로필 상세";
     DOM.pane2Content.innerHTML = `
         <div style="padding: 15px; background: var(--card); height: 100%; box-sizing: border-box;">
-            
             <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-                <img src="${photoUrl}" onerror="this.src='https://www.assembly.go.kr/photo/${info.MONA_CD}.jpg'" 
-                     style="width: 85px; height: 110px; border-radius: 6px; object-fit: cover; border: 1px solid var(--border); background: #333;">
+                <img src="${photoUrl}" alt="사진 없음" style="width: 85px; height: 110px; border-radius: 6px; object-fit: cover; border: 1px solid var(--border); background: #333;">
                 <div>
                     <h2 style="margin: 0; font-size: 1.6rem;">${displayName}</h2>
                     <span style="display: inline-block; margin-top: 5px; padding: 3px 8px; background: var(--accent); color: var(--bg); border-radius: 4px; font-weight: bold; font-size: 0.85rem;">
@@ -290,27 +265,21 @@ window.switchActivityTab = function(name, type, btn) {
     if (btn) btn.classList.add('active');
 
     let items = [];
+    if (!window.radarDB) return;
+
     if (type === 'bills') {
-        items = (window.radarDB.bills || []).filter(b => 
-            ((b.RST_PROPOSER || "").includes(name)) || ((b.PROPOSER || "").includes(name))
-        ).map(r => ({ title: `[의안] ${r.BILL_NM || '제목없음'}`, meta: `제안일: ${r.PROPOSER_DT || ''}`, link: r.LINK_URL || '#' }));
+        items = (window.radarDB.bills || []).filter(b => ((b.RST_PROPOSER || "").includes(name)) || ((b.PROPOSER || "").includes(name)))
+        .map(r => ({ title: `[의안] ${r.BILL_NM || ''}`, meta: `제안일: ${r.PROPOSER_DT || ''}`, link: r.LINK_URL || '#' }));
     } else if (type === 'minutes') {
-        items = (window.radarDB.minutes || []).filter(m => 
-            ((m.SPK_FIRST_NM || "").includes(name)) || ((m.SUB_NAME || "").includes(name))
-        ).map(r => ({ title: `[발언] ${r.COMM_NAME || ''} - ${r.SUB_NAME || ''}`, meta: `회의일: ${r.MEET_DATE || ''}`, link: r.CONF_LINK_URL || r.PDF_LINK_URL || '#' }));
+        items = (window.radarDB.minutes || []).filter(m => ((m.SPK_FIRST_NM || "").includes(name)) || ((m.SUB_NAME || "").includes(name)))
+        .map(r => ({ title: `[발언] ${r.COMM_NAME || ''} - ${r.SUB_NAME || ''}`, meta: `회의일: ${r.MEET_DATE || ''}`, link: r.CONF_LINK_URL || r.PDF_LINK_URL || '#' }));
     } else if (type === 'votes') {
-        // 💡 3번 칸: 방어막 완벽 전개. 불량 데이터(null)가 들어와도 절대 뻗지 않습니다.
         items = (window.radarDB.votes || []).filter(v => (v.HG_NM || "").trim() === name)
         .map(r => {
             let resultColor = 'var(--text)';
             if(r.RESULT_VOTE_NM === '찬성') resultColor = 'var(--sanja-color)';
             if(r.RESULT_VOTE_NM === '반대') resultColor = '#e74c3c';
-            
-            return { 
-                title: `[투표] ${r.BILL_NM || '알 수 없는 의안'}`, 
-                meta: `결과: <b style="color:${resultColor};">${r.RESULT_VOTE_NM || '확인불가'}</b> | 표결일: ${r.VOTE_DATE || '날짜없음'}`, 
-                link: '#' 
-            };
+            return { title: `[투표] ${r.BILL_NM || ''}`, meta: `결과: <b style="color:${resultColor};">${r.RESULT_VOTE_NM || '미투표'}</b> | 표결일: ${r.VOTE_DATE || ''}`, link: '#' };
         });
     }
 
