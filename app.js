@@ -262,7 +262,7 @@ window.searchMember = function() {
         </div>
     `;
 
-    DOM.pane3Title.innerHTML = `의원 상
+    DOM.pane3Title.innerHTML = `의원 상세 
         <span id="pane3-tabs">
             <button class="tab-btn active" onclick="switchActivityTab('${name}', 'committee', this)">위원회 일정</button>
             <button class="tab-btn" onclick="switchActivityTab('${name}', 'plenary', this)">본회의 일정</button>
