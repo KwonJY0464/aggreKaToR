@@ -190,7 +190,6 @@ window.searchMember = function() {
     if (!name) return;
     if (!window.profilesDB) { alert("profiles_db.json 파일이 로드되지 않았습니다."); return; }
 
-    // 💡 분리된 프로필 DB에서 검색
     const info = window.profilesDB.find(p => p.HG_NM === name);
     if (!info) {
         DOM.pane2Content.innerHTML = `<div style="padding:40px; text-align:center; color:#e74c3c;">'${name}' 의원을 찾을 수 없습니다.</div>`;
@@ -198,12 +197,25 @@ window.searchMember = function() {
         return;
     }
 
-    // 💡 100% 원본 NAAS_PIC 주소를 그대로 src에 꽂습니다.
     const photoUrl = info.NAAS_PIC;
 
     let displayName = info.HG_NM;
     if (info.HOMEPAGE && info.HOMEPAGE.startsWith("http")) {
         displayName = `<a href="${info.HOMEPAGE}" target="_blank" style="color:var(--news-title); text-decoration:none;" title="홈페이지 이동">🔗 ${info.HG_NM}</a>`;
+    }
+
+    // 💡 정당별 퍼스널 컬러 지정 로직
+    let partyColor = 'var(--accent)'; // 기본 테마색
+    let partyName = info.POLY_NM || '무소속';
+    
+    if (partyName.includes('민주')) {
+        partyColor = '#1A70D1'; // 파란색
+    } else if (partyName.includes('국민의힘')) {
+        partyColor = '#E61E2B'; // 빨간색
+    } else if (partyName.includes('개혁신당')) {
+        partyColor = '#FF7A1F'; // 주황색
+    } else if (partyName.includes('조국')) {
+        partyColor = '#007CFF'; // 밝은 하늘색
     }
 
     DOM.pane2Title.innerText = "의원 프로필 상세";
@@ -213,8 +225,8 @@ window.searchMember = function() {
                 <img src="${photoUrl}" alt="사진 없음" style="width: 85px; height: 110px; border-radius: 6px; object-fit: cover; border: 1px solid var(--border); background: #333;">
                 <div>
                     <h2 style="margin: 0; font-size: 1.6rem;">${displayName}</h2>
-                    <span style="display: inline-block; margin-top: 5px; padding: 3px 8px; background: var(--accent); color: var(--bg); border-radius: 4px; font-weight: bold; font-size: 0.85rem;">
-                        ${info.POLY_NM}
+                    <span style="display: inline-block; margin-top: 5px; padding: 3px 8px; background: ${partyColor}; color: #ffffff; border-radius: 4px; font-weight: bold; font-size: 0.85rem;">
+                        ${partyName}
                     </span>
                 </div>
             </div>
