@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. 사령관님의 깃허브 저장소를 서버로 불러옵니다.
+      # 1. 깃허브 저장소를 서버로 불러옵니다.
       - name: 📥 저장소 체크아웃
         uses: actions/checkout@v4
 
@@ -25,13 +25,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # 4. 첫 번째 정찰대 출격: 사진/프로필 원본 추출 (NAAS_PIC 100% 매칭)
+      # 4. 사진/프로필 원본 추출 (NAAS_PIC 100% 매칭)
       - name: 📸 1차 타격 - 프로필 DB 갱신
         env:
           ASSEMBLY_API_KEY: ${{ secrets.ASSEMBLY_API_KEY }}
         run: python update_profiles.py
 
-      # 5. 두 번째 정찰대 출격: 본회의 투표 및 의안 데이터 수집
+      # 5. 본회의 투표 및 의안 데이터 수집
       - name: 🗳️ 2차 타격 - 레이더 DB 갱신
         env:
           ASSEMBLY_API_KEY: ${{ secrets.ASSEMBLY_API_KEY }}
