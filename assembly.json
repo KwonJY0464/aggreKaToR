@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30 07:10:08",
+  "last_updated": "2026-04-30 07:42:31",
   "schedules": [
     {
       "date": "2026-05-07",
@@ -228,6 +228,22 @@
     {
       "date": "2026-04-23",
       "time": "10:00",
+      "title": "제434회국회(임시회) 제2차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-04-23",
+      "time": "10:00",
+      "title": "제434회국회(임시회) 제6차 전체회의(정치개혁특별위원회)",
+      "committee": "행정안전위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-04-23",
+      "time": "10:00",
       "title": "에너지 대전환 시대, 전력망 투자 어떻게 할 것인가",
       "committee": "",
       "location": "의원회관 신관 제3세미나실",
@@ -244,14 +260,6 @@
     {
       "date": "2026-04-23",
       "time": "10:00",
-      "title": "제434회국회(임시회) 제2차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-04-23",
-      "time": "10:00",
       "title": "제434회국회(임시회) 제5차 탄소중립기본법 심사 소위원회(기후위기 특별위원회)",
       "committee": "기후에너지환경노동위원회",
       "location": null,
@@ -262,14 +270,6 @@
       "time": "10:00",
       "title": "제434회국회(임시회) 제2차 전체회의",
       "committee": "국방위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-04-23",
-      "time": "10:00",
-      "title": "제434회국회(임시회) 제6차 전체회의(정치개혁특별위원회)",
-      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
     },
@@ -892,18 +892,18 @@
     {
       "date": "2026-04-02",
       "time": "10:00",
-      "title": "제433회국회(임시회) 제3차 전체회의",
-      "committee": "보건복지위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "10:00",
       "title": "제433회국회(임시회) 제1차 고용노동법안심사소위원회",
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
+    },
+    {
+      "date": "2026-04-02",
+      "time": "10:00",
+      "title": "제433회국회(임시회) 제3차 전체회의",
+      "committee": "보건복지위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-04-02",
