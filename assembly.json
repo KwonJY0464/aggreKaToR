@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 10:34:45",
+  "last_updated": "2026-05-05 07:28:16",
   "schedules": [
     {
       "date": "2026-05-08",
@@ -48,6 +48,14 @@
       "committee": "",
       "location": "의원회관 제2간담회의실(202호)",
       "type": "gihyu"
+    },
+    {
+      "date": "2026-05-06",
+      "time": "10:00",
+      "title": "제435회국회(임시회) 제1차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-05-04",
