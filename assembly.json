@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 07:28:16",
+  "last_updated": "2026-05-07 08:07:02",
   "schedules": [
     {
       "date": "2026-05-08",
@@ -10,11 +10,51 @@
       "type": "gihyu"
     },
     {
+      "date": "2026-05-08",
+      "time": "10:00~12:00",
+      "title": "돌봄통합지원법 시행에 따른 돌봄경제와 산업발전 방안 토론회",
+      "committee": "",
+      "location": "의원회관 제8간담회의실(211호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "08:30",
+      "title": "수소경제 바로알기: 산업에서 발전까지",
+      "committee": "",
+      "location": "의원회관 제1간담회의실(201호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-05-07",
+      "time": "13:20",
+      "title": "제435회국회(임시회) 제1차 전체회의",
+      "committee": "정보위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
       "date": "2026-05-07",
       "time": "13:00",
       "title": "에너지 전환, 시장을 넘어 공공으로",
       "committee": "",
       "location": "의원회관 제4간담회의실(204호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-05-07",
+      "time": "10:00",
+      "title": "제435회국회(임시회) 제1차 전체회의",
+      "committee": "국토교통위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-05-07",
+      "time": "10:00",
+      "title": "제435회국회(임시회) 제6차 탄소중립기본법 심사 소위원회(기후위기 특별위원회)",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
       "type": "gihyu"
     },
     {
