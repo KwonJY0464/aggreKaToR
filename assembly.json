@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-05-11 13:50:21",
+  "last_updated": "2026-05-12 09:26:26",
   "schedules": [
+    {
+      "date": "2026-05-20",
+      "time": "10:00",
+      "title": "제435회국회(임시회) 제1차 중소벤처기업소위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-05-19",
+      "time": "14:00",
+      "title": "제435회국회(임시회) 제1차 산업통상자원지식재산소위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-05-19",
+      "time": "10:00",
+      "title": "제435회국회(임시회) 제1차 전체회의",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
+    },
     {
       "date": "2026-05-15",
       "time": "15:00",
@@ -8,6 +32,14 @@
       "committee": "",
       "location": "의원회관 제8간담회의실(211호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-05-14",
+      "time": "15:00",
+      "title": "소아 극희귀 중증난치질환 치료 환경 개선을 위한 정책 토론회: 드라넷 증후군을 중심으로",
+      "committee": "",
+      "location": "국회도서관 소강당",
+      "type": "gihyu"
     },
     {
       "date": "2026-05-13",
@@ -34,12 +66,12 @@
       "type": "session"
     },
     {
-      "date": "2026-05-11",
-      "time": "14:00",
-      "title": "제435회국회(임시회) 제1차 전체회의",
-      "committee": "국방위원회",
-      "location": null,
-      "type": "session"
+      "date": "2026-05-12",
+      "time": "10:00",
+      "title": "전략산업의 경쟁력 강화를 위한 국내생산촉진세제 도입 국회 토론회",
+      "committee": "",
+      "location": "의원회관 제5간담회의실(208호)",
+      "type": "sanja"
     },
     {
       "date": "2026-05-11",
@@ -48,6 +80,14 @@
       "committee": "",
       "location": "의원회관 제1간담회의실(201호)",
       "type": "gihyu"
+    },
+    {
+      "date": "2026-05-11",
+      "time": "14:00",
+      "title": "제435회국회(임시회) 제1차 전체회의",
+      "committee": "국방위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-05-11",
@@ -101,7 +141,7 @@
       "date": "2026-05-07",
       "time": "10:00",
       "title": "제435회국회(임시회) 제1차 전체회의",
-      "committee": "국토교통위원회",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
@@ -109,7 +149,7 @@
       "date": "2026-05-07",
       "time": "10:00",
       "title": "제435회국회(임시회) 제1차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
+      "committee": "국토교통위원회",
       "location": null,
       "type": "session"
     },
