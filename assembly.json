@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19 00:19:05",
+  "last_updated": "2026-05-19 06:57:55",
   "schedules": [
     {
       "date": "2026-05-20",
@@ -12,26 +12,18 @@
     {
       "date": "2026-05-20",
       "time": "10:00",
-      "title": "제435회국회(임시회) 제1차 중소벤처기업소위원회",
-      "committee": "산업통상자원중소벤처기업위원회",
-      "location": null,
-      "type": "sanja"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "10:00",
       "title": "제435회국회(임시회) 제2차 전체회의",
       "committee": "국토교통위원회",
       "location": null,
       "type": "session"
     },
     {
-      "date": "2026-05-19",
-      "time": "14:00",
-      "title": "미래를 위한 탄소중립법 개정 토론회",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "gihyu"
+      "date": "2026-05-20",
+      "time": "10:00",
+      "title": "제435회국회(임시회) 제1차 중소벤처기업소위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
     },
     {
       "date": "2026-05-19",
@@ -43,7 +35,15 @@
     },
     {
       "date": "2026-05-19",
-      "time": "11:30",
+      "time": "14:00",
+      "title": "미래를 위한 탄소중립법 개정 토론회",
+      "committee": "",
+      "location": "의원회관 대회의실",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-05-19",
+      "time": "11:50",
       "title": "제435회국회(임시회) 제1차 전체회의",
       "committee": "기후에너지환경노동위원회",
       "location": null,
@@ -72,6 +72,14 @@
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
+    },
+    {
+      "date": "2026-05-19",
+      "time": "09:00",
+      "title": "제3회 아시아투데이 K-산업비전포럼 2026: \"위기의 석화업계, 사업전환과 공급망 안정 사이 생존 전략은\"",
+      "committee": "",
+      "location": "국회도서관 대강당",
+      "type": "sanja"
     },
     {
       "date": "2026-05-18",
@@ -148,18 +156,18 @@
     {
       "date": "2026-05-11",
       "time": "14:00",
-      "title": "환경노조연대협의체 정책간담회",
-      "committee": "",
-      "location": "의원회관 제1간담회의실(201호)",
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-05-11",
-      "time": "14:00",
       "title": "제435회국회(임시회) 제1차 전체회의",
       "committee": "국방위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-05-11",
+      "time": "14:00",
+      "title": "환경노조연대협의체 정책간담회",
+      "committee": "",
+      "location": "의원회관 제1간담회의실(201호)",
+      "type": "gihyu"
     },
     {
       "date": "2026-05-11",
@@ -221,14 +229,6 @@
       "date": "2026-05-07",
       "time": "10:00",
       "title": "제435회국회(임시회) 제1차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "10:00",
-      "title": "제435회국회(임시회) 제1차 전체회의",
       "committee": "국토교통위원회",
       "location": null,
       "type": "session"
@@ -240,6 +240,14 @@
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
+    },
+    {
+      "date": "2026-05-07",
+      "time": "10:00",
+      "title": "제435회국회(임시회) 제1차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-05-06",
