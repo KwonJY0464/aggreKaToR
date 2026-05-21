@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20 10:29:48",
+  "last_updated": "2026-05-21 01:27:55",
   "schedules": [
     {
       "date": "2026-05-20",
@@ -12,16 +12,8 @@
     {
       "date": "2026-05-20",
       "time": "10:00",
-      "title": "국회 친환경 태양광 발전설비 준공식 (국회운동장)",
-      "committee": "",
-      "location": null,
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "10:00",
-      "title": "제435회국회(임시회) 제1차 전체회의",
-      "committee": "외교통일위원회",
+      "title": "제435회국회(임시회) 제2차 전체회의",
+      "committee": "국토교통위원회",
       "location": null,
       "type": "session"
     },
@@ -36,17 +28,17 @@
     {
       "date": "2026-05-20",
       "time": "10:00",
-      "title": "제435회국회(임시회) 제2차 전체회의",
-      "committee": "국토교통위원회",
+      "title": "제435회국회(임시회) 제1차 전체회의",
+      "committee": "외교통일위원회",
       "location": null,
       "type": "session"
     },
     {
-      "date": "2026-05-19",
-      "time": "14:00",
-      "title": "미래를 위한 탄소중립법 개정 토론회",
+      "date": "2026-05-20",
+      "time": "10:00",
+      "title": "국회 친환경 태양광 발전설비 준공식 (국회운동장)",
       "committee": "",
-      "location": "의원회관 대회의실",
+      "location": null,
       "type": "gihyu"
     },
     {
@@ -56,6 +48,14 @@
       "committee": "산업통상자원중소벤처기업위원회",
       "location": null,
       "type": "sanja"
+    },
+    {
+      "date": "2026-05-19",
+      "time": "14:00",
+      "title": "미래를 위한 탄소중립법 개정 토론회",
+      "committee": "",
+      "location": "의원회관 대회의실",
+      "type": "gihyu"
     },
     {
       "date": "2026-05-19",
@@ -244,14 +244,6 @@
     {
       "date": "2026-05-07",
       "time": "10:00",
-      "title": "제435회국회(임시회) 제6차 탄소중립기본법 심사 소위원회(기후위기 특별위원회)",
-      "committee": "기후에너지환경노동위원회",
-      "location": null,
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "10:00",
       "title": "제435회국회(임시회) 제1차 전체회의",
       "committee": "국토교통위원회",
       "location": null,
@@ -264,6 +256,14 @@
       "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-05-07",
+      "time": "10:00",
+      "title": "제435회국회(임시회) 제6차 탄소중립기본법 심사 소위원회(기후위기 특별위원회)",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
+      "type": "gihyu"
     },
     {
       "date": "2026-05-06",
