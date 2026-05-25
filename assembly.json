@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23 00:16:46",
+  "last_updated": "2026-05-25 07:59:20",
   "schedules": [
     {
       "date": "2026-05-28",
@@ -44,6 +44,14 @@
     {
       "date": "2026-05-20",
       "time": "10:00",
+      "title": "제435회국회(임시회) 제2차 전체회의",
+      "committee": "국토교통위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "10:00",
       "title": "국회 친환경 태양광 발전설비 준공식 (국회운동장)",
       "committee": "",
       "location": null,
@@ -58,12 +66,12 @@
       "type": "session"
     },
     {
-      "date": "2026-05-20",
-      "time": "10:00",
-      "title": "제435회국회(임시회) 제2차 전체회의",
-      "committee": "국토교통위원회",
-      "location": null,
-      "type": "session"
+      "date": "2026-05-19",
+      "time": "14:00",
+      "title": "미래를 위한 탄소중립법 개정 토론회",
+      "committee": "",
+      "location": "의원회관 대회의실",
+      "type": "gihyu"
     },
     {
       "date": "2026-05-19",
@@ -72,14 +80,6 @@
       "committee": "산업통상자원중소벤처기업위원회",
       "location": null,
       "type": "sanja"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "14:00",
-      "title": "미래를 위한 탄소중립법 개정 토론회",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "gihyu"
     },
     {
       "date": "2026-05-19",
@@ -196,18 +196,18 @@
     {
       "date": "2026-05-11",
       "time": "14:00",
-      "title": "제435회국회(임시회) 제1차 전체회의",
-      "committee": "국방위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-05-11",
-      "time": "14:00",
       "title": "환경노조연대협의체 정책간담회",
       "committee": "",
       "location": "의원회관 제1간담회의실(201호)",
       "type": "gihyu"
+    },
+    {
+      "date": "2026-05-11",
+      "time": "14:00",
+      "title": "제435회국회(임시회) 제1차 전체회의",
+      "committee": "국방위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-05-11",
@@ -228,18 +228,18 @@
     {
       "date": "2026-05-08",
       "time": "10:00~12:00",
-      "title": "소세포폐암 치료 환경 개선을 위한 정책토론회",
-      "committee": "",
-      "location": "의원회관 제3간담회의실(203호)",
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "10:00~12:00",
       "title": "돌봄통합지원법 시행에 따른 돌봄경제와 산업발전 방안 토론회",
       "committee": "",
       "location": "의원회관 제8간담회의실(211호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "10:00~12:00",
+      "title": "소세포폐암 치료 환경 개선을 위한 정책토론회",
+      "committee": "",
+      "location": "의원회관 제3간담회의실(203호)",
+      "type": "gihyu"
     },
     {
       "date": "2026-05-08",
@@ -268,18 +268,18 @@
     {
       "date": "2026-05-07",
       "time": "10:00",
-      "title": "제435회국회(임시회) 제6차 탄소중립기본법 심사 소위원회(기후위기 특별위원회)",
-      "committee": "기후에너지환경노동위원회",
-      "location": null,
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "10:00",
       "title": "제435회국회(임시회) 제1차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-05-07",
+      "time": "10:00",
+      "title": "제435회국회(임시회) 제6차 탄소중립기본법 심사 소위원회(기후위기 특별위원회)",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
+      "type": "gihyu"
     },
     {
       "date": "2026-05-07",
