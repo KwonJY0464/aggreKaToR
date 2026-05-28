@@ -1,16 +1,762 @@
 {
-  "pane1": [],
+  "pane1": [
+    {
+      "title": "[속보] 尹, '한덕수 재판 위증' 1심 무죄",
+      "originallink": "http://www.jmbc.co.kr/news/view_breakingnews/65014",
+      "link": "https://n.news.naver.com/mnews/article/659/0000043973?sid=102",
+      "description": "한덕수 전 국무총리의 내란 혐의 재판에서 위증한 혐의로 기소된 윤석열 전 대통령이 1심에서 무죄를 선고받았습니다. 법조계에 따르면, 서울중앙지법 형사합의32부(부장판사 류경진)는 오늘(28일) 오전 위증 혐의로 기소된... ",
+      "pubDate": "Thu, 28 May 2026 10:56:00 +0900",
+      "formatted_date": "05월 28일, 10시 56분",
+      "ai_summary": "한덕수 전 총리 내란 혐의 재판에서 위증한 혐의로 기소된 윤석열 전 대통령이 1심에서 무죄를 선고받았습니다."
+    },
+    {
+      "title": "[속보] '홈런-홈런-홈런' 日 503억 거포 또 쳤다! 20홈런 달성→ML 최초 ...",
+      "originallink": "https://www.spotvnews.co.kr/news/articleView.html?idxno=819400",
+      "link": "https://m.sports.naver.com/wbaseball/article/477/0000610856",
+      "description": "무라카미 무네타카(시카고 화이트삭스)가 세 경기 연속 홈런을 폭발시키며 20번째 홈런을 터뜨렸다. 이 홈런으로 무라카미가 메이저리그 역사를 새롭게 썼다. 무라카미는 28일(이하 한국시간) 미국 일리노이주... ",
+      "pubDate": "Thu, 28 May 2026 10:54:00 +0900",
+      "formatted_date": "05월 28일, 10시 54분",
+      "ai_summary": "시카고 화이트삭스의 무라카미 무네타카가 3경기 연속 홈런을 기록하며 메이저리그 최초로 20홈런 고지를 밟았습니다."
+    },
+    {
+      "title": "[속보]삼성전자 초기업노조 “DS·DX 분리해 투트랙 교섭”",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20260528/134007882/2",
+      "link": "https://n.news.naver.com/mnews/article/020/0003722887?sid=101",
+      "description": "최승호 삼성 초기업노동조합 삼성전자지부 위원장이 28일 초기업노조를 반도체(DS) 부문과 모바일·가전(DX) 부문으로 분리한 ‘투 트랙’ 교섭 체제로 전환하겠다고 밝혔다. 최 위원장은 28일 ‘향후 교섭 및 조합 운영... ",
+      "pubDate": "Thu, 28 May 2026 10:53:00 +0900",
+      "formatted_date": "05월 28일, 10시 53분",
+      "ai_summary": "삼성전자 초기업노조가 반도체(DS)와 모바일·가전(DX) 부문을 분리하여 교섭하는 '투 트랙' 체제로 전환합니다."
+    },
+    {
+      "title": "[속보] 한올바이오파마 VI 발동, 주가 14% 털썩…양대지수 하락 국면",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=577722",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=577722",
+      "description": "자료사진 기사와는 무관함. AI가 생성 28일 오전 한올바이오파마(009420)의 정적 VI가 발동됐다. VI는 오전 10시 41분경 발동됐다가 43분경 해제됐다. 발동가는 60900원이었다. 이날 오전 10시 48분 현재... ",
+      "pubDate": "Thu, 28 May 2026 10:52:00 +0900",
+      "formatted_date": "05월 28일, 10시 52분",
+      "ai_summary": "한올바이오파마의 주가가 하락하며 정적 변동성 완화장치(VI)가 발동되는 등 시장 전반이 약세를 보였습니다."
+    },
+    {
+      "title": "[속보] 윤석열 위증 무죄 파문… &quot;위증죄 대상 아냐&quot;",
+      "originallink": "https://www.mediatoday.co.kr/news/articleView.html?idxno=334761",
+      "link": "https://n.news.naver.com/mnews/article/006/0000135947?sid=100",
+      "description": "전 대통령 윤석열 피고인이 위증 혐의 재판에서 무죄를 선고받아 파문이다. 내란우두머리 재판 시작 이후 무죄 선고는 처음이다. 재판부는 윤 피고인의 증언을 위증의 대상이 되지 않는다고 판단했다. 서울중앙지법... ",
+      "pubDate": "Thu, 28 May 2026 10:49:00 +0900",
+      "formatted_date": "05월 28일, 10시 49분",
+      "ai_summary": "윤석열 전 대통령의 위증 혐의 재판에서 법원이 해당 증언이 위증죄 대상이 아니라고 판단해 무죄를 선고했습니다."
+    },
+    {
+      "title": "[속보]한은 &quot;물가·경기·금융 상황 점검하면서 금리 인상 시기 결정&quot;",
+      "originallink": "https://www.news1.kr/economy/trend/6179980",
+      "link": "https://n.news.naver.com/mnews/article/421/0008970535?sid=101",
+      "description": "",
+      "pubDate": "Thu, 28 May 2026 10:46:00 +0900",
+      "formatted_date": "05월 28일, 10시 46분",
+      "ai_summary": "한국은행이 물가와 경기 상황 등을 종합적으로 점검하며 향후 기준금리 인상 시기를 결정하겠다고 밝혔습니다."
+    },
+    {
+      "title": "[속보] 금통위 점도표, 6개월 후 기준금리 3.00% 전망 다수…2회 인상 반...",
+      "originallink": "https://www.news1.kr/economy/trend/6179979",
+      "link": "https://n.news.naver.com/mnews/article/421/0008970533?sid=101",
+      "description": "",
+      "pubDate": "Thu, 28 May 2026 10:46:00 +0900",
+      "formatted_date": "05월 28일, 10시 46분",
+      "ai_summary": "금통위 점도표 결과, 6개월 후 기준금리가 3.00% 수준일 것이라는 전망이 우세하며 2회 인상 가능성이 제기되었습니다."
+    },
+    {
+      "title": "[속보] 장용성·유상대 금통위원, 기준금리 인상 소수의견",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/05/28/2026052800097.html",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/28/2026052800097.html",
+      "description": "뉴데일리 박정연 기자 = 뉴데일리 박정연",
+      "pubDate": "Thu, 28 May 2026 10:46:00 +0900",
+      "formatted_date": "05월 28일, 10시 46분",
+      "ai_summary": "장용성과 유상대 금통위원이 기준금리 인상에 대한 소수의견을 내놓았습니다."
+    },
+    {
+      "title": "한은, 기준금리 8회 연속 동결…성장률 2.6%로 대폭 상향",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025002",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025002",
+      "description": "실제 올해 1분기 실질 국내총생산(GDP) 성장률 속보치는 전분기 대비 1.7%를 기록했다. 이는 2020년 3분기(2.2%) 이후 5년 6개월 만에 가장 높은 수준이다. 앞서 2월 한은이 제시한 전망치(0.9%)도 두 배 가까이 웃돈다. 반면... ",
+      "pubDate": "Thu, 28 May 2026 10:46:00 +0900",
+      "formatted_date": "05월 28일, 10시 46분",
+      "ai_summary": "한국은행이 기준금리를 8회 연속 동결한 가운데, 올해 성장률 전망치를 2.6%로 대폭 상향 조정했습니다."
+    },
+    {
+      "title": "[속보]“법정 진술이 기억에 반한다고 보기 어렵다” …‘한덕수 재판서...",
+      "originallink": "https://www.kwnews.co.kr/page/view/2026052850024100000",
+      "link": "https://n.news.naver.com/mnews/article/087/0001195938?sid=102",
+      "description": "12·3 비상계엄과 관련해 한덕수 전 국무총리의 내란 재판에서 위증한 혐의로 기소된 윤석열 전 대통령에게 무죄가 선고됐다. 법조계에 따르면 서울중앙지법 형사합의32부(류경진 부장판사)는 28일 위증 혐의로 재판에... ",
+      "pubDate": "Thu, 28 May 2026 10:46:00 +0900",
+      "formatted_date": "05월 28일, 10시 46분",
+      "ai_summary": "법원은 윤석열 전 대통령의 법정 진술이 기억에 반한다고 보기 어렵다며 위증 혐의에 대해 무죄를 선고했습니다."
+    },
+    {
+      "title": "신현송 체제 첫 금통위, 기준금리 2.5% 8연속 동결…올 성장률은 2.6% 대...",
+      "originallink": "https://www.nextdaily.co.kr/news/articleView.html?idxno=249821",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=249821",
+      "description": "1분기 실질 국내총생산(GDP) 성장률이 직전 분기 대비 1.7%(속보치)를 기록해 한은의 기존 전망치(0.9%)를 두 배 가까이 웃돌았기 때문이다. 삼성전자·SK하이닉스의 사상 최대 실적 등 반도체를 중심으로 한 수출 호조가... ",
+      "pubDate": "Thu, 28 May 2026 10:44:00 +0900",
+      "formatted_date": "05월 28일, 10시 44분",
+      "ai_summary": "한국은행이 기준금리를 2.5%로 8회 연속 동결했습니다. 1분기 GDP 성장률이 예상을 크게 웃돌며 수출 호조세가 이어지고 있습니다."
+    },
+    {
+      "title": "[속보] '상대 선발 우완인데...' 프리랜드에 밀려 김혜성 선발 라인업 제...",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026052810285939470",
+      "link": "https://m.sports.naver.com/wbaseball/article/117/0004068900",
+      "description": "LA 다저스 김혜성이 선발 라인업에서 제외됐다. 다저스는 28일(한국시각) 미국 캘리포니아주 로로스앤젤레스에 위치한 유니클로 필드 앳 다저스타디움에서 열리는 2026 메이저리그 콜로라도 로키스와 경기를 치른다. 경기... ",
+      "pubDate": "Thu, 28 May 2026 10:44:00 +0900",
+      "formatted_date": "05월 28일, 10시 44분",
+      "ai_summary": "LA 다저스의 김혜성이 콜로라도 로키스와의 경기 선발 라인업에서 제외되었습니다. 상대 선발 투수가 우완인 점이 고려된 것으로 보입니다."
+    },
+    {
+      "title": "[속보] 삼성전자 초기업노조 &quot;DS·DX 교섭 체계 분리&quot;",
+      "originallink": "https://www.hankyung.com/article/2026052837947",
+      "link": "https://n.news.naver.com/mnews/article/015/0005292231?sid=101",
+      "description": "삼성그룹 초기업노동조합 삼성전자 지부가 삼성전자 노사 교섭 방식을 DS부문과 DX부문으로 분리하겠다고 밝혔다. 최승호 초기업노조 삼성전자 지부 위원장은 28일 오전 조합원에게 공지한 '향후 교섭 및 조합 운영 방향... ",
+      "pubDate": "Thu, 28 May 2026 10:44:00 +0900",
+      "formatted_date": "05월 28일, 10시 44분",
+      "ai_summary": "삼성전자 초기업노조가 사측과의 교섭 체계를 DS(반도체) 부문과 DX(디바이스경험) 부문으로 분리하겠다고 밝혔습니다."
+    },
+    {
+      "title": "[속보] 한은 기준금리 2.5% 동결…커지는 '인상' 속 소수의견 2명",
+      "originallink": "https://www.kyeonggi.com/article/20260528580104",
+      "link": "https://n.news.naver.com/mnews/article/666/0000108889?sid=101",
+      "description": "한국은행 금융통화위원회(금통위)가 기준금리를 연 2.5%로 동결했다. 하지만 금통위원 2명이 '금리 인상' 소수의견을 낸 데다, 올해 경제성장률과 물가상승률 전망치가 모두 큰 폭으로 상향 조정되면서 사실상 기준금리... ",
+      "pubDate": "Thu, 28 May 2026 10:44:00 +0900",
+      "formatted_date": "05월 28일, 10시 44분",
+      "ai_summary": "금통위가 기준금리를 2.5%로 동결했으나, 금리 인상 소수의견이 2명 나오며 금리 인상 가능성이 커지고 있습니다. 주요 경제 전망치도 상향되었습니다."
+    },
+    {
+      "title": "[속보] 8연속 금리 동결한 금통위, '인상 소수의견' 2명 등장",
+      "originallink": "https://www.news1.kr/economy/trend/6179965",
+      "link": "https://n.news.naver.com/mnews/article/421/0008970503?sid=101",
+      "description": "",
+      "pubDate": "Thu, 28 May 2026 10:41:00 +0900",
+      "formatted_date": "05월 28일, 10시 41분",
+      "ai_summary": "한국은행 금융통화위원회가 8연속 금리 동결을 결정했습니다. 이번 회의에서는 위원 2명이 금리 인상 의견을 제시했습니다."
+    }
+  ],
   "pane2": {
-    "산업부": [],
-    "KIAT": [],
-    "기후부": [],
+    "산업부": [
+      {
+        "title": "산업부 장관 &quot;캐나다 잠수함 경쟁력 충분…올해 수출 5강 기대&quot;",
+        "originallink": "https://news.tf.co.kr/read/economy/2326896.htm",
+        "link": "https://n.news.naver.com/mnews/article/629/0000502802?sid=101",
+        "description": "김 장관은 지난 27일 정부세종청사 인근에서 열린 산업부 출입기자단 간담회에서 &quot;우리 잠수함은 실체가... 산업부는 반도체와 조선, 방산 등을 중심으로 수출 증가세가 이어질 것으로 보고 있다. 김 장관은 &quot;반도체를... ",
+        "pubDate": "Thu, 28 May 2026 10:01:00 +0900",
+        "formatted_date": "05월 28일, 10시 01분",
+        "ai_summary": "산업부 장관이 우리 잠수함의 경쟁력을 높게 평가하며 올해 수출 5강 진입을 기대했습니다. 반도체, 조선, 방산 분야의 수출 증가가 전망됩니다."
+      },
+      {
+        "title": "김정관 산업부 장관 &quot;삼성전자 노사합의, 독 될지 약 될지 기로&quot;",
+        "originallink": "https://www.newspim.com/news/view/20260528000003",
+        "link": "https://www.newspim.com/news/view/20260528000003",
+        "description": "김정관 산업부 장관이 지난 27일 세종청사 근처 식당에서 열린 기자간담회에서 발언하고 있다. [사진... 김정관 산업부 장관이 지난 27일 세종청사 근처 식당에서 열린 기자간담회에서 발언하고 있다. [사진=산업통상부]... ",
+        "pubDate": "Thu, 28 May 2026 10:00:00 +0900",
+        "formatted_date": "05월 28일, 10시 00분",
+        "ai_summary": "김정관 산업부 장관이 삼성전자 노사 합의안에 대해 향후 경영과 노사 관계에 약이 될지 독이 될지 지켜봐야 한다고 언급했습니다."
+      },
+      {
+        "title": "중동 위기·통상 불확실성 속…산업부 'AI·공급망' 대응 총력",
+        "originallink": "https://www.news1.kr/economy/idustry-trade/6179813",
+        "link": "https://n.news.naver.com/mnews/article/421/0008970342?sid=101",
+        "description": "28일 산업부는 지난 1년을 글로벌 통상 불확실성과 중동발 에너지·자원 수급 위기, 글로벌 공급과잉에 따른... 산업부는 협상을 통해 자동차·의약품 등 주요 수출 품목의 관세 부담을 완화하고, 반도체 분야에서도... ",
+        "pubDate": "Thu, 28 May 2026 10:00:00 +0900",
+        "formatted_date": "05월 28일, 10시 00분",
+        "ai_summary": "산업부가 중동 위기와 통상 불확실성에 대응해 AI 도입과 공급망 관리에 총력을 기울이고 있습니다. 주요 수출 품목의 관세 완화도 추진 중입니다."
+      },
+      {
+        "title": "&quot;위기관리와 성장체계 구축&quot;…산업부, 이재명 정부 1주년 5대 성과 발표",
+        "originallink": "https://www.newsis.com/view/NISX20260528_0003646716",
+        "link": "https://n.news.naver.com/mnews/article/003/0013971985?sid=101",
+        "description": "산업부가 한미 관세협상 타결을 비롯해 중동발 에너지·자원 위기에 총력 대응을 함으로써 실물경제 충격을... 산업부는 지난 1년은 글로벌 통상 불확실성, 중동발 에너지 및 자원 수급 위기가 실물경제를 압박하고... ",
+        "pubDate": "Thu, 28 May 2026 10:00:00 +0900",
+        "formatted_date": "05월 28일, 10시 00분",
+        "ai_summary": "산업부가 이재명 정부 1주년을 맞아 한미 관세협상 타결과 에너지 위기 대응 등 5대 성과를 발표했습니다. 위기 관리와 경제 체계 구축을 강조했습니다."
+      },
+      {
+        "title": "[이재명 정부 1년] 산업부, 한미 관세협상·수출 7000억달러·M.AX 구축 성...",
+        "originallink": "https://www.newspim.com/news/view/20260528000208",
+        "link": "https://www.newspim.com/news/view/20260528000208",
+        "description": "산업부는 28일 국민주권정부 출범 1주년을 계기로 ▲통상 대응 ▲수출 확대 ▲산업 구조 개편 ▲에너지·자원 위기 대응 ▲제조 인공지능(AI) 전환(M.AX) 등 5대 분야의 주요 성과를 공개했다. 산업부는 지난 1년간 미국발... ",
+        "pubDate": "Thu, 28 May 2026 10:00:00 +0900",
+        "formatted_date": "05월 28일, 10시 00분",
+        "ai_summary": "산업부가 정부 출범 1주년 성과로 통상 대응, 수출 7천억 달러 달성, 제조 AI 전환 등을 꼽았습니다. 글로벌 불확실성 속에서 거둔 성과를 조명했습니다."
+      },
+      {
+        "title": "중견련, 산업부와 '중견기업 ESG 대응 간담회' 공동 개최",
+        "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=455833",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=455833",
+        "description": "이날 간담회에는 서연이화, 동아엘텍, 다인정공 등 중견기업 임직원과 안응수 산업부 중견기업지원과장... 더해 산업부의 '찾아가는 ESG 교육', 'ESG 공급망 지원 사업' 등 정부 사업을 적극 활용할 필요가 있다&quot;고... ",
+        "pubDate": "Thu, 28 May 2026 09:22:00 +0900",
+        "formatted_date": "05월 28일, 09시 22분",
+        "ai_summary": "중견련과 산업부가 중견기업 대상 ESG 대응 간담회를 개최했습니다. 정부의 ESG 교육 및 공급망 지원 사업 활용 방안을 논의했습니다."
+      },
+      {
+        "title": "산업부, LG엔솔 찾아 제조 AI 점검…&quot;M.AX로 배터리 초격차 만든다&quot;",
+        "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=402300",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=402300",
+        "description": "산업통상부(이하 산업부)는 최근 LG에너지솔루션의 지능형 자율제조 현장을 방문해 국내 배터리 산업의... 산업부는 제조업의 구조적 성장 둔화와 생산가능인구 감소에 대응하기 위한 핵심 전략으로 M.AX를 추진하고... ",
+        "pubDate": "Thu, 28 May 2026 08:16:00 +0900",
+        "formatted_date": "05월 28일, 08시 16분",
+        "ai_summary": "산업부가 LG에너지솔루션을 방문해 제조 AI 전략인 M.AX를 점검했습니다. 제조업 성장 둔화와 인구 감소 대응을 위해 배터리 산업의 초격차를 추진합니다."
+      },
+      {
+        "title": "신임 한국전자기술연구원장에 노건기 前 산업부 실장 선임",
+        "originallink": "https://www.sedaily.com/article/20048994?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/011/0004625176?sid=105",
+        "description": "행정고시 39회 출신인 그는 지식경제부 성과관리고객만족팀장, 에너지절약협력과장, 주캐나다대사관, 산업부 신재생에너지과장, 전력산업과장, 무역정책과장 등을 역임했다. 국장급으로 승진한 후엔 산업부... ",
+        "pubDate": "Thu, 28 May 2026 05:31:00 +0900",
+        "formatted_date": "05월 28일, 05시 31분",
+        "ai_summary": "한국전자기술연구원 신임 원장에 노건기 전 산업부 실장이 선임되었습니다. 노 원장은 산업부 내 주요 요직을 거친 전문가입니다."
+      },
+      {
+        "title": "LG엔솔 '디지털 트윈' 주목한 산업부…배터리 AI 전환 점검",
+        "originallink": "https://www.todayenergy.kr/news/articleView.html?idxno=298342",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=298342",
+        "description": "산업부는 제조업 경쟁력 강화를 위해 지난해 9월 제조 AI 협력 플랫폼인 'M.AX 얼라이언스'를 출범했다. 현재 팩토리·로봇·반도체 등 11개 분과를 중심으로 약 1500개 기업·기관이 참여하고 있으며, 산업부는 올해 약... ",
+        "pubDate": "Wed, 27 May 2026 18:06:00 +0900",
+        "formatted_date": "05월 27일, 18시 06분",
+        "ai_summary": "산업부가 LG에너지솔루션의 디지털 트윈 등 배터리 AI 전환 현황을 점검했습니다. 제조 AI 협력 플랫폼 M.AX를 통해 제조업 경쟁력 강화를 지원합니다."
+      }
+    ],
+    "KIAT": [
+      {
+        "title": "KIAT, 외국인 유학생 지역 취업 지원…5개 대학 선정",
+        "originallink": "https://news.tf.co.kr/read/economy/2326360.htm",
+        "link": "https://n.news.naver.com/mnews/article/629/0000502355?sid=101",
+        "description": "로봇·이차전지 지역기업 연계…인턴십 추진 한국산업기술진흥원(KIAT)이 외국인 유학생의 지역기업 취업과 정착 지원을 본격화한다. KIAT는 ‘우수 외국인 유학생 지역산업 연계 지원사업’을 추진한다고 26일... ",
+        "pubDate": "Tue, 26 May 2026 17:28:00 +0900",
+        "formatted_date": "05월 26일, 17시 28분",
+        "ai_summary": "한국산업기술진흥원(KIAT)이 외국인 유학생의 지역 기업 취업을 지원합니다. 로봇 및 이차전지 분야 등 5개 대학과 연계해 인턴십 등을 추진합니다."
+      },
+      {
+        "title": "KIAT launches provincial job program for international students",
+        "originallink": "https://koreajoongangdaily.joins.com/news/2026-05-26/national/kcampus/KIAT-launches-provincial-job-program-for-international-students/2600982",
+        "link": "https://n.news.naver.com/mnews/article/640/0000088987?sid=102",
+        "description": "The Korea Institute for Advancement of Technology (KIAT) will launch an initiative to help international students secure jobs at companies based in partner regions, KIAT announced on Tuesday. For... ",
+        "pubDate": "Tue, 26 May 2026 16:47:00 +0900",
+        "formatted_date": "05월 26일, 16시 47분",
+        "ai_summary": "KIAT will support international students in finding jobs at regional companies. The program aims to address regional labor shortages by helping students settle in local industries."
+      },
+      {
+        "title": "KIAT, 외국인 유학생 5극3특 지역 취업 지원…&quot;인력난 해소&quot;",
+        "originallink": "https://www.newsis.com/view/NISX20260526_0003643394",
+        "link": "https://n.news.naver.com/mnews/article/003/0013967014?sid=101",
+        "description": "한국산업기술진흥원(KIAT)은 26일 '우수 외국인 유학생 지역산업 연계 지원사업'을 추진한다고 밝혔다. 외국인 석박사급 인재를 양성하고, 이들이 졸업 후 지역기업에 취업해 정착할 수 있도록 지원함으로써 지역... ",
+        "pubDate": "Tue, 26 May 2026 11:00:00 +0900",
+        "formatted_date": "05월 26일, 11시 00분",
+        "ai_summary": "KIAT가 외국인 석박사급 유학생의 지역 정착을 돕는 지원사업을 시작합니다. 지역 기업의 인력난 해소와 산업 활성화를 도모합니다."
+      },
+      {
+        "title": "KIAT, 'MIT·프라운호퍼' 손잡고 국내 제조현장 AI 전환 가속화한다",
+        "originallink": "http://www.metroseoul.co.kr/article/20260525500109",
+        "link": "http://www.metroseoul.co.kr/article/20260525500109",
+        "description": "한국산업기술진흥원(KIAT)은 인공지능 기반으로 공정을 전환하려는 국내 제조 기업의 수요와 세계적... 산업통상부와 KIAT는 기술협력 수요조사와 전문 기획 및 검증 절차를 거쳐 인공지능 팩토리, 휴머노이드... ",
+        "pubDate": "Mon, 25 May 2026 12:52:00 +0900",
+        "formatted_date": "05월 25일, 12시 52분",
+        "ai_summary": "KIAT가 MIT, 프라운호퍼 등과 협력해 국내 제조 현장의 AI 전환을 가속화합니다. 인공지능 팩토리와 휴머노이드 등 기술 고도화를 추진합니다."
+      },
+      {
+        "title": "“국제기술협력으로 제조현장 AI 전환 가속화”…KIAT, ‘M.AX 국제공동...",
+        "originallink": "https://www.busan.com/view/busan/view.php?code=2026052511201018710",
+        "link": "https://n.news.naver.com/mnews/article/082/0001382233?sid=101",
+        "description": "한국산업기술진흥원(KIAT)이 국내 기업과 MIT·예일대·프라운호퍼 등 세계적 연구기관들과 국제기술협력을... 앞서 산업통상부와 KIAT는 제조 인공지능전환(M.AX) 분야 신규과제 발굴을 위한 기술협력 수요조사와... ",
+        "pubDate": "Mon, 25 May 2026 11:32:00 +0900",
+        "formatted_date": "05월 25일, 11시 32분",
+        "ai_summary": "KIAT가 글로벌 연구기관들과 제조 AI 전환(M.AX)을 위한 국제 공동연구를 추진합니다. 신규 과제 발굴과 기술 협력으로 제조 경쟁력을 높입니다."
+      },
+      {
+        "title": "KIAT, 제조AI 국제공동연구 9개 과제 공고",
+        "originallink": "https://www.newsis.com/view/NISX20260525_0003642788",
+        "link": "https://n.news.naver.com/mnews/article/003/0013965589?sid=101",
+        "description": "KIAT는 26일 '2026년 글로벌산업기술협력센터 사업(M.AX 공동연구)'을 공고했다고 밝혔다. 이번 사업은 AI... 구체적인 공고 내용은 KIAT 홈페이지에서 확인할 수 있다. 전윤종 KIAT 원장은 &quot;국제기술협력으로 제조 현장의... ",
+        "pubDate": "Mon, 25 May 2026 11:00:00 +0900",
+        "formatted_date": "05월 25일, 11시 00분",
+        "ai_summary": "KIAT가 제조 AI 국제 공동연구를 위한 9개 신규 과제를 공고했습니다. 글로벌 협력을 통해 제조 현장의 인공지능 전환을 본격화합니다."
+      },
+      {
+        "title": "KIAT '키아트가 묻고 현장이 답하다'...부산서, 지역 산업성장 전략 모색",
+        "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4085175",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4085175",
+        "description": "한국산업기술진흥원(KIAT)이 부산대학교에서 간담회를 열고, 동남권 조선해양 산업 경쟁력 강화와 지역 산업... 전윤종 KIAT 원장은 &quot;동남권이 북극항로 시대와 AI 조선해양 산업의 핵심 거점으로 성장할 수 있도록 현장... ",
+        "pubDate": "Fri, 22 May 2026 14:30:00 +0900",
+        "formatted_date": "05월 22일, 14시 30분",
+        "ai_summary": "KIAT가 부산대에서 간담회를 열고 동남권 조선해양 산업의 경쟁력 강화 방안을 모색함. 북극항로와 AI 조선해양 분야의 핵심 거점 육성을 위한 전략을 논의함."
+      },
+      {
+        "title": "KIAT, '북극항로·MASGA' 동남권 조선해양산업 3대 도약 전략 논의",
+        "originallink": "https://www.newsis.com/view/NISX20260522_0003640456",
+        "link": "https://n.news.naver.com/mnews/article/003/0013962086?sid=101",
+        "description": "한국산업기술진흥원(KIAT)이 지난 21일 부산대학교에서 조선해양 분야 혁신기관들과 간담회를 개최하고... 전윤종 KIAT 원장은 &quot;동남권 지역이 북극항로 시대의 핵심 거점이자 AI 조선해양 산업의 중심지로 성장해 K-조선의... ",
+        "pubDate": "Fri, 22 May 2026 11:00:00 +0900",
+        "formatted_date": "05월 22일, 11시 00분",
+        "ai_summary": "KIAT가 부산에서 조선해양 혁신기관들과 간담회를 갖고 동남권의 3대 도약 전략을 논의함. 동남권을 북극항로 및 AI 조선해양 산업의 중심지로 육성할 계획임."
+      }
+    ],
+    "기후부": [
+      {
+        "title": "[산업부·기후부 장차관 일정(2026년 5월 28일)]",
+        "originallink": "http://www.e-platform.net/news/articleView.html?idxno=102559",
+        "link": "http://www.e-platform.net/news/articleView.html?idxno=102559",
+        "description": "◆ 기후부 ▲ 1차관: 14:00 제41차 중소기업 기후에너지환경정책협의회 (서울)",
+        "pubDate": "Thu, 28 May 2026 08:30:00 +0900",
+        "formatted_date": "05월 28일, 08시 30분",
+        "ai_summary": "기후부 1차관이 28일 오후 2시 서울에서 열리는 제41차 중소기업 기후에너지환경정책협의회에 참석함."
+      },
+      {
+        "title": "기후부, 초순수 핵심기자재 90% 국산화 박차",
+        "originallink": "http://www.ikld.kr/news/articleView.html?idxno=335182",
+        "link": "http://www.ikld.kr/news/articleView.html?idxno=335182",
+        "description": "이와관련해 기후부는 한국환경산업기술원, 테크로스워터앤에너지, 지앤지인텍 등과 27일 서울 프레지던트호텔에서 착수회의를 열었다. 2021년부터 초순수 1단계 사업을 진행한 결과, 자외선 산화장치(UV Oxidation)... ",
+        "pubDate": "Wed, 27 May 2026 17:46:00 +0900",
+        "formatted_date": "05월 27일, 17시 46분",
+        "ai_summary": "기후부가 초순수 핵심기자재 국산화율을 90%까지 높이기 위한 사업에 착수함. 1단계 사업 성과를 바탕으로 기술 자립화에 박차를 가함."
+      },
+      {
+        "title": "기후부, 야생 조류 고병원성 AI 이전보다 47% 증가",
+        "originallink": "https://biz.sbs.co.kr/article_hub/20000312797?division=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/374/0000512479?sid=101",
+        "description": "기후부는 겨울 철새 도래가 늘면서 야생조류 고병원성 조류인플루엔자 발생 사례도 증가한 것으로... 기후부는 “유라시아대륙이 겨울 철새 번식지와 중간 기착지로 이용되면서 야생조류 간 바이러스 순환이... ",
+        "pubDate": "Wed, 27 May 2026 14:13:00 +0900",
+        "formatted_date": "05월 27일, 14시 13분",
+        "ai_summary": "겨울 철새 유입 증가로 인해 야생조류의 고병원성 AI 발생 사례가 이전보다 47% 증가함. 유라시아대륙 내 바이러스 순환이 원인으로 분석됨."
+      },
+      {
+        "title": "버려지는 하드디스크에서 '영구자석' 추출…기후부, 시범사업 시작",
+        "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/05/27/2026052790177.html",
+        "link": "https://n.news.naver.com/mnews/article/448/0000614788?sid=102",
+        "description": "기후부는 에어컨 컴프레셔 등 다른 폐자원에서도 영구자석을 회수하는 시범사업도 진행할 계획이다. 또 영구자석 회수·재활용 체계를 구축하고, '국내 수급 안정과 순환이용 촉진'을 위해서도 폐기물 수출입을 제한할... ",
+        "pubDate": "Wed, 27 May 2026 14:09:00 +0900",
+        "formatted_date": "05월 27일, 14시 09분",
+        "ai_summary": "기후부가 폐하드디스크와 에어컨 등에서 영구자석을 추출하는 자원순환 시범사업을 시작함. 국내 수급 안정을 위해 폐기물 수출입 제한 등도 추진함."
+      },
+      {
+        "title": "[단독] 기후부, 재생에너지로 분산특구 신청시 지정 우대",
+        "originallink": "https://www.mk.co.kr/article/12058674",
+        "link": "https://n.news.naver.com/mnews/article/009/0005685563?sid=101",
+        "description": "기후부, 분산특구 지침 개정 고시 재생에너지 우대 근거 조항 담아 “에너지원 선택권 보장도 필요”... 27일 정부 안팎에 따르면 기후부는 최근 이런 내용을 담은 분산에너지 특화지역의 지정 운영 등에 관한 지침... ",
+        "pubDate": "Wed, 27 May 2026 13:21:00 +0900",
+        "formatted_date": "05월 27일, 13시 21분",
+        "ai_summary": "기후부가 분산에너지 특화지역 지정 시 재생에너지를 활용하는 지자체에 우대 혜택을 제공함. 에너지원 선택권 보장을 위한 지침 개정을 완료함."
+      },
+      {
+        "title": "기후부, 폐컴퓨터서 희토 영구자석 회수한다…시범사업 추진",
+        "originallink": "https://www.bizwork.co.kr/news/articleView.html?idxno=415964",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=415964",
+        "description": "기후부가 폐컴퓨터에 포함된 희토류 영구자석을 회수해 국내 자원순환 기반을 구축하는 시범사업에 나선다.... 이번 협약에는 기후부와 한국환경공단, 이순환거버넌스, 한국금속재활용산업협회 등 4개 기관이 참여한다.... ",
+        "pubDate": "Wed, 27 May 2026 13:16:00 +0900",
+        "formatted_date": "05월 27일, 13시 16분",
+        "ai_summary": "기후부가 폐컴퓨터에서 희토류 영구자석을 회수하는 자원순환 시범사업을 추진함. 관련 기관들과 협약을 맺고 국내 회수 기반 구축에 나섬."
+      },
+      {
+        "title": "철새 이동·변이 증가에…기후부, 야생조류 AI 대응 강화",
+        "originallink": "https://www.dailian.co.kr/news/view/1649110/?sc=Naver",
+        "link": "https://n.news.naver.com/mnews/article/119/0003094853?sid=102",
+        "description": "기후부는 지난 동절기 발생 증가 원인으로 겨울 철새 유입 확대를 꼽았다. 조류인플루엔자 감수성이 높은... 기후부는 위성위치확인시스템(GPS) 추적기를 부착한 철새 이동 경로를 분석한 결과 일부 개체가 국내와... ",
+        "pubDate": "Wed, 27 May 2026 12:01:00 +0900",
+        "formatted_date": "05월 27일, 12시 01분",
+        "ai_summary": "기후부가 철새 이동 경로와 고병원성 AI 발생 증가에 대응해 야생조류 모니터링을 강화함. GPS 추적 등을 통해 감염 경로를 체계적으로 분석할 계획임."
+      },
+      {
+        "title": "기후부, 폐전자제품 희토 영구자석 회수체계 구축…국외유출 제한",
+        "originallink": "http://amenews.kr/news/view.php?idx=66870",
+        "link": "http://amenews.kr/news/view.php?idx=66870",
+        "description": "기후부는 시범사업의 성과평과를 통해 폐전기·전자제품에서의 폐영구자석 회수·재활용 체계를 구축하는 한편, ‘폐기물의 국가 간 이동 및 그 처리에 관한 법률’ 개정안의 입법 지원과 하위규정 마련 등을 통해 핵심... ",
+        "pubDate": "Wed, 27 May 2026 11:30:00 +0900",
+        "formatted_date": "05월 27일, 11시 30분",
+        "ai_summary": "기후부가 폐전자제품에서 희토류 영구자석을 회수하는 체계를 구축함. 재활용 확대를 위한 법령 개정 지원과 함께 핵심 자원의 국외 유출을 제한함."
+      },
+      {
+        "title": "'전력산업 AX 선도' 한전, AI로 전력망 혁신…기후부 '에너지 AI' 정책 선...",
+        "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1370928",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1370928",
+        "description": "단순 지원을 넘어 민간 주도의 첨단 AI 기술과 전력 인프라를 결합하며 기후부가 추진하는 에너지 AI 전환을 선도할 계획이다. 한전의 이러한 움직임은 기후부 '에너지 AI 대전환' 정책과 일맥상통한다. 기후부는 최근... ",
+        "pubDate": "Wed, 27 May 2026 11:26:00 +0900",
+        "formatted_date": "05월 27일, 11시 26분",
+        "ai_summary": "한국전력이 정부의 '에너지 AI 대전환' 정책에 발맞춰 민간 첨단 기술과 전력 인프라를 결합하는 혁신을 추진합니다."
+      },
+      {
+        "title": "기후부, 폐컴퓨터 하드디스크 내 영구자석 회수 시범사업 업무협약 체결",
+        "originallink": "https://www.news1.kr/photos/7927365",
+        "link": "https://n.news.naver.com/mnews/article/421/0008968296?sid=101",
+        "description": "왼쪽부터 서용칠 이순환거버넌스 이사장 직무대행, 김성환 기후부 장관, 한국금속재활용산업협회 회장, 문갑생 한국환경공단 자원순환 이사. (기후에너지환경부 제공. 재판매 및 DB 금지) 2026.5.27/뉴스1",
+        "pubDate": "Wed, 27 May 2026 11:06:00 +0900",
+        "formatted_date": "05월 27일, 11시 06분",
+        "ai_summary": "기후부가 폐컴퓨터 하드디스크에서 희귀 자원인 영구자석을 회수하는 자원순환 시범사업 업무협약을 체결했습니다."
+      }
+    ],
     "산업혁신기반구축": []
   },
   "pane3": {
-    "호르무즈": [],
-    "트럼프": [],
-    "유가": [],
-    "코스피": []
+    "호르무즈": [
+      {
+        "title": "[이슈] 한 번 지나가는데 30억...'호르무즈 보험료'에 떠는 해운사들",
+        "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=802188",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=802188",
+        "description": "호르무즈 해협을 둘러싼 긴장이 해운사의 보험료 부담으로 옮겨붙고 있다. 전쟁위험이 커지면서 선박이... 최근 HMM 소속 선박이 호르무즈 해협을 빠져나오는 과정에서 부담한 보험료는 약 200만달러 수준으로 전해졌다.... ",
+        "pubDate": "Thu, 28 May 2026 10:56:00 +0900",
+        "formatted_date": "05월 28일, 10시 56분",
+        "ai_summary": "호르무즈 해협의 지정학적 긴장 고조로 해운사들이 막대한 전쟁 위험 보험료 부담에 시달리고 있습니다."
+      },
+      {
+        "title": "이란 &quot;방아쇠에 손&quot;…호르무즈선 폭발음",
+        "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16073759",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16073759",
+        "description": "미국과 이란이 호르무즈 해협 재개방과 휴전 연장을 놓고 협상을 이어가는 상황에서 남부 해군기지 인근... ○ 휴전 협상 이어지는데…호르무즈 남부서 잇단 폭발음 긴장 완화 시도도 동시에 진행되고 있다. 미국과 이란은... ",
+        "pubDate": "Thu, 28 May 2026 10:48:00 +0900",
+        "formatted_date": "05월 28일, 10시 48분",
+        "ai_summary": "미국과 이란의 휴전 협상이 진행 중임에도 호르무즈 해협 인근에서 폭발음이 잇따르며 긴장 상태가 지속되고 있습니다."
+      },
+      {
+        "title": "이란 &quot;우라늄 농축·호르무즈 관리권 등 레드라인서 물러서지 않을 것&quot;",
+        "originallink": "https://www.ajunews.com/view/20260528102821914",
+        "link": "https://www.ajunews.com/view/20260528102821914",
+        "description": "대통령과 호르무즈 해협을 소재로 한 대형 반미 광고판 앞을 지나가고 있다. [사진=EPA·연합뉴스] 이란 고위 안보 당국자가 미국과의 협상에서 우라늄 농축권과 호르무즈 해협 관리권 등 핵심 요구에서 물러서지 않겠다고... ",
+        "pubDate": "Thu, 28 May 2026 10:46:00 +0900",
+        "formatted_date": "05월 28일, 10시 46분",
+        "ai_summary": "이란이 미국과의 협상에서 우라늄 농축과 호르무즈 해협 관리권 등 핵심 사안에 대해 타협하지 않겠다는 입장을 고수했습니다."
+      },
+      {
+        "title": "미군, 이란 내 군사기지 또 타격...호르무즈 인근서 폭발음",
+        "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4086013",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4086013",
+        "description": "가운데 호르무즈 해협 인근에서 사흘만에 다시 폭발음이 이어지며 무력 충돌 긴장감이 고조되고 있습니다. 로이터 통신에 따르면 미 당국자는 현지시간으로 어제 미군이 미군 병력과 호르무즈 해협 상선 항행에 위협이... ",
+        "pubDate": "Thu, 28 May 2026 10:38:00 +0900",
+        "formatted_date": "05월 28일, 10시 38분",
+        "ai_summary": "미군이 상선 항행을 위협하는 이란 내 군사시설을 타격했으며, 이로 인해 호르무즈 해협의 무력 충돌 위기가 커지고 있습니다."
+      },
+      {
+        "title": "호르무즈 공동관리? 트럼프 &quot;오만 날려버릴 것&quot;…아브라함 협정도 압박",
+        "originallink": "https://www.newsis.com/view/NISX20260528_0003647122",
+        "link": "https://n.news.naver.com/mnews/article/003/0013972230?sid=104",
+        "description": "호르무즈 해협 봉쇄 장기화로 국제 에너지 가격 불안이 이어지는 가운데 도널드 트럼프 미국 대통령이... 영국 인디펜던트는 27일(현지시간) 트럼프 대통령이 백악관 내각회의에서 호르무즈 해협 관리 문제와 관련해 오만을... ",
+        "pubDate": "Thu, 28 May 2026 10:37:00 +0900",
+        "formatted_date": "05월 28일, 10시 37분",
+        "ai_summary": "트럼프 대통령이 호르무즈 해협 관리 문제로 오만을 강하게 압박하며 강경한 외교적 발언을 쏟아내고 있습니다."
+      },
+      {
+        "title": "미군, 사흘 만에 또 이란 공습…호르무즈 긴장 고조",
+        "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5196368",
+        "link": "https://n.news.naver.com/mnews/article/057/0001951169?sid=104",
+        "description": "로이터 통신에 따르면 미 당국자는 현지시간 27일 미군이 미군 병력과 호르무즈 해협 상선 항행에 위협이... 당시 미 중부사령부는 '자위권 행사'를 주장하며 호르무즈 해협 인근 이란 남부 지역의 일부 목표물을... ",
+        "pubDate": "Thu, 28 May 2026 10:36:00 +0900",
+        "formatted_date": "05월 28일, 10시 36분",
+        "ai_summary": "미군이 자위권을 이유로 사흘 만에 또다시 이란 지역을 공습하며 호르무즈 해협의 군사적 긴장을 높이고 있습니다."
+      },
+      {
+        "title": "美 호르무즈 인근 이란 군사시설 재공습…유가·운임 리스크 확대",
+        "originallink": "https://www.sentv.co.kr/article/view/sentv202605280038",
+        "link": "https://www.sentv.co.kr/article/view/sentv202605280038",
+        "description": "미국과 이란 간 종전 협상이 막판 진통을 겪는 가운데, 미군이 이틀 만에 다시 호르무즈 해협 인근에서... 실제 양국 간 휴전은 현재까지 유지되는 것으로 간주되고 있지만, 호르무즈 해협 인근에서 이번 주 들어 두 번째... ",
+        "pubDate": "Thu, 28 May 2026 10:36:00 +0900",
+        "formatted_date": "05월 28일, 10시 36분",
+        "ai_summary": "미군이 이란 군사시설을 재차 공습함에 따라 호르무즈 해협의 불안정이 심화되어 유가 및 운임 리스크가 확대되고 있습니다."
+      },
+      {
+        "title": "트럼프, 동맹국 오만에 &quot;호르무즈 통제 이란 편들면 폭파&quot; 위협",
+        "originallink": "https://www.ytn.co.kr/_ln/0104_202605281034330743",
+        "link": "https://n.news.naver.com/mnews/article/052/0002358949?sid=104",
+        "description": "된다며 호르무즈 해협은 국제 수역으로 오만은 다른 모든 나라처럼 조심해 행동해야 하고 그렇지 않으면 그들을 폭파할 것이라고 경고했습니다. 트럼프 대통령은 이란과 오만이 호르무즈 해협을 공동 통제하는 합의를... ",
+        "pubDate": "Thu, 28 May 2026 10:34:00 +0900",
+        "formatted_date": "05월 28일, 10시 34분",
+        "ai_summary": "트럼프 대통령이 오만에게 호르무즈 해협 통제와 관련해 이란 편을 들지 말라고 경고하며 군사적 위협을 가했습니다."
+      },
+      {
+        "title": "이란戰 종전 낙관론에 '찬물'...美, 호르무즈 해협서 이란군 기지 또 타...",
+        "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=871078",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=871078",
+        "description": "전략요충수로 호르무즈 해협 부근에서 25일(현지시간) 이후 사흘 만에 미군이 다시 공습을 단행했기... 안전과 호르무즈 해협에 정박한 상선들의 안전항해에 위협이 된다는 판단하에 새로운 공습을 실시했다고... ",
+        "pubDate": "Thu, 28 May 2026 10:24:00 +0900",
+        "formatted_date": "05월 28일, 10시 24분",
+        "ai_summary": "미군이 호르무즈 해협 내 상선 안전을 위협하는 이란군 기지를 대상으로 사흘 만에 추가 공습을 감행했습니다. 이로 인해 이란과의 종전 기대감은 다시 사그라들었습니다."
+      },
+      {
+        "title": "트럼프 &quot;불만족&quot; 언급 뒤, 호르무즈 관문서 &quot;세 차례 폭발음&quot;",
+        "originallink": "https://www.ytn.co.kr/_ln/0104_202605281021378964",
+        "link": "https://n.news.naver.com/mnews/article/052/0002358939?sid=104",
+        "description": "지리적으로는 호르무즈 해협의 관문 같은 곳이고 이란 최대 항만과 해군 기지, 정유 시설이 모여 있어서... 공격한 시설은 미군과 호르무즈 해협의 교통에 위협이 된다고 판단된 곳이었다는 설명이 있었습니다. 또, 미군에... ",
+        "pubDate": "Thu, 28 May 2026 10:21:00 +0900",
+        "formatted_date": "05월 28일, 10시 21분",
+        "ai_summary": "호르무즈 해협 관문의 이란군 주요 시설에서 세 차례 폭발음이 들렸습니다. 미군은 이번 공격이 해상 교통 및 미군 안전을 위한 필수적인 대응임을 강조했습니다."
+      }
+    ],
+    "트럼프": [
+      {
+        "title": "&quot;중간선거? 신경 안 써&quot;…기름값 뛰는데 트럼프, 공화당도 흔들었다",
+        "originallink": "https://www.newsis.com/view/NISX20260528_0003647180",
+        "link": "https://n.news.naver.com/mnews/article/003/0013972314?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 이란전 여파로 기름값과 물가 불안이 커지는 상황에서 “중간선거는 신경 쓰지... 영국 인디펜던트는 27일(현지시간) 트럼프 대통령이 이날 TV로 중계된 각료회의에서 이란과의 충돌, 텍사스... ",
+        "pubDate": "Thu, 28 May 2026 10:56:00 +0900",
+        "formatted_date": "05월 28일, 10시 56분",
+        "ai_summary": "이란 사태로 유가와 물가가 상승하는 가운데 트럼프 대통령이 중간선거보다 이란 대응 등 주요 현안 해결에 집중하겠다는 의지를 보였습니다."
+      },
+      {
+        "title": "美, 저가형 드론 기업에 자금 지원 추진…트럼프 장남 업체 포함",
+        "originallink": "https://www.yna.co.kr/view/AKR20260528066000009?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016103946?sid=104",
+        "description": "트럼프 주니어 주주인 '언유주얼 머신스' 등 계약 타진 미국 도널드 트럼프 행정부가 국내 드론 생산을 늘리고 비용을 낮추기 위해 미국 드론 기업들에 자금을 지원하는 계약을 추진중이라고 미국 일간 월스트리트저널... ",
+        "pubDate": "Thu, 28 May 2026 10:56:00 +0900",
+        "formatted_date": "05월 28일, 10시 56분",
+        "ai_summary": "트럼프 행정부가 국내 드론 생산 확대와 비용 절감을 위해 미국 기업들에 자금 지원을 추진합니다. 대상에는 트럼프 주니어가 주주로 있는 업체도 포함되었습니다."
+      },
+      {
+        "title": "트럼프 &quot;中·러엔 이란 우라늄 못 넘겨&quot;…이란 남부 또다시 폭발음(종합...",
+        "originallink": "https://view.asiae.co.kr/article/2026052809263577775",
+        "link": "https://n.news.naver.com/mnews/article/277/0005768852?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 고농축우라늄(HEU) 처리와 호르무즈 해협 문제를 양보할 수 없다며 중간선거에... 트럼프 대통령은 27일(현지시간) 백악관에서 열린 각료회의에서 &quot;지금까지 그들(이란)이 내놓은 조건에는... ",
+        "pubDate": "Thu, 28 May 2026 10:53:00 +0900",
+        "formatted_date": "05월 28일, 10시 53분",
+        "ai_summary": "트럼프 대통령이 이란의 고농축 우라늄 처리와 호르무즈 해협 문제를 양보할 수 없음을 분명히 했습니다. 이란 남부에서는 계속해서 폭발음이 보고되고 있습니다."
+      },
+      {
+        "title": "이슬람 축제 제물 될 뻔한 '트럼프 물소'…도축 직전 방글라 정부가 살...",
+        "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260528105232mTn",
+        "link": "https://n.news.naver.com/mnews/article/422/0000869135?sid=104",
+        "description": "미국 도널드 트럼프 대통령 닮은꼴로 화제가 된 방글라데시의 물소가 이슬람 명절 희생제(이드 알 아드하)를... 현지시간 28일 AFP통신에 따르면, 이 수컷 알비노 물소는 트럼프 대통령의 상징인 금발 머리를 연상시키는... ",
+        "pubDate": "Thu, 28 May 2026 10:53:00 +0900",
+        "formatted_date": "05월 28일, 10시 53분",
+        "ai_summary": "트럼프 대통령과 닮은 금발 머리를 가진 방글라데시의 알비노 물소가 도축 위기에 처했으나, 당국의 조치로 목숨을 건졌습니다."
+      },
+      {
+        "title": "&quot;트럼프, 일방적 합의 타결 선언할 수도…이란 압박 위해&quot;",
+        "originallink": "https://news.jtbc.co.kr/article/NB12300226?influxDiv=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/437/0000493307?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 일방적으로 타결을 선언할 수도 있다는 이란 매체의 보도가 나왔습니다. 27일(현지시간) 이란 파르스 통신은 소식통을 인용해 &quot;트럼프 대통령이 협상에 압력을 가하고 여론을 흔들기 위해... ",
+        "pubDate": "Thu, 28 May 2026 10:51:00 +0900",
+        "formatted_date": "05월 28일, 10시 51분",
+        "ai_summary": "이란 매체는 트럼프 대통령이 협상 압박과 여론 주도를 위해 일방적인 합의 타결을 선언할 가능성을 제기했습니다."
+      },
+      {
+        "title": "트럼프, 친서방 아르메니아 총리 지지…러 “가스공급 중단” 위협",
+        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8572061&ref=A",
+        "link": "https://n.news.naver.com/mnews/article/056/0012189474?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 친서방 정책을 추진하는 아르메니아 현직 총리에 대한 공개 지지를 선언하자 러시아가 강하게 반발했습니다. 현지 시각 27일 로이터통신에 따르면 트럼프 대통령은 트루스소셜에 다음 달 7일... ",
+        "pubDate": "Thu, 28 May 2026 10:47:00 +0900",
+        "formatted_date": "05월 28일, 10시 47분",
+        "ai_summary": "트럼프 대통령이 친서방 정책을 펴는 아르메니아 총리를 공개 지지하자, 러시아가 가스 공급 중단을 언급하며 강력히 반발했습니다."
+      },
+      {
+        "title": "트럼프 행정부, 대만산 일부 수입품 관세 철회",
+        "originallink": "https://biz.chosun.com/international/international_general/2026/05/28/66PRU3ZTXFAUZM52A4MPFK7ELY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "link": "https://n.news.naver.com/mnews/article/366/0001167642?sid=104",
+        "description": "도널드 트럼프 미국 행정부가 대만산 일부 수입품에 대한 관세를 철회한다고 27일(현지시각) 블룸버그가 보도했다. 미국 연방관보에 따르면 트럼프 행정부는 대만에서 수입하는 항공기 부품에 부과되던 알루미늄, 철강... ",
+        "pubDate": "Thu, 28 May 2026 10:46:00 +0900",
+        "formatted_date": "05월 28일, 10시 46분",
+        "ai_summary": "미국 행정부가 대만산 항공기 부품 등에 부과하던 철강 및 알루미늄 관세를 철회하기로 결정했습니다."
+      },
+      {
+        "title": "트럼프 대통령 “겐슬러, 미국 암호화폐 산업 거의 파괴”",
+        "originallink": "https://www.tokenpost.kr/news/breaking/363893",
+        "link": "https://www.tokenpost.kr/news/breaking/363893",
+        "description": "트럼프 대통령은 게리 겐슬러 전 미국 증권거래위원회(SEC) 위원장이 미국 암호화폐 산업을 거의 파괴했다고 비판했다. 워처구루에 따르면 트럼프 대통령은 암호화폐 반대론자들이 되돌릴 수 없는 미래형 디지털자산... ",
+        "pubDate": "Thu, 28 May 2026 10:44:00 +0900",
+        "formatted_date": "05월 28일, 10시 44분",
+        "ai_summary": "트럼프 대통령이 게리 겐슬러 전 SEC 위원장을 향해 암호화폐 산업을 사실상 파괴했다고 강도 높게 비판했습니다."
+      },
+      {
+        "title": "러 신형 탄도미사일 맞은 우크라, 트럼프에 &quot;패트리엇 지원해달라&quot;",
+        "originallink": "https://news.jtbc.co.kr/article/NB12300224?influxDiv=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/437/0000493305?sid=104",
+        "description": "현지시간 27일 AP통신 등에 따르면 볼로디미르 젤렌스키 우크라이나 대통령은 전날 도널드 트럼프 미국 대통령에게 방공무기를 지원해 달라는 내용의 서한을 보냈습니다. 젤렌스키 대통령은 서한에서 &quot;탄도미사일 방어에... ",
+        "pubDate": "Thu, 28 May 2026 10:44:00 +0900",
+        "formatted_date": "05월 28일, 10시 44분",
+        "ai_summary": "우크라이나 젤렌스키 대통령이 신형 탄도미사일 위협에 대응하고자 트럼프 미국 대통령에게 패트리엇 방공무기 지원을 요청했습니다."
+      },
+      {
+        "title": "트럼프 &quot;첫 탄핵은 조작&quot;…폭스뉴스 칼럼 공유",
+        "originallink": "https://www.ajunews.com/view/20260528104024985",
+        "link": "https://www.ajunews.com/view/20260528104024985",
+        "description": "아주경제=한영훈 기자 han@ajunews.com 도널드 트럼프 미국 대통령 [사진=AP·연합뉴스] 도널드 트럼프 미국 대통령이 첫 번째 탄핵 절차를 다시 문제 삼고 나섰다. 2019년 우크라이나 의혹을 근거로 한 당시 탄핵 절차가... ",
+        "pubDate": "Thu, 28 May 2026 10:42:00 +0900",
+        "formatted_date": "05월 28일, 10시 42분",
+        "ai_summary": "도널드 트럼프 미국 대통령이 2019년 자신의 첫 번째 탄핵 절차를 조작된 사건이라며 다시 한번 강하게 비판했습니다."
+      }
+    ],
+    "유가": [
+      {
+        "title": "&quot;혹시 신청 못 하셨나요&quot; ··· 발로 뛴 옥천군, 고유가 지원금 신청률...",
+        "originallink": "https://www.ggilbo.com/news/articleView.html?idxno=1160696",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1160696",
+        "description": "▲ 옥천군 직원이 고유가피해지원금 신청을 받는 모습. 옥천군 제공 충북 옥천군이 고유가 피해지원금 신청률에서 충북 도내 1위를 기록했다. 단순 안내에 그치지 않고 공무원들이 직접 현장을 누비며 신청을 도운 '발로... ",
+        "pubDate": "Thu, 28 May 2026 10:58:00 +0900",
+        "formatted_date": "05월 28일, 10시 58분",
+        "ai_summary": "충북 옥천군이 공무원들이 직접 현장을 찾아 지원금을 독려하는 적극 행정을 펼쳐 고유가 피해지원금 신청률 도내 1위를 달성했습니다."
+      },
+      {
+        "title": "금통위 &quot;국제유가 상승·소득 증가로 물가 상승률 상승 압력 높아져&quot;",
+        "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=03545686645453512",
+        "link": "https://n.news.naver.com/mnews/article/018/0006292140?sid=101",
+        "description": "국제유가 상승과 소득 증가 등 공급과 수요측의 물가 자극 요인을 언급하면서다. 신현송 한국은행 총재가... 이어 “앞으로도 물가 오름세는 국제유가 상승의 파급영향이 확대되는 가운데 소득증가에 따른 수요측... ",
+        "pubDate": "Thu, 28 May 2026 10:51:00 +0900",
+        "formatted_date": "05월 28일, 10시 51분",
+        "ai_summary": "한국은행 금통위는 국제유가 상승과 소득 증가가 맞물려 향후 물가 상승 압력이 더욱 거세질 것으로 전망했습니다."
+      },
+      {
+        "title": "고유가 피해 지원금 87.8% 받아...지역화폐 수령 40.1%",
+        "originallink": "http://www.samdailbo.com/news/articleView.html?idxno=265038",
+        "link": "http://www.samdailbo.com/news/articleView.html?idxno=265038",
+        "description": "제주특별자치도는 지난 27일까지 고유가 피해 지원금을 1·2차 누계 총 44만5945명의 도민에게 860억원... 고유가 피해 지원금 신청 마감은 7월 3일까지로, 기간 내 신청하지 않으면 받을 수 없다. 지원금은 8월... ",
+        "pubDate": "Thu, 28 May 2026 10:46:00 +0900",
+        "formatted_date": "05월 28일, 10시 46분",
+        "ai_summary": "제주도가 고유가 피해지원금 신청률 87.8%를 기록한 가운데, 7월 3일 마감 전까지 대상자들의 빠른 신청을 당부했습니다."
+      },
+      {
+        "title": "고유가 피해지원금, 제주도민 44만명에 860억원 지급",
+        "originallink": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=593502",
+        "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=593502",
+        "description": "제주특별자치도는 지난 27일까지 도민 44만 5945명에게 총 860억 원 규모의 '고유가 피해지원금'을... 고유가 피해지원금 신청 마감은 7월 3일까지이며, 기간 내 신청하지 않으면 지원금을 받을 수 없다. 지원금은 오는... ",
+        "pubDate": "Thu, 28 May 2026 10:46:00 +0900",
+        "formatted_date": "05월 28일, 10시 46분",
+        "ai_summary": "제주도가 44만여 명의 도민에게 총 860억 원의 고유가 피해지원금을 지급했으며, 신청 기한은 7월 3일까지입니다."
+      },
+      {
+        "title": "제주 '고유가 피해지원금' 신청률 87.8% 기록…&quot;7월 3일까지 신청&quot;",
+        "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4086035",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4086035",
+        "description": "제주지역의 '고유가 피해지원금' 2차 지급 신청률이 접수 시작 열흘째인 어제(27일) 기준 87.8%를... 한편, 고유가 피해지원금 신청은 오는 7월 3일에 마감됩니다. 기간 내에 신청하지 않으면 지원금을 받을 수 없는... ",
+        "pubDate": "Thu, 28 May 2026 10:44:00 +0900",
+        "formatted_date": "05월 28일, 10시 44분",
+        "ai_summary": "제주지역 고유가 피해지원금 신청률이 87.8%에 달했으며, 7월 3일 이후에는 지원을 받을 수 없으므로 주의가 필요합니다."
+      },
+      {
+        "title": "국제유가, 이란 협상타결 기대감에 급락…WTI 90달러 밑으로",
+        "originallink": "https://www.seoul.co.kr/news/economy/2026/05/28/20260528500062?wlog_tag3=naver",
+        "link": "https://n.news.naver.com/mnews/article/081/0003647591?sid=101",
+        "description": "국제유가가 급락했다. 27일(현지시간) ICE선물거래소에서 7월 인도분 브렌트유 선물 종가는 배럴당 94.... 뉴욕의 웰스스파이어 어드바이저스의 올리버 퍼시 수석부사장은 “유가는 고점에서 내려오고 있으며, 현재... ",
+        "pubDate": "Thu, 28 May 2026 10:42:00 +0900",
+        "formatted_date": "05월 28일, 10시 42분",
+        "ai_summary": "이란 핵 협상 타결에 대한 기대감이 커지면서 국제 유가가 급락해 WTI가 90달러 밑으로 떨어졌습니다."
+      },
+      {
+        "title": "유가 40% 폭등에도…k반도체, 증시 ‘방화벽’ 됐다",
+        "originallink": "https://biz.heraldcorp.com/article/10757692?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/016/0002649148?sid=104",
+        "description": "AI 랠리 타고 SK하이닉스·삼성전자 등 반도체주 강세 국제유가 40% 폭등·亞 통화 약세…에너지 수입국... 고유가 장기화 우려가 인플레이션 압력을 키우고 있다. 이 여파로 채권시장과 에너지 수입국들은 패자 진영으로... ",
+        "pubDate": "Thu, 28 May 2026 10:40:00 +0900",
+        "formatted_date": "05월 28일, 10시 40분",
+        "ai_summary": "국제유가 폭등과 인플레이션 압박 속에서도 AI 열풍을 탄 국내 반도체주가 증시 방어선 역할을 수행하며 강세를 보였습니다."
+      },
+      {
+        "title": "&quot;고유가 못 버텨&quot;...인도 항공사, 국내선 대폭 축소",
+        "originallink": "https://www.ytn.co.kr/_ln/0104_202605281038594714",
+        "link": "https://n.news.naver.com/mnews/article/052/0002358955?sid=104",
+        "description": "중동 전쟁 장기화로 국제 유가가 배럴당 100달러를 돌파하자, 극심한 경영 압박을 받게 된 인도의 대형... 이번 사태는 연료비가 운영비의 최대 40%를 차지하는 항공 업계의 특성상, 국제 유가 급등세가 장기화할 경우... ",
+        "pubDate": "Thu, 28 May 2026 10:38:00 +0900",
+        "formatted_date": "05월 28일, 10시 38분",
+        "ai_summary": "국제 유가가 배럴당 100달러를 돌파하며 경영난이 심화하자 인도 항공사들이 연료비 절감을 위해 국내선 운항을 대폭 축소했습니다."
+      },
+      {
+        "title": "전남도, 2회 추경 4744억 증액…고유가·민생경제 회복 '집중'",
+        "originallink": "https://www.pressian.com/pages/articles/2026052810304978143?utm_source=naver&utm_medium=search",
+        "link": "https://n.news.naver.com/mnews/article/002/0002443027?sid=102",
+        "description": "고유가 피해지원금 2855억 편성·전남광주통합특별시 출범 지원도 반영 전라남도가 고유가 대응과 민생경제 회복, 전남광주통합특별시 출범 준비 등을 위해 2026년도 제2회 추가경정예산안을 편성해 전남도의회에... ",
+        "pubDate": "Thu, 28 May 2026 10:37:00 +0900",
+        "formatted_date": "05월 28일, 10시 37분",
+        "ai_summary": "전남도가 고유가 대응과 민생경제 회복을 위해 4,744억 원 규모의 제2회 추경예산안을 편성했습니다. 전남광주통합특별시 출범 지원 사업도 예산안에 포함되었습니다."
+      },
+      {
+        "title": "美 호르무즈 인근 이란 군사시설 재공습…유가·운임 리스크 확대",
+        "originallink": "https://www.sentv.co.kr/article/view/sentv202605280038",
+        "link": "https://www.sentv.co.kr/article/view/sentv202605280038",
+        "description": "국제 유가와 글로벌 공급망에 직접적인 영향을 미치는 지역으로 꼽힌다. 시장에서는 미국·이란 간 군사 충돌 가능성이 재차 부각될 경우 국제 유가 변동성과 해상 운임 리스크가 동시에 확대될 수 있다는 관측이 나오고... ",
+        "pubDate": "Thu, 28 May 2026 10:36:00 +0900",
+        "formatted_date": "05월 28일, 10시 36분",
+        "ai_summary": "미군이 이란 군사시설을 재공습하며 중동 내 군사적 긴장감이 고조되고 있습니다. 이로 인해 국제 유가 변동성과 해상 운임 리스크 확대에 대한 우려가 커지고 있습니다."
+      }
+    ],
+    "코스피": [
+      {
+        "title": "코스피, 장중 8100선 약세 지속…코스닥 3%대 급락",
+        "originallink": "https://www.hankyung.com/article/2026052838216",
+        "link": "https://n.news.naver.com/mnews/article/015/0005292236?sid=101",
+        "description": "코스피지수가 28일 장중 외국인 투자자의 매도세에 약세 흐름을 이어가고 있다. 미군이 호르무즈해협... 이날 오전 10시39분 현재 코스피지수는 전장보다 60.98포인트(0.74%) 내린 8167.72를 기록하고 있다. 0.77% 하락... ",
+        "pubDate": "Thu, 28 May 2026 10:51:00 +0900",
+        "formatted_date": "05월 28일, 10시 51분",
+        "ai_summary": "호르무즈 해협의 지정학적 리스크로 인해 외국인 매도세가 이어지며 코스피가 8,100선에서 약세를 보이고 있습니다. 코스닥 역시 3%대 급락세를 기록 중입니다."
+      },
+      {
+        "title": "코스피,개인·외인 수급공방 속 반등모색…코스닥 하락전환",
+        "originallink": "http://www.seouleconews.com/news/articleView.html?idxno=91487",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=91487",
+        "description": "코스피가 단기 급등에 따른 숨고르기 양상을 보이고 있다. 코스피가 28일 개인투자자와 외국인 간 치열한 수급 공방속에 반등을 모색하고 있다.  이날 오전 9시51분 현재 코스피는 전 거래일 대비 1.78포인트(0.02... ",
+        "pubDate": "Thu, 28 May 2026 10:44:00 +0900",
+        "formatted_date": "05월 28일, 10시 44분",
+        "ai_summary": "코스피가 단기 급등에 따른 숨 고르기 양상을 보이는 가운데 개인과 외국인의 수급 공방이 이어지고 있습니다. 반면 코스닥은 하락세로 전환되었습니다."
+      },
+      {
+        "title": "코스피는 하락출발, SK하이닉스는 상승세",
+        "originallink": "https://ilyo.co.kr/?ac=article_view&entry_id=511102",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=511102",
+        "description": "28일 오전 서울 중구 하나은행 본점 딜링룸 증시 현황판에 코스피,삼성전자,SK하이닉스 등 시황이 표시되고 있다. 이날 코스피는 하락 출발 했고, 삼성전자는 하락세, SK하이닉스 는 상승세를 보이고 있다.",
+        "pubDate": "Thu, 28 May 2026 10:42:00 +0900",
+        "formatted_date": "05월 28일, 10시 42분",
+        "ai_summary": "코스피가 하락세로 장을 시작한 가운데 삼성전자는 내림세를 보였습니다. 반면 SK하이닉스는 상승세를 유지하며 차별화된 흐름을 보이고 있습니다."
+      },
+      {
+        "title": "코스피, 외국인 매도 속 보합권 회복 시도…코스닥은 약세 전환",
+        "originallink": "https://www.ziksir.com/news/articleView.html?idxno=135146",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=135146",
+        "description": "[연합뉴스] 코스피가 28일 장 초반 급락 이후 낙폭을 줄이며 보합권 회복을 시도하고 있다. 반면 코스닥은 하락 전환하며 약세 흐름을 이어가는 모습이다. 한국거래소에 따르면 이날 오전 10시16분 기준 코스피... ",
+        "pubDate": "Thu, 28 May 2026 10:40:00 +0900",
+        "formatted_date": "05월 28일, 10시 40분",
+        "ai_summary": "외국인의 매도세로 장 초반 급락했던 코스피가 낙폭을 줄이며 보합권 회복을 시도하고 있습니다. 코스닥은 하락세로 전환하며 약세를 이어가고 있습니다."
+      },
+      {
+        "title": "코스피, 외국인 2조 순매도에 8100선 후퇴…개인 매수에 낙폭 줄여",
+        "originallink": "https://www.hidomin.com/news/articleView.html?idxno=707103",
+        "link": "https://www.hidomin.com/news/articleView.html?idxno=707103",
+        "description": "코스피가 외국인 매도 공세와 지정학적 리스크 재부각 속에 장 초반 8100선까지 밀렸지만, 개인 저가... 28일 오전 10시 30분 현재 코스피는 전 거래일 대비 44.07포인트(0.54%) 내린 8184.63을 기록 중이다. 지수는 전장보다... ",
+        "pubDate": "Thu, 28 May 2026 10:38:00 +0900",
+        "formatted_date": "05월 28일, 10시 38분",
+        "ai_summary": "외국인이 2조 원 규모의 순매도를 보이며 코스피가 8,100선까지 후퇴했습니다. 다만 개인 투자자들의 저가 매수세가 유입되며 낙폭을 일부 만회했습니다."
+      },
+      {
+        "title": "코스피, 보합권 등락…장 초반 8,080선까지 밀렸다 반등",
+        "originallink": "https://www.news2day.co.kr/article/20260528500085",
+        "link": "https://www.news2day.co.kr/article/20260528500085",
+        "description": "기자] 코스피 지수가 28일 외국인의 대규모 매도세에 장 초반 급락했다가 낙폭을 빠르게 만회하며... 한국거래소에 따르면 코스피는 이날 전 거래일 대비 62.97포인트(0.77%) 내린 8,165.73에 출발한 뒤 장중 8,082.... ",
+        "pubDate": "Thu, 28 May 2026 10:38:00 +0900",
+        "formatted_date": "05월 28일, 10시 38분",
+        "ai_summary": "외국인의 대규모 매도로 장 초반 8,080선까지 밀렸던 코스피가 낙폭을 빠르게 회복하고 있습니다. 지수는 현재 보합권에서 등락을 거듭하고 있습니다."
+      },
+      {
+        "title": "코스피 숨고르기?...외국인은 2조 던지는 중 [fn오전시황]",
+        "originallink": "http://www.fnnews.com/news/202605281030598389",
+        "link": "https://n.news.naver.com/mnews/article/014/0005527482?sid=101",
+        "description": "한국거래소에 따르면 코스피는 이날 10시33분 기준 전 거래일 대비 0.65% 내린 8175.58에 거래되고 있다. 코스피에서 외국인이 2조1143억원을 순매도 중이고 개인과 기관이 각각 1조5237억원, 5527억원을 순매수... ",
+        "pubDate": "Thu, 28 May 2026 10:37:00 +0900",
+        "formatted_date": "05월 28일, 10시 37분",
+        "ai_summary": "코스피가 외국인의 2조 원대 순매도 영향으로 약세를 보이고 있습니다. 개인과 기관이 순매수에 나서며 지수 하단을 방어하고 있습니다."
+      },
+      {
+        "title": "코스피, 하락 출발 후 반등…수급 공방 속 개인이 지수 견인 [투자360]",
+        "originallink": "https://biz.heraldcorp.com/article/10757684?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/016/0002649144?sid=101",
+        "description": "경신했던 코스피가 하락 출발한 28일 서울 중구 하나은행 본점 딜링룸. [연합] [헤럴드경제=김지윤 기자] 코스피가 28일 개인 투자자의 순매수세에 힘입어 소폭 상승 흐름을 보이고 있다. 이날 오전 10시17분... ",
+        "pubDate": "Thu, 28 May 2026 10:37:00 +0900",
+        "formatted_date": "05월 28일, 10시 37분",
+        "ai_summary": "하락 출발했던 코스피가 개인 투자자의 강한 순매수세에 힘입어 반등을 모색하고 있습니다. 수급 주체 간의 치열한 공방이 지속되는 모습입니다."
+      },
+      {
+        "title": "코스피 8,200선서 숨고르기…코스닥도 하락 전환",
+        "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20260528103137MWW",
+        "link": "https://n.news.naver.com/mnews/article/422/0000869127?sid=101",
+        "description": "어제(27일) 사상 최고치를 경신했던 코스피가 오늘(28일)은 하락 출발했습니다. 상승 출발했던 코스닥... [기자] 네, 어제 장중, 종가 기준 사상 최고치를 경신했던 코스피가 오늘은 숨 고르기에 들어갔습니다. 이날... ",
+        "pubDate": "Thu, 28 May 2026 10:32:00 +0900",
+        "formatted_date": "05월 28일, 10시 32분",
+        "ai_summary": "어제 사상 최고치를 기록했던 코스피가 오늘 하락하며 숨 고르기에 들어갔습니다. 코스닥 지수 역시 상승 출발 후 하락세로 전환했습니다."
+      },
+      {
+        "title": "코스피, 급등 후 숨 고르기... 장 초반 0.31% 하락",
+        "originallink": "https://www.tokenpost.kr/news/market/363885",
+        "link": "https://www.tokenpost.kr/news/market/363885",
+        "description": "코스피가 28일 장 초반 하락세로 출발하면서, 최근 사상 최고치 경신 이후 이어진 급등 흐름이 잠시 숨 고르기에 들어간 모습이다. 한국거래소에 따르면 이날 오전 9시 4분 현재 코스피는 전 거래일보다 25.27포인트(0.31... ",
+        "pubDate": "Thu, 28 May 2026 10:32:00 +0900",
+        "formatted_date": "05월 28일, 10시 32분",
+        "ai_summary": "코스피가 최근 급등에 따른 조정으로 장 초반 0.31% 하락했습니다. 사상 최고치 경신 이후 숨 고르기 장세가 이어지는 모습입니다."
+      }
+    ]
   },
-  "last_updated": "2026-05-28 10:39:49"
+  "last_updated": "2026-05-28 11:02:11"
 }
