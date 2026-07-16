@@ -1,5 +1,398 @@
 {
-  "last_updated": "2026-07-16 05:58:16",
-  "schedules": [],
+  "last_updated": "2026-07-16 09:31:11",
+  "schedules": [
+    {
+      "date": "2026-07-23",
+      "time": "17:00",
+      "title": "반도체·AI '어님 서프라이즈' 어떻게 활용할 것인가?",
+      "committee": "",
+      "location": "의원회관 제7간담회의실(210호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "14:00",
+      "title": "반도체 글로벌 경쟁력 강화를 위한 국가 전략",
+      "committee": "",
+      "location": "국회도서관 대강당",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-21",
+      "time": "15:00",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "문화체육관광위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-21",
+      "time": "14:00",
+      "title": "제11회(2026) 4차 산업혁명 AI Korea 대전",
+      "committee": "",
+      "location": "의원회관 제2소회의실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "14:00~16:30",
+      "title": "대한민국 반도체 국가산단 성공을 위한 과제",
+      "committee": "",
+      "location": "의원회관 제11간담회의실(216호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "14:00",
+      "title": "K-반도체시대! 부산의 전략과 발전방향",
+      "committee": "",
+      "location": "기타 : 부산시의회 2층 중회의실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "09:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "국회운영위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "14:00~16:00",
+      "title": "대한민국 반도체 국가산단의 미래전략",
+      "committee": "",
+      "location": "의원회관 제1간담회의실(201호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "14:00",
+      "title": "탄소중립 시대의 에너지 안보, 공급에서 효율로 길을 찾다",
+      "committee": "",
+      "location": "의원회관 제11간담회의실(216호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "예산결산특별위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "10:00",
+      "title": "이재명 정부가 발표한 호남 반도체의 허구와 실상",
+      "committee": "",
+      "location": "의원회관 신관 제2세미나실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "14:00",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "14:00",
+      "title": "제437회국회(임시회) 제2차 전체회의(기후위기 특별위원회)",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-14",
+      "time": "14:00",
+      "title": "웹툰IP 확장 시대, 창작 그 이후 산업 발전의 중요성",
+      "committee": "",
+      "location": "국회도서관 소강당",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-14",
+      "time": "11:40",
+      "title": "반도체 초과이익 활용 방안 제안 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-14",
+      "time": "10:22",
+      "title": "국회 산업통상자원중소벤처기업위원회 소속 더불어민주당 위원 일동 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-14",
+      "time": "10:00~12:00",
+      "title": "핵심광물 공급망 안정화와 재자원화 산업 육성을 위한 정책토론회",
+      "committee": "",
+      "location": "의원회관 제6간담회의실(209호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-14",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제5차 전체회의(제9회전국동시지방선거투표용지부족사태등국민참정권침해진상규명및선거관리개혁을위한국정조사특별위원회)",
+      "committee": "행정안전위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-13",
+      "time": "13:40",
+      "title": "대한민국 반도체 산업 대계 진정한 지역균형발전 어떻게 설계할 것인가?",
+      "committee": "",
+      "location": "의원회관 제6간담회의실(209호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "14:00~16:00",
+      "title": "에너지 안보 리스크와 배터리 공급망 강화 전략",
+      "committee": "",
+      "location": "의원회관 제2간담회의실(202호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "14:00",
+      "title": "K-스틸법 발효와 특수강 산업의 전망과 과제를 위한 정책 토론회",
+      "committee": "",
+      "location": "의원회관 제1간담회의실(201호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-09",
+      "time": "13:30",
+      "title": "의류 라벨갈이 근절 및 패션·봉제산업 기반 보호를 위한 기자간담회",
+      "committee": "",
+      "location": "기타 : 국회 더불어민주당 원내대표실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-09",
+      "time": "10:30",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "문화체육관광위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-09",
+      "time": "10:00",
+      "title": "대한민국 반도체 미래지도와 인프라 전략 Part1. 전력: 반도체 미래와 생존을 위한 연속 토론회",
+      "committee": "",
+      "location": "의원회관 제1소회의실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-09",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "재정경제기획위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-09",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "14:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "10:30",
+      "title": "서남권 반도체 클러스터 성공을 위한 정책토론회",
+      "committee": "",
+      "location": "의원회관 신관 제3세미나실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "14:00",
+      "title": "방위산업노동자 노동조건 개선 및 노동기본권 보장을 요구하는 방위산업의 날 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "14:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "재정경제기획위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "11:01",
+      "title": "재생에너지 이격거리 시행령 규탄 관련 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "10:18",
+      "title": "콘텐츠산업진흥법 일부개정법률안 대표발의 기자회견\r\n",
+      "committee": "",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "10:00~12:00",
+      "title": "국가 양봉산업 위기 대응 및 질병관리 체계 구축 정책 토론회",
+      "committee": "",
+      "location": "의원회관 제11간담회의실(216호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "10:00",
+      "title": "K-GX시대 탄소중립을 위한 경제구조개혁 토론회",
+      "committee": "",
+      "location": "의원회관 제8간담회의실(211호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "10:00",
+      "title": "AI 시대 올바른 기후 ·에너지 정책",
+      "committee": "",
+      "location": "의원회관 제6간담회의실(209호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제4차 전체회의(제9회전국동시지방선거투표용지부족사태등국민참정권침해진상규명및선거관리개혁을위한국정조사특별위원회)",
+      "committee": "행정안전위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "10:00",
+      "title": "국회관광산업포럼 제6차 관광정책세미나",
+      "committee": "",
+      "location": "의원회관 제3간담회의실(203호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "14:00",
+      "title": "(AI 등 첨단기술 활용을 통한) 산업안전 패러다임 전환과 정책 과제",
+      "committee": "",
+      "location": "의원회관 제6간담회의실(209호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "14:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "국방위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "정무위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "10:00",
+      "title": "반도체 대한민국 국방·외교·안보 전략자산",
+      "committee": "",
+      "location": "의원회관 신관 제2세미나실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "09:14",
+      "title": "호남 반도체 클러스터 관련 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-02",
+      "time": "15:00",
+      "title": "제436회국회(임시회) 제1차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-02",
+      "time": "10:39",
+      "title": "국립대전현충원 시설 확충에 따른 환경미화 인력 증원 촉구 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-01",
+      "time": "14:00~16:30",
+      "title": "인공지능 환경에서의 아동·청소년 권리 보장을 위한 국회 정책 토론회",
+      "committee": "",
+      "location": "의원회관 제1소회의실",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-01",
+      "time": "13:30",
+      "title": "김정관 산업통상부 장관 예방 / 의장 집무실",
+      "committee": "",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-07-01",
+      "time": "10:00",
+      "title": "제436회국회(임시회) 제3차 전체회의(제9회전국동시지방선거투표용지부족사태등국민참정권침해진상규명및선거관리개혁을위한국정조사특별위원회)",
+      "committee": "행정안전위원회",
+      "location": null,
+      "type": "session"
+    }
+  ],
   "summary": "현재 정밀 키워드 수집 시험 중입니다. AI 분석 결과는 데이터 검증 후 복구 예정입니다."
 }
