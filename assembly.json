@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 00:11:27",
+  "last_updated": "2026-07-29 06:08:46",
   "schedules": [
     {
       "date": "2026-08-04",
@@ -29,7 +29,7 @@
       "date": "2026-07-30",
       "time": "10:00",
       "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
@@ -37,7 +37,7 @@
       "date": "2026-07-30",
       "time": "10:00",
       "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -48,6 +48,22 @@
       "committee": "",
       "location": "기타 : 국회 본청 316호",
       "type": "sanja"
+    },
+    {
+      "date": "2026-07-29",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제3차 전체회의",
+      "committee": "국회운영위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-29",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제3차 전체회의",
+      "committee": "재정경제기획위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-29",
@@ -69,22 +85,6 @@
       "date": "2026-07-29",
       "time": "10:00",
       "title": "제437회국회(임시회) 제3차 전체회의",
-      "committee": "국회운영위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-29",
-      "time": "10:00",
-      "title": "제437회국회(임시회) 제3차 전체회의",
-      "committee": "재정경제기획위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-29",
-      "time": "10:00",
-      "title": "제437회국회(임시회) 제3차 전체회의",
       "committee": "정무위원회",
       "location": null,
       "type": "session"
@@ -92,10 +92,10 @@
     {
       "date": "2026-07-28",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "정무위원회",
-      "location": null,
-      "type": "session"
+      "title": "(K-컬처 400조 달성을 위한)게임산업의 역할과 정책적 위상 강화",
+      "committee": "",
+      "location": "의원회관 제9간담회의실(212호)",
+      "type": "sanja"
     },
     {
       "date": "2026-07-28",
@@ -108,18 +108,10 @@
     {
       "date": "2026-07-28",
       "time": "10:00",
-      "title": "(K-컬처 400조 달성을 위한)게임산업의 역할과 정책적 위상 강화",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "sanja"
-    },
-    {
-      "date": "2026-07-27",
-      "time": "10:00",
-      "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "산업통상자원중소벤처기업위원회",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "정무위원회",
       "location": null,
-      "type": "sanja"
+      "type": "session"
     },
     {
       "date": "2026-07-27",
@@ -138,6 +130,14 @@
       "type": "session"
     },
     {
+      "date": "2026-07-27",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
+    },
+    {
       "date": "2026-07-24",
       "time": "11:00",
       "title": "제437회국회(임시회) 제3차 전체회의",
@@ -148,18 +148,18 @@
     {
       "date": "2026-07-24",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "예산결산특별위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-24",
-      "time": "10:00",
       "title": "(조기 치료접근이 생존을 좌우하는) 전이성 대장암 치료환경 개선을 위한 정책토론회",
       "committee": "",
       "location": "의원회관 제2간담회의실(202호)",
       "type": "gihyu"
+    },
+    {
+      "date": "2026-07-24",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "예산결산특별위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-23",
@@ -436,18 +436,18 @@
     {
       "date": "2026-07-07",
       "time": "14:00",
-      "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "재정경제기획위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-07",
-      "time": "14:00",
       "title": "방위산업노동자 노동조건 개선 및 노동기본권 보장을 요구하는 방위산업의 날 기자회견",
       "committee": "",
       "location": null,
       "type": "sanja"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "14:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "재정경제기획위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-07",
@@ -476,14 +476,6 @@
     {
       "date": "2026-07-07",
       "time": "10:00",
-      "title": "국회관광산업포럼 제6차 관광정책세미나",
-      "committee": "",
-      "location": "의원회관 제3간담회의실(203호)",
-      "type": "sanja"
-    },
-    {
-      "date": "2026-07-07",
-      "time": "10:00",
       "title": "AI 시대 올바른 기후 ·에너지 정책",
       "committee": "",
       "location": "의원회관 제6간담회의실(209호)",
@@ -500,16 +492,16 @@
     {
       "date": "2026-07-07",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제4차 전체회의(제9회전국동시지방선거투표용지부족사태등국민참정권침해진상규명및선거관리개혁을위한국정조사특별위원회)",
-      "committee": "행정안전위원회",
-      "location": null,
-      "type": "session"
+      "title": "국회관광산업포럼 제6차 관광정책세미나",
+      "committee": "",
+      "location": "의원회관 제3간담회의실(203호)",
+      "type": "sanja"
     },
     {
-      "date": "2026-07-06",
-      "time": "14:00",
-      "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "국방위원회",
+      "date": "2026-07-07",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제4차 전체회의(제9회전국동시지방선거투표용지부족사태등국민참정권침해진상규명및선거관리개혁을위한국정조사특별위원회)",
+      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
     },
@@ -523,9 +515,9 @@
     },
     {
       "date": "2026-07-06",
-      "time": "10:00",
+      "time": "14:00",
       "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
+      "committee": "국방위원회",
       "location": null,
       "type": "session"
     },
@@ -534,6 +526,14 @@
       "time": "10:00",
       "title": "제437회국회(임시회) 제1차 전체회의",
       "committee": "정무위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
