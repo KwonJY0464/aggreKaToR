@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 06:08:46",
+  "last_updated": "2026-07-29 09:58:58",
   "schedules": [
     {
       "date": "2026-08-04",
@@ -22,6 +22,14 @@
       "time": "13:20",
       "title": "제437회국회(임시회) 제2차 전체회의",
       "committee": "국방위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-30",
+      "time": "13:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "국토교통위원회",
       "location": null,
       "type": "session"
     },
@@ -52,6 +60,14 @@
     {
       "date": "2026-07-29",
       "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "보건복지위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-29",
+      "time": "10:00",
       "title": "제437회국회(임시회) 제3차 전체회의",
       "committee": "국회운영위원회",
       "location": null,
@@ -68,34 +84,26 @@
     {
       "date": "2026-07-29",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제5차 전체회의",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-29",
-      "time": "10:00",
-      "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "보건복지위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-29",
-      "time": "10:00",
       "title": "제437회국회(임시회) 제3차 전체회의",
       "committee": "정무위원회",
       "location": null,
       "type": "session"
     },
     {
+      "date": "2026-07-29",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제5차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
       "date": "2026-07-28",
       "time": "10:00",
-      "title": "(K-컬처 400조 달성을 위한)게임산업의 역할과 정책적 위상 강화",
-      "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
-      "type": "sanja"
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "정무위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-28",
@@ -108,10 +116,10 @@
     {
       "date": "2026-07-28",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "정무위원회",
-      "location": null,
-      "type": "session"
+      "title": "(K-컬처 400조 달성을 위한)게임산업의 역할과 정책적 위상 강화",
+      "committee": "",
+      "location": "의원회관 제9간담회의실(212호)",
+      "type": "sanja"
     },
     {
       "date": "2026-07-27",
@@ -276,18 +284,18 @@
     {
       "date": "2026-07-16",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "예산결산특별위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-16",
-      "time": "10:00",
       "title": "이재명 정부가 발표한 호남 반도체의 허구와 실상",
       "committee": "",
       "location": "의원회관 신관 제2세미나실",
       "type": "sanja"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "예산결산특별위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-15",
@@ -436,18 +444,18 @@
     {
       "date": "2026-07-07",
       "time": "14:00",
-      "title": "방위산업노동자 노동조건 개선 및 노동기본권 보장을 요구하는 방위산업의 날 기자회견",
-      "committee": "",
-      "location": null,
-      "type": "sanja"
-    },
-    {
-      "date": "2026-07-07",
-      "time": "14:00",
       "title": "제437회국회(임시회) 제1차 전체회의",
       "committee": "재정경제기획위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "14:00",
+      "title": "방위산업노동자 노동조건 개선 및 노동기본권 보장을 요구하는 방위산업의 날 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "sanja"
     },
     {
       "date": "2026-07-07",
