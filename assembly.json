@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-29 09:58:58",
+  "last_updated": "2026-07-30 00:12:49",
   "schedules": [
+    {
+      "date": "2026-08-05",
+      "time": "14:00~16:00",
+      "title": "수산기자재산업 활성화를 위한 정책과제 국회토론회",
+      "committee": "",
+      "location": "의원회관 제7간담회의실(210호)",
+      "type": "sanja"
+    },
     {
       "date": "2026-08-04",
       "time": "10:00",
@@ -37,7 +45,15 @@
       "date": "2026-07-30",
       "time": "10:00",
       "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
+      "committee": "농림축산식품해양수산위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-30",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제4차 전체회의",
+      "committee": "문화체육관광위원회",
       "location": null,
       "type": "session"
     },
@@ -45,7 +61,7 @@
       "date": "2026-07-30",
       "time": "10:00",
       "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
@@ -56,6 +72,22 @@
       "committee": "",
       "location": "기타 : 국회 본청 316호",
       "type": "sanja"
+    },
+    {
+      "date": "2026-07-29",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제3차 전체회의",
+      "committee": "재정경제기획위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-29",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제5차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-29",
@@ -77,30 +109,6 @@
       "date": "2026-07-29",
       "time": "10:00",
       "title": "제437회국회(임시회) 제3차 전체회의",
-      "committee": "재정경제기획위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-29",
-      "time": "10:00",
-      "title": "제437회국회(임시회) 제3차 전체회의",
-      "committee": "정무위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-29",
-      "time": "10:00",
-      "title": "제437회국회(임시회) 제5차 전체회의",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-28",
-      "time": "10:00",
-      "title": "제437회국회(임시회) 제2차 전체회의",
       "committee": "정무위원회",
       "location": null,
       "type": "session"
@@ -122,10 +130,10 @@
       "type": "sanja"
     },
     {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "time": "10:00",
       "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "국회운영위원회",
+      "committee": "정무위원회",
       "location": null,
       "type": "session"
     },
@@ -144,6 +152,14 @@
       "committee": "산업통상자원중소벤처기업위원회",
       "location": null,
       "type": "sanja"
+    },
+    {
+      "date": "2026-07-27",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "국회운영위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-24",
@@ -300,18 +316,18 @@
     {
       "date": "2026-07-15",
       "time": "14:00",
-      "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-15",
-      "time": "14:00",
       "title": "제437회국회(임시회) 제2차 전체회의(기후위기 특별위원회)",
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "14:00",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-14",
@@ -404,16 +420,16 @@
     {
       "date": "2026-07-09",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "재정경제기획위원회",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-07-09",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "재정경제기획위원회",
       "location": null,
       "type": "session"
     },
@@ -484,18 +500,10 @@
     {
       "date": "2026-07-07",
       "time": "10:00",
-      "title": "AI 시대 올바른 기후 ·에너지 정책",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-07-07",
-      "time": "10:00",
-      "title": "K-GX시대 탄소중립을 위한 경제구조개혁 토론회",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "gihyu"
+      "title": "제437회국회(임시회) 제4차 전체회의(제9회전국동시지방선거투표용지부족사태등국민참정권침해진상규명및선거관리개혁을위한국정조사특별위원회)",
+      "committee": "행정안전위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-07",
@@ -508,8 +516,24 @@
     {
       "date": "2026-07-07",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제4차 전체회의(제9회전국동시지방선거투표용지부족사태등국민참정권침해진상규명및선거관리개혁을위한국정조사특별위원회)",
-      "committee": "행정안전위원회",
+      "title": "K-GX시대 탄소중립을 위한 경제구조개혁 토론회",
+      "committee": "",
+      "location": "의원회관 제8간담회의실(211호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "10:00",
+      "title": "AI 시대 올바른 기후 ·에너지 정책",
+      "committee": "",
+      "location": "의원회관 제6간담회의실(209호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "14:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "국방위원회",
       "location": null,
       "type": "session"
     },
@@ -523,9 +547,9 @@
     },
     {
       "date": "2026-07-06",
-      "time": "14:00",
+      "time": "10:00",
       "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "국방위원회",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
@@ -534,14 +558,6 @@
       "time": "10:00",
       "title": "제437회국회(임시회) 제1차 전체회의",
       "committee": "정무위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "10:00",
-      "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
