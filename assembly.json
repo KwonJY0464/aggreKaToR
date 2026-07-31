@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 06:25:11",
+  "last_updated": "2026-07-31 09:59:51",
   "schedules": [
     {
       "date": "2026-08-05",
@@ -16,6 +16,14 @@
       "committee": "교육위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-08-02",
+      "time": "14:50",
+      "title": "제주한림해상풍력단지 현장 방문 / 한림해상풍력단지",
+      "committee": "",
+      "location": null,
+      "type": "gihyu"
     },
     {
       "date": "2026-07-30",
@@ -60,14 +68,6 @@
     {
       "date": "2026-07-30",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-30",
-      "time": "10:00",
       "title": "제437회국회(임시회) 제4차 전체회의",
       "committee": "문화체육관광위원회",
       "location": null,
@@ -78,6 +78,14 @@
       "time": "10:00",
       "title": "제437회국회(임시회) 제2차 전체회의",
       "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-07-30",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -164,18 +172,18 @@
     {
       "date": "2026-07-27",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "산업통상자원중소벤처기업위원회",
-      "location": null,
-      "type": "sanja"
-    },
-    {
-      "date": "2026-07-27",
-      "time": "10:00",
       "title": "제437회국회(임시회) 제2차 전체회의",
       "committee": "국회운영위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-07-27",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
     },
     {
       "date": "2026-07-24",
@@ -316,24 +324,16 @@
     {
       "date": "2026-07-16",
       "time": "10:00",
-      "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "예산결산특별위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-07-16",
-      "time": "10:00",
       "title": "이재명 정부가 발표한 호남 반도체의 허구와 실상",
       "committee": "",
       "location": "의원회관 신관 제2세미나실",
       "type": "sanja"
     },
     {
-      "date": "2026-07-15",
-      "time": "14:00",
-      "title": "제437회국회(임시회) 제2차 전체회의",
-      "committee": "법제사법위원회",
+      "date": "2026-07-16",
+      "time": "10:00",
+      "title": "제437회국회(임시회) 제1차 전체회의",
+      "committee": "예산결산특별위원회",
       "location": null,
       "type": "session"
     },
@@ -344,6 +344,14 @@
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "14:00",
+      "title": "제437회국회(임시회) 제2차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-07-14",
@@ -565,7 +573,7 @@
       "date": "2026-07-06",
       "time": "10:00",
       "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
+      "committee": "정무위원회",
       "location": null,
       "type": "session"
     },
@@ -573,7 +581,7 @@
       "date": "2026-07-06",
       "time": "10:00",
       "title": "제437회국회(임시회) 제1차 전체회의",
-      "committee": "정무위원회",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
