@@ -1,12 +1,28 @@
 {
-  "last_updated": "2026-08-04 00:16:10",
+  "last_updated": "2026-08-04 06:05:45",
   "schedules": [
+    {
+      "date": "2026-08-12",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
+    },
     {
       "date": "2026-08-10",
       "time": "10:00",
       "title": "생성형 AI 시대의 지속가능한 음악산업을 위한 창작자 보호와 합리적 보상 체계",
       "committee": "",
       "location": "의원회관 대회의실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "10:00",
+      "title": "우리나라의 바람직한 전력산업 구조개편 방향모색",
+      "committee": "",
+      "location": "의원회관 신관 제2세미나실",
       "type": "sanja"
     },
     {
