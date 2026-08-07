@@ -1,5 +1,158 @@
 {
-  "last_updated": "2026-08-07 01:45:59",
-  "schedules": [],
+  "last_updated": "2026-08-07 05:04:03",
+  "schedules": [
+    {
+      "date": "2026-08-31",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제2차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-19",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-19",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-14",
+      "time": "10:00",
+      "title": "대한민국 반도체 미래지도와 인프라 전략 Part2. 용수: 반도체 미래와 생존을 위한 연속 토론회",
+      "committee": "",
+      "location": "의원회관 신관 제2세미나실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-08-14",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제3차 전체회의",
+      "committee": "교육위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-12",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제2차 전체회의",
+      "committee": "교육위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-12",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-08-11",
+      "time": "14:00",
+      "title": "2026 K-기후 에너지환경&수소환원제철 세미나",
+      "committee": "",
+      "location": "의원회관 제7간담회의실(210호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-08-11",
+      "time": "14:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "국토교통위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-11",
+      "time": "10:00",
+      "title": "산업안전 패러다임 전환과 안전보건공시제 시대의 개막",
+      "committee": "",
+      "location": "의원회관 제2소회의실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "14:00",
+      "title": "(기후위기 대응과 탄소중립 실현을 위한) 친환경 소재 개발 방향성 모색 정책토론회",
+      "committee": "",
+      "location": "의원회관 제7간담회의실(210호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "10:30",
+      "title": "제438회국회(임시회) 제2차 탄소중립기본법 심사 소위원회(기후위기 특별위원회)",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제8차 전체회의(제9회전국동시지방선거투표용지부족사태등국민참정권침해진상규명및선거관리개혁을위한국정조사특별위원회)",
+      "committee": "행정안전위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "10:00",
+      "title": "생성형 AI 시대의 지속가능한 음악산업을 위한 창작자 보호와 합리적 보상 체계",
+      "committee": "",
+      "location": "의원회관 대회의실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "10:00",
+      "title": "우리나라의 바람직한 전력산업 구조개편 방향모색",
+      "committee": "",
+      "location": "의원회관 신관 제2세미나실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "14:00~16:00",
+      "title": "수산기자재산업 활성화를 위한 정책과제 국회토론회",
+      "committee": "",
+      "location": "의원회관 제7간담회의실(210호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-08-04",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "교육위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "15:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "성평등가족위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-02",
+      "time": "14:50",
+      "title": "제주한림해상풍력단지 현장 방문 / 한림해상풍력단지",
+      "committee": "",
+      "location": null,
+      "type": "gihyu"
+    }
+  ],
   "summary": "현재 정밀 키워드 수집 시험 중입니다. AI 분석 결과는 데이터 검증 후 복구 예정입니다."
 }
