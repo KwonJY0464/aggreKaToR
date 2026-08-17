@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 04:05:10",
+  "last_updated": "2026-08-17 08:02:19",
   "schedules": [
     {
       "date": "2026-09-01",
@@ -21,7 +21,7 @@
       "date": "2026-08-31",
       "time": "10:00",
       "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -29,7 +29,7 @@
       "date": "2026-08-31",
       "time": "10:00",
       "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
@@ -69,14 +69,6 @@
       "date": "2026-08-19",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-08-19",
-      "time": "10:00",
-      "title": "제438회국회(임시회) 제1차 전체회의",
       "committee": "보건복지위원회",
       "location": null,
       "type": "session"
@@ -86,6 +78,14 @@
       "time": "10:00",
       "title": "제438회국회(임시회) 제2차 전체회의",
       "committee": "외교통일위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-19",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
@@ -124,18 +124,18 @@
     {
       "date": "2026-08-14",
       "time": "10:00",
-      "title": "대한민국 반도체 미래지도와 인프라 전략 Part2. 용수: 반도체 미래와 생존을 위한 연속 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "sanja"
-    },
-    {
-      "date": "2026-08-14",
-      "time": "10:00",
       "title": "제438회국회(임시회) 제3차 전체회의",
       "committee": "교육위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-08-14",
+      "time": "10:00",
+      "title": "대한민국 반도체 미래지도와 인프라 전략 Part2. 용수: 반도체 미래와 생존을 위한 연속 토론회",
+      "committee": "",
+      "location": "의원회관 신관 제2세미나실",
+      "type": "sanja"
     },
     {
       "date": "2026-08-13",
@@ -155,11 +155,11 @@
     },
     {
       "date": "2026-08-12",
-      "time": "10:00",
-      "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "기후에너지환경노동위원회",
-      "location": null,
-      "type": "gihyu"
+      "time": "15:00",
+      "title": "더불어민주당 연금개혁특별위원회 전체회의",
+      "committee": "",
+      "location": "의원회관 제7간담회의실(210호)",
+      "type": "session"
     },
     {
       "date": "2026-08-12",
@@ -178,12 +178,20 @@
       "type": "session"
     },
     {
+      "date": "2026-08-12",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제2차 전체회의",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
+      "type": "gihyu"
+    },
+    {
       "date": "2026-08-11",
       "time": "14:00",
-      "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "국토교통위원회",
-      "location": null,
-      "type": "session"
+      "title": "2026 K-기후 에너지환경&수소환원제철 세미나",
+      "committee": "",
+      "location": "의원회관 제7간담회의실(210호)",
+      "type": "gihyu"
     },
     {
       "date": "2026-08-11",
@@ -195,10 +203,34 @@
     },
     {
       "date": "2026-08-11",
+      "time": "14:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "국토교통위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-11",
+      "time": "10:00",
+      "title": "산업안전 패러다임 전환과 안전보건공시제 시대의 개막",
+      "committee": "",
+      "location": "의원회관 제2소회의실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-08-11",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
       "committee": "기후에너지환경노동위원회",
       "location": null,
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "14:00",
+      "title": "(기후위기 대응과 탄소중립 실현을 위한) 친환경 소재 개발 방향성 모색 정책토론회",
+      "committee": "",
+      "location": "의원회관 제7간담회의실(210호)",
       "type": "gihyu"
     },
     {
@@ -224,6 +256,14 @@
       "committee": "행정안전위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "10:00",
+      "title": "생성형 AI 시대의 지속가능한 음악산업을 위한 창작자 보호와 합리적 보상 체계",
+      "committee": "",
+      "location": "의원회관 대회의실",
+      "type": "sanja"
     },
     {
       "date": "2026-08-07",
