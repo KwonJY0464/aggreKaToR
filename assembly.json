@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 04:00:45",
+  "last_updated": "2026-08-18 07:55:50",
   "schedules": [
     {
       "date": "2026-09-01",
@@ -37,7 +37,7 @@
       "date": "2026-08-26",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
+      "committee": "문화체육관광위원회",
       "location": null,
       "type": "session"
     },
@@ -45,7 +45,7 @@
       "date": "2026-08-26",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "문화체육관광위원회",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -101,15 +101,15 @@
       "date": "2026-08-19",
       "time": "10:00",
       "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "국토교통위원회",
+      "committee": "외교통일위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-08-19",
       "time": "10:00",
-      "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "외교통일위원회",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "법제사법위원회",
       "location": null,
       "type": "session"
     },
@@ -124,8 +124,8 @@
     {
       "date": "2026-08-19",
       "time": "10:00",
-      "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "법제사법위원회",
+      "title": "제438회국회(임시회) 제2차 전체회의",
+      "committee": "국토교통위원회",
       "location": null,
       "type": "session"
     },
@@ -197,14 +197,6 @@
       "date": "2026-08-12",
       "time": "10:00",
       "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "교육위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-08-12",
-      "time": "10:00",
-      "title": "제438회국회(임시회) 제2차 전체회의",
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
@@ -216,6 +208,14 @@
       "committee": "산업통상자원중소벤처기업위원회",
       "location": null,
       "type": "sanja"
+    },
+    {
+      "date": "2026-08-12",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제2차 전체회의",
+      "committee": "교육위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-08-11",
@@ -244,18 +244,18 @@
     {
       "date": "2026-08-11",
       "time": "10:00",
-      "title": "산업안전 패러다임 전환과 안전보건공시제 시대의 개막",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "sanja"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
+    },
+    {
+      "date": "2026-08-11",
+      "time": "10:00",
+      "title": "산업안전 패러다임 전환과 안전보건공시제 시대의 개막",
+      "committee": "",
+      "location": "의원회관 제2소회의실",
+      "type": "sanja"
     },
     {
       "date": "2026-08-10",
