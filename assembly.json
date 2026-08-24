@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 08:06:01",
+  "last_updated": "2026-08-24 23:39:46",
   "schedules": [
     {
       "date": "2026-09-29",
@@ -84,16 +84,16 @@
     {
       "date": "2026-08-31",
       "time": "10:00",
-      "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
+      "title": "제438회국회(임시회) 제4차 전체회의",
+      "committee": "예산결산특별위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-08-31",
       "time": "10:00",
-      "title": "제438회국회(임시회) 제4차 전체회의",
-      "committee": "예산결산특별위원회",
+      "title": "제438회국회(임시회) 제2차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -125,14 +125,6 @@
       "date": "2026-08-26",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-08-26",
-      "time": "10:00",
-      "title": "제438회국회(임시회) 제1차 전체회의",
       "committee": "문화체육관광위원회",
       "location": null,
       "type": "session"
@@ -150,6 +142,14 @@
       "time": "10:00",
       "title": "제438회국회(임시회) 제2차 전체회의",
       "committee": "정무위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-26",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -180,6 +180,14 @@
     {
       "date": "2026-08-25",
       "time": "14:00",
+      "title": "첨단 국방산업 도시 대전, K-방산의 지속 가능한 성장을 위한 도약",
+      "committee": "",
+      "location": "의원회관 신관 제3세미나실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-08-25",
+      "time": "14:00",
       "title": "바이오매스 기반 농어촌 재생에너지 자립마을 위한 과제",
       "committee": "",
       "location": "의원회관 제3간담회의실(203호)",
@@ -187,10 +195,10 @@
     },
     {
       "date": "2026-08-25",
-      "time": "14:00",
-      "title": "첨단 국방산업 도시 대전, K-방산의 지속 가능한 성장을 위한 도약",
+      "time": "10:00",
+      "title": "(국가 첨단산업의 경쟁력 향상을 위한)'청주 반도체 클러스터 추진전략' 국회 세미나",
       "committee": "",
-      "location": "의원회관 신관 제3세미나실",
+      "location": "의원회관 제1소회의실",
       "type": "sanja"
     },
     {
@@ -204,18 +212,18 @@
     {
       "date": "2026-08-25",
       "time": "10:00",
-      "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "예산결산특별위원회",
+      "title": "제438회국회(임시회) 제1차 예산결산기금심사소위원회",
+      "committee": "기후에너지환경노동위원회",
       "location": null,
-      "type": "session"
+      "type": "gihyu"
     },
     {
       "date": "2026-08-25",
       "time": "10:00",
-      "title": "(국가 첨단산업의 경쟁력 향상을 위한)'청주 반도체 클러스터 추진전략' 국회 세미나",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "sanja"
+      "title": "제438회국회(임시회) 제2차 전체회의",
+      "committee": "예산결산특별위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-08-24",
@@ -237,7 +245,7 @@
       "date": "2026-08-24",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "예산결산특별위원회",
+      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
     },
@@ -245,7 +253,7 @@
       "date": "2026-08-24",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "행정안전위원회",
+      "committee": "예산결산특별위원회",
       "location": null,
       "type": "session"
     },
@@ -293,7 +301,7 @@
       "date": "2026-08-20",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "재정경제기획위원회",
+      "committee": "국방위원회",
       "location": null,
       "type": "session"
     },
@@ -301,7 +309,7 @@
       "date": "2026-08-20",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "국방위원회",
+      "committee": "재정경제기획위원회",
       "location": null,
       "type": "session"
     },
@@ -325,15 +333,7 @@
       "date": "2026-08-19",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-08-19",
-      "time": "10:00",
-      "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
+      "committee": "보건복지위원회",
       "location": null,
       "type": "session"
     },
@@ -349,7 +349,7 @@
       "date": "2026-08-19",
       "time": "10:00",
       "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "보건복지위원회",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
     },
@@ -358,6 +358,14 @@
       "time": "10:00",
       "title": "제438회국회(임시회) 제2차 전체회의",
       "committee": "외교통일위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-08-19",
+      "time": "10:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "법제사법위원회",
       "location": null,
       "type": "session"
     },
@@ -445,17 +453,25 @@
       "date": "2026-08-12",
       "time": "10:00",
       "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "교육위원회",
+      "committee": "기후에너지환경노동위원회",
       "location": null,
-      "type": "session"
+      "type": "gihyu"
     },
     {
       "date": "2026-08-12",
       "time": "10:00",
       "title": "제438회국회(임시회) 제2차 전체회의",
-      "committee": "기후에너지환경노동위원회",
+      "committee": "교육위원회",
       "location": null,
-      "type": "gihyu"
+      "type": "session"
+    },
+    {
+      "date": "2026-08-11",
+      "time": "14:00",
+      "title": "제438회국회(임시회) 제1차 전체회의",
+      "committee": "외교통일위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-08-11",
@@ -475,11 +491,11 @@
     },
     {
       "date": "2026-08-11",
-      "time": "14:00",
-      "title": "제438회국회(임시회) 제1차 전체회의",
-      "committee": "외교통일위원회",
-      "location": null,
-      "type": "session"
+      "time": "10:00",
+      "title": "산업안전 패러다임 전환과 안전보건공시제 시대의 개막",
+      "committee": "",
+      "location": "의원회관 제2소회의실",
+      "type": "sanja"
     },
     {
       "date": "2026-08-11",
@@ -488,14 +504,6 @@
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "10:00",
-      "title": "산업안전 패러다임 전환과 안전보건공시제 시대의 개막",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "sanja"
     },
     {
       "date": "2026-08-10",
@@ -524,18 +532,18 @@
     {
       "date": "2026-08-10",
       "time": "10:00",
-      "title": "생성형 AI 시대의 지속가능한 음악산업을 위한 창작자 보호와 합리적 보상 체계",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "sanja"
-    },
-    {
-      "date": "2026-08-10",
-      "time": "10:00",
       "title": "제438회국회(임시회) 제8차 전체회의(제9회전국동시지방선거투표용지부족사태등국민참정권침해진상규명및선거관리개혁을위한국정조사특별위원회)",
       "committee": "행정안전위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "10:00",
+      "title": "생성형 AI 시대의 지속가능한 음악산업을 위한 창작자 보호와 합리적 보상 체계",
+      "committee": "",
+      "location": "의원회관 대회의실",
+      "type": "sanja"
     },
     {
       "date": "2026-08-07",
