@@ -1,143 +1,215 @@
 {
   "pane1": [
     {
-      "title": "[속보] 경찰 &quot;부 경장, 실종자 15명 살아있는데 '사망' 처리&quot;",
-      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/09/01/2026090190125.html",
-      "link": "https://n.news.naver.com/mnews/article/448/0000636800?sid=102",
-      "description": "경찰 &quot;부 경장, 실종자 15명 살아있는데 '사망' 처리&quot;",
-      "pubDate": "Tue, 01 Sep 2026 11:47:00 +0900",
-      "formatted_date": "09월 01일, 11시 47분",
-      "ai_summary": "제주 서부경찰서 소속 부 경장이 생존해 있는 실종자 15명을 사망 처리한 사실이 드러났습니다."
+      "title": "[속보] 국정원 &quot;12·3 불법 내란, 지난달 말 대대적 감찰 착수&quot;",
+      "originallink": "https://www.ajunews.com/view/20260901124943877",
+      "link": "https://www.ajunews.com/view/20260901124943877",
+      "description": "아주경제=이건희 기자 topkeontop12@ajunews.com 국정원 &quot;12·3 불법 내란, 지난달 말 대대적 감찰 착수&quot;",
+      "pubDate": "Tue, 01 Sep 2026 12:52:00 +0900",
+      "formatted_date": "09월 01일, 12시 52분",
+      "ai_summary": "국정원이 12·3 불법 내란 사태와 관련해 지난달 말부터 대대적인 감찰에 착수했습니다."
     },
     {
-      "title": "[속보]경찰 &quot;부 경장 종결 실종사건 298건 중 아동·치매노인 142건&quot;",
-      "originallink": "https://www.newsis.com/view/NISX20260901_0003771302",
-      "link": "https://n.news.naver.com/mnews/article/003/0014161091?sid=102",
+      "title": "[속보]국정원 &quot;李제안 종전 다자회의 관련 대화·접촉 없어&quot;",
+      "originallink": "https://www.fnnews.com/news/202609011246598538",
+      "link": "https://n.news.naver.com/mnews/article/014/0005569254?sid=100",
+      "description": "국가정보원이 1일 국회 정보위원회 업무보고에서 이재명 대통령이 지난 8·15 광복절 경축사에서 제안한 남북을 포함한 전쟁 당사국 간 다자 대화와 관련해 &quot;아직 관련 대화나 접촉은 없다&quot;고 밝혔다.",
+      "pubDate": "Tue, 01 Sep 2026 12:52:00 +0900",
+      "formatted_date": "09월 01일, 12시 52분",
+      "ai_summary": "국정원은 이재명 대표가 제안한 종전 다자회의와 관련해 현재까지 어떠한 대화나 접촉도 없었다고 밝혔습니다."
+    },
+    {
+      "title": "[속보] 국정원 &quot;북미간 대화 징후…북미정상회담 어느 때라도 가능&quot;",
+      "originallink": "https://www.ajunews.com/view/20260901124744873",
+      "link": "https://www.ajunews.com/view/20260901124744873",
+      "description": "아주경제=이건희 기자 topkeontop12@ajunews.com 국정원 &quot;북미간 대화 징후…북미정상회담 어느 때라도 가능&quot;",
+      "pubDate": "Tue, 01 Sep 2026 12:50:00 +0900",
+      "formatted_date": "09월 01일, 12시 50분",
+      "ai_summary": "국정원은 북미 간 대화 징후가 포착됨에 따라 북미 정상회담이 언제든 가능할 것으로 전망했습니다."
+    },
+    {
+      "title": "[속보] 국정원 &quot;북미정상회담 어느 때라도 가능…북미간 대화징후 있다...",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057177",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057177",
+      "description": "장덕진 기자",
+      "pubDate": "Tue, 01 Sep 2026 12:50:00 +0900",
+      "formatted_date": "09월 01일, 12시 50분",
+      "ai_summary": "국정원은 북미 간 대화 징후를 확인했으며, 북미 정상회담이 어느 때라도 열릴 가능성이 있다고 분석했습니다."
+    },
+    {
+      "title": "[속보] 국정원 &quot;北 미사일 설계도 확보…분석 중&quot;",
+      "originallink": "https://www.ajunews.com/view/20260901124851876",
+      "link": "https://www.ajunews.com/view/20260901124851876",
+      "description": "아주경제=이건희 기자 topkeontop12@ajunews.com 국정원 &quot;北 미사일 설계도 확보…분석 중&quot;",
+      "pubDate": "Tue, 01 Sep 2026 12:50:00 +0900",
+      "formatted_date": "09월 01일, 12시 50분",
+      "ai_summary": "국정원이 북한의 미사일 설계도를 확보하여 현재 정밀 분석을 진행 중입니다."
+    },
+    {
+      "title": "[속보] 국정원 “김주애 사실상 후계자 내정 단계”",
+      "originallink": "https://www.seoul.co.kr/news/politics/north/2026/09/01/20260901500138?wlog_tag3=naver",
+      "link": "https://n.news.naver.com/mnews/article/081/0003675459?sid=100",
+      "description": "국정원 “김주애 사실상 후계자 내정 단계” 국정원 “북미정상회담 어느 때라도 가능…북미간 대화징후 있다” 국정원 “北 미사일 설계도 확보해 분석 중”",
+      "pubDate": "Tue, 01 Sep 2026 12:49:00 +0900",
+      "formatted_date": "09월 01일, 12시 49분",
+      "ai_summary": "국정원은 김주애가 사실상 후계자로 내정된 단계로 판단했습니다. 아울러 북미 정상회담 가능성과 북한 미사일 설계도 확보 사실을 알렸습니다."
+    },
+    {
+      "title": "[속보] 국정원 &quot;김주애, 사실상 후계자 내정 단계&quot;",
+      "originallink": "https://www.ajunews.com/view/20260901124628872",
+      "link": "https://www.ajunews.com/view/20260901124628872",
+      "description": "아주경제=이건희 기자 topkeontop12@ajunews.com 국정원 &quot;김주애, 사실상 후계자 내정 단계&quot;",
+      "pubDate": "Tue, 01 Sep 2026 12:48:00 +0900",
+      "formatted_date": "09월 01일, 12시 48분",
+      "ai_summary": "국정원은 북한 김정은의 딸 김주애가 사실상 후계자로 내정된 단계인 것으로 평가했습니다."
+    },
+    {
+      "title": "[속보] 국정원 &quot;12·3 내란 관련, 지난달 대대적 감찰 착수&quot;",
+      "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5216163",
+      "link": "https://n.news.naver.com/mnews/article/057/0001966637?sid=100",
+      "description": "국정원 &quot;12·3 내란 관련, 지난달말 대대적 감찰 착수&quot;",
+      "pubDate": "Tue, 01 Sep 2026 12:48:00 +0900",
+      "formatted_date": "09월 01일, 12시 48분",
+      "ai_summary": "국정원이 12·3 내란 사태의 진상 규명을 위해 지난달 말부터 대대적인 감찰을 시작했습니다."
+    },
+    {
+      "title": "[속보] 국정원 &quot;북미정상회담, 어느 때라도 가능하다고 봐야&quot;",
+      "originallink": "https://www.hankyung.com/article/2026090164097",
+      "link": "https://n.news.naver.com/mnews/article/015/0005327142?sid=100",
+      "description": "국정원 &quot;북미정상회담, 어느 때라도 가능하다고 봐야&quot;",
+      "pubDate": "Tue, 01 Sep 2026 12:48:00 +0900",
+      "formatted_date": "09월 01일, 12시 48분",
+      "ai_summary": "국정원은 북미 정상회담이 언제든 성사될 가능성을 열어두고 상황을 주시하고 있습니다."
+    },
+    {
+      "title": "[속보]국정원 “북미간 대화징후 있다…김주애 사실상 후계자 내정”",
+      "originallink": "https://biz.heraldcorp.com/article/10858756?ref=naver",
+      "link": "https://n.news.naver.com/mnews/article/016/0002691215?sid=100",
+      "description": "[속보]국정원 “북미간 대화징후 있다…김주애 사실상 후계자 내정”",
+      "pubDate": "Tue, 01 Sep 2026 12:48:00 +0900",
+      "formatted_date": "09월 01일, 12시 48분",
+      "ai_summary": "국정원은 북미 간 대화 징후를 포착했으며, 김주애를 사실상 후계자로 내정된 단계로 판단했습니다."
+    },
+    {
+      "title": "[속보] 국정원 &quot;북한 미사일 설계도 확보해 분석 중&quot;",
+      "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5216162",
+      "link": "https://n.news.naver.com/mnews/article/057/0001966636?sid=100",
+      "description": "국정원 &quot;북한 미사일 설계도 확보해 분석 중&quot;",
+      "pubDate": "Tue, 01 Sep 2026 12:48:00 +0900",
+      "formatted_date": "09월 01일, 12시 48분",
+      "ai_summary": "국가정보원이 북한의 미사일 설계도를 입수하여 현재 상세 분석을 진행 중이라고 밝혔다."
+    },
+    {
+      "title": "[속보] 국정원 “북미 정상회담 언제든 가능…대화 징후 있다”",
+      "originallink": "https://www.chosun.com/politics/assembly/2026/09/01/RWGCPQIJUNHIXJYPD6JQW772OQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "link": "https://n.news.naver.com/mnews/article/023/0003996054?sid=100",
+      "description": "“北 미사일 설계도 확보해 분석 중” 국정원 “북미 정상회담 언제든 가능…대화 징후 있다”",
+      "pubDate": "Tue, 01 Sep 2026 12:48:00 +0900",
+      "formatted_date": "09월 01일, 12시 48분",
+      "ai_summary": "국정원은 북미 정상회담이 언제든 성사될 가능성이 있으며, 현재 대화와 관련된 징후들이 포착되고 있다고 전했다."
+    },
+    {
+      "title": "[속보] 국정원 &quot;12·3 불법 내란 관련, 지난달말 대대적 감찰 착수&quot;",
+      "originallink": "https://www.hankyung.com/article/2026090164077",
+      "link": "https://n.news.naver.com/mnews/article/015/0005327141?sid=100",
+      "description": "국정원 &quot;12·3 불법 내란 관련, 지난달말 대대적 감찰 착수&quot;",
+      "pubDate": "Tue, 01 Sep 2026 12:47:00 +0900",
+      "formatted_date": "09월 01일, 12시 47분",
+      "ai_summary": "국정원이 12·3 불법 내란 사태와 관련하여 지난달 말부터 대대적인 내부 감찰에 착수했다고 밝혔다."
+    },
+    {
+      "title": "[속보] 국정원 &quot;김주애 사실상 후계자 내정 단계&quot;",
+      "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5216161",
+      "link": "https://n.news.naver.com/mnews/article/057/0001966635?sid=100",
+      "description": "국정원 &quot;김주애 사실상 후계자 내정 단계&quot;",
+      "pubDate": "Tue, 01 Sep 2026 12:46:00 +0900",
+      "formatted_date": "09월 01일, 12시 46분",
+      "ai_summary": "국정원은 김정은 위원장의 딸 김주애가 사실상 후계자로 내정된 단계에 진입한 것으로 평가했다."
+    },
+    {
+      "title": "[속보] 국정원 “北 정찰총국→정찰정보총국 확대 개편…방첩기능 강화...",
+      "originallink": "https://www.sedaily.com/article/20085723?ref=naver",
+      "link": "https://n.news.naver.com/mnews/article/011/0004657332?sid=100",
       "description": "",
-      "pubDate": "Tue, 01 Sep 2026 11:46:00 +0900",
-      "formatted_date": "09월 01일, 11시 46분",
-      "ai_summary": "부 경장이 종결한 실종사건 298건 중 아동 및 치매 노인 관련 사건이 142건 포함된 것으로 확인되었습니다."
-    },
-    {
-      "title": "[속보]내년 ‘슈퍼예산’ 821조, 역대 최대 12.8% 늘린다[2027 예산안]",
-      "originallink": "https://www.khan.co.kr/article/202609011144001",
-      "link": "https://n.news.naver.com/mnews/article/032/0003467693?sid=101",
-      "description": "정부가 내년 예산안 총지출을 올해보다 12.8% 증가한 약 821조원으로 확정했다. 예산안이 800조원을 넘은 건 올해가 처음이며, 증가율도 역대 최대를 기록했다. 정부는 반도체 호황에서 비롯된 초과세수를 바탕으로... ",
-      "pubDate": "Tue, 01 Sep 2026 11:44:00 +0900",
-      "formatted_date": "09월 01일, 11시 44분",
-      "ai_summary": "정부가 반도체 호황에 따른 세수를 바탕으로 내년도 예산을 올해 대비 12.8% 늘린 821조 원으로 편성했습니다."
-    },
-    {
-      "title": "[속보]제주경찰 &quot;추가 허위종결 10건·허위기록 15건 발견&quot;",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03712966645575856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "link": "https://n.news.naver.com/mnews/article/018/0006361556?sid=102",
-      "description": "[속보]제주경찰 “추가 허위종결 10건·허위기록 15건 발견” 장미란(37)씨 등 실종자 허위 종결 사건으로 직무유기 등 혐의를 받고 있는 제주 서부경찰서 소속 A경장이 25일 오후 제주지방법원에서 구속 전 피의자 심문... ",
-      "pubDate": "Tue, 01 Sep 2026 11:44:00 +0900",
-      "formatted_date": "09월 01일, 11시 44분",
-      "ai_summary": "제주 경찰이 부 경장의 실종사건 허위 종결 10건과 허위 기록 15건을 추가로 발견했습니다."
-    },
-    {
-      "title": "[속보] 내년 예산 820.9조 '역대 최대'…2030년엔 '1000조 시대'",
-      "originallink": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260901.99099000037",
-      "link": "https://n.news.naver.com/mnews/article/658/0000154124?sid=101",
-      "description": "정부의 내년도 예산안이 ‘총지출 820조9000억 원’ 규모로 최종 편성됐다. 반도체 호조에 따른 법인·소득세 증가 등에 힘입어 역대 처음으로 ‘국가 예산 800조 원 시대’를 연 것은 물론, 총지출 증가율(올해... ",
-      "pubDate": "Tue, 01 Sep 2026 11:44:00 +0900",
-      "formatted_date": "09월 01일, 11시 44분",
-      "ai_summary": "내년도 예산이 역대 최대 규모인 820.9조 원으로 편성되며 800조 원 시대를 열었습니다."
-    },
-    {
-      "title": "[속보]162조 ‘공룡 기금’ 신설···초대형 재정 저수지 만든다[2027 예...",
-      "originallink": "https://www.khan.co.kr/article/202609011143001",
-      "link": "https://n.news.naver.com/mnews/article/032/0003467692?sid=101",
-      "description": "정부가 내년부터 162조3000억원의 미래대응기금(미래기금)을 신설한다. 이는 내년 전체 예산 820조9000억원의 5분의 1에 달하는 초대형 규모다. 정부는 반도체 호황 등에 따른 세수 증가분을 기금으로 적립해 ‘K자형... ",
-      "pubDate": "Tue, 01 Sep 2026 11:43:00 +0900",
-      "formatted_date": "09월 01일, 11시 43분",
-      "ai_summary": "정부가 반도체 호황으로 발생한 세수 증가분을 활용해 162조 원 규모의 '미래대응기금'을 신설합니다."
-    },
-    {
-      "title": "창사 15주년 더투데이, 뉴스통신사로 ‘제2 도약’",
-      "originallink": "https://www.livesnews.com/news/article.html?no=63744",
-      "link": "https://www.livesnews.com/news/article.html?no=63744",
-      "description": "더투데이는 앞으로 속보 경쟁력을 높이는 동시에 탐사·분석 보도를 강화하고 국내외 콘텐츠 공급망을 확대해 차별화된 경제·기업 뉴스를 신속하고 깊이 있게 전달할 계획이다.",
-      "pubDate": "Tue, 01 Sep 2026 11:40:00 +0900",
-      "formatted_date": "09월 01일, 11시 40분",
-      "ai_summary": "더투데이가 창사 15주년을 맞아 뉴스통신사로 전환하며 탐사 보도와 경제 콘텐츠 강화에 나섭니다."
-    },
-    {
-      "title": "[속보] 축구대표팀 임시감독에 스페인 출신 모레노 선임",
-      "originallink": "http://www.yonhapnewstv.co.kr/news/MYH202609011140037MP",
-      "link": "https://m.sports.naver.com/kfootball/article/422/0000901568",
-      "description": "대한축구협회가 국가대표팀을 이끌 임시 감독으로 스페인 출신의 로베르토 모레노 감독을 공식 선임했습니다. 공개 채용 절차와 현지 면접을 거쳐 최종 발탁된 모레노 감독은 스페인 대표팀과 FC바르셀로나에서 루이스... ",
-      "pubDate": "Tue, 01 Sep 2026 11:40:00 +0900",
-      "formatted_date": "09월 01일, 11시 40분",
-      "ai_summary": "대한축구협회가 스페인 출신의 로베르토 모레노 감독을 국가대표팀 임시 감독으로 공식 선임했습니다."
-    },
-    {
-      "title": "[속보] 내년도 예산 '역대 최대' 820.9조 원‥AI·반도체 등 3대 메가 프...",
-      "originallink": "https://imnews.imbc.com/news/2026/econo/article/6848778_36932.html",
-      "link": "https://n.news.naver.com/mnews/article/214/0001521325?sid=101",
-      "description": "내년도 예산 '역대 최대' 820.9조 원‥AI·반도체 등 3대 메가 프로젝트 집중 투자 ▶MBC뉴스를 네이버 메인에서 확인하세요. ▶MBC뉴스는 24시간 여러분의 제보를 기다립니다. ▷전화 02-784-4000 ▷ 이메일... ",
-      "pubDate": "Tue, 01 Sep 2026 11:40:00 +0900",
-      "formatted_date": "09월 01일, 11시 40분",
-      "ai_summary": "내년도 예산이 820.9조 원으로 확정된 가운데, AI와 반도체 등 3대 메가 프로젝트에 집중 투자될 예정입니다."
-    },
-    {
-      "title": "[속보] 제주 경장 추가 허위종결 10건·허위기록 15건 발견…“실종자 ...",
-      "originallink": "https://www.seoul.co.kr/news/society/accident/2026/09/01/20260901500120?wlog_tag3=naver",
-      "link": "https://n.news.naver.com/mnews/article/081/0003675442?sid=102",
-      "description": "제주 경장 추가 허위종결 10건·허위기록 15건 발견…“실종자 안전 확인” “추가 허위기록 사례 15건, 소재 확인하고도 사망으로 입력”",
-      "pubDate": "Tue, 01 Sep 2026 11:40:00 +0900",
-      "formatted_date": "09월 01일, 11시 40분",
-      "ai_summary": "부 경장이 소재를 파악하고도 사망으로 허위 기록한 사례가 추가로 15건 발견되었습니다."
-    },
-    {
-      "title": "[속보] 경찰, 부 경장 허위종결 추가로 10건 발견…허위기록도 15건",
-      "originallink": "https://biz.heraldcorp.com/article/10858673?ref=naver",
-      "link": "https://n.news.naver.com/mnews/article/016/0002691180?sid=102",
-      "description": "경찰, 부 경장 허위종결 추가로 10건 발견…허위기록도 15건",
-      "pubDate": "Tue, 01 Sep 2026 11:40:00 +0900",
-      "formatted_date": "09월 01일, 11시 40분",
-      "ai_summary": "경찰이 부 경장의 사건 허위 종결 10건과 허위 기록 15건을 추가로 발견했습니다. 경찰의 부실 수사 사례가 지속적으로 드러나고 있습니다."
-    },
-    {
-      "title": "[속보] &quot;충남 당진시 매우 강한 호우&quot;...시, 침수도로 진입·하천·지하...",
-      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16179229",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16179229",
-      "description": "충청남도 당진시에 매우 강하고 많은 비가 내리면서 당진시가 침수도로 진입 금지와 위험지역 주민 대피를 긴급 안내했다. 행정기관 재난문자 상세 화면에 따르면 긴급재난문자는 2026년 9월 1일 11시 32분에 '충청남도... ",
-      "pubDate": "Tue, 01 Sep 2026 11:38:00 +0900",
-      "formatted_date": "09월 01일, 11시 38분",
-      "ai_summary": "충남 당진시에 강한 호우가 쏟아져 당진시가 침수 도로 진입 금지와 위험 지역 주민 대피를 긴급 안내했습니다. 시민들의 각별한 주의가 요구됩니다."
-    },
-    {
-      "title": "[속보] &quot;추가 허위기록 사례 15건, 소재 확인하고도 사망으로 입력&quot;",
-      "originallink": "https://www.imaeil.com/page/view/2026090111362376400",
-      "link": "https://n.news.naver.com/mnews/article/088/0001026129?sid=102",
-      "description": "&quot;추가 허위기록 사례 15건, 소재 확인하고도 사망으로 입력&quot; 추가 허위종결 10건·허위기록 15건 발견…&quot;실종자 안전 확인&quot;",
-      "pubDate": "Tue, 01 Sep 2026 11:37:00 +0900",
-      "formatted_date": "09월 01일, 11시 37분",
-      "ai_summary": "소재가 확인된 실종자를 사망으로 처리하는 등 부 경장의 허위 기록 사례가 추가로 15건 적발되었습니다. 총 25건의 허위 사건 처리 정황이 확인되었습니다."
-    },
-    {
-      "title": "[속보] 축구협회, 대표팀 임시 감독에 ‘엔리케 오른팔’ 로베르토 모레...",
-      "originallink": "https://www.seoul.co.kr/news/sport/soccer/2026/09/01/20260901500117?wlog_tag3=naver",
-      "link": "https://m.sports.naver.com/kfootball/article/081/0003675440",
-      "description": "대한축구협회가 남자 축구 국가대표팀을 이끌 임시 사령탑으로 로베르토 모레노(48·스페인)를 선임했다. 축구협회는 1일 천안 코리아풋볼파크에서 제7차 이사회를 열고 북중미월드컵 이후 홍명보 전 감독 사퇴로 공석인... ",
-      "pubDate": "Tue, 01 Sep 2026 11:36:00 +0900",
-      "formatted_date": "09월 01일, 11시 36분",
-      "ai_summary": "대한축구협회가 국가대표팀 임시 감독으로 로베르토 모레노를 선임했습니다. 홍명보 전 감독 사퇴 이후 공석이었던 사령탑 자리를 채우게 됩니다."
-    },
-    {
-      "title": "[속보] 경찰 “부 경장 추가 허위종결 10건·허위기록 15건 발견”",
-      "originallink": "https://www.sedaily.com/article/20085686?ref=naver",
-      "link": "https://n.news.naver.com/mnews/article/011/0004657301?sid=102",
-      "description": "경찰, “부 경장 추가 허위종결 10건·허위기록 15건 발견”",
-      "pubDate": "Tue, 01 Sep 2026 11:36:00 +0900",
-      "formatted_date": "09월 01일, 11시 36분",
-      "ai_summary": "부 경장의 추가적인 허위 종결 10건과 허위 기록 15건이 경찰 조사를 통해 확인되었습니다. 경찰 내부의 기강 해이가 비판받고 있습니다."
+      "pubDate": "Tue, 01 Sep 2026 12:44:00 +0900",
+      "formatted_date": "09월 01일, 12시 44분",
+      "ai_summary": "북한 정찰총국이 방첩 기능 강화를 위해 정찰정보총국으로 확대 개편된 것으로 파악되었다."
     }
   ],
   "pane2": {
     "산업부": [
+      {
+        "title": "끝나지 않은 중동전쟁…산업부 내년 예산, 정유사 손실보전 편성",
+        "originallink": "https://www.mt.co.kr/economy/2026/09/01/2026090109370679362",
+        "link": "https://n.news.naver.com/mnews/article/008/0005407687?sid=101",
+        "description": "오승철 산업부 기획조정실장은 전날 사전 브리핑에서 &quot;2027년 예산안은 2026년 본예산 대비 40.5% 증가한 역대 최대 규모이자 최고 증가율&quot;이라며 &quot;신설되는 미래대응기금 내 산업부 소관 사업(9118억원)을 포함하면... ",
+        "pubDate": "Tue, 01 Sep 2026 12:56:00 +0900",
+        "formatted_date": "09월 01일, 12시 56분",
+        "ai_summary": "중동 전쟁 장기화에 따른 정유사 손실 보전과 미래 대응을 위해 산업부 예산이 역대 최대 규모로 편성되었다."
+      },
+      {
+        "title": "산업부 2027예산 역대 최대 규모...13조 2573억원",
+        "originallink": "https://www.dt.co.kr/article/12081398?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/029/0003045489?sid=102",
+        "description": "증가율도 산업부 출범 이후 역대 최대치다. 이번 예산안은 에너지분야를 포함한 산업통상자원부로... 이재명 정부의 국가 미래 성장동력 확충을 위해 신설되는 ‘미래대응기금’에 편성된 산업부 소관 사업... ",
+        "pubDate": "Tue, 01 Sep 2026 12:29:00 +0900",
+        "formatted_date": "09월 01일, 12시 29분",
+        "ai_summary": "산업부가 미래 성장동력 확충을 위한 ‘미래대응기금’을 포함해 역대 최대 규모인 13조 2573억 원의 예산을 편성했다."
+      },
+      {
+        "title": "산업부 내년 예산 40.5%↑ 역대 최대 증가율…서남권 반도체에 1.5조 투...",
+        "originallink": "https://www.news1.kr/economy/trend/6276073",
+        "link": "https://n.news.naver.com/mnews/article/421/0009143808?sid=101",
+        "description": "산업부 관계자는 이번 예산 증액 배경으로 &quot;인공지능과 반도체 등 핵심 전략기술을 둘러싼 글로벌... 5% 증액은 산업부 출범 이후 역대 최고 증가율로, 어려운 여건을 돌파하고 국가 미래 성장동력을 확충하기 위한... ",
+        "pubDate": "Tue, 01 Sep 2026 12:25:00 +0900",
+        "formatted_date": "09월 01일, 12시 25분",
+        "ai_summary": "산업부 예산이 역대 최고 증가율인 40.5%로 대폭 확대되었으며, 서남권 반도체 육성에 1.5조 원이 투입된다."
+      },
+      {
+        "title": "산업부 예산 13.3조 역대 최대…AI·반도체·자원안보 집중",
+        "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1275660.html",
+        "link": "https://n.news.naver.com/mnews/article/028/0002821104?sid=101",
+        "description": "정부가 늘어난 세수를 제조업 인공지능(AI) 전환과 반도체, 자원안보 등 미래 성장동력에 집중 투입하기로 하면서 산업부가 대표적인 수혜 부처가 된 모습이다. 산업부는 2027년 예산안을 13조2573억원으로 편성했다고... ",
+        "pubDate": "Tue, 01 Sep 2026 12:12:00 +0900",
+        "formatted_date": "09월 01일, 12시 12분",
+        "ai_summary": "산업부가 2027년 예산 13.3조 원을 편성하고 AI 전환, 반도체 산업, 자원 안보 등 미래 전략 분야에 집중 투자한다."
+      },
+      {
+        "title": "산업부, 자원안보·통상환경 대응 4.5조…4Q 최고가격제 1.4조 편성",
+        "originallink": "https://www.newsis.com/view/NISX20260831_0003769806",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161208?sid=101",
+        "description": "이와함께 산업부는 자원안보기금을 신설해 석유, 핵심광물 등 우리 산업에 필수적인 자원의 안정적 공급망... 오승철 기획조정실장은 &quot;올해 추진된 석유최고가격제 사업비는 예비비로 책정했지만 내년도에는 산업부... ",
+        "pubDate": "Tue, 01 Sep 2026 12:07:00 +0900",
+        "formatted_date": "09월 01일, 12시 07분",
+        "ai_summary": "산업부는 자원안보기금을 신설해 핵심 자원 공급망을 강화하고, 석유 최고가격제 예산을 정식 편성하는 등 대응책을 마련했다."
+      },
+      {
+        "title": "산업부, 2027년 예산 13조2573억 역대 최대 편성…전년比 40.5%↑[2027 예산...",
+        "originallink": "https://www.newsis.com/view/NISX20260831_0003769613",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161205?sid=101",
+        "description": "이는 2026년 본예산 9조4342억원 대비 3조 8231억원(+40.5%) 증가한 규모로 산업부 출범 이후 역대 최고 증가율을 기록했다. 국가 미래 성장동력 확충을 위해 신설되는 미래대응기금에 편성된 산업부 소관 사업 예산... ",
+        "pubDate": "Tue, 01 Sep 2026 12:06:00 +0900",
+        "formatted_date": "09월 01일, 12시 06분",
+        "ai_summary": "산업부가 2027년 예산을 전년 대비 40.5% 증가한 13조 2573억 원으로 편성했습니다. 국가 미래 성장동력 확충을 위해 역대 최대 규모로 예산을 집행합니다."
+      },
+      {
+        "title": "산업부 내년 예산 역대 최대인 13.2조…“AI·반도체 집중 투입”",
+        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651455&ref=A",
+        "link": "https://n.news.naver.com/mnews/article/056/0012248531?sid=101",
+        "description": "산업부는 내년도 예산안을 올해 본예산인 9조 4,342억 원보다 3조 8,231억 원, 40.5% 늘어난 규모로 편성했다고 오늘(1일) 밝혔습니다. 여기에 미래대응기금에 편성된 산업부 소관 사업 9,118억 원까지 포함하면 내년... ",
+        "pubDate": "Tue, 01 Sep 2026 12:00:00 +0900",
+        "formatted_date": "09월 01일, 12시 00분",
+        "ai_summary": "산업부가 AI와 반도체 분야 집중 투자를 위해 내년 예산을 13.2조 원 규모로 편성했습니다. 이는 산업부 출범 이후 역대 최대 증가율입니다."
+      },
+      {
+        "title": "산업부 내년 예산 13.3조 ‘역대 최대’…AI·첨단산업에 승부수",
+        "originallink": "https://www.edaily.co.kr/News/Read?newsId=03778566645575856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "link": "https://n.news.naver.com/mnews/article/018/0006361575?sid=101",
+        "description": "오승철 산업통상부 기획조정실장이 지난달 31일 정부세종청사 산업부 기자실에서 2027년 산업부 예산 역대 최대편성과 관련해 백브리핑을 진행하고 있다. (사진=산업부) 산업부는 1일 국무회의에서 이 같은 내용의... ",
+        "pubDate": "Tue, 01 Sep 2026 12:00:00 +0900",
+        "formatted_date": "09월 01일, 12시 00분",
+        "ai_summary": "산업부가 내년 예산을 13.3조 원으로 편성하며 역대 최대치를 기록했습니다. AI와 첨단산업 육성을 통한 미래 경쟁력 확보에 집중할 방침입니다."
+      },
       {
         "title": "대체불가 K-반도체 로드맵...산업부, 5년 단위 기본계획 수립 착수",
         "originallink": "https://www.todayenergy.kr/news/articleView.html?idxno=302272",
@@ -145,16 +217,7 @@
         "description": "회의를 주재한 산업부 관계자는 &quot;AI로 인한 반도체 수요 급증으로 글로벌 경쟁이 한층 치열해진 상황에서... 산업부가 법적 근거의 최초 5년 단위 반도체 기본계획 수립에 착수함으로써 반도체 생태계 전반을 아우르는... ",
         "pubDate": "Tue, 01 Sep 2026 11:56:00 +0900",
         "formatted_date": "09월 01일, 11시 56분",
-        "ai_summary": "산업부가 글로벌 경쟁력 강화를 위해 5년 단위의 반도체 기본계획 수립에 착수했습니다. AI 수요 급증에 대비해 생태계 전반을 지원할 예정입니다."
-      },
-      {
-        "title": "산업부 내년 40.5% 늘어난 13.3조 '역대 최대'…AI·반도체 집중[2027년 예...",
-        "originallink": "https://www.fnnews.com/news/202609010841226473",
-        "link": "https://n.news.naver.com/mnews/article/014/0005569225?sid=101",
-        "description": "산업부 출범 이후 증가율도 가장 높다. 제조업 인공지능(AI) 전환과 반도체 등 첨단산업, 지역 성장에 재정을 집중하는 한편 중동 정세 불안에 대응해 석유 비축과 자원안보 투자도 대폭 확대한다. 1일 산업부에... ",
-        "pubDate": "Tue, 01 Sep 2026 11:53:00 +0900",
-        "formatted_date": "09월 01일, 11시 53분",
-        "ai_summary": "산업부가 내년 예산을 역대 최대인 13조 3천억 원으로 편성했습니다. AI 전환, 반도체 육성 및 자원 안보 강화에 재정을 집중 투입합니다."
+        "ai_summary": "산업부가 AI 반도체 수요 급증에 대응하기 위해 5년 단위 반도체 기본계획 수립에 착수했습니다. 반도체 생태계 전반의 경쟁력을 강화할 계획입니다."
       },
       {
         "title": "제조업 全공정 무인화 추진…산업부, AI 대전환 박차 [2027 예산안]",
@@ -163,70 +226,7 @@
         "description": "산업부는 앞으로 사람 개입 없이도 제조업 공정을 AI로 운영·최적화하는 기술력을 확보할 예정입니다. 이... 산업부는 업종별·공정별 제조 데이터셋 구매·확보, 지역특화 산업별 로봇 학습용 데이터 팩토리 구축 등에... ",
         "pubDate": "Tue, 01 Sep 2026 11:53:00 +0900",
         "formatted_date": "09월 01일, 11시 53분",
-        "ai_summary": "산업부가 제조업 전 공정의 AI 무인화를 추진하며 대규모 예산을 투입합니다. 제조 데이터 확보와 로봇 학습용 팩토리 구축에 박차를 가합니다."
-      },
-      {
-        "title": "산업부 내년 예산안 13.3조원…4분기 석유가격안정화 1.4조원 편성",
-        "originallink": "https://news.tf.co.kr/read/economy/2360339.htm",
-        "link": "https://n.news.naver.com/mnews/article/629/0000529406?sid=101",
-        "description": "올해 본예산 9조 4342억원 대비 40.5%인 3조 8231억원 증액한 13조 2573억원의 산업부 내년 예산안이 1일... ◆M.AX 및 메가프로젝트 총력지원…3조 7261억원 산업부는 M.AX 사업 본격 확대한다. 제조공장 전체를 AI가... ",
-        "pubDate": "Tue, 01 Sep 2026 11:53:00 +0900",
-        "formatted_date": "09월 01일, 11시 53분",
-        "ai_summary": "산업부 내년 예산이 올해 대비 40.5% 증가한 13조 2573억 원으로 편성되었습니다. 제조 공정 AI화와 석유 가격 안정화 등에 예산이 사용됩니다."
-      },
-      {
-        "title": "[2027 예산안] 산업부, 40% 급증한 13.3조...제조AI·반도체 주력",
-        "originallink": "https://www.newspim.com/news/view/20260831001096",
-        "link": "https://www.newspim.com/news/view/20260831001096",
-        "description": "내년도 산업부는 제조 인공지능(AI)과 반도체, 지역 성장, 산업·자원안보 등 핵심 국정과제에 주력한다. 산업부는 2027년도 예산안을 13조2573억원으로 편성했다고 1일 밝혔다(아래 그래프 참조). 이는 올해 본예산... ",
-        "pubDate": "Tue, 01 Sep 2026 11:52:00 +0900",
-        "formatted_date": "09월 01일, 11시 52분",
-        "ai_summary": "산업부가 2027년 예산안을 전년 대비 40% 늘어난 13.3조 원으로 편성했습니다. 인공지능, 반도체, 산업 안보 등 핵심 과제에 주력할 방침입니다."
-      },
-      {
-        "title": "[2027 예산] 산업부, 40% 늘린 13.4조로 산업체질 개선",
-        "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432849",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432849",
-        "description": "산업부는 1일 내년도 예산안을 2026년 본예산 대비 40.5% 증가한 13조2천573억 원으로 편성했다고 밝혔다. 이는 에너지 분야를 포함한 산업부가 출범한 지난 2013년 이후 최대 규모이자 가장 높은 증가율이다. 기획예산처... ",
-        "pubDate": "Tue, 01 Sep 2026 11:52:00 +0900",
-        "formatted_date": "09월 01일, 11시 52분",
-        "ai_summary": "산업부가 2027년도 예산을 전년 대비 40.5% 증액한 13조 2,573억 원으로 편성했습니다. 이는 2013년 이후 역대 최대 규모로 산업 체질 개선을 위한 조치입니다."
-      },
-      {
-        "title": "산업부 내년 예산 13.2조…반도체·AI 제조전환 역점 [2027 예산안]",
-        "originallink": "https://biz.sbs.co.kr/article_hub/20000331968?division=NAVER",
-        "link": "https://n.news.naver.com/mnews/article/374/0000530480?sid=101",
-        "description": "여기에 국가 미래 성장동력 확충을 위해 기획재정부 소관으로 신설되는 미래대응기금에 편성된 산업부 소관 사업 예산(9,118억원)까지 더할 경우, 실질적인 산업부 예산 규모는 2026년 대비 4조 7,349억 원(50.2... ",
-        "pubDate": "Tue, 01 Sep 2026 11:52:00 +0900",
-        "formatted_date": "09월 01일, 11시 52분",
-        "ai_summary": "산업부가 반도체와 AI 제조 전환을 중심으로 예산을 대폭 확대했습니다. 미래대응기금을 포함할 경우 실질적인 예산 규모는 전년 대비 50.2% 증가합니다."
-      },
-      {
-        "title": "산업부 예산 40% 늘려 역대 최대 13.3조…'제조 AI'에 승부",
-        "originallink": "https://www.nocutnews.co.kr/news/6571105?utm_source=naver&utm_medium=article&utm_campaign=20260901114817",
-        "link": "https://n.news.naver.com/mnews/article/079/0004184574?sid=103",
-        "description": "산업부는 2027년도 예산안을 올해 본예산 9조4342억원보다 3조8231억원(40.5%) 늘어난 13조2573억원으로 편성했다고 1일 밝혔다. 이번 예산안은 2013년 산업부 출범 이후 역대 최대 규모다. 여기에 기획예산처 소관... ",
-        "pubDate": "Tue, 01 Sep 2026 11:49:00 +0900",
-        "formatted_date": "09월 01일, 11시 49분",
-        "ai_summary": "산업부가 2027년 예산을 역대 최대치인 13조 2,573억 원으로 편성하며 제조 AI 분야 육성에 승부수를 띄웠습니다. 기획예산처 소관 사업을 합쳐 지원을 강화할 예정입니다."
-      },
-      {
-        "title": "산업부, '배터리 삼각벨트' 혁신 인프라 구축 추진",
-        "originallink": "https://www.todayenergy.kr/news/articleView.html?idxno=302261",
-        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=302261",
-        "description": "산업통상부(장관 김정관, 이하 산업부)는 1일 세종 메리어트 호텔에서 충청북도·경상북도·전라북도 등 주요... 산업부는 검토 결과를 바탕으로 △전고체 배터리 성능평가 인프라 △나트륨 배터리 상용화 실증센터 △재활용... ",
-        "pubDate": "Tue, 01 Sep 2026 11:48:00 +0900",
-        "formatted_date": "09월 01일, 11시 48분",
-        "ai_summary": "산업부가 전고체 및 나트륨 배터리 등 차세대 기술 상용화를 위한 혁신 인프라 구축을 추진합니다. 배터리 삼각벨트 내 실증센터와 성능평가 기반을 조성할 계획입니다."
-      },
-      {
-        "title": "[2027 예산안] 산업부, 2027년 예산 '역대 최대'인 13조2573억원 편성…전...",
-        "originallink": "https://www.dailian.co.kr/news/view/1684898/?sc=Naver",
-        "link": "https://n.news.naver.com/mnews/article/119/0003127715?sid=101",
-        "description": "내 산업부 소관 사업 예산(9118억원)을 포함할 경우 실질적인 예산 규모는 전년 대비 50.2% 증가한 총 14조1691억원에 달한다. 이번 예산안 편성과 관련해 산업부는 정부의 강력한 지출구조조정 기조에 맞춰 저성과... ",
-        "pubDate": "Tue, 01 Sep 2026 11:44:00 +0900",
-        "formatted_date": "09월 01일, 11시 44분",
-        "ai_summary": "산업부가 2027년 예산을 역대 최대 규모로 편성하며 저성과 사업을 구조조정했습니다. 실질 예산은 14조 원을 상회하며 국가 산업 경쟁력 강화에 집중할 방침입니다."
+        "ai_summary": "산업부가 제조업 전 공정 무인화를 위한 AI 대전환에 박차를 가합니다. 제조 데이터셋 확보와 로봇 학습용 데이터 팩토리 구축 등을 추진합니다."
       }
     ],
     "KIAT": [
@@ -237,7 +237,7 @@
         "description": "산업기술 혁신을 지원하는 한국산업기술진흥원(KIAT)의 1·2급 고직급 직원 10명 중 7명 이상이 별도의... 31일 구자근 국회의원이 KIAT로부터 제출받은 자료에 따르면 전체 직원 392명 가운데 1·2급 고직급 직원은... ",
         "pubDate": "Mon, 31 Aug 2026 15:16:00 +0900",
         "formatted_date": "08월 31일, 15시 16분",
-        "ai_summary": "한국산업기술진흥원(KIAT)의 고직급 인력 운영 방만함이 도마 위에 올랐습니다. 전체 직원 중 1·2급 비율이 높고 상당수가 무보직 상태인 것으로 드러났습니다."
+        "ai_summary": "한국산업기술진흥원(KIAT)의 1·2급 고직급 직원 상당수가 무보직 상태인 것으로 나타났습니다. 조직 운영 효율성에 대한 비판이 제기되었습니다."
       },
       {
         "title": "KIAT 고직급 인력 운영 논란…무보직 136명, 조직 효율성 과제 부각",
@@ -246,7 +246,7 @@
         "description": "한국산업기술진흥원(KIAT)의 고직급 인력 운영을 둘러싸고 조직 효율성 문제가 제기됐다. 국회에서는 고위직 상당수가 보직 없이 근무하는 인사구조가 조직 운영의 효율성을 저해할 수 있다는 지적이 나온 반면, KIAT는... ",
         "pubDate": "Mon, 31 Aug 2026 11:06:00 +0900",
         "formatted_date": "08월 31일, 11시 06분",
-        "ai_summary": "KIAT의 높은 무보직 고직급 인력 비중이 조직 효율성 논란을 일으키고 있습니다. 국회는 경직된 인사구조 개선과 조직 운영 효율화를 요구하고 있습니다."
+        "ai_summary": "KIAT의 무보직 고직급 인력 운영 방식이 조직 효율성을 저해한다는 지적이 나왔습니다. 조직 운영 구조 개선에 대한 국회의 요구가 이어지고 있습니다."
       },
       {
         "title": "산업혁신 이끈다는 KIAT, 고직급 72%가 ‘무보직’…“조직 스스로 혁신...",
@@ -255,7 +255,7 @@
         "description": "산업기술 혁신을 지원하고 산업 경쟁력 강화를 이끌어야 할 한국산업기술진흥원(KIAT)의 고직급 인력... 따르면, KIAT 전체 직원 392명 가운데 1·2급 고직급 직원은 189명으로 전체의 48.2%에 달했다. 직원 2명 중 1명 가까이가... ",
         "pubDate": "Mon, 31 Aug 2026 10:32:00 +0900",
         "formatted_date": "08월 31일, 10시 32분",
-        "ai_summary": "KIAT 고직급 직원 189명 중 72%가 무보직인 것으로 나타나 조직 내부 혁신 필요성이 제기되었습니다. 산업 혁신 지원 기관으로서 방만한 운영에 대한 비판이 거셉니다."
+        "ai_summary": "KIAT의 고직급 직원 비율이 전체의 절반에 육박하며 이들 중 대다수가 무보직인 것으로 드러났습니다. 산업 혁신 지원 기관으로서 조직 내부 혁신이 시급하다는 평가입니다."
       },
       {
         "title": "산업 ODA 관리 14년 만에 KIAT→KOTRA…기업 해외진출 지원 강화",
@@ -264,7 +264,7 @@
         "description": "한국산업기술진흥원(KIAT)에서 대한무역투자진흥공사(KOTRA·코트라)로 변경한다. 코트라의 해외 무역관... 산업통상부는 오는 31일 KIAT와 코트라가 '산업통상협력개발지원사업(산업 ODA) 업무 인계인수 협약'을 체결하고... ",
         "pubDate": "Sun, 30 Aug 2026 11:52:00 +0900",
         "formatted_date": "08월 30일, 11시 52분",
-        "ai_summary": "산업통상협력개발지원사업(산업 ODA) 관리 주체가 14년 만에 KIAT에서 코트라로 변경됩니다. 코트라의 해외 네트워크를 활용해 우리 기업의 해외 진출을 지원할 예정입니다."
+        "ai_summary": "산업통상협력개발지원사업(산업 ODA) 관리 주체가 14년 만에 KIAT에서 KOTRA로 변경됩니다. KOTRA의 해외 네트워크를 활용해 기업의 해외 진출을 강화할 예정입니다."
       },
       {
         "title": "산업 ODA 관리, KIAT서 KOTRA로…“기업 해외진출 지원 강화”",
@@ -273,7 +273,7 @@
         "description": "한국산업기술진흥원(KIAT)에서 대한무역투자진흥공사(KOTRA)로 변경한다. KOTRA의 해외 네트워크를 활용해... 사진=연합뉴스 산업부는 오는 31일 KIAT와 KOTRA 간 ‘산업DOA 업무 인계인수 협약’을 체결하고, 9월... ",
         "pubDate": "Sun, 30 Aug 2026 11:02:00 +0900",
         "formatted_date": "08월 30일, 11시 02분",
-        "ai_summary": "산업부가 산업 ODA 관리 업무를 KIAT에서 코트라로 이관합니다. 코트라의 전문성을 통해 글로벌 비즈니스 환경에서의 기업 지원 효과를 높이겠다는 취지입니다."
+        "ai_summary": "산업부가 산업 ODA 관리 기관을 KOTRA로 이관하여 기업 지원 역량을 강화합니다. 9월부터 본격적인 업무 인계인수와 체계 개편이 시작됩니다."
       },
       {
         "title": "산업 ODA, 9월부터 KIAT에서 KOTRA로 이관…132개 해외무역관 활용",
@@ -282,7 +282,7 @@
         "description": "한국산업기술진흥원(KIAT)에서 대한무역투자진흥공사(KOTRA)로 바뀐다. KOTRA의 해외 네트워크를 활용해 개발도상국 지원사업을 국내 기업의 신흥시장 진출과 연계한다는 구상이다. 산업통상부는 30일 KIAT와... ",
         "pubDate": "Sun, 30 Aug 2026 11:02:00 +0900",
         "formatted_date": "08월 30일, 11시 02분",
-        "ai_summary": "산업 ODA 사업 관리 주체가 KIAT에서 KOTRA로 이관됩니다. KOTRA의 해외 네트워크를 활용해 국내 기업의 신흥시장 진출을 지원할 계획입니다."
+        "ai_summary": "산업 ODA 사업이 9월부터 KIAT에서 KOTRA로 이관됩니다. KOTRA의 해외 네트워크를 활용해 개발도상국 지원과 우리 기업의 신흥시장 진출을 연계할 계획입니다."
       },
       {
         "title": "산업 ODA, 9월부터 KOTRA가 관리…14년만에 KIAT서 이관",
@@ -291,7 +291,7 @@
         "description": "'산업통상협력개발지원사업(산업 ODA)'이 14년만에 한국산업기술진흥원(KIAT)에서 대한무역투자진흥공사(KOTRA)로 이관된다. 산업통상부는 31일자로 KIAT와 KOTRA 간 '산업 ODA 업무 인계인수 협약'을 체결함에 따라... ",
         "pubDate": "Sun, 30 Aug 2026 11:01:00 +0900",
         "formatted_date": "08월 30일, 11시 01분",
-        "ai_summary": "산업통상협력개발지원사업이 14년 만에 KIAT에서 KOTRA로 이관됩니다. 두 기관은 업무 인계인수 협약을 체결하고 본격적인 사업 수행 체계 개편에 나섭니다."
+        "ai_summary": "산업통상협력개발지원사업(산업 ODA) 관리 주체가 14년 만에 KIAT에서 KOTRA로 변경됩니다. 양 기관은 업무 인계인수 협약을 체결했습니다."
       },
       {
         "title": "KIAT, 이공계 대학생 7명에 장학금 1050만원 수여",
@@ -300,7 +300,7 @@
         "description": "한국산업기술진흥원(KIAT)이 지역사회 봉사활동에 참여한 이공계 대학생 7명에게 총 1050만원의 장학금을 수여했다고 26일 밝혔다. KIAT는 지난 25일 서울 강남구 한국기술센터에서 ‘2026년 지역사회 봉사 대학생 대상... ",
         "pubDate": "Wed, 26 Aug 2026 18:36:00 +0900",
         "formatted_date": "08월 26일, 18시 36분",
-        "ai_summary": "KIAT가 지역사회 봉사활동에 참여한 이공계 대학생 7명에게 총 1050만원의 장학금을 수여했습니다."
+        "ai_summary": "KIAT가 지역사회 봉사활동에 참여한 이공계 대학생 7명에게 총 1050만원의 장학금을 전달했습니다. 학생들의 사회적 기여를 격려하기 위한 취지입니다."
       },
       {
         "title": "KIAT, 봉사 실천 이공계 대학생 7명에 장학금 1050만원 수여",
@@ -309,7 +309,7 @@
         "description": "[사진=한국산업기술진흥원] 한국산업기술진흥원(KIAT)이 지역사회에서 봉사활동을 펼친 이공계 대학생에게 장학금과 산업기술 분야 진로 탐색 기회를 지원한다. KIAT는 지난 25일 '2026년 지역사회 봉사 대학생 대상... ",
         "pubDate": "Wed, 26 Aug 2026 18:06:00 +0900",
         "formatted_date": "08월 26일, 18시 06분",
-        "ai_summary": "KIAT가 지역 봉사에 앞장선 이공계 대학생들에게 장학금을 수여했습니다. 장학생들에게는 향후 산업기술 분야 진로 탐색 기회도 제공할 예정입니다."
+        "ai_summary": "KIAT가 지역사회에서 봉사한 이공계 대학생들에게 장학금을 수여했습니다. 장학금 외에도 산업기술 분야 진로 탐색의 기회도 함께 제공합니다."
       },
       {
         "title": "KIAT, 지역사회 봉사 이공계 대학생에 장학금… 진로·취업 지원 확대",
@@ -318,99 +318,99 @@
         "description": "백성진 KIAT 경영혁신부원장(오른쪽 1번째)이 2026년 지역사회 봉사 대학생 대상 장학금 수여식에서 장학생 7명과 기념촬영을 하고 있다. /사진=KIAT 한국산업기술진흥원(KIAT)이 지역사회 봉사활동에 앞장선 이공계... ",
         "pubDate": "Wed, 26 Aug 2026 16:52:00 +0900",
         "formatted_date": "08월 26일, 16시 52분",
-        "ai_summary": "KIAT가 지역사회 봉사활동에 기여한 이공계 학생 7명에게 장학금을 수여했습니다. 학생들의 진로 설계와 취업 지원을 강화할 방침입니다."
+        "ai_summary": "KIAT가 봉사활동에 앞장선 이공계 대학생 7명에게 장학금을 지급했습니다. 학생들에게 진로 및 취업 지원 등 실질적인 혜택을 확대할 방침입니다."
       }
     ],
     "기후부": [
       {
-        "title": "기후부, 메가프로젝트·전기차에 각 2조씩…역대 최대 26조원 예산 편성",
-        "originallink": "https://www.hani.co.kr/arti/society/environment/1275656.html",
-        "link": "https://n.news.naver.com/mnews/article/028/0002821100?sid=102",
-        "description": "기후부는 1일 2027년도 ‘예산 및 기금 총지출’을 올해보다 3조9737억원(18.3%) 늘어난 25조7319억원으로... 이밖에 기후부 전체 예산이 18.3% 늘어난 것과 달리, 과거 환경부가 담당했던 환경 분야 예산은 올해 약... ",
-        "pubDate": "Tue, 01 Sep 2026 11:54:00 +0900",
-        "formatted_date": "09월 01일, 11시 54분",
-        "ai_summary": "기후부가 전년 대비 18.3% 증액된 역대 최대 규모인 25조 7천억 원의 내년 예산을 편성했습니다. 메가프로젝트와 전기차 분야에 각각 2조 원이 투입됩니다."
+        "title": "기후부, 9월 한 달간 '범국민 폐휴대폰 회수 실천운동' 전개",
+        "originallink": "https://www.womentimes.co.kr/news/articleView.html?idxno=105815",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105815",
+        "description": "◆ 참여혜택 확대와 수거 거점 확대 기후부는 기존 폐휴대폰 기부 프로그램인 '나눔폰(나눔폰.kr)'을 통한... 김고응 기후부 자원순환국장은 &quot;서랍 속 폐휴대폰을 안전하게 배출하는 실천이 소중한 자원을 살리는 자원순환의... ",
+        "pubDate": "Tue, 01 Sep 2026 12:48:00 +0900",
+        "formatted_date": "09월 01일, 12시 48분",
+        "ai_summary": "기후부가 9월 한 달간 폐휴대폰 회수 실천운동을 전개합니다. '나눔폰' 프로그램을 통해 참여 혜택과 수거 거점을 확대하여 자원순환을 도모합니다."
       },
       {
-        "title": "[2027 예산안] 기후부, 18% 늘어난 25.7조…전력망·태양광·전기차 가속",
-        "originallink": "https://www.newspim.com/news/view/20260901000516",
-        "link": "https://www.newspim.com/news/view/20260901000516",
-        "description": "내년도 기후부 예산안은 ▲첨단산업 성장을 뒷받침하는 전력·용수 기반시설 확충 ▲탄소중립과 에너지... ◆ 반도체 산단 전력·용수 인프라 선제적 구축 기후부는 우선 첨단산업의 성장을 뒷받침하는 전력·용수... ",
-        "pubDate": "Tue, 01 Sep 2026 11:54:00 +0900",
-        "formatted_date": "09월 01일, 11시 54분",
-        "ai_summary": "기후부의 내년 예산안은 첨단산업 인프라 구축과 탄소중립에 초점이 맞춰졌습니다. 반도체 단지 전력·용수 확보 및 에너지 전환에 투자가 집중될 예정입니다."
+        "title": "2027년도 기후부 예산안 브리핑",
+        "originallink": "https://www.newsis.com/view/NISI20260831_0021417486",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161351?sid=100",
+        "description": "안세창 기후에너지환경부 기획조정실장이 지난달 31일 오후 세종시 정부세종청사에서 2027년도 기후부 예산안 브리핑을 하고 있다. 2026.09.01. dahora83@newsis.com",
+        "pubDate": "Tue, 01 Sep 2026 12:46:00 +0900",
+        "formatted_date": "09월 01일, 12시 46분",
+        "ai_summary": "안세창 기후에너지환경부 기획조정실장이 2027년도 기후부 예산안에 대해 브리핑했습니다. 8월 31일 정부세종청사에서 관련 내용을 발표했습니다."
       },
       {
-        "title": "[2027 예산] '3대 메가' 전력·용수 책임진 기후부, 내년 예산 4兆↑",
-        "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432858",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432858",
-        "description": "기후부는 내년 예산·기금의 총지출을 올해보다 18.3%, 3조9천737억원 늘어난 25조7천319억원으로 편성했다고 1일 밝혔다. 기후부 역대 최대 규모의 예산안이다. 전남광주 군 공항 일원 토지거래허가구역 지정[출처... ",
-        "pubDate": "Tue, 01 Sep 2026 11:52:00 +0900",
-        "formatted_date": "09월 01일, 11시 52분",
-        "ai_summary": "기후부가 내년 예산을 전년 대비 약 4조 원 늘린 25조 7천억 원으로 편성했습니다. 이는 첨단산업의 핵심 기반 시설을 확충하기 위한 조치입니다."
+        "title": "안세창 기후부 기조실장, 2027년도 기후부 예산안 브리핑",
+        "originallink": "https://www.newsis.com/view/NISI20260831_0021417488",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161350?sid=100",
+        "description": "안세창 기후에너지환경부 기획조정실장이 지난달 31일 오후 세종시 정부세종청사에서 2027년도 기후부 예산안 브리핑을 하고 있다. 2026.09.01. dahora83@newsis.com",
+        "pubDate": "Tue, 01 Sep 2026 12:46:00 +0900",
+        "formatted_date": "09월 01일, 12시 46분",
+        "ai_summary": "안세창 기후부 기획조정실장이 2027년도 기후부 예산안을 발표했습니다. 세종시 정부세종청사에서 지난달 31일 브리핑이 진행되었습니다."
       },
       {
-        "title": "[산업부·기후부 장차관 일정(2026년 9월 1일)]",
-        "originallink": "http://www.e-platform.net/news/articleView.html?idxno=104945",
-        "link": "http://www.e-platform.net/news/articleView.html?idxno=104945",
-        "description": "4) ▲ 차관: 10:00 국무회의 14:00 국회 개회식 (국회) 15:30 국토공간 대전환 범정부 추진협의회 (서울청사) 17:00 산업부-지재처 업무협약 체결식 (서울 석탄회관) ◆ 기후부 ▲ 장관: 10:00 국무회의 (서울) 14:00... ",
-        "pubDate": "Tue, 01 Sep 2026 08:22:00 +0900",
-        "formatted_date": "09월 01일, 08시 22분",
-        "ai_summary": "2026년 9월 1일 산업부와 기후부 장차관의 공식 일정이 공개되었습니다. 국무회의 참석 및 국회 개회식 등이 주요 일정으로 포함되었습니다."
+        "title": "안세창 기후부 기조실장, 2027년도 기후부 예산안 브리핑",
+        "originallink": "https://www.newsis.com/view/NISI20260831_0021417487",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161349?sid=100",
+        "description": "안세창 기후에너지환경부 기획조정실장이 지난달 31일 오후 세종시 정부세종청사에서 2027년도 기후부 예산안 브리핑을 하고 있다. 2026.09.01. dahora83@newsis.com",
+        "pubDate": "Tue, 01 Sep 2026 12:46:00 +0900",
+        "formatted_date": "09월 01일, 12시 46분",
+        "ai_summary": "안세창 기후부 기획조정실장이 2027년도 기후부 예산안 브리핑을 실시했습니다. 해당 발표는 지난달 31일 정부세종청사에서 이루어졌습니다."
       },
       {
-        "title": "수소 포기 수순?…기후부, 2년 연속 청정수소예산 한푼도 안써",
-        "originallink": "https://www.ekn.kr/web/view.php?key=20260831022008620",
-        "link": "https://www.ekn.kr/web/view.php?key=20260831022008620",
-        "description": "윤병효 기자 chyybh@ekn.kr 해외 수소 도입·유통 예산 2년째 집행률 ‘0%’ 기후부 “국내 그린수소 생산 생태계 구축 집중” 수소업계 “생산 단가 비현실적…수요 위축만 불러”",
-        "pubDate": "Tue, 01 Sep 2026 07:00:00 +0900",
-        "formatted_date": "09월 01일, 07시 00분",
-        "ai_summary": "기후부가 2년 연속 해외 청정수소 도입 예산을 전혀 집행하지 않은 것으로 나타났습니다. 국내 생산 생태계 구축에 집중하겠다는 입장이지만, 업계는 수요 위축을 우려하고 있습니다."
+        "title": "안세창 기후부 기조실장, 2027년도 기후부 예산안 브리핑",
+        "originallink": "https://www.newsis.com/view/NISI20260831_0021417490",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161346?sid=100",
+        "description": "안세창 기후에너지환경부 기획조정실장이 지난달 31일 오후 세종시 정부세종청사에서 2027년도 기후부 예산안 브리핑을 하고 있다. 2026.09.01. dahora83@newsis.com",
+        "pubDate": "Tue, 01 Sep 2026 12:46:00 +0900",
+        "formatted_date": "09월 01일, 12시 46분",
+        "ai_summary": "기후부 안세창 기획조정실장이 2027년도 예산안 브리핑을 가졌습니다. 지난달 31일 정부세종청사에서 관련 예산안의 주요 내용을 설명했습니다."
       },
       {
-        "title": "산업부가 판 짠 ‘3大 메가프로젝트’… 청와대 총괄은 기후부 실장이 ...",
-        "originallink": "https://www.chosun.com/economy/industry-company/2026/09/01/LZ66UECBLRD3HCFVLP6UOH4H74/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "link": "https://n.news.naver.com/mnews/article/023/0003995929?sid=101",
-        "description": "이원주 기후부 에너지전환정책실장이 낙점됐기 때문입니다. 관가에선 “판은 산업부가 깔고, 지휘봉은 기후부가 쥔 격”이라는 얘기가 나옵니다. 메가프로젝트 보좌관은 지난 6월 이재명 대통령이 ‘메가프로젝트를 직접... ",
-        "pubDate": "Tue, 01 Sep 2026 00:34:00 +0900",
-        "formatted_date": "09월 01일, 00시 34분",
-        "ai_summary": "산업부가 기획한 3대 메가프로젝트를 기후부 실장이 총괄하며 부처 간 협력이 본격화되었습니다. 관가에서는 산업부의 기획과 기후부의 지휘라는 이례적인 협업 구조에 주목하고 있습니다."
+        "title": "2027년도 기후부 예산안 브리핑",
+        "originallink": "https://www.newsis.com/view/NISI20260831_0021417489",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161348?sid=100",
+        "description": "안세창 기후에너지환경부 기획조정실장이 지난달 31일 오후 세종시 정부세종청사에서 2027년도 기후부 예산안 브리핑을 하고 있다. 2026.09.01. dahora83@newsis.com",
+        "pubDate": "Tue, 01 Sep 2026 12:46:00 +0900",
+        "formatted_date": "09월 01일, 12시 46분",
+        "ai_summary": "안세창 기후에너지환경부 기획조정실장이 2027년도 기후부 예산안을 브리핑했습니다."
       },
       {
-        "title": "한국환경보전원, 기후부 산하기관 홍보 협력 강화",
-        "originallink": "https://www.kdpress.co.kr/news/articleView.html?idxno=208179",
-        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=208179",
-        "description": "한국환경보전원은 지난 27일 경기도 양평군 수풀로 양수리에서 수도권 기후부 산하기관 홍보 협의체 회의와 생태복원 현장 탐방을 진행했다. 한국환경산업기술원과 한국에너지재단, 한국에너지기술평가원 등 산하기관... ",
-        "pubDate": "Mon, 31 Aug 2026 22:58:00 +0900",
-        "formatted_date": "08월 31일, 22시 58분",
-        "ai_summary": "한국환경보전원이 수도권 내 기후부 산하기관들과 홍보 협의체 회의를 열고 생태복원 현장을 탐방했습니다. 이를 통해 산하기관 간의 홍보 협력을 강화하고 소통의 폭을 넓혔습니다."
+        "title": "2027년도 기후부 예산안 브리핑",
+        "originallink": "https://www.newsis.com/view/NISI20260831_0021417485",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161345?sid=100",
+        "description": "안세창 기후에너지환경부 기획조정실장이 지난달 31일 오후 세종시 정부세종청사에서 2027년도 기후부 예산안 브리핑을 하고 있다. 2026.09.01. dahora83@newsis.com",
+        "pubDate": "Tue, 01 Sep 2026 12:46:00 +0900",
+        "formatted_date": "09월 01일, 12시 46분",
+        "ai_summary": "안세창 기후에너지환경부 기획조정실장이 2027년도 기후부 예산안을 브리핑했습니다."
       },
       {
-        "title": "기후부, 가습기살균제 피해자 간담회…10월 배상체계 전환 [뉴시스Pic]",
-        "originallink": "https://www.newsis.com/view/NISX20260831_0003770047",
-        "link": "https://n.news.naver.com/mnews/article/003/0014159406?sid=102",
-        "description": "기후부는 31일 오후 서울 중구 대한상공회의소에서 가습기살균제 피해자 간담회를 개최했다. 오는 10월8일부터 시행 예정인 배상체계 전환을 안내하고 피해자들의 질의·요구사항을 듣기 위해서다. 기후부가 마련 중인... ",
-        "pubDate": "Mon, 31 Aug 2026 16:25:00 +0900",
-        "formatted_date": "08월 31일, 16시 25분",
-        "ai_summary": "기후부가 10월 8일부터 시행될 가습기살균제 배상체계 전환을 앞두고 피해자 간담회를 개최했습니다. 새 배상체계에 대한 안내와 함께 피해자들의 질의 및 요구사항을 청취했습니다."
+        "title": "기후부, 폭염에 휴가철 전력수요도 급증 95.3GW로 역대 5위",
+        "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1100234",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1100234",
+        "description": "기후부는 남은 여름철에도 폭염과 기상 여건에 따라 전력수요가 다시 급증할 가능성이 있다고 전망했다.... 문양택 기후부 전력산업정책관은 &quot;9월부터 겨울철 최대부하에 대비한 발전기 계획예방정비가 시작되면서... ",
+        "pubDate": "Tue, 01 Sep 2026 12:42:00 +0900",
+        "formatted_date": "09월 01일, 12시 42분",
+        "ai_summary": "폭염과 휴가철로 인해 전력 수요가 역대 5위 수준으로 급증했습니다. 기후부는 향후 기상 여건에 따른 추가 전력 수요 급증에 대비하고 있습니다."
       },
       {
-        "title": "기후부, 미국 에너지부와 협력 강화...전력망 확충·ESS 등 에너지 공급...",
-        "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=443598",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=443598",
-        "description": "기후부에 따르면 양측은 전력수요 증가에 대응하기 위한 송·배전망 확충과 ESS 보급, 에너지 효율 개선 정책을 공유했다. 국제 에너지 가격 변동과 핵심 기자재 조달 차질 등 공급망 위험에 공동 대응하는 방안도 논의... ",
-        "pubDate": "Mon, 31 Aug 2026 15:50:00 +0900",
-        "formatted_date": "08월 31일, 15시 50분",
-        "ai_summary": "기후부가 미국 에너지부와 전력망 확충 및 ESS 보급 등 에너지 정책 전반에 대한 협력을 논의했습니다. 양국은 에너지 공급망 위험 공동 대응과 효율 개선을 위해 공조하기로 했습니다."
+        "title": "[2027 예산안] 기후부 예산 25.7조·전년比 18.3%↑…전력망·재생에너지...",
+        "originallink": "https://www.dailian.co.kr/news/view/1684937/?sc=Naver",
+        "link": "https://n.news.naver.com/mnews/article/119/0003127750?sid=101",
+        "description": "기후부는 2027년 예산과 기금 총지출을 올해보다 18.3% 늘어난 25조7319억원으로 편성했다고 1일 밝혔다. 증가액은 3조9737억원이다. 기획예산처 소관 미래대응기금 사업도 포함됐다. 기후부 추계 기준 에너지 대전환... ",
+        "pubDate": "Tue, 01 Sep 2026 12:40:00 +0900",
+        "formatted_date": "09월 01일, 12시 40분",
+        "ai_summary": "기후부가 2027년 예산을 전년 대비 18.3% 증액한 25조 7,319억 원으로 편성했습니다. 에너지 대전환을 위해 전력망과 재생에너지 사업에 집중할 계획입니다."
       },
       {
-        "title": "10월 가습기살균제 배상 체계 전환…기후부, 피해자 의견 청취",
-        "originallink": "https://www.newsis.com/view/NISX20260831_0003769349",
-        "link": "https://n.news.naver.com/mnews/article/003/0014159047?sid=101",
-        "description": "기후부는 31일 오후 서울 중구 대한상공회의소에서 가습기살균제 피해자 간담회를 개최했다. 오는 10월8일부터 시행 예정인 배상체계 전환을 안내하고 피해자들의 질의·요구사항을 듣기 위해서다. 기후부가 마련 중인... ",
-        "pubDate": "Mon, 31 Aug 2026 15:00:00 +0900",
-        "formatted_date": "08월 31일, 15시 00분",
-        "ai_summary": "기후부가 10월 시행 예정인 가습기살균제 배상 체계 개편과 관련해 피해자들의 의견을 수렴하는 자리를 가졌습니다. 피해자들의 요구사항을 파악하고 정책의 원활한 안착을 모색했습니다."
+        "title": "기후부 &quot;용수 공급 예산, 전력보다 적은 건 사업 초기 단계 때문&quot;",
+        "originallink": "https://www.electimes.com/news/articleView.html?idxno=371909",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=371909",
+        "description": "내년도 기후부 예산(정부안)은 25조7319억원으로 올해보다 18.3% 증가한다. 특히 메가프로젝트에 필요한... 이에 대해 기후부는 용수 관련 사업이 아직 초기 단계인 만큼 내년도에는 기본 설계나 사업 준비에 필요한... ",
+        "pubDate": "Tue, 01 Sep 2026 12:40:00 +0900",
+        "formatted_date": "09월 01일, 12시 40분",
+        "ai_summary": "기후부는 용수 공급 예산이 전력보다 적은 이유에 대해 해당 사업이 아직 초기 단계이기 때문이라고 설명했습니다. 내년에는 기본 설계와 준비 위주로 사업이 진행될 예정입니다."
       }
     ],
     "산업혁신기반구축": []
@@ -418,13 +418,31 @@
   "pane3": {
     "호르무즈": [
       {
+        "title": "호르무즈 해협 인근서 노는 이란 어린이들",
+        "originallink": "https://www.newsis.com/view/NISI20260901_0002226952",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161197?sid=104",
+        "description": "지난달 31일(현지 시간) 이란 반다르아바스 앞바다 호르무즈 해협에 상업용 선박들이 정박해 있는 가운데 어린이들이 해변에서 놀고 있다. 2026.09.01.",
+        "pubDate": "Tue, 01 Sep 2026 12:03:00 +0900",
+        "formatted_date": "09월 01일, 12시 03분",
+        "ai_summary": "이란 반다르아바스 호르무즈 해협 앞바다에서 어린이들이 해변에서 놀고 있는 모습이 포착되었습니다."
+      },
+      {
+        "title": "호르무즈 해협 인근 해변에 모여 있는 이란 사람들",
+        "originallink": "https://www.newsis.com/view/NISI20260901_0002226951",
+        "link": "https://n.news.naver.com/mnews/article/003/0014161196?sid=104",
+        "description": "지난달 31일(현지 시간) 이란 반다르아바스 앞바다 호르무즈 해협에 상업용 선박들이 정박해 있는 가운데 주민들이 해변에서 시간을 보내고 있다. 2026.09.01.",
+        "pubDate": "Tue, 01 Sep 2026 12:03:00 +0900",
+        "formatted_date": "09월 01일, 12시 03분",
+        "ai_summary": "이란 반다르아바스 호르무즈 해협 앞바다에서 현지 주민들이 해변에서 여가를 보내고 있습니다."
+      },
+      {
         "title": "또 긴장감 높아진 호르무즈…유조선에 발사체 3발",
         "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5216121",
         "link": "https://n.news.naver.com/mnews/article/057/0001966619?sid=104",
         "description": "미국과 이란이 한달만에 무력 충돌을 재개한 여파로 호르무즈 해협 일대에서 현지 시각 1일로 이틀째 긴장이... 로이터통신에 따르면 영국 해사무역기구(UKMTO)는 이날 공지에서 호르무즈 해협을 빠져나오던 유조선 한 척이... ",
         "pubDate": "Tue, 01 Sep 2026 11:33:00 +0900",
         "formatted_date": "09월 01일, 11시 33분",
-        "ai_summary": "호르무즈 해협에서 유조선이 발사체 공격을 받는 등 미국과 이란 간의 긴장이 재차 고조되고 있습니다. 무력 충돌 여파로 해당 해역의 안전 위협에 대한 국제적 우려가 커지고 있습니다."
+        "ai_summary": "미·이란 무력 충돌 여파로 호르무즈 해협의 긴장이 고조되고 있습니다. 해당 해협을 통과하던 유조선이 발사체 공격을 받는 사건이 발생했습니다."
       },
       {
         "title": "靑 &quot;미국·국제사회와 호르무즈 협력방안 지속 논의 중&quot;",
@@ -433,7 +451,7 @@
         "description": "청와대가 1일, 미국과 이란의 전쟁이 지속되고 있는 호르무즈(Hormuz·Hormoz) 해협에서의 통항을 두고서... 소식통은 &quot;호르무즈 해협의 통항의 자유를 위한 실질적이며 군사적인 기여 방안에 관하여 종합적으로 검토중... ",
         "pubDate": "Tue, 01 Sep 2026 11:18:00 +0900",
         "formatted_date": "09월 01일, 11시 18분",
-        "ai_summary": "청와대가 호르무즈 해협의 통항 자유를 보장하기 위해 미국을 포함한 국제사회와 군사적 기여 방안을 검토 중입니다. 국내법과 한반도 대비 태세를 고려한 신중한 대응을 예고했습니다."
+        "ai_summary": "청와대가 미국 및 국제사회와 호르무즈 해협 통항 자유를 위한 협력 방안을 논의 중입니다. 군사적 기여를 포함한 종합적인 대응책을 검토하고 있습니다."
       },
       {
         "title": "&quot;트럼프, 이란 '제한적 타격' 검토…호르무즈 공격 역량 재건 차단&quot;",
@@ -442,7 +460,7 @@
         "description": "한 미국 관리는 최근 이란이 호르무즈 해협에서 선박을 엄호하던 미군 F-35 전투기를 향해 대공 미사일을... 통해 호르무즈 해협 대부분을 점진적으로 통제해 왔다. 이란의 유조선 공격 능력이 제한됨에 따라 더 많은 선박이... ",
         "pubDate": "Tue, 01 Sep 2026 11:17:00 +0900",
         "formatted_date": "09월 01일, 11시 17분",
-        "ai_summary": "트럼프 미국 대통령이 이란의 호르무즈 해협 내 군사 역량 재건을 차단하기 위해 제한적 타격을 검토 중입니다. 이란의 공세가 지속되면서 미국 측의 대응 강도 또한 높아지고 있습니다."
+        "ai_summary": "트럼프 행정부가 이란의 호르무즈 해협 내 선박 공격 역량을 차단하기 위한 제한적 타격을 검토 중입니다. 이는 이란의 대공 미사일 위협에 대한 대응 차원입니다."
       },
       {
         "title": "청와대 &quot;미국과 호르무즈 협력방안 지속논의…국제 노력에 적극참여&quot;",
@@ -451,7 +469,7 @@
         "description": "청와대는 호르무즈 해협 통항과 관련해 &quot;미국을 포함한 국제사회와 협력 방안을 지속 논의해왔다&quot;며 &quot;글로벌... 이 관계자는 &quot;호르무즈 해협 통항 자유를 위한 실질적·군사적 기여 방안에 대해 한반도 대비 태세와 국내법... ",
         "pubDate": "Tue, 01 Sep 2026 11:15:00 +0900",
         "formatted_date": "09월 01일, 11시 15분",
-        "ai_summary": "청와대는 호르무즈 해협 통항 안전을 위해 국제 사회와의 협력을 지속하고 있다고 밝혔습니다. 군사적 기여 방안에 대해 다각도로 검토 중이며 국제적 노력에 적극 동참하겠다는 입장입니다."
+        "ai_summary": "청와대가 호르무즈 해협 통항 자유를 위해 국제사회와 협력을 논의 중이라고 밝혔습니다. 실질적 기여 방안은 국내법과 안보 태세를 고려해 종합 검토할 방침입니다."
       },
       {
         "title": "&quot;트럼프, 호르무즈서 이란 제한적 타격 검토&quot;…'주기적 억제' 카드 부상",
@@ -460,7 +478,7 @@
         "description": "권지언 특파원 = 도널드 트럼프 미국 대통령이 이란의 호르무즈 해협 내 군사 능력 재건을 막기 위해 제한적... 못하도록 호르무즈 해협에서 제한적인 공격을 감행하는 방안을 검토해왔다. 이번 계획은 지난주 미... ",
         "pubDate": "Tue, 01 Sep 2026 11:14:00 +0900",
         "formatted_date": "09월 01일, 11시 14분",
-        "ai_summary": "미국 정부가 이란의 호르무즈 해협 내 군사적 도발을 억제하고자 제한적 타격 카드를 검토하고 있습니다. 이란의 군사 능력 재건을 막기 위한 주기적 대응 전략이 본격화되는 모습입니다."
+        "ai_summary": "트럼프 대통령이 이란의 군사력 재건을 저지하기 위해 호르무즈 해협에서 제한적 타격을 검토 중입니다. 주기적인 억제 전략을 통해 군사적 압박을 강화하려는 의도로 풀이됩니다."
       },
       {
         "title": "국방부 &quot;호르무즈 해협 관련 美와 협력 방안 초기부터 지속 논의&quot;",
@@ -469,7 +487,7 @@
         "description": "정빛나 국방부 대변인은 1일 정례브리핑에서 &quot;우리 정부는 호르무즈 해협 관련해서는 정세 등 중동 내 긴장... 이에 대해 정 대변인은 &quot;호르무즈 해협 문제 관련해서 우리 정부가 국제해상교통로의 안전과 항행의 자유가... ",
         "pubDate": "Tue, 01 Sep 2026 11:14:00 +0900",
         "formatted_date": "09월 01일, 11시 14분",
-        "ai_summary": "국방부는 호르무즈 해협의 긴장 상황과 관련해 미국 등 국제사회와 협력 방안을 지속해서 논의 중이라고 밝혔습니다. 해상 교통로의 안전과 항행의 자유 보장을 위한 원칙적인 입장을 강조했습니다."
+        "ai_summary": "국방부는 호르무즈 해협의 항행 자유와 국제 해상교통로 안전을 위해 미국과 초기부터 지속적으로 협력 방안을 논의해왔다고 밝혔습니다."
       },
       {
         "title": "靑 &quot;미국과 호르무즈 협력방안 지속 논의…기여 방안 종합 검토&quot;",
@@ -478,7 +496,7 @@
         "description": "청와대는 1일 호르무즈 해협 통항을 위한 기여 방안과 관련해 &quot;미국을 포함한 국제사회와 협력 방안을 지속... 이 관계자는 &quot;호르무즈 해협 통항 자유를 위한 실질적·군사적 기여 방안에 대해 한반도 대비 태세와 국내법... ",
         "pubDate": "Tue, 01 Sep 2026 10:53:00 +0900",
         "formatted_date": "09월 01일, 10시 53분",
-        "ai_summary": "청와대는 호르무즈 해협 통항을 위한 실질적 기여 방안을 검토하고 있다고 밝혔습니다. 다만 한반도 대비 태세와 국내법 등을 종합적으로 고려해 협력 방안을 마련할 계획입니다."
+        "ai_summary": "청와대는 호르무즈 해협의 안전한 통항을 위한 기여 방안을 미국 등 국제사회와 협의 중입니다. 다만 한반도 대비 태세와 국내법 등을 종합적으로 고려할 계획입니다."
       },
       {
         "title": "호르무즈 이틀째 긴장감…유조선 피격·운항 정지 잇따라",
@@ -487,120 +505,138 @@
         "description": "▲ 호르무즈 해협 인근을 지나는 선박들 미국과 이란이 한 달 만에 무력 충돌을 재개한 여파로 호르무즈 해협 일대에서 이틀째 긴장이 이어지고 있습니다. 양측은 전날 교전을 끝내고는 현지 시간 1일 현재까지는 새벽... ",
         "pubDate": "Tue, 01 Sep 2026 10:39:00 +0900",
         "formatted_date": "09월 01일, 10시 39분",
-        "ai_summary": "미국과 이란의 무력 충돌 재개 여파로 호르무즈 해협 일대의 긴장감이 이틀째 이어지고 있습니다. 양측의 교전 이후 불안정한 정세 속에서 해협 통항에 차질이 빚어지고 있습니다."
-      },
-      {
-        "title": "호르무즈 이틀째 긴장감…유조선 피격·운항 정지 잇따라",
-        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651326&ref=A",
-        "link": "https://n.news.naver.com/mnews/article/056/0012248450?sid=104",
-        "description": "미국과 이란이 한 달 만에 무력 충돌을 재개한 여파로 호르무즈 해협 일대에서 이틀째 긴장이 이어지고 있습니다. 로이터통신에 따르면 영국 해사무역기구(UKMTO)는 현지 시각 1일 공지를 통해 호르무즈 해협을 빠져나오던... ",
-        "pubDate": "Tue, 01 Sep 2026 10:36:00 +0900",
-        "formatted_date": "09월 01일, 10시 36분",
-        "ai_summary": "미국과 이란의 무력 충돌로 호르무즈 해협의 긴장이 고조되며 유조선 피격 및 운항 정지 사태가 발생했습니다. 국제 사회는 해협을 지나는 선박들에 대한 안전 경고를 이어가고 있습니다."
-      },
-      {
-        "title": "청와대, &quot;호르무즈 해협 긴장 고조 면밀 주시&quot;",
-        "originallink": "http://www.tongilnews.com/news/articleView.html?idxno=217346",
-        "link": "http://www.tongilnews.com/news/articleView.html?idxno=217346",
-        "description": "[사진-통일뉴스 이광길 기자] 1일 청와대 관계자가 &quot;정부는 호르무즈 해협 등 중동 내 긴장 고조 상황을... 청와대 관계자는 &quot;정부는 미국을 포함한 국제사회와 협력 방안을 지속 논의해왔으며, 호르무즈 해협 통항 자유를... ",
-        "pubDate": "Tue, 01 Sep 2026 10:36:00 +0900",
-        "formatted_date": "09월 01일, 10시 36분",
-        "ai_summary": "청와대는 중동 내 긴장 고조 상황을 면밀히 주시하며 국제사회와의 협력을 지속하고 있다고 전했습니다. 호르무즈 해협의 자유로운 통항을 보장하기 위한 방안을 다각도로 검토 중입니다."
+        "ai_summary": "미국과 이란의 무력 충돌 여파로 호르무즈 해협 일대의 긴장 상태가 이틀째 지속되고 있습니다. 유조선 피격과 운항 정지 사례가 잇따르며 불안감이 커지고 있습니다."
       }
     ],
     "트럼프": [
       {
-        "title": "트럼프, 애플에 직접 연락해 ‘아메리카호’로 변경 요구",
-        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651420&ref=A",
-        "link": "https://n.news.naver.com/mnews/article/056/0012248523?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 애플에 직접 연락해 지도 애플리케이션에서 온타리오호(Lake Ontario)를... AP통신과 BBC방송 등 외신에 따르면 버검 장관은 이날 폭스비즈니스 방송에 출연해 트럼프 대통령이 “애플 측에... ",
-        "pubDate": "Tue, 01 Sep 2026 11:50:00 +0900",
-        "formatted_date": "09월 01일, 11시 50분",
-        "ai_summary": "트럼프 대통령이 애플에 직접 연락해 지도 앱 내 온타리오호의 명칭을 '아메리카호'로 변경할 것을 요구했습니다. 이 사실은 버검 장관의 폭스비즈니스 출연을 통해 알려졌습니다."
+        "title": "&quot;약값 낮추고 미국서 생산하라&quot;…트럼프 'MFN' 확대에 K-바이오 전략도...",
+        "originallink": "https://www.biotimes.co.kr/news/articleView.html?idxno=34152",
+        "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=34152",
+        "description": "도널드 트럼프 미국 행정부의 최혜국 대우(MFN·Most Favored Nation) 약가 정책이 글로벌 대형 제약사에서 중견... 트럼프 대통령은 8월 31일 알콘, 아스텔라스 파마, 비원 메디슨, 브리지바이오, CSL, 쿄와기린, 선 파마, 테바... ",
+        "pubDate": "Tue, 01 Sep 2026 12:50:00 +0900",
+        "formatted_date": "09월 01일, 12시 50분",
+        "ai_summary": "트럼프 행정부의 최혜국 대우 약가 정책 확대에 따라 글로벌 제약사들의 대응이 분주해졌습니다. 미국 내 생산 강화 요구 등 변화하는 정책에 K-바이오의 전략 수정이 요구됩니다."
       },
       {
-        "title": "“내가 트럼프 오판… 富축적 만족 않고 폭군 돼”",
-        "originallink": "https://www.munhwa.com/article/11613633?ref=naver",
-        "link": "https://n.news.naver.com/mnews/article/021/0002815427?sid=104",
-        "description": "도널드 트럼프 미국 대통령 등에 대해 오판을 내렸다고 인정했다. 당시에만 해도 부(富)를 축적하는 데... 하지만 그저 부자가 되는 것만으로는 그(트럼프)에게 충분하지 않다는 사실을 그때는 미처 알지 못했다”고... ",
-        "pubDate": "Tue, 01 Sep 2026 11:50:00 +0900",
-        "formatted_date": "09월 01일, 11시 50분",
-        "ai_summary": "트럼프 대통령에 대해 과거 오판을 내렸다는 비판이 제기되었습니다. 부 축적에 만족하지 못한 트럼프가 점차 폭군으로 변했다는 부정적인 평가가 나오고 있습니다."
+        "title": "[이슈] 트럼프 &quot;韓, 이란전 안도와…기억할 것&quot; 또 다시 불만 표시…靑...",
+        "originallink": "https://www.polinews.co.kr/news/articleView.html?idxno=741837",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=741837",
+        "description": "도널드 트럼프 미국 대통령이 지난달 30일(이하 현지시간) 공개된 폭스뉴스 인터뷰에서 한국이 미국의 도움을 받고도 이란 전쟁 때 도와주지 않았다며 &quot;기억해 둘 것&quot;이라고 말했다. 앞서 트럼프 대통령은 지난달 16일에도... ",
+        "pubDate": "Tue, 01 Sep 2026 12:49:00 +0900",
+        "formatted_date": "09월 01일, 12시 49분",
+        "ai_summary": "트럼프 대통령이 한국이 이란 전쟁 당시 미국을 돕지 않은 점을 언급하며 노골적인 불만을 드러냈습니다. 동맹국인 한국의 기여가 부족하다는 압박으로 해석됩니다."
       },
       {
-        "title": "역대급 기름값에 놀란 트럼프, 정유업체들 긴급 호출",
-        "originallink": "https://www.munhwa.com/article/11613614?ref=naver",
-        "link": "https://n.news.naver.com/mnews/article/021/0002815410?sid=104",
-        "description": "11월 중간선거를 앞두고 있는 도널드 트럼프 대통령은 9월 1일(현지시간) 정유업계와 에너지 유통업계... 미국과 이란 간 교전이 재개되며 국제유가가 다시 상승세로 나타나자 발등에 불이 떨어진 트럼프 대통령은 곧바로... ",
-        "pubDate": "Tue, 01 Sep 2026 11:49:00 +0900",
-        "formatted_date": "09월 01일, 11시 49분",
-        "ai_summary": "미국과 이란의 교전으로 유가가 상승하자 트럼프 대통령이 정유 및 에너지 업계를 긴급 호출했습니다. 중간선거를 앞두고 치솟는 기름값에 대응하기 위한 조치로 풀이됩니다."
+        "title": "美 웨스팅하우스, AI 붐·트럼프 원전 지원 힘입어 상장 추진",
+        "originallink": "https://www.fnnews.com/news/202609011023583635",
+        "link": "https://n.news.naver.com/mnews/article/014/0005569252?sid=101",
+        "description": "이는 인공지능(AI)과 미국 도널드 트럼프 정부의 전폭적인 지원 덕분이다. 미국 월스트리트저널(WSJ)은 지난달 31일(현지시간) 보도에서 웨스팅하우스가 AI 시대의 전력 수요 증가와 트럼프 정부의 지원에 힘입어... ",
+        "pubDate": "Tue, 01 Sep 2026 12:45:00 +0900",
+        "formatted_date": "09월 01일, 12시 45분",
+        "ai_summary": "미국 원전 기업 웨스팅하우스가 AI발 전력 수요 증가와 트럼프 정부의 전폭적인 원전 지원 정책에 힘입어 상장을 추진합니다."
       },
       {
-        "title": "트럼프, 불리한 판세에 공화당과 거리두기…중간선거 대통령과 무관?",
-        "originallink": "https://www.newsis.com/view/NISX20260901_0003770955",
-        "link": "https://n.news.naver.com/mnews/article/003/0014161122?sid=104",
-        "description": "도널드 트럼프 대통령은 선거 패배에 대비해 공화당에 책임을 전가하려는 모습을 보이고 있다. 트럼프 대통령은 지난달 30일(현지 시간) 방영된 폭스뉴스와의 인터뷰에서 &quot;현장에 나가서, 내가 대통령 선거 때 그랬던... ",
-        "pubDate": "Tue, 01 Sep 2026 11:47:00 +0900",
-        "formatted_date": "09월 01일, 11시 47분",
-        "ai_summary": "트럼프 대통령이 중간선거 판세가 불리해지자 공화당과 거리를 두며 책임을 회피하려는 움직임을 보이고 있습니다. 선거 결과와 자신을 분리하려는 의도로 해석됩니다."
+        "title": "트럼프, 애플에 직접 연락해 ‘온타리오호→아메리카호’ 변경 요구",
+        "originallink": "https://www.joongang.co.kr/article/25458043",
+        "link": "https://n.news.naver.com/mnews/article/025/0003548233?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 애플에 직접 연락해 지도 애플리케이션에서 온타리오호(Lake Ontario)의 명칭을... 더그 버검 미국 내무장관은 31일(현지시간) 폭스비즈니스 방송에 출연해 트럼프 대통령이 &quot;애플 측에 직접... ",
+        "pubDate": "Tue, 01 Sep 2026 12:36:00 +0900",
+        "formatted_date": "09월 01일, 12시 36분",
+        "ai_summary": "트럼프 대통령이 애플 측에 직접 연락하여 지도 앱 내 '온타리오호'의 명칭을 '아메리카호'로 변경할 것을 요구했습니다."
       },
       {
         "title": "트럼프, 애플에 직접 연락해 '아메리카호'로 변경 요구",
-        "originallink": "https://www.yna.co.kr/view/AKR20260901099000009?input=1195m",
-        "link": "https://n.news.naver.com/mnews/article/001/0016282318?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 애플에 직접 연락해 지도 애플리케이션에서 온타리오호(Lake Ontario)를... AP통신과 BBC방송 등 외신에 따르면 버검 장관은 이날 폭스비즈니스 방송에 출연해 트럼프 대통령이 &quot;애플 측에... ",
-        "pubDate": "Tue, 01 Sep 2026 11:45:00 +0900",
-        "formatted_date": "09월 01일, 11시 45분",
-        "ai_summary": "트럼프 대통령이 애플 측에 지도 애플리케이션 내 온타리오호 명칭을 '아메리카호'로 변경하도록 요구했습니다. 외신들은 이를 통해 트럼프의 지명 변경 요구 사실을 보도했습니다."
+        "originallink": "https://biz.sbs.co.kr/article_hub/20000332010?division=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/374/0000530503?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 애플에 직접 연락해 지도 애플리케이션에서 온타리오호(Lake Ontario)를... AP통신과 BBC방송 등 외신에 따르면 버검 장관은 폭스비즈니스 방송에 출연해 트럼프 대통령이 &quot;애플 측에 직접... ",
+        "pubDate": "Tue, 01 Sep 2026 12:36:00 +0900",
+        "formatted_date": "09월 01일, 12시 36분",
+        "ai_summary": "트럼프 대통령이 애플 지도 앱에 표시된 온타리오호 명칭을 아메리카호로 바꾸라고 직접 요구한 사실이 외신을 통해 알려졌습니다."
       },
       {
-        "title": "국방예산 70조원 돌파…2035년까지 트럼프 요구 'GDP 대비 3.5%' 맞춘다",
-        "originallink": "https://www.mt.co.kr/economy/2026/09/01/2026083109565720381",
-        "link": "https://n.news.naver.com/mnews/article/008/0005407645?sid=101",
-        "description": "정부의 국방비 증액 기조는 미국 도널드 트럼프 행정부의 '동맹 기여 요구'가 영향을 줬단 분석이다. 지난해 한미 정상회담을 통해 정부는 GDP의 3.5%까지 국방비를 늘리기로 했다. 지난해 기준 우리나라의 GDP 대비... ",
-        "pubDate": "Tue, 01 Sep 2026 11:42:00 +0900",
-        "formatted_date": "09월 01일, 11시 42분",
-        "ai_summary": "정부가 미국의 방위비 분담 요구에 따라 2035년까지 국방 예산을 GDP 대비 3.5% 수준으로 증액하기로 결정했습니다."
+        "title": "트럼프, 데이터센터 반대 지역에 &quot;낙후되고 가난해질 것&quot; 경고",
+        "originallink": "https://www.aitimes.com/news/articleView.html?idxno=214678",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=214678",
+        "description": "트럼프 미국 대통령이 AI 데이터센터 건설에 반대하는 미국 지역사회를 향해 &quot;낙후되고 가난해질 것&quot;이라고 강하게 경고했다. AI 산업 육성과 데이터센터 확대를 국가 경쟁력과 일자리 창출의 핵심으로 내세우는 트럼프... ",
+        "pubDate": "Tue, 01 Sep 2026 12:32:00 +0900",
+        "formatted_date": "09월 01일, 12시 32분",
+        "ai_summary": "트럼프 대통령이 AI 데이터센터 건설을 반대하는 지역사회에 낙후와 빈곤을 경고하며 산업 육성 의지를 피력했습니다."
       },
       {
-        "title": "&quot;트럼프 장남 참여 투자사, 폴리마켓에 4천100억 원 추가 투자&quot;",
-        "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008731789&plink=ORI&cooper=NAVER",
-        "link": "https://n.news.naver.com/mnews/article/055/0001384938?sid=104",
-        "description": "▲ 3일(현지시간) 대통령 전용 헬리콥처 '머린 원'에서 내려서 백악관 남측 잔디를 걸어가고 있는 도널드 트럼프(오른쪽) 미국 대통령과 그의 장남 도널드 트럼프 주니어(왼쪽) 도널드 트럼프 미국 대통령의 장남인... ",
-        "pubDate": "Tue, 01 Sep 2026 11:37:00 +0900",
-        "formatted_date": "09월 01일, 11시 37분",
-        "ai_summary": "트럼프 대통령의 장남이 파트너로 있는 투자사 1789캐피털이 예측시장 플랫폼 폴리마켓에 4,100억 원을 추가 투자했습니다."
+        "title": "“강력히 타격할 것” 트럼프, 이란에 보복 예고···‘잔디 깎기’식...",
+        "originallink": "https://www.khan.co.kr/article/202609011228001",
+        "link": "https://n.news.naver.com/mnews/article/032/0003467702?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 요르단 내 미군 기지를 공격한 이란을 “강력히 타격”할 것이라며 보복을 예고했다. 트럼프 행정부는 이란이 미사일 능력을 재건하지 못하도록 주기적으로 제한적 공습을 가하는 이른바... ",
+        "pubDate": "Tue, 01 Sep 2026 12:28:00 +0900",
+        "formatted_date": "09월 01일, 12시 28분",
+        "ai_summary": "트럼프 대통령이 미군 기지를 공격한 이란에 강력한 보복을 예고하며 지속적인 제한적 공습 가능성을 시사했습니다."
       },
       {
-        "title": "트럼프 &quot;포클랜드 제도 관련 美입장 재검토&quot;…英국방비 증액 압박",
-        "originallink": "https://www.newsis.com/view/NISX20260901_0003770952",
-        "link": "https://n.news.naver.com/mnews/article/003/0014161029?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 영국과 아르헨티나의 분쟁 지역인 포클랜드 제도에 대한 미국 입장을 재검토하고 있다고 밝혔다. 영국의 국방비 증강을 압박하기 위한 지렛대라는 해석이 나온다. 트럼프 대통령은 지난달... ",
-        "pubDate": "Tue, 01 Sep 2026 11:34:00 +0900",
-        "formatted_date": "09월 01일, 11시 34분",
-        "ai_summary": "트럼프 대통령이 포클랜드 제도에 대한 미국의 입장을 재검토하겠다고 밝히며 영국을 향해 국방비 증액을 압박했습니다."
+        "title": "거칠어진 트럼프 금리 발언…되려 장기 금리 급등 압력",
+        "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432873",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432873",
+        "description": "도널드 트럼프 미국 대통령이 국채 금리와 케빈 워시 연방준비제도(Fed·연준) 의장에 대한 발언 강도를... 도널드 트럼프 미국 대통령은 31일(현지시간) 케빈 워시 연방준비제도(연준·Fed) 의장에 대해 &quot;나는 그를 매우... ",
+        "pubDate": "Tue, 01 Sep 2026 12:28:00 +0900",
+        "formatted_date": "09월 01일, 12시 28분",
+        "ai_summary": "트럼프 대통령의 연준 의장 및 금리 관련 발언 강도가 높아지며 장기 국채 금리 상승 압력을 가중시키고 있습니다."
       },
       {
-        "title": "&quot;트럼프 장남 참여 투자사, 폴리마켓에 4천100억원 추가 투자&quot; 블룸버그...",
-        "originallink": "https://biz.sbs.co.kr/article_hub/20000331994?division=NAVER",
-        "link": "https://n.news.naver.com/mnews/article/374/0000530457?sid=104",
-        "description": "도널드 트럼프 미국 대통령의 장남인 트럼프 주니어가 파트너 지위에 있는 1789캐피털이 예측시장 플랫폼 폴리마켓에 약 3억달러(약 4천100억원)를 추가 투자한다고 월스트리트저널(WSJ)과 블룸버그 통신 등이... ",
-        "pubDate": "Tue, 01 Sep 2026 11:33:00 +0900",
-        "formatted_date": "09월 01일, 11시 33분",
-        "ai_summary": "트럼프 주니어가 참여한 투자사 1789캐피털이 폴리마켓에 4,100억 원 규모의 대규모 추가 투자를 결정했습니다."
+        "title": "美中회담 앞두고 트럼프 측근 상원의원 방중…테크업체들 방문",
+        "originallink": "https://www.yna.co.kr/view/AKR20260901101400083?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016282464?sid=104",
+        "description": "도널드 트럼프 미국 대통령의 측근으로 통하는 스티브 데인스 미 연방 상원의원(공화·몬태나)이 중국 첨단... 데인스 의원은 공화당 내 대표적 친(親)트럼프 인사로 꼽히는 인물이다. 그는 '트럼프 1기' 미중 무역전쟁 때... ",
+        "pubDate": "Tue, 01 Sep 2026 12:22:00 +0900",
+        "formatted_date": "09월 01일, 12시 22분",
+        "ai_summary": "트럼프 측근인 스티브 데인스 상원의원이 미중 회담을 앞두고 중국 테크 기업을 방문하며 물밑 대화에 나섰습니다."
       },
       {
-        "title": "“세계 최대 석유 딜”…트럼프, 웃지 못하는 이유는 [이슈+]",
-        "originallink": "https://www.ekn.kr/web/view.php?key=20260901024258886",
-        "link": "https://www.ekn.kr/web/view.php?key=20260901024258886",
-        "description": "도널드 트럼프 미국 대통령이 대규모 거래를 통해 베네수엘라 원유에 접근권을 확보했지만 이에 따른... 미 백악관은 31일(현지시간) 팩트시트를 통해 트럼프 대통령이 베네수엘라와의 합의를 통해 확인된 원유 매장량... ",
-        "pubDate": "Tue, 01 Sep 2026 11:32:00 +0900",
-        "formatted_date": "09월 01일, 11시 32분",
-        "ai_summary": "트럼프 대통령이 베네수엘라 원유 접근권을 확보하는 대규모 거래를 성사시켰으나, 그에 따른 부작용으로 고민이 깊어지고 있습니다."
+        "title": "트럼프 ‘이란 추가 타격’ 예고…국제유가 급등",
+        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651511&ref=A",
+        "link": "https://n.news.naver.com/mnews/article/056/0012248547?sid=104",
+        "description": "가운데 트럼프 미국 대통령이 이란을 강하게 타격할 거라며 추가 군사 대응을 예고했습니다. 호르무즈 해협 긴장이 다시 고조되면서 국제 유가는 급등했습니다. 워싱턴 김지숙 특파원입니다. [리포트] 트럼프 대통령은... ",
+        "pubDate": "Tue, 01 Sep 2026 12:19:00 +0900",
+        "formatted_date": "09월 01일, 12시 19분",
+        "ai_summary": "트럼프 대통령의 이란 추가 타격 예고로 호르무즈 해협 긴장이 고조되면서 국제 유가가 급등했습니다."
       }
     ],
     "유가": [
+      {
+        "title": "미·이란 한 달만에 무력충돌...국제유가 상승",
+        "originallink": "http://www.e2news.com/news/articleView.html?idxno=333772",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=333772",
+        "description": "미국과 이란의 군사적 충돌이 다시 벌어지면서 국제유가가 상승했다. 1일 한국석유공사에 따르면 지난달... 베네수엘라산 원유를 미국 전략비축유(SPR) 보충에 사용할 계획이라고 밝히며 유가 상승폭을 일부 제한했다.",
+        "pubDate": "Tue, 01 Sep 2026 12:20:00 +0900",
+        "formatted_date": "09월 01일, 12시 20분",
+        "ai_summary": "미국과 이란의 군사적 충돌 재개로 국제 유가가 상승했으며, 미국은 전략비축유 보충 계획을 통해 유가 안정을 꾀하고 있습니다."
+      },
+      {
+        "title": "트럼프 ‘이란 추가 타격’ 예고…국제유가 급등",
+        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651511&ref=A",
+        "link": "https://n.news.naver.com/mnews/article/056/0012248547?sid=104",
+        "description": "호르무즈 해협 긴장이 다시 고조되면서 국제 유가는 급등했습니다. 워싱턴 김지숙 특파원입니다. [리포트]... &quot;] 호르무즈 해협을 잘 통제하고 있다는 트럼프 대통령의 공언에도 국제유가는 급등했습니다. 이번 충돌이... ",
+        "pubDate": "Tue, 01 Sep 2026 12:19:00 +0900",
+        "formatted_date": "09월 01일, 12시 19분",
+        "ai_summary": "호르무즈 해협의 긴장 고조로 트럼프 대통령의 통제 공언에도 불구하고 국제 유가는 급등세를 보이고 있습니다."
+      },
+      {
+        "title": "美·이란 보복전 재개…유가·국채 금리 급등",
+        "originallink": "https://biz.sbs.co.kr/article_hub/20000331987?division=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/374/0000530493?sid=101",
+        "description": "중동 리스크가 커지면서 국제 유가와 미 국채 금리 모두 불안한 흐름을 나타내고 있는데요. 자세한 상황... [앵커] 국제유가는 민감하게 반응했죠? [기자] 네, 서부텍사스산원유, WTI와 브렌트유 모두 2% 넘게 올랐습니다.... ",
+        "pubDate": "Tue, 01 Sep 2026 12:03:00 +0900",
+        "formatted_date": "09월 01일, 12시 03분",
+        "ai_summary": "미국과 이란의 보복전이 재개되며 중동 리스크가 부각되어 국제 유가와 미 국채 금리가 동반 급등했습니다."
+      },
+      {
+        "title": "유가·금리 불안에 코스피 약세...장중 등락 거듭",
+        "originallink": "https://www.ytn.co.kr/_ln/0102_202609011159318270",
+        "link": "https://n.news.naver.com/mnews/article/052/0002401099?sid=101",
+        "description": "중동 정세가 다시 불안해지면서 국제 유가와 국채금리가 오르며 미국 증시도 하락세를 보였습니다. 오늘... 국제유가가 오르고 미국 국채 금리도 올라 10년물의 경우 19개월 만에 최고치를 기록하기도 했습니다. 다만... ",
+        "pubDate": "Tue, 01 Sep 2026 11:59:00 +0900",
+        "formatted_date": "09월 01일, 11시 59분",
+        "ai_summary": "중동 정세 불안으로 국제 유가와 미 국채 금리가 급등하며 한국 증시를 포함한 시장 전반에 약세 흐름이 나타났습니다."
+      },
       {
         "title": "中 유가 '껑충'..장중 亞 10곳 증시 '혼조', 필리핀증시는 '급등'",
         "originallink": "http://www.choicenews.co.kr/news/articleView.html?idxno=170788",
@@ -608,7 +644,7 @@
         "description": "미국 대 이란 간 긴장 관계 고조 속에 미국-런던 유가가 상승하고 상하이 유가가 급등한 가운데 이같은 흐름이 나타나고 있다. 이 시각 한국증시 코스피(KOSPI) 지수는 6786.84로 0.49% 하락한 채로 움직이고... ",
         "pubDate": "Tue, 01 Sep 2026 11:30:00 +0900",
         "formatted_date": "09월 01일, 11시 30분",
-        "ai_summary": "미국과 이란 간의 긴장 고조로 국제 유가가 상승하면서 아시아 증시가 혼조세를 보이고 있습니다."
+        "ai_summary": "미-이란 긴장 고조에 따른 국제 유가 상승의 여파로 아시아 증시가 혼조세를 보이며 등락을 거듭하고 있습니다."
       },
       {
         "title": "이란 긴장·유가 상승 속 美 10년물 4.757%…19개월 최고",
@@ -617,7 +653,7 @@
         "description": "이란을 둘러싼 긴장이 다시 높아지고 국제유가가 뛰면서 미국 장기 국채 금리가 급등했다. 주택담보대출과 기업 자금조달 비용에 영향을 주는 10년 만기 국채 수익률이 4.75%를 넘어 증시 조정 우려도 커졌다.... ",
         "pubDate": "Tue, 01 Sep 2026 11:19:00 +0900",
         "formatted_date": "09월 01일, 11시 19분",
-        "ai_summary": "이란발 지정학적 리스크와 유가 상승 여파로 미국 10년물 국채 금리가 19개월 만에 최고치로 급등했습니다."
+        "ai_summary": "이란발 지정학적 긴장과 국제유가 상승으로 미국 10년 만기 국채 금리가 19개월 만에 최고치를 기록했습니다. 금리 급등으로 인해 증시 조정에 대한 투자자들의 우려가 커지고 있습니다."
       },
       {
         "title": "코스피, 중동 긴장 재고조에 6,780선 약세…유가·금리 부담에 반도체도...",
@@ -626,16 +662,7 @@
         "description": "국제유가와 미국 국채금리가 동시에 상승하면서 위험자산 투자심리가 위축된 가운데 외국인과 기관의... 특히 기타법인은 이날까지 유가증권시장에서 10거래일 연속 순매수를 이어가고 있다. 삼성전자의 임직원... ",
         "pubDate": "Tue, 01 Sep 2026 11:18:00 +0900",
         "formatted_date": "09월 01일, 11시 18분",
-        "ai_summary": "국제 유가 상승과 미 국채 금리 급등으로 투자 심리가 위축되며 코스피가 약세를 보이고 있습니다."
-      },
-      {
-        "title": "유가·환율 내렸는데…계속 오르는 식품값",
-        "originallink": "https://biz.heraldcorp.com/article/10858537?ref=naver",
-        "link": "https://n.news.naver.com/mnews/article/016/0002691097?sid=101",
-        "description": "고유가·고환율에 따른 원가 부담이 주된 이유라지만, 정작 유가와 환율은 하락세로 돌아선 지 오래다. 1일 업계에 따르면 동원F&amp;B는 이날부터 ‘동원참치’ 등 참치캔류 제품 가격을 9% 인상한다. 음료 제품은 9~10... ",
-        "pubDate": "Tue, 01 Sep 2026 11:12:00 +0900",
-        "formatted_date": "09월 01일, 11시 12분",
-        "ai_summary": "유가와 환율이 하락세임에도 불구하고 참치캔, 음료 등 주요 식품 가격이 잇따라 인상되고 있습니다."
+        "ai_summary": "국제유가와 미국 국채금리 동반 상승으로 위험자산 선호 심리가 위축되며 코스피가 약세를 보이고 있습니다. 반도체 관련주를 중심으로 외국인과 기관의 매도세가 이어지는 상황입니다."
       },
       {
         "title": "미·이란 재충돌에 국제유가 2％대 급등..뉴욕증시, 동반 하락",
@@ -644,7 +671,16 @@
         "description": "미국과 이란이 약 한 달 만에 무력 공방을 재개하면서 국제유가가 큰 폭으로 상승했습니다. 31일(현지시간) 10월 인도분 서부텍사스산원유(WTI)는 전장 대비 2.36달러(2.83％) 뛴 배럴당 85.76달러에 거래를... ",
         "pubDate": "Tue, 01 Sep 2026 11:12:00 +0900",
         "formatted_date": "09월 01일, 11시 12분",
-        "ai_summary": "미국과 이란의 무력 공방 재개로 국제 유가가 2%대 급등했으며, 이에 따라 뉴욕 증시도 동반 하락했습니다."
+        "ai_summary": "미국과 이란의 무력 공방 재개로 국제유가가 2%대 급등하며 시장 불안이 확산되고 있습니다. 이로 인해 투자 심리가 얼어붙으며 뉴욕 증시도 동반 하락했습니다."
+      },
+      {
+        "title": "유가·환율 내렸는데…계속 오르는 식품값",
+        "originallink": "https://biz.heraldcorp.com/article/10858537?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/016/0002691097?sid=101",
+        "description": "고유가·고환율에 따른 원가 부담이 주된 이유라지만, 정작 유가와 환율은 하락세로 돌아선 지 오래다. 1일 업계에 따르면 동원F&amp;B는 이날부터 ‘동원참치’ 등 참치캔류 제품 가격을 9% 인상한다. 음료 제품은 9~10... ",
+        "pubDate": "Tue, 01 Sep 2026 11:12:00 +0900",
+        "formatted_date": "09월 01일, 11시 12분",
+        "ai_summary": "최근 유가와 환율이 하락세로 돌아섰음에도 불구하고 식품업계는 제품 가격을 잇따라 인상하고 있습니다. 원가 부담을 이유로 내세우지만 소비자들의 가격 체감도는 여전히 높은 상황입니다."
       },
       {
         "title": "[서기수의 경제+] 금(金), 달러($), 유가(Oil)야 너희 서로 친하니? 싫어...",
@@ -653,46 +689,28 @@
         "description": "◇ 금은 공포의 가격, 유가는 경기의 체온, 달러는 돈의 중력이다 투자자들은 흔히 “달러가 오르면 금은 떨어지고, 달러가 내리면 금과 유가는 오른다”고 말한다. 대체로 맞는 설명이다. 하지만 금융시장에는 언제나... ",
         "pubDate": "Tue, 01 Sep 2026 11:04:00 +0900",
         "formatted_date": "09월 01일, 11시 04분",
-        "ai_summary": "달러, 금, 유가는 서로 밀접한 상관관계를 가지며 금융시장에 영향을 미칩니다. 일반적으로 달러가 오르면 금은 떨어지고, 반대인 경우 금과 유가가 상승하는 경향이 있습니다."
-      },
-      {
-        "title": "중동발 악재에 유가·금리 부담…반도체, 코스피 방패 될까",
-        "originallink": "https://www.sisajournal.com/news/articleView.html?idxno=385556",
-        "link": "https://n.news.naver.com/mnews/article/586/0000137194?sid=101",
-        "description": "미·이란 한 달 만에 무력 공방 재개…코스피, 장 초반 6800선 내줘 국제유가·美 국채금리 상승…반도체... 국제유가와 미국 국채금리가 동반 상승하면서 투자 심리를 짓누르는 가운데 미국 반도체주 강세와 국내... ",
-        "pubDate": "Tue, 01 Sep 2026 11:01:00 +0900",
-        "formatted_date": "09월 01일, 11시 01분",
-        "ai_summary": "중동의 지정학적 긴장감 고조로 국제유가와 미국 국채금리가 상승하며 국내 증시를 압박하고 있습니다. 투자자들은 반도체주가 코스피의 방패 역할을 할 수 있을지 주목하고 있습니다."
-      },
-      {
-        "title": "[증시 오늘(1일) 주요 특징주] 국제유가 급등·자사주 매입에 쏠린 눈",
-        "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86734",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86734",
-        "description": "이날 장 초반 시장에서는 중동 지역의 지정학적 긴장감 고조에 따른 국제유가 급등 수혜주와 자사주 매입 및... 우선 미국과 이란 간의 군사적 충돌 우려로 글로벌 원유 공급망 불안이 확대되며 국제유가가 급등세를... ",
-        "pubDate": "Tue, 01 Sep 2026 10:58:00 +0900",
-        "formatted_date": "09월 01일, 10시 58분",
-        "ai_summary": "미·이란 간 군사적 충돌 우려로 국제유가가 급등하며 관련 수혜주들이 시장의 관심을 받고 있습니다. 증시는 원유 공급망 불안과 주요 기업의 자사주 매입 이슈에 따라 변동성을 보입니다."
-      },
-      {
-        "title": "[포커스] 달러 약한데 환율은 1370원…원화 누르는 '고유가·고금리'",
-        "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=811456",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=811456",
-        "description": "수급의 방어막이 약해진 자리를 중동 불안과 국제유가 상승, 미국 장기금리 부담이 채우면서 원화가 다시... 고유가는 원화에 특히 부담이다. 한국은 에너지 수입 의존도가 높은 만큼 유가 상승이 교역 여건에 부담을... ",
-        "pubDate": "Tue, 01 Sep 2026 10:58:00 +0900",
-        "formatted_date": "09월 01일, 10시 58분",
-        "ai_summary": "달러 가치와 무관하게 고유가와 고금리 여파로 원화 가치가 하락 압력을 받고 있습니다. 에너지 수입 의존도가 높은 한국 경제에 유가 상승은 큰 부담으로 작용합니다."
-      },
-      {
-        "title": "미국·이란 충돌 재개에 국제유가는 3% 급등",
-        "originallink": "https://www.junggi.co.kr/news/articleView.html?idxno=37612",
-        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=37612",
-        "description": "31일(현지시간) 미국 뉴욕시장에서 국제유가는 3% 가까이 급등했으나, 1일 서울 외환시장에서 원달러... 미·이란 교전에 솟구친 국제유가, 인플레이션 자극 우려 미군이 이란 남부 호르무즈 해협의 라라크섬 로켓... ",
-        "pubDate": "Tue, 01 Sep 2026 10:52:00 +0900",
-        "formatted_date": "09월 01일, 10시 52분",
-        "ai_summary": "미국과 이란의 교전 재개로 국제유가가 3% 가까이 급등했습니다. 유가 상승에 따른 인플레이션 자극 우려가 시장 전반에 퍼지고 있습니다."
+        "ai_summary": "금, 달러, 유가는 금융시장에서 서로 밀접하게 연관되어 변동하는 지표입니다. 일반적으로 달러 가치와 반대 흐름을 보이지만 시장 상황에 따라 그 상관관계는 변화할 수 있습니다."
       }
     ],
     "코스피": [
+      {
+        "title": "코스피, 6700대서 약보합…외국인·기관 동반 매도",
+        "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=317047",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=317047",
+        "description": "코스피가 미국과 이란의 무력 공방 재개에 따른 위험회피 심리로 약세를 보이고 있지만 반도체 수출... 1일 한국거래소 등에 따르면, 오전 11시 10분 현재 코스피는 전장보다 27.40포인트, 0.40% 내린 6792.62를... ",
+        "pubDate": "Tue, 01 Sep 2026 12:18:00 +0900",
+        "formatted_date": "09월 01일, 12시 18분",
+        "ai_summary": "미·이란 긴장 고조에 따른 위험 회피 심리로 코스피가 6700대에서 약보합세를 유지하고 있습니다. 외국인과 기관의 매도세가 지수 하락을 압박하고 있습니다."
+      },
+      {
+        "title": "유가·금리 불안에 코스피 약세...장중 등락 거듭",
+        "originallink": "https://www.ytn.co.kr/_ln/0102_202609011159318270",
+        "link": "https://n.news.naver.com/mnews/article/052/0002401099?sid=101",
+        "description": "오늘 코스피도 장 초반 하락 출발했는데 증시는 오전 사이 어떻게 반응했을까요. 취재기자 연결해 자세히 알아보겠습니다. 최민기 기자! 현재 증시 상황은 어떻습니까. [기자] 네, 코스피는 오늘 약세를 보이며... ",
+        "pubDate": "Tue, 01 Sep 2026 11:59:00 +0900",
+        "formatted_date": "09월 01일, 11시 59분",
+        "ai_summary": "국제유가 상승과 금리 불안이 겹치며 국내 증시가 장중 등락을 거듭하며 약세를 보이고 있습니다. 외부 악재로 인한 투자자들의 관망세가 짙어진 상태입니다."
+      },
       {
         "title": "'코스피 7000' 위에 쌓인 개인매물 110조…9월 증시는",
         "originallink": "https://www.junggi.co.kr/news/articleView.html?idxno=37611",
@@ -700,7 +718,7 @@
         "description": "통한 코스피 영업이익 컨센서스 상향과 브로드컴 마이크론 등 미국 반도체주 실적을 계기로 국내 반도체주의 수급과 투자심리가 정상화될 가능성이 높다. 보고서는 9월 코스피 예상 레인지로 6300에서 7600포인트를... ",
         "pubDate": "Tue, 01 Sep 2026 11:54:00 +0900",
         "formatted_date": "09월 01일, 11시 54분",
-        "ai_summary": "코스피 지수 7000선 돌파를 앞두고 개인 매물 소화가 과제로 남아있습니다. 9월 증시는 반도체주 실적 개선과 수급 정상화를 통해 6300~7600포인트 사이에서 움직일 전망입니다."
+        "ai_summary": "코스피 7000선 돌파를 앞두고 개인 매물 소화가 과제로 떠올랐습니다. 다만 반도체주 실적 개선 기대감에 따라 9월 코스피는 6300에서 7600포인트 사이의 움직임을 보일 것으로 전망됩니다."
       },
       {
         "title": "미·이란 재충돌에 1%대 하락 출발 코스피 6800선 등락",
@@ -709,7 +727,7 @@
         "description": "전날 장 막판 상승 반전했던 코스피가 오늘(1일)도 하락 출발한 이후 낙폭을 줄이고 있습니다. 중동 불안... [기자] 1%대 하락 출발한 코스피는 6800선을 내줬습니다. 코스닥도 1%대 약세를 보이며 장중 820선 밑으로... ",
         "pubDate": "Tue, 01 Sep 2026 11:38:00 +0900",
         "formatted_date": "09월 01일, 11시 38분",
-        "ai_summary": "중동 지역의 지정학적 불안이 지속되면서 코스피가 6800선을 내주고 하락 출발했습니다. 코스닥 또한 1%대 약세를 보이며 투자 심리가 위축된 모습을 보였습니다."
+        "ai_summary": "중동발 지정학적 불안이 지속되면서 코스피가 6800선을 내주고 하락 출발했습니다. 코스닥 역시 1%대 하락하며 장중 약세가 이어지고 있습니다."
       },
       {
         "title": "코스피, 장중 6700대서 등락 지속…코스닥은 1.8%대 하락",
@@ -718,7 +736,7 @@
         "description": "코스피가 1일 장중 6700선에서 제한적인 하락세를 보이고 있다. 반면 코스닥은 낙폭을 키우며 1.8%대 하락하고 있다. 이날 오전 11시 10분 기준 코스피는 전장보다 27.40포인트(0.40%) 내린 6792.62를 기록했다. 지수는... ",
         "pubDate": "Tue, 01 Sep 2026 11:30:00 +0900",
         "formatted_date": "09월 01일, 11시 30분",
-        "ai_summary": "코스피는 6700선에서 제한적인 하락 흐름을 이어가고 있습니다. 반면 코스닥 지수는 낙폭을 키우며 투자자들의 불안감을 반영하고 있습니다."
+        "ai_summary": "코스피가 6700선에서 등락을 반복하며 제한적인 하락세를 보이고 있습니다. 반면 코스닥은 낙폭을 확대하며 1.8%대 하락을 기록 중입니다."
       },
       {
         "title": "코스피, 중동 긴장 재고조에 6,780선 약세…유가·금리 부담에 반도체도...",
@@ -727,7 +745,7 @@
         "description": "매도세가 코스피를 압박하고 있다. 다만 개인투자자의 매수세가 확대되고 삼성전자 임직원 주식보상... 1일 오전 9시28분 기준 코스피는 전 거래일보다 31.51포인트(0.46%) 내린 6,788.51을 기록하고 있다. 이날 코스피는... ",
         "pubDate": "Tue, 01 Sep 2026 11:18:00 +0900",
         "formatted_date": "09월 01일, 11시 18분",
-        "ai_summary": "중동 긴장 고조와 유가·금리 부담으로 코스피가 6780선에서 약세를 보이고 있습니다. 다만 개인투자자의 매수세와 특정 기업의 주식 보상 이슈가 지수를 방어하고 있습니다."
+        "ai_summary": "중동 긴장 고조와 유가·금리 부담으로 코스피가 약세를 보이고 있습니다. 외국인의 매도세 속에서 개인투자자의 매수가 이어지고 있습니다."
       },
       {
         "title": "코스피, 장중 6,700대서 등락 지속…코스닥은 낙폭 확대",
@@ -736,16 +754,7 @@
         "description": "강세 코스피가 1일 장중 6,700대에서 제한적인 하락세를 보이고 있다. 반면 코스닥지수는 낙폭을 확대 중이다. 이날 오전 11시 10분 기준 코스피는 전장보다 27.40포인트(0.40%) 내린 6,792.62다. 지수는 전장보다 35.... ",
         "pubDate": "Tue, 01 Sep 2026 11:17:00 +0900",
         "formatted_date": "09월 01일, 11시 17분",
-        "ai_summary": "코스피가 장중 6700선에서 등락을 반복하며 횡보세를 보이고 있습니다. 코스닥은 낙폭을 확대하며 시장의 불확실성이 지속되는 상황입니다."
-      },
-      {
-        "title": "코스피 장중 반등…외국인·기관은 순매도",
-        "originallink": "https://www.vegannews.co.kr/news/article.html?no=385599",
-        "link": "https://www.vegannews.co.kr/news/article.html?no=385599",
-        "description": "전환 코스피가 1일 하락 출발한 뒤 오전 10시께 상승 전환했다. 외국인과 기관이 유가증권시장에서 동반 순매도했지만 개인 매수와 반도체 대형주의 반등이 지수를 끌어올렸다. 한국거래소에 따르면 코스피는... ",
-        "pubDate": "Tue, 01 Sep 2026 11:14:00 +0900",
-        "formatted_date": "09월 01일, 11시 14분",
-        "ai_summary": "코스피가 하락 출발 후 반등에 성공했습니다. 외국인과 기관의 순매도에도 불구하고 개인 매수와 반도체 대형주가 상승을 견인했습니다."
+        "ai_summary": "코스피가 장중 6,700선에서 등락을 반복하며 제한적인 하락세를 보이고 있습니다. 반면 코스닥지수는 낙폭을 확대하는 모습입니다."
       },
       {
         "title": "코스피, 개인-외인·기관 줄다리기에 약보합세[fn오전시황]",
@@ -754,7 +763,7 @@
         "description": "코스피가 개인 매수세와 외국인·기관의 매도세가 맞서면서 약보합세를 보이고 있다. 대형 반도체주가... 1일 한국거래소에 따르면 이날 오전 10시 43분 코스피는 전일 대비 3.61p(0.05%) 내린 6816.14에 거래되고... ",
         "pubDate": "Tue, 01 Sep 2026 11:14:00 +0900",
         "formatted_date": "09월 01일, 11시 14분",
-        "ai_summary": "개인 투자자와 외국인·기관의 매매 공방 속에 코스피가 약보합세를 유지하고 있습니다. 대형 반도체주 흐름에 따라 지수가 등락하고 있습니다."
+        "ai_summary": "코스피가 개인의 매수와 외국인·기관의 매도가 팽팽하게 맞서며 약보합세를 기록 중입니다. 대형 반도체주가 시장에 영향을 미치고 있습니다."
       },
       {
         "title": "코스피 떠난 개미, 코스닥서 8월 한달간 2조 순매수",
@@ -763,27 +772,18 @@
         "description": "코스피에 집중됐던 개인 투자자들의 투자 열풍이 코스닥으로 옮겨가고 있다. 7월엔 개인투자자들이... 같은 기간 코스피에서 개인투자자는 5조원대에서 3조원 규모로 순매수가 줄었다. 코스피에서 코스닥으로 개인... ",
         "pubDate": "Tue, 01 Sep 2026 11:14:00 +0900",
         "formatted_date": "09월 01일, 11시 14분",
-        "ai_summary": "개인 투자자의 자금이 코스피에서 코스닥으로 이동하는 현상이 뚜렷합니다. 8월 한 달간 코스닥에서 2조 원 규모의 순매수를 기록했습니다."
+        "ai_summary": "개인 투자자들의 투자처가 코스피에서 코스닥으로 이동하는 현상이 뚜렷합니다. 8월 한 달간 코스닥에서 2조 원 규모의 순매수를 기록했습니다."
       },
       {
-        "title": "코스피, 중동 이슈 소화하며 6,800선 등락",
-        "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20260901110502O5Q",
-        "link": "https://n.news.naver.com/mnews/article/422/0000901551?sid=101",
-        "description": "코스피가 6,800선 부근에서 보합세를 보이며 등락을 거듭하고 있습니다. 코스닥지수는 낙폭을 1%대로 키워... 오늘(31일) 하락 출발한 코스피가 장중 상승 전환해 6,800선을 회복했다가 다시 내리고 있습니다. 이날 지수는... ",
-        "pubDate": "Tue, 01 Sep 2026 11:05:00 +0900",
-        "formatted_date": "09월 01일, 11시 05분",
-        "ai_summary": "중동 이슈의 영향을 받는 코스피가 6,800선을 중심으로 등락을 거듭하고 있습니다. 코스닥은 하락 폭이 1%대로 확대되는 모습입니다."
-      },
-      {
-        "title": "[EBN 데이터센터] 장중 거래대금 삼성전자 압도적 1위...코스피는 금호...",
-        "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1722461",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1722461",
-        "description": "코스피와 코스닥 장중 거래 상위 종목군에서는 대형주보다는 개별 재료를 탄 중소형주 중심의 순환매가 두드러졌다. 코스피에서는 현대약품과 비에이치, 금호전기 등이 큰 폭으로 올랐고, 코스닥에서는... ",
-        "pubDate": "Tue, 01 Sep 2026 11:02:00 +0900",
-        "formatted_date": "09월 01일, 11시 02분",
-        "ai_summary": "장중 거래대금은 삼성전자가 1위를 차지했으나, 전반적으로 대형주보다 개별 재료를 보유한 중소형주 중심의 순환매 장세가 나타났습니다."
+        "title": "코스피 장중 반등…외국인·기관은 순매도",
+        "originallink": "https://www.vegannews.co.kr/news/article.html?no=385599",
+        "link": "https://www.vegannews.co.kr/news/article.html?no=385599",
+        "description": "전환 코스피가 1일 하락 출발한 뒤 오전 10시께 상승 전환했다. 외국인과 기관이 유가증권시장에서 동반 순매도했지만 개인 매수와 반도체 대형주의 반등이 지수를 끌어올렸다. 한국거래소에 따르면 코스피는... ",
+        "pubDate": "Tue, 01 Sep 2026 11:14:00 +0900",
+        "formatted_date": "09월 01일, 11시 14분",
+        "ai_summary": "코스피가 하락 출발 후 개인 매수세와 반도체 대형주의 반등에 힘입어 상승 전환했습니다. 외국인과 기관은 여전히 순매도를 유지하고 있습니다."
       }
     ]
   },
-  "last_updated": "2026-09-01 12:00:54"
+  "last_updated": "2026-09-01 13:00:31"
 }
