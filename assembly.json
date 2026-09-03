@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 07:58:03",
+  "last_updated": "2026-09-03 01:08:39",
   "schedules": [
     {
       "date": "2026-09-29",
@@ -8,6 +8,14 @@
       "committee": "",
       "location": "의원회관 제2간담회의실(202호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-16",
@@ -40,6 +48,14 @@
       "committee": "",
       "location": "의원회관 제7간담회의실(210호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:00",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-04",
@@ -76,6 +92,14 @@
     {
       "date": "2026-09-03",
       "time": "10:00",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "정무위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-03",
+      "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
       "committee": "정보위원회",
       "location": null,
@@ -99,6 +123,22 @@
     },
     {
       "date": "2026-09-02",
+      "time": "13:30~17:30",
+      "title": "K-TATTOO VISION 2031: 제도화에서 성장으로, 산업에서 세계로",
+      "committee": "",
+      "location": "국회도서관 대강당",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "10:40",
+      "title": "국민의힘 부산 지역 국회의원 일동, 금감원·금융위·산업은행 부산 이전 촉구 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-09-02",
       "time": "10:00",
       "title": "에너지 산업국가전략 국회 연속토론회: 1차-전기요금 선납제를 통한 전력인프라 투자 확대",
       "committee": "",
@@ -108,18 +148,18 @@
     {
       "date": "2026-09-01",
       "time": "15:00",
-      "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "문화체육관광위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-01",
-      "time": "15:00",
       "title": "에너지전환기 발전공기업, 어떻게 재편할 것인가",
       "committee": "",
       "location": "의원회관 제2소회의실",
       "type": "gihyu"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "15:00",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "문화체육관광위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-01",
@@ -148,10 +188,10 @@
     {
       "date": "2026-09-01",
       "time": "10:00",
-      "title": "AI 전환시대, 대한민국 온라인유통산업의 미래와 글로벌 경쟁력",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "sanja"
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
+      "type": "gihyu"
     },
     {
       "date": "2026-09-01",
@@ -160,6 +200,14 @@
       "committee": "정보위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "10:00",
+      "title": "AI 전환시대, 대한민국 온라인유통산업의 미래와 글로벌 경쟁력",
+      "committee": "",
+      "location": "의원회관 제1소회의실",
+      "type": "sanja"
     },
     {
       "date": "2026-09-01",
@@ -176,14 +224,6 @@
       "committee": "행정안전위원회",
       "location": null,
       "type": "session"
-    },
-    {
-      "date": "2026-09-01",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "기후에너지환경노동위원회",
-      "location": null,
-      "type": "gihyu"
     },
     {
       "date": "2026-09-01",
