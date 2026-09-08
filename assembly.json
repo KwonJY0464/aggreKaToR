@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 01:14:05",
+  "last_updated": "2026-09-08 08:09:16",
   "schedules": [
     {
       "date": "2026-09-29",
@@ -20,17 +20,25 @@
     {
       "date": "2026-09-16",
       "time": "10:00",
+      "title": "에너지 산업국가전략 국회 연속토론회: 3차-재생에너지 국산화 전략 방안",
+      "committee": "",
+      "location": "의원회관 제1간담회의실(201호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-09-16",
+      "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
       "committee": "국방위원회",
       "location": null,
       "type": "session"
     },
     {
-      "date": "2026-09-16",
-      "time": "10:00",
-      "title": "에너지 산업국가전략 국회 연속토론회: 3차-재생에너지 국산화 전략 방안",
+      "date": "2026-09-15",
+      "time": "14:30",
+      "title": "대한민국 반도체 미래지도와 인프라 전략 Part 4. 부지: 반도체 미래와 생존을 위한 연속 토론회",
       "committee": "",
-      "location": "의원회관 제1간담회의실(201호)",
+      "location": "의원회관 신관 제1세미나실",
       "type": "sanja"
     },
     {
@@ -58,12 +66,28 @@
       "type": "gihyu"
     },
     {
+      "date": "2026-09-11",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "보건복지위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
       "date": "2026-09-10",
       "time": "14:00~16:00",
       "title": "호남 반도체 클러스터, 전력은 어떻게 공급할 것인가?",
       "committee": "",
       "location": "의원회관 제10간담회의실(217호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "11:00",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "성평등가족위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-10",
@@ -117,6 +141,14 @@
       "date": "2026-09-08",
       "time": "14:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "재정경제기획위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "14:00",
+      "title": "제439회국회(정기회) 제1차 전체회의",
       "committee": "국토교통위원회",
       "location": null,
       "type": "session"
@@ -128,14 +160,6 @@
       "committee": "",
       "location": "의원회관 제6간담회의실(209호)",
       "type": "gihyu"
-    },
-    {
-      "date": "2026-09-08",
-      "time": "14:00",
-      "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "재정경제기획위원회",
-      "location": null,
-      "type": "session"
     },
     {
       "date": "2026-09-08",
@@ -204,16 +228,16 @@
     {
       "date": "2026-09-03",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "정무위원회",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "정보위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-09-03",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "정보위원회",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "정무위원회",
       "location": null,
       "type": "session"
     },
@@ -261,14 +285,6 @@
       "date": "2026-09-01",
       "time": "15:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-01",
-      "time": "15:00",
-      "title": "제439회국회(정기회) 제1차 전체회의",
       "committee": "문화체육관광위원회",
       "location": null,
       "type": "session"
@@ -280,6 +296,14 @@
       "committee": "",
       "location": "의원회관 제2소회의실",
       "type": "gihyu"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "15:00",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-01",
@@ -300,6 +324,14 @@
     {
       "date": "2026-09-01",
       "time": "10:00",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "정보위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "10:00",
       "title": "AI 전환시대, 대한민국 온라인유통산업의 미래와 글로벌 경쟁력",
       "committee": "",
       "location": "의원회관 제1소회의실",
@@ -309,7 +341,7 @@
       "date": "2026-09-01",
       "time": "10:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "정보위원회",
+      "committee": "성평등가족위원회",
       "location": null,
       "type": "session"
     },
@@ -326,14 +358,6 @@
       "time": "10:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
       "committee": "행정안전위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-01",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "성평등가족위원회",
       "location": null,
       "type": "session"
     },
