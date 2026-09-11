@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 08:12:33",
+  "last_updated": "2026-09-11 01:09:29",
   "schedules": [
     {
       "date": "2026-09-29",
@@ -12,7 +12,7 @@
     {
       "date": "2026-09-22",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 전체회의",
+      "title": "제439회국회(정기회) 제3차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
@@ -23,6 +23,22 @@
       "title": "국내 전기차산업 경쟁력 강화방안",
       "committee": "",
       "location": "의원회관 제8간담회의실(211호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-09-17",
+      "time": "10:30",
+      "title": "조선·해운산업 탄소중립 전환과 중소선사의 미래를 위한 정책토론회",
+      "committee": "",
+      "location": "의원회관 제3간담회의실(203호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-09-17",
+      "time": "10:00",
+      "title": "AX 시대, 지역 주도형 산업혁신 방안 모색 국회 토론회",
+      "committee": "",
+      "location": "의원회관 신관 제2세미나실",
       "type": "sanja"
     },
     {
@@ -43,6 +59,22 @@
     },
     {
       "date": "2026-09-16",
+      "time": "14:00",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "교육위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-16",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "국방위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-16",
       "time": "10:00",
       "title": "에너지 산업국가전략 국회 연속토론회: 3차-재생에너지 국산화 전략 방안",
       "committee": "",
@@ -54,14 +86,6 @@
       "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
       "committee": "문화체육관광위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-16",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "국방위원회",
       "location": null,
       "type": "session"
     },
@@ -88,6 +112,14 @@
       "committee": "",
       "location": "기타 : 울주군청 회의실(1층 문수홀)",
       "type": "gihyu"
+    },
+    {
+      "date": "2026-09-15",
+      "time": "11:30",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-14",
@@ -138,6 +170,14 @@
       "type": "session"
     },
     {
+      "date": "2026-09-10",
+      "time": "09:03",
+      "title": "환경기초시설 노동자 보호를 위한 4대 정책요구 발표 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "gihyu"
+    },
+    {
       "date": "2026-09-09",
       "time": "15:00~17:00",
       "title": "K-방송콘텐츠 산업 활성화를 위한 합리적인 유료방송 콘텐츠 보상체계 정책세미나",
@@ -148,18 +188,18 @@
     {
       "date": "2026-09-09",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-09",
-      "time": "10:00",
       "title": "에너지 산업국가전략 국회 연속토론회: 2차-무탄소 PPA 확대와 전통산업 경쟁력 강화",
       "committee": "",
       "location": "의원회관 제2간담회의실(202호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-08",
@@ -188,6 +228,14 @@
     {
       "date": "2026-09-08",
       "time": "14:00",
+      "title": "탄소중립 공연·행사 가이드라인 제정을 위한 협의체-1회차: 협의체 출범 및 공연 탄소배출 측정과 관리 방안",
+      "committee": "",
+      "location": "의원회관 제6간담회의실(209호)",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "14:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
       "committee": "재정경제기획위원회",
       "location": null,
@@ -200,14 +248,6 @@
       "committee": "국토교통위원회",
       "location": null,
       "type": "session"
-    },
-    {
-      "date": "2026-09-08",
-      "time": "14:00",
-      "title": "탄소중립 공연·행사 가이드라인 제정을 위한 협의체-1회차: 협의체 출범 및 공연 탄소배출 측정과 관리 방안",
-      "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "gihyu"
     },
     {
       "date": "2026-09-08",
@@ -284,16 +324,16 @@
     {
       "date": "2026-09-03",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "정무위원회",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "정보위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-09-03",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "정보위원회",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "정무위원회",
       "location": null,
       "type": "session"
     },
@@ -341,7 +381,7 @@
       "date": "2026-09-01",
       "time": "15:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "법제사법위원회",
+      "committee": "문화체육관광위원회",
       "location": null,
       "type": "session"
     },
@@ -349,7 +389,7 @@
       "date": "2026-09-01",
       "time": "15:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "문화체육관광위원회",
+      "committee": "법제사법위원회",
       "location": null,
       "type": "session"
     },
@@ -381,17 +421,25 @@
       "date": "2026-09-01",
       "time": "10:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "기후에너지환경노동위원회",
+      "committee": "정보위원회",
       "location": null,
-      "type": "gihyu"
+      "type": "session"
     },
     {
       "date": "2026-09-01",
       "time": "10:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "정보위원회",
+      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
+      "type": "gihyu"
     },
     {
       "date": "2026-09-01",
@@ -406,14 +454,6 @@
       "time": "10:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
       "committee": "성평등가족위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-01",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
     },
