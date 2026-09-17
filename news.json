@@ -1,143 +1,224 @@
 {
   "pane1": [
     {
-      "title": "[속보]한동훈, 대통령 제치고 신뢰 정치인 1위-한국갤럽",
-      "originallink": "https://www.munhwa.com/article/11617707?ref=naver",
-      "link": "https://n.news.naver.com/mnews/article/021/0002819450?sid=100",
-      "description": "한동훈(왼쪽 사진) 무소속 의원이 이재명(오른쪽 사진) 대통령을 제치고 ‘신뢰하는 정치인’ 1위에 올랐다는 여론조사 결과가 나왔다. 17일 한국갤럽이 시사인 의뢰로 지난 6~8일 만 18세 이상 전국 거주 남녀... ",
-      "pubDate": "Thu, 17 Sep 2026 10:49:00 +0900",
-      "formatted_date": "09월 17일, 10시 49분",
-      "ai_summary": "한동훈 의원이 이재명 대표를 제치고 '신뢰하는 정치인' 1위를 기록했다는 여론조사 결과가 발표되었습니다."
+      "title": "[속보] 법사위, 김승원 청문보고서 여당 주도 채택…국힘 반발 퇴장",
+      "originallink": "https://news.tf.co.kr/read/ptoday/2367086.htm",
+      "link": "https://n.news.naver.com/mnews/article/629/0000534712?sid=100",
+      "description": "국회 법제사법위원회가 17일 김승원 법무부 장관 후보자 청문보고서를 여당 주도로 채택하자 국민의힘 의원들이 반발하며 퇴장했다.",
+      "pubDate": "Thu, 17 Sep 2026 11:53:00 +0900",
+      "formatted_date": "09월 17일, 11시 53분",
+      "ai_summary": "국회 법사위가 김승원 법무부 장관 후보자의 청문보고서를 여당 주도로 단독 채택했습니다. 이에 반발한 국민의힘 의원들은 집단 퇴장했습니다."
     },
     {
-      "title": "[속보] 인벤테라, MRCP 특화 조영제 INV-003 미국 FDA 1상 IND 신청",
-      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=607631",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=607631",
-      "description": "자료사진 기사와는 무관함. AI가 생성. 인벤테라가 자기공명 췌담관조영술(MRCP) 특화 조영제 'INV-003액'의 미국 식품의약국(FDA) 제1상 임상시험계획(IND)을 신청했다고 17일 밝혔다. 신청일은 한국시간 기준 17일... ",
-      "pubDate": "Thu, 17 Sep 2026 10:46:00 +0900",
-      "formatted_date": "09월 17일, 10시 46분",
-      "ai_summary": "인벤테라가 MRCP 특화 조영제 'INV-003'의 미국 FDA 임상 1상 시험 계획을 신청했습니다."
+      "title": "[속보] 토지거래허가구역 실거주 의무 유예 조치 내년 말까지 연장",
+      "originallink": "https://imnews.imbc.com/news/2026/econo/article/6852454_36932.html",
+      "link": "https://n.news.naver.com/mnews/article/214/0001524486?sid=101",
+      "description": "토지거래허가구역 내 주택 거래 시, 세입자가 거주 중인 주택의 실거주 유예 조치가 내년 말까지 1년 더 연장됩니다. 또 현재는 임대차 계약이 끝날 때까지만 실거주가 유예됐지만, 앞으로는 세입자가 계약 갱신을 한... ",
+      "pubDate": "Thu, 17 Sep 2026 11:52:00 +0900",
+      "formatted_date": "09월 17일, 11시 52분",
+      "ai_summary": "토지거래허가구역 내 주택 실거주 의무 유예 조치가 내년 말까지 1년 연장됩니다. 세입자가 계약을 갱신하는 경우에도 유예 혜택이 적용됩니다."
     },
     {
-      "title": "[속보] ‘의무 공개매수제’ 자본시장법 개정안, 국회 정무위 통과",
-      "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/09/17/VJESPET4ENH4ZJYXFTPB7456MI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "link": "https://n.news.naver.com/mnews/article/366/0001192974?sid=100",
+      "title": "[속보] &quot;게장 2조각이 1만4천900원?&quot;…여수섬박람회 바가지 가격 논란",
+      "originallink": "https://www.kyeonggi.com/article/20260917580138",
+      "link": "https://n.news.naver.com/mnews/article/666/0000123830?sid=102",
+      "description": "700억원대 예산을 투입한 2026 여수세계섬박람회에서 ‘바가지 논란’이 일고 있다. 박람회 푸드코트에서 약 1만5천원에 판매되는 간장게장 백반이 가격 대비 부실하다는 지적이다. 구독자 약 64만 명을 보유한 음식 리뷰... ",
+      "pubDate": "Thu, 17 Sep 2026 11:52:00 +0900",
+      "formatted_date": "09월 17일, 11시 52분",
+      "ai_summary": "2026 여수세계섬박람회 푸드코트에서 1만 5천 원 상당의 게장 백반이 부실하게 제공되어 바가지 가격 논란이 일고 있습니다."
+    },
+    {
+      "title": "[속보] 법사위, ‘김승원 청문보고서’ 與 주도 채택…국힘은 반발 퇴장",
+      "originallink": "https://biz.heraldcorp.com/article/10876979?ref=naver",
+      "link": "https://n.news.naver.com/mnews/article/016/0002698788?sid=100",
       "description": "",
-      "pubDate": "Thu, 17 Sep 2026 10:45:00 +0900",
-      "formatted_date": "09월 17일, 10시 45분",
-      "ai_summary": "기업 인수합병 시 소액주주를 보호하기 위한 '의무 공개매수제' 도입 자본시장법 개정안이 국회 정무위를 통과했습니다."
+      "pubDate": "Thu, 17 Sep 2026 11:52:00 +0900",
+      "formatted_date": "09월 17일, 11시 52분",
+      "ai_summary": "법사위에서 김승원 후보자의 청문보고서가 여당 주도로 채택되었습니다. 국민의힘은 이에 반발하여 퇴장하였습니다."
     },
     {
-      "title": "[속보] 경찰, '74명 사상' 안전공업 화재 책임 대표 등 13명 검찰 송치",
-      "originallink": "https://www.tjb.co.kr/news05/bodo/view/id/103726",
-      "link": "https://www.tjb.co.kr/news05/bodo/view/id/103726",
-      "description": "경찰, '74명 사상' 안전공업 화재 책임 대표 등 13명 검찰 송치",
-      "pubDate": "Thu, 17 Sep 2026 10:44:00 +0900",
-      "formatted_date": "09월 17일, 10시 44분",
-      "ai_summary": "74명의 사상자를 낸 안전공업 화재 사고와 관련해 경찰이 대표 등 관계자 13명을 검찰에 송치했습니다."
+      "title": "[속보] 김관영·이원택 전·현직 전북지사 검찰 송치.. '공직선거법 위...",
+      "originallink": "http://www.jmbc.co.kr/news/view_breakingnews/68032",
+      "link": "https://n.news.naver.com/mnews/article/659/0000047004?sid=102",
+      "description": "경찰이 제9회 전국동시지방선거 과정에서 제기된 공직선거법 위반 의혹을 받는 이원택 전북지사와 김관영 전 지사를 검찰에 넘겼습니다. 전북경찰청 반부패경제범죄수사대는 지난해 11월 29일 정읍의 한 음식점에서 청년... ",
+      "pubDate": "Thu, 17 Sep 2026 11:45:00 +0900",
+      "formatted_date": "09월 17일, 11시 45분",
+      "ai_summary": "공직선거법 위반 의혹을 받는 김관영 전 전북지사와 이원택 의원이 경찰 조사를 마치고 검찰에 송치되었습니다."
     },
     {
-      "title": "[속보] CCTV 공개된 숙행, 상간녀 소송 1심 패소",
-      "originallink": "https://www.mydaily.co.kr/page/view/2026091710375365846",
-      "link": "https://m.entertain.naver.com/article/117/0004106295",
-      "description": "트로트 가수 숙행이 상간녀 위자료 청구 소송 1심에서 패소했다. 수원지법 성남지원 민사7단독은 17일 A씨가 숙행을 상대로 제기한 손해배상 청구 소송에서 원고 일부승소 판결을 내렸다. 이에 따라 숙행은 1심에서... ",
-      "pubDate": "Thu, 17 Sep 2026 10:43:00 +0900",
-      "formatted_date": "09월 17일, 10시 43분",
-      "ai_summary": "가수 숙행이 상간녀 위자료 청구 소송 1심에서 패소하며 일부 배상 판결을 받았습니다."
+      "title": "[속보] 李대통령, ‘암표 비싸게 팔아 12억6천만원 챙긴 30대 체포’ 기...",
+      "originallink": "https://www.kwnews.co.kr/article/20260917500506",
+      "link": "https://n.news.naver.com/mnews/article/087/0001218750?sid=100",
+      "description": "이재명 대통령이 17일 공연 티켓을 암표로 비싸게 팔아 12억6천만원을 챙긴 업자가 검거됐다는 기사를 공유하며 “정당한 관람 기회를 빼앗는 암표 거래는 끝까지 추적해 부당하게 챙긴 수익까지 반드시 환수할 것”... ",
+      "pubDate": "Thu, 17 Sep 2026 11:43:00 +0900",
+      "formatted_date": "09월 17일, 11시 43분",
+      "ai_summary": "이재명 대통령은 암표 거래로 12억 원대 수익을 챙긴 업자 검거 소식을 공유하며, 암표 수익을 끝까지 추적해 환수하겠다는 의지를 밝혔습니다."
     },
     {
-      "title": "[속보] 정무위 전체회의서 의무공개매수제도 도입 자본시장법 개정안 통...",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03198006645581104&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "link": "https://n.news.naver.com/mnews/article/018/0006370945?sid=100",
-      "description": "17일 국회 정무위 전체회의",
-      "pubDate": "Thu, 17 Sep 2026 10:41:00 +0900",
-      "formatted_date": "09월 17일, 10시 41분",
-      "ai_summary": "국회 정무위 전체회의에서 의무 공개매수제도 도입을 골자로 하는 자본시장법 개정안이 처리되었습니다."
+      "title": "[속보] '대리비 지급' 김관영 전 전북지사 송치'",
+      "originallink": "https://news.skbroadband.com/news/articleView.html?idxno=238179",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=238179",
+      "description": "청년 정치인들과의 식사자리에서 대리비 명목으로 현금을 지급해 수사를 받아 온 김관영 전 전북자치도지사가 검찰에 넘겨졌습니다. 전북경찰청 반부패경제범죄수사대는 17일 김 전 지사를 공직선거법상 기부행위 금지... ",
+      "pubDate": "Thu, 17 Sep 2026 11:40:00 +0900",
+      "formatted_date": "09월 17일, 11시 40분",
+      "ai_summary": "청년 정치인들과의 식사 자리에서 대리운전비를 지원해 공직선거법 위반 혐의를 받은 김관영 전 전북지사가 검찰에 송치되었습니다."
     },
     {
-      "title": "[속보] 경찰, 이원택 ·김관영 선거법 위반 혐의 일부 송치",
-      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000012935&cp=nv",
-      "link": "https://n.news.naver.com/mnews/article/005/0001873547?sid=102",
-      "description": "경찰이 제9회 전국동시지방선거와 관련해 이원택 전북도지사와 김관영 전 전북도지사의 공직선거법 위반 혐의 일부를 검찰에 넘겼다. 전북경찰청 반부패경제범죄수사대는 17일 이 지사의 허위사실공표 혐의와 김 전... ",
-      "pubDate": "Thu, 17 Sep 2026 10:40:00 +0900",
-      "formatted_date": "09월 17일, 10시 40분",
-      "ai_summary": "경찰이 이원택·김관영 전북도지사의 공직선거법 위반 혐의 일부를 검찰에 기소 의견으로 송치했습니다."
+      "title": "[속보]국민의힘 법사위원, 김승원 청문보고서 채택안 상정에 퇴장",
+      "originallink": "https://www.mt.co.kr/politics/2026/09/17/2026091711354097483",
+      "link": "https://n.news.naver.com/mnews/article/008/0005415171?sid=100",
+      "description": "17일 국회 법제사법위원회",
+      "pubDate": "Thu, 17 Sep 2026 11:37:00 +0900",
+      "formatted_date": "09월 17일, 11시 37분",
+      "ai_summary": "국회 법사위의 김승원 후보자 청문보고서 채택안 상정에 반발하여 국민의힘 법사위원들이 회의장에서 퇴장했습니다."
     },
     {
-      "title": "[속보]세종시, 친환경종합타운 관련 소송 대법원에 상고",
-      "originallink": "https://www.pressian.com/pages/articles/2026091710375413375?utm_source=naver&utm_medium=search",
-      "link": "https://n.news.naver.com/mnews/article/002/0002457137?sid=102",
-      "description": "지난 15일 법무부 자문 받아 대법원에 상고장 제출…세종시 &quot;폐기물처리시설 주변의 의미 너무 좁게 해석했다&quot; 주장 대전지방고등법원이 세종특별자치시의 친환경종합타운 건립사업에 문제가 있다며 원고인 주민들에게... ",
-      "pubDate": "Thu, 17 Sep 2026 10:39:00 +0900",
-      "formatted_date": "09월 17일, 10시 39분",
-      "ai_summary": "세종시가 친환경종합타운 건립 사업 관련 항소심 판결에 불복해 대법원에 상고했습니다."
+      "title": "[속보]‘김민수 검사입니다’ 취준생 죽음 내몬 보이스피싱 조직 중국인...",
+      "originallink": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260917.99099005805",
+      "link": "https://n.news.naver.com/mnews/article/658/0000155879?sid=102",
+      "description": "해외에 보이스피싱을 위한 범죄단체를 조직한 뒤 검찰이나 금융기관을 사칭해 수십억 원을 챙긴 총책 등이 경찰에 무더기로 적발됐다. 부산경찰청 광역범죄수사대는 통신사기피해환급법 위반 등 혐의로 총책인 중국... ",
+      "pubDate": "Thu, 17 Sep 2026 11:33:00 +0900",
+      "formatted_date": "09월 17일, 11시 33분",
+      "ai_summary": "검찰 등을 사칭해 취준생을 죽음으로 몰고 수십억 원을 편취한 보이스피싱 조직 총책 등 일당이 경찰에 붙잡혔습니다."
     },
     {
-      "title": "[속보] 경찰, ‘74명 사망’ 안전공업 화재 책임 대표 등 13명 검찰 송치",
-      "originallink": "https://www.mk.co.kr/article/12155159",
-      "link": "https://n.news.naver.com/mnews/article/009/0005736515?sid=102",
-      "description": "",
-      "pubDate": "Thu, 17 Sep 2026 10:38:00 +0900",
-      "formatted_date": "09월 17일, 10시 38분",
-      "ai_summary": "74명의 사상자가 발생한 안전공업 화재 사고의 책임자 13명이 검찰로 넘겨졌습니다."
+      "title": "[속보] 숙행, '유부남 불륜 의혹' 법정서 졌다…&quot;나도 피해자&quot; 해명에도...",
+      "originallink": "https://www.sportschosun.com/entertainment/2026-09-17/202609170100118520007654",
+      "link": "https://m.entertain.naver.com/article/076/0004446999",
+      "description": "불륜 의혹을 부인하며 자신도 피해자라고 주장했던 트로트 가수 숙행이 상간녀 위자료 청구 소송 1심에서 패소했다. 17일 법조계에 따르면 수원지방법원 성남지원 민사7단독은 이날 A씨가 숙행을 상대로 제기한 손해배상... ",
+      "pubDate": "Thu, 17 Sep 2026 11:28:00 +0900",
+      "formatted_date": "09월 17일, 11시 28분",
+      "ai_summary": "불륜 의혹을 부인하며 피해를 주장했던 가수 숙행이 상간녀 위자료 청구 소송 1심에서 패소했습니다."
     },
     {
-      "title": "[속보] '불륜 논란' 숙행, &quot;저도 피해자&quot; 눈물 흘렸지만…'상간녀 소송'...",
-      "originallink": "https://www.tvreport.co.kr/entertainment/article/1076310/",
-      "link": "https://m.entertain.naver.com/article/213/0001401510",
-      "description": "유부남과의 부적절한 관계 의혹에 휩싸였던 트로트 가수 숙행이 결국 법원에서 상간녀 위자료 청구 소송 1심 패소 판결을 받았다. 17일 수원지방법원 성남지원 민사7단독은 숙행을 상대로 유부남 A씨의 아내가 제기한... ",
-      "pubDate": "Thu, 17 Sep 2026 10:37:00 +0900",
-      "formatted_date": "09월 17일, 10시 37분",
-      "ai_summary": "불륜 논란에 휩싸였던 가수 숙행이 상간녀 위자료 청구 소송 1심에서 패소 판결을 받았습니다."
+      "title": "[속보] '장모 살해' 조재복 &quot;다음부터는 안 그러겠다&quot; 최후진술…검찰,...",
+      "originallink": "https://www.busan.com/view/busan/view.php?code=2026091710565119819",
+      "link": "https://n.news.naver.com/mnews/article/082/0001398753?sid=102",
+      "description": "검찰이 장모를 폭행해 숨지게 하고 시신을 여행용 가방(캐리어)에 담아 유기한 혐의로 재판에 넘겨진 조재복에게 무기징역형을 구형했다. 17일 연합뉴스 보도에 따르면 대구지법 형사13부(채희인 부장판사) 심리로 열린... ",
+      "pubDate": "Thu, 17 Sep 2026 11:26:00 +0900",
+      "formatted_date": "09월 17일, 11시 26분",
+      "ai_summary": "(원문) 검찰이 장모를 폭행해 숨지게 하고 시신을 여행용 가방(캐리어)에 담아 유기한 혐의로 재판에 넘겨진 조재복에게 무기징역형을 구형했다. 17일 연합..."
     },
     {
-      "title": "[속보] 74명 화재 사상 대전 안전공업 대표 중처법 위반 등으로 송치",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000335199?division=NAVER",
-      "link": "https://n.news.naver.com/mnews/article/374/0000533424?sid=103",
-      "description": "74명 화재 사상 대전 안전공업 대표 중처법 위반 송치",
-      "pubDate": "Thu, 17 Sep 2026 10:35:00 +0900",
-      "formatted_date": "09월 17일, 10시 35분",
-      "ai_summary": "대전 안전공업 화재로 74명의 사상자가 발생한 가운데, 대표가 중대재해처벌법 위반 혐의로 검찰에 송치되었습니다."
+      "title": "[속보] 안산 사동 공장서 화재...검은 연기 '다량 발생'",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3698312",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3698312",
+      "description": "119소방차, 화재, 소방, 속보 (사진=국제뉴스DB) 경기 안산에서 화재가 발생했다. 17일 안산시에 따르면 이날 오전 11시 6분 경  상록구 사동에 위치한 공장에서 불이 나 연기가 다량 확산되고 있다. 이에 인근 주민은... ",
+      "pubDate": "Thu, 17 Sep 2026 11:24:00 +0900",
+      "formatted_date": "09월 17일, 11시 24분",
+      "ai_summary": "(원문) 119소방차, 화재, 소방, 속보 (사진=국제뉴스DB) 경기 안산에서 화재가 발생했다. 17일 안산시에 따르면 이날 오전 11시 6분 경  상록..."
     },
     {
-      "title": "[속보] '불륜 논란' 숙행, 상간 소송 1심 패소… 원고 일부 승소",
-      "originallink": "http://www.tvdaily.co.kr/read.php3?aid=17896084481802588010",
-      "link": "https://m.entertain.naver.com/article/440/0000045782",
-      "description": "트로트 가수 숙행이 상간녀 위자료 청구 소송 1심에서 패소했다. 수원지방법원 성남지원 민사7단독은 17일 유부남 B씨의 아내 A씨가 숙행을 상대로 제기한 손해배상 청구 소송에서 원고 일부 승소 판결을 내렸다. 앞서... ",
-      "pubDate": "Thu, 17 Sep 2026 10:35:00 +0900",
-      "formatted_date": "09월 17일, 10시 35분",
-      "ai_summary": "트로트 가수 숙행이 상간녀 위자료 청구 소송 1심에서 패소했습니다. 법원은 원고 일부 승소 판결을 내렸습니다."
+      "title": "[속보] 음악 크게 틀고 있던 30대, “이어폰 사용” 요청한 중학생들 장...",
+      "originallink": "https://www.seoul.co.kr/news/society/accident/2026/09/17/20260917500104?wlog_tag3=naver",
+      "link": "https://n.news.naver.com/mnews/article/081/0003681180?sid=102",
+      "description": "인천 한 중학교 인근에서 “이어폰을 사용해달라”고 요청한 중학생들을 장난감 칼로 위협한 30대 남성이 경찰에 붙잡혔다. 17일 연합뉴스에 따르면 인천 논현경찰서는 협박 혐의로 30대 A씨를 조사하고 있다. A씨는... ",
+      "pubDate": "Thu, 17 Sep 2026 11:24:00 +0900",
+      "formatted_date": "09월 17일, 11시 24분",
+      "ai_summary": "(원문) 인천 한 중학교 인근에서 “이어폰을 사용해달라”고 요청한 중학생들을 장난감 칼로 위협한 30대 남성이 경찰에 붙잡혔다. 17일 연합뉴스에 따르면..."
     },
     {
-      "title": "[속보] 노동청, 안전공업 대표 중처법 위반 송치…&quot;명백한 대형 인재&quot;",
-      "originallink": "https://www.hankyung.com/article/2026091707087",
-      "link": "https://n.news.naver.com/mnews/article/015/0005333328?sid=102",
-      "description": "",
-      "pubDate": "Thu, 17 Sep 2026 10:34:00 +0900",
-      "formatted_date": "09월 17일, 10시 34분",
-      "ai_summary": "노동청이 대전 안전공업 화재를 명백한 대형 인재로 규정하고 대표를 중대재해처벌법 위반 혐의로 송치했습니다."
+      "title": "[속보] 지어소프트 종속회사 오아시스, 300억원 유상증자…'토스 운영사...",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=607658",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=607658",
+      "description": "자료사진 기사와는 무관함.AI가 생성. 지어소프트의 종속회사 오아시스가 약 300억원 규모의 제3자배정 유상증자를 결정했다고 밝혔다. 조달 자금은 전략적 사업제휴에 따른 신규사업 추진 및 관련 운영자금으로... ",
+      "pubDate": "Thu, 17 Sep 2026 11:20:00 +0900",
+      "formatted_date": "09월 17일, 11시 20분",
+      "ai_summary": "(원문) 자료사진 기사와는 무관함.AI가 생성. 지어소프트의 종속회사 오아시스가 약 300억원 규모의 제3자배정 유상증자를 결정했다고 밝혔다. 조달 자금..."
     },
     {
-      "title": "[속보] 경찰, '74명 사망' 안전공업 화재 책임 대표 등 13명 검찰 송치",
-      "originallink": "https://www.hankyung.com/article/2026091707057",
-      "link": "https://n.news.naver.com/mnews/article/015/0005333327?sid=102",
-      "description": "",
-      "pubDate": "Thu, 17 Sep 2026 10:34:00 +0900",
-      "formatted_date": "09월 17일, 10시 34분",
-      "ai_summary": "경찰이 74명의 사상자를 낸 안전공업 화재 사고의 책임을 물어 대표를 포함한 관련자 13명을 검찰에 송치했습니다."
-    },
-    {
-      "title": "[속보] 장동혁 &quot;李정권 'ETF 게이트' 특검 추진할 것&quot;...&quot;김용범, 밀어붙...",
-      "originallink": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260917505&PRO_CODE=99",
-      "link": "https://n.news.naver.com/mnews/article/655/0000032831?sid=100",
-      "description": "장동혁 국민의힘 대표는 17일 급격한 주가 변동 원인으로 지목되는 단일종목 레버리지 ETF(상장지수펀드) 도입과 관련해 &quot;김용범 전 청와대 정책실장이 제안하고 밀어붙였을 가능성이 99.9%&quot;라며 특검을 추진하겠다고... ",
-      "pubDate": "Thu, 17 Sep 2026 10:34:00 +0900",
-      "formatted_date": "09월 17일, 10시 34분",
-      "ai_summary": "국민의힘 장동혁 대표가 이른바 'ETF 게이트' 의혹과 관련해 특검 추진을 예고했습니다."
+      "title": "[속보] 두산, 자기주식 256만8528주 소각 결정…1213억원 규모",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=607657",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=607657",
+      "description": "두산 로고 두산이 보통주와 종류주를 합쳐 자기주식 256만8528주를 소각하기로 결정했다고 밝혔다. 소각 예정금액은 1213억원이다. 두산은 17일 이사회를 열고 보통주 195만6424주와 종류주 61만2104주를 소각하기로... ",
+      "pubDate": "Thu, 17 Sep 2026 11:20:00 +0900",
+      "formatted_date": "09월 17일, 11시 20분",
+      "ai_summary": "(원문) 두산 로고 두산이 보통주와 종류주를 합쳐 자기주식 256만8528주를 소각하기로 결정했다고 밝혔다. 소각 예정금액은 1213억원이다. 두산은 1..."
     }
   ],
   "pane2": {
     "산업부": [
+      {
+        "title": "대양고래, 산업부 '홍보 자제' 요구에도 대통령은 '최대치 발표'",
+        "originallink": "http://www.e2news.com/news/articleView.html?idxno=334337",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=334337",
+        "description": "대왕고래 가스전 사업과 관련 산업부가 탐사성공 가능성에 대한 불확실성이 큰 만큼 대외홍보 자제를... 아울러  2029년까지 단계적으로 시추하겠다는 보고를 들은 후에는 산업부장관을 질책하고, 시추일정을 대통령... ",
+        "pubDate": "Thu, 17 Sep 2026 11:12:00 +0900",
+        "formatted_date": "09월 17일, 11시 12분",
+        "ai_summary": "(원문) 대왕고래 가스전 사업과 관련 산업부가 탐사성공 가능성에 대한 불확실성이 큰 만큼 대외홍보 자제를... 아울러  2029년까지 단계적으로 시추하겠..."
+      },
+      {
+        "title": "산업부, WTO IFDA 협정 발효 속도전…퍼플릭포럼서 세션 열고 논의",
+        "originallink": "https://www.ajunews.com/view/20260917095718390",
+        "link": "https://www.ajunews.com/view/20260917095718390",
+        "description": "윤창현 산업부 다자통상법무관은 &quot;IFDA는 투자 관련 행정절차 간소화, 투자환경 개선 등을 통해 개도국을 포함해 글로벌 투자 확대에 중요한 역할을 할 것&quot;IFDA의 조속한 발효 및 이행을 위해 실질적이고 현실적... ",
+        "pubDate": "Thu, 17 Sep 2026 11:02:00 +0900",
+        "formatted_date": "09월 17일, 11시 02분",
+        "ai_summary": "(원문) 윤창현 산업부 다자통상법무관은 &quot;IFDA는 투자 관련 행정절차 간소화, 투자환경 개선 등을 통해 개도국을 포함해 글로벌 투자 확대에 중..."
+      },
+      {
+        "title": "농식품부·해수부·산업부, '농어촌 ESG 실천제도' 공동 추진",
+        "originallink": "https://www.nocutnews.co.kr/news/6579620?utm_source=naver&utm_medium=article&utm_campaign=20260917110037",
+        "link": "https://n.news.naver.com/mnews/article/079/0004190386?sid=103",
+        "description": "농림축산식품부(이하 농식품부), 해양수산부(이하 해수부), 산업통상부(이하 산업부), 대·중소기업... 최종 인정된 기업·기관에 대해서는 인정패 수여와 함께 농식품부·해수부·산업부 장관 표창 등 포상... ",
+        "pubDate": "Thu, 17 Sep 2026 11:01:00 +0900",
+        "formatted_date": "09월 17일, 11시 01분",
+        "ai_summary": "(원문) 농림축산식품부(이하 농식품부), 해양수산부(이하 해수부), 산업통상부(이하 산업부), 대·중소기업... 최종 인정된 기업·기관에 대해서는 인정패..."
+      },
+      {
+        "title": "&quot;순환경제 협력의 장 열린다&quot;…산업부, 순환경제 상생라운지 개최",
+        "originallink": "https://www.newsis.com/view/NISX20260917_0003792936",
+        "link": "https://n.news.naver.com/mnews/article/003/0014196441?sid=101",
+        "description": "순환경제 상생라운지는 순환경제 분야의 기술·제품을 보유한 공급기업과 이를 제조현장에 적용하려는 수요기업을 연결하는 대표적인 산업분야 순환경제기업간 협력의 장이다. 산업부는 2021년부터 매년 상생라운지를... ",
+        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0900",
+        "formatted_date": "09월 17일, 11시 00분",
+        "ai_summary": "(원문) 순환경제 상생라운지는 순환경제 분야의 기술·제품을 보유한 공급기업과 이를 제조현장에 적용하려는 수요기업을 연결하는 대표적인 산업분야 순환경제기업..."
+      },
+      {
+        "title": "농어촌 ESG 우수기업 모집…올해부터 산업부도 공동 선정",
+        "originallink": "https://www.newsis.com/view/NISX20260917_0003792965",
+        "link": "https://n.news.naver.com/mnews/article/003/0014196440?sid=101",
+        "description": "농식품부와 해수부, 산업부, 대·중소기업·농어업협력재단은 '2026년도 농어촌 환경·사회·지배구조(ESG)... 선정된 기업·기관에는 인정패와 농식품부·해수부·산업부 장관 표창 등이 수여된다. 동반성장지수 평가와... ",
+        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0900",
+        "formatted_date": "09월 17일, 11시 00분",
+        "ai_summary": "(원문) 농식품부와 해수부, 산업부, 대·중소기업·농어업협력재단은 '2026년도 농어촌 환경·사회·지배구조(ESG)... 선정된 기업·기관에는 인정패와 ..."
+      },
+      {
+        "title": "산업부, 디스플레이의 날 기념 행사…유공자 36명 포상",
+        "originallink": "https://www.newsis.com/view/NISX20260917_0003793087",
+        "link": "https://n.news.naver.com/mnews/article/003/0014196433?sid=101",
+        "description": "한편 산업부는 오는 2040년 미래 생활에서 활용될 디스플레이 기술을 미리 살펴보고 이를 바탕으로 향후 연구개발(R&amp;D)을 전략적·체계적으로 추진할 계획이다. 향후 ▲디지털라이프 ▲모빌리티 ▲휴먼인터페이스 ▲공공... ",
+        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0900",
+        "formatted_date": "09월 17일, 11시 00분",
+        "ai_summary": "산업부가 디스플레이의 날을 맞아 유공자를 포상하고, 2040년 미래 기술 선도를 위한 연구개발 전략을 체계적으로 추진할 계획이다."
+      },
+      {
+        "title": "산업부, 소부장 국제 투자 콘퍼런스…글로벌 기업 韓 협력·투자 기회 모...",
+        "originallink": "https://www.news1.kr/economy/trend/6293607",
+        "link": "https://n.news.naver.com/mnews/article/421/0009176080?sid=101",
+        "description": "강감찬 산업부 무역투자실장은 &quot;한국의 산업 생태계와 소부장 기업의 기술력은 해외 기업과의 협력과 투자를 끌어낼 수 있는 중요한 강점&quot;이라며 &quot;해외 기업들이 한국에서 발굴한 협력 기회를 실제 투자로 이어갈 수... ",
+        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0900",
+        "formatted_date": "09월 17일, 11시 00분",
+        "ai_summary": "산업부는 소부장 국제 투자 콘퍼런스를 개최해 한국 기업의 기술력을 알리고 글로벌 기업들의 국내 투자 유치 및 협력 기회를 모색했다."
+      },
+      {
+        "title": "해수부-농식품부-산업부, '2026년 농어촌 ESG 실천제' 인정기업·기관 모...",
+        "originallink": "https://www.news1.kr/economy/trend/6293437",
+        "link": "https://n.news.naver.com/mnews/article/421/0009176069?sid=101",
+        "description": "특히 올해부터는 산업부가 새롭게 참여해 3개 부처가 공동으로 우수기업·기관을 인정하며 상생협력 활동을 적극 지원한다. 참여 희망 기업·기관은 9월 18일부터 10월 12일까지 협력재단에 신청서를 제출하면 되며... ",
+        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0900",
+        "formatted_date": "09월 17일, 11시 00분",
+        "ai_summary": "해수부, 농식품부, 산업부 3개 부처가 공동으로 농어촌 ESG 실천 우수 기업과 기관을 선정해 상생협력 활동을 지원한다."
+      },
+      {
+        "title": "산업부, WTO 투자원활화 협정 이행 논의…IFDA 중요성 강조",
+        "originallink": "https://www.newsis.com/view/NISX20260917_0003793025",
+        "link": "https://n.news.naver.com/mnews/article/003/0014196436?sid=101",
+        "description": "산업부 관계자는 &quot;IFDA는 투자관련 행정절차 간소화, 투자환경 개선 등을 통해 개도국을 포함해 글로벌 투자 확대에 중요한 역할을 할 것으로 기대된다&quot;며 &quot;IFDA의 조속한 발효 및 이행을 위해 실질적이고 현실적... ",
+        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0900",
+        "formatted_date": "09월 17일, 11시 00분",
+        "ai_summary": "산업부는 WTO 투자원활화 협정(IFDA)의 조속한 발효와 이행을 위해 행정 절차 간소화 및 투자 환경 개선의 중요성을 강조했다."
+      },
       {
         "title": "한·중앙아 5개국 산업부처 첫 회동…공급망 협력 MOU 체결",
         "originallink": "https://biz.heraldcorp.com/article/10876441?ref=naver",
@@ -145,43 +226,7 @@
         "description": "우리나라와 중앙아시아 5개국 산업부처가 수교 34년 만에 처음으로 한자리에 모여 산업 및 핵심광물 공급망 협력 강화에 합의했다. 양측은 공급망 협력 기반을 제도화하고, 핵심광물 등 산업 분야에서 협력을 확대해... ",
         "pubDate": "Thu, 17 Sep 2026 09:16:00 +0900",
         "formatted_date": "09월 17일, 09시 16분",
-        "ai_summary": "한국과 중앙아시아 5개국 산업부처가 첫 회동을 갖고 산업 및 핵심광물 공급망 협력을 위한 MOU를 체결했습니다."
-      },
-      {
-        "title": "산업부, 대미투자 국회 보고 돌연 연기···협상 난항 겪나",
-        "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=638183",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=638183",
-        "description": "여기에 우산형 투자 특수목적법인(SPV)을 통한 수익 배분 구조 등을 두고도 미국과 이견이 있는 것으로 알려졌다. 한편 산업부는 대미투자와 관련한 구체적인 사항은 정해지지 않았다는 입장을 고수하고 있다.",
-        "pubDate": "Thu, 17 Sep 2026 09:14:00 +0900",
-        "formatted_date": "09월 17일, 09시 14분",
-        "ai_summary": "산업부가 대미 투자 관련 국회 보고를 갑작스럽게 연기했습니다. 미국과의 투자 수익 배분 구조 등 협상 난항이 원인으로 보입니다."
-      },
-      {
-        "title": "KGM, 파라과이에 '무쏘 EV' 공급…산업부 사절단 평택 공장 방문",
-        "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=407044",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407044",
-        "description": "KG모빌리티(이하 KGM)가 산업통상부 초청 연수 프로그램으로 방한한 파라과이 산업부 차관과 정부 및... Javier Viveros) 파라과이 산업부 차관, 양정직 한국자동차연구원 연구소장 등이 참석했으며 전기차 등 KGM의... ",
-        "pubDate": "Thu, 17 Sep 2026 07:16:00 +0900",
-        "formatted_date": "09월 17일, 07시 16분",
-        "ai_summary": "KG모빌리티가 파라과이 산업부 사절단에게 '무쏘 EV'를 선보이며 향후 공급 협력 방안을 논의했습니다."
-      },
-      {
-        "title": "산업부, 중앙아 5개국과 양·다자 협력 9건…민간 MOU도 116건",
-        "originallink": "https://www.yna.co.kr/view/AKR20260916186600003?input=1195m",
-        "link": "https://n.news.naver.com/mnews/article/001/0016316279?sid=100",
-        "description": "산업부는 이 기간 산업 장관급 협의체인 제1차 한·중앙아시아 산업장관회의를 시작으로 한·카자흐스탄... 한국과 중앙아시아 5개국 산업 부처는 지난 14일 열린 산업장관회의에서 '한·중앙아 산업 및 공급망 협력 MOU... ",
-        "pubDate": "Thu, 17 Sep 2026 06:00:00 +0900",
-        "formatted_date": "09월 17일, 06시 00분",
-        "ai_summary": "산업부가 중앙아시아 5개국과 9건의 정부 협력과 116건의 민간 MOU를 체결하며 산업·공급망 협력을 강화했습니다."
-      },
-      {
-        "title": "윤석열, 산업부 우려에도 '대왕고래 사업' 발표‥'임기 내 시추'까지 지...",
-        "originallink": "https://imnews.imbc.com/replay/2026/nwdesk/article/6852302_37004.html",
-        "link": "https://n.news.naver.com/mnews/article/214/0001524349?sid=100",
-        "description": "위해 산업부 장관을 질책까지 한 걸로 드러났습니다. 김정우 기자의 보도입니다. ◀ 리포트 ▶ 재작년 6월... 당초 산업부는 대통령실에 사업을 보고하며 탐사 성공확률이 20% 이내로 불확실해, 대외 홍보는 자제해야... ",
-        "pubDate": "Wed, 16 Sep 2026 20:05:00 +0900",
-        "formatted_date": "09월 16일, 20시 05분",
-        "ai_summary": "산업부의 우려에도 불구하고 윤석열 대통령이 대왕고래 사업을 발표하며 임기 내 시추를 지시한 것으로 알려졌습니다."
+        "ai_summary": "한국과 중앙아시아 5개국이 산업부처 간 첫 회동을 통해 산업 및 핵심광물 공급망 협력을 위한 업무협약을 체결했다."
       }
     ],
     "KIAT": [
@@ -192,7 +237,7 @@
         "description": "대구시가 정부의 2차 공공기관 이전에 대비해 한국산업기술진흥원(KIAT)과 한국벤처투자(KVIC)를 핵심 유치기관으로 정하고 지역 정치권과 함께 본격적인 유치전에 나섰다. 대구시는 지난 11일 국회... ",
         "pubDate": "Sun, 13 Sep 2026 15:08:00 +0900",
         "formatted_date": "09월 13일, 15시 08분",
-        "ai_summary": "대구시가 2차 공공기관 이전에 대비해 KIAT와 한국벤처투자를 핵심 유치 대상으로 선정했습니다. 지역 정치권과 협력하여 본격적인 유치 활동에 나섰습니다."
+        "ai_summary": "대구시가 정부의 2차 공공기관 이전에 대비해 한국산업기술진흥원(KIAT)과 한국벤처투자(KVIC) 유치에 본격적으로 나섰다."
       },
       {
         "title": "2차 공공기관 이전 막 올랐다…대구, KIAT·한국벤처투자 정조준",
@@ -201,7 +246,7 @@
         "description": "한국산업기술진흥원(KIAT)과 한국벤처투자(KVIC) 유치에 힘을 싣고 있다. 정부의 이전 계획 구체화를 앞두고... KEIT가 국가 R&amp;D 사업의 기획·평가·관리를 맡는 만큼 KIAT가 이전할 경우 연구개발과 기술 사업화 지원을 한... ",
         "pubDate": "Fri, 11 Sep 2026 18:12:00 +0900",
         "formatted_date": "09월 11일, 18시 12분",
-        "ai_summary": "대구가 KIAT와 한국벤처투자를 유치해 기존 기관들과의 시너지를 노립니다. 연구개발과 기술 사업화 지원 분야에서 큰 역량을 강화할 것으로 기대됩니다."
+        "ai_summary": "대구시는 KIAT 유치를 통해 지역 내 연구개발 및 기술 사업화 지원 역량을 강화하고 공공기관 이전 시너지를 극대화할 계획이다."
       },
       {
         "title": "대구시, 우재준 의원과 KIAT·KVIC 대구 이전 설득 나서",
@@ -210,7 +255,7 @@
         "description": "11일 대구시는 국민의힘 우재준 국회의원과 함께 한국산업기술진흥원(KIAT)과 한국벤처투자(KVIC)를 방문해 대구 이전을 제안했다. 대구시는 한국산업기술진흥원이 대구로 이전할 경우 AI와 로봇, 미래 모빌리티 등 대구의... ",
         "pubDate": "Fri, 11 Sep 2026 17:14:00 +0900",
         "formatted_date": "09월 11일, 17시 14분",
-        "ai_summary": "대구시가 우재준 의원과 함께 KIAT 및 한국벤처투자를 방문해 이전을 제안했습니다. 대구의 미래 모빌리티와 AI 산업 등과의 연계 가능성을 강조했습니다."
+        "ai_summary": "대구시와 지역 의원이 협력해 KIAT와 KVIC를 방문하고, 대구의 미래 산업인 AI·로봇·모빌리티와의 연계성을 강조하며 이전을 제안했다."
       }
     ],
     "기후부": [
@@ -221,7 +266,7 @@
         "description": "명시적으로 포함됨에 따라 정상 차원의 추진동력이 확보됐다. 기후부는 이를 토대로 각국의 여건과 수요에 맞는 협력과제를 지속적으로 발굴하고 실제 사업으로 이어질 수 있도록 후속 협의를 추진할 방침이다.",
         "pubDate": "Thu, 17 Sep 2026 10:42:00 +0900",
         "formatted_date": "09월 17일, 10시 42분",
-        "ai_summary": "기후부가 한-중앙아시아 환경 이니셔티브를 발족하며 협력 동력을 확보했습니다. 국가별 수요에 맞춘 협력 과제를 발굴하고 후속 사업을 추진할 계획입니다."
+        "ai_summary": "기후부가 한-중앙아시아 환경 이니셔티브를 발족하고, 각국 수요에 맞는 협력 과제 발굴 및 후속 사업 추진을 본격화한다."
       },
       {
         "title": "[산업부·기후부 장차관 일정(2026년 9월 17일)]",
@@ -230,7 +275,7 @@
         "description": "◆ 산업통상부 ▲ 장관: 15:30 소부장 경쟁력강화위원회 (수출입은행) ◆ 기후부 ▲ 장관: 15:30 한-IEA RISE ASIA 파트너십 업무협약 (서울) 16:30 재생에너지 보급 혁신 TF 1차 회의 (서울)",
         "pubDate": "Thu, 17 Sep 2026 08:28:00 +0900",
         "formatted_date": "09월 17일, 08시 28분",
-        "ai_summary": "산업부와 기후부 장차관의 2026년 9월 17일 주요 일정이 공개되었습니다. 소부장 위원회와 재생에너지 혁신 TF 회의 등이 진행될 예정입니다."
+        "ai_summary": "산업부와 기후부 장관은 각각 소부장 경쟁력 강화와 재생에너지 보급 혁신 등 주요 정책 과제 회의와 업무협약을 수행한다."
       },
       {
         "title": "[데스크시선] 한전 방치하는 기후부",
@@ -239,7 +284,7 @@
         "description": "정부의 무관심과 방치가 길어질수록 그 부담은 전력망 투자 지연과 산업 경쟁력 약화로 돌아온다. 기업에 5년 뒤 전기요금까지 미리 내달라고 하는 한전을 두고, 기후부는 언제까지 지켜만 보고 있을 것인가.",
         "pubDate": "Thu, 17 Sep 2026 08:00:00 +0900",
         "formatted_date": "09월 17일, 08시 00분",
-        "ai_summary": "한전에 대한 정부의 방치가 전력망 투자 지연과 산업 경쟁력 약화를 초래하고 있습니다. 기후부의 실질적인 대응책 마련이 시급하다는 지적입니다."
+        "ai_summary": "한전의 경영난과 전력망 투자 지연 문제가 심각한 가운데, 기후부의 소극적인 대응과 방관적 태도가 비판받고 있습니다."
       },
       {
         "title": "기후부, 중앙아시아 5개국과 '기후·에너지·환경 이니셔티브' 발족",
@@ -248,7 +293,7 @@
         "description": "협력 방식은 정책·인적 교류부터 온실가스 국제 감축까지 다양하게 규정됐다. 기후부는 이번 이니셔티브 발족으로 기후, 에너지, 환경 분야에서 공동의 과제를 중심으로 역내 협력을 추진할 수 있는 틀이 마련됐다고 밝혔다.",
         "pubDate": "Wed, 16 Sep 2026 20:29:00 +0900",
         "formatted_date": "09월 16일, 20시 29분",
-        "ai_summary": "기후부가 중앙아시아 5개국과 기후·에너지·환경 이니셔티브를 발족했습니다. 이를 통해 정책 교류부터 온실가스 감축까지 포괄적인 역내 협력을 추진합니다."
+        "ai_summary": "기후부가 중앙아시아 5개국과 기후·에너지·환경 협력을 위한 이니셔티브를 발족하고 정책 및 온실가스 감축 등 공동 대응에 나섭니다."
       },
       {
         "title": "기후부 “동복댐, 반도체 산단 하루 30만톤 추가 공급 가능”",
@@ -257,7 +302,7 @@
         "description": "쿠키뉴스=박상미 기자 | 기후에너지환경부(이하 기후부)가 광주 반도체 산업단지에 공급할 동복댐 용수가... 기후부는 16일 보도설명자료를 통해 “계측기가 설치된 2023년 이후 동복댐 유입량을 분석한 결과 하루 약... ",
         "pubDate": "Wed, 16 Sep 2026 14:56:00 +0900",
         "formatted_date": "09월 16일, 14시 56분",
-        "ai_summary": "기후부가 동복댐 용수를 통해 광주 반도체 산단에 일일 30만 톤의 물 공급이 가능하다고 밝혔습니다. 최근 유입량 분석 결과를 근거로 제시했습니다."
+        "ai_summary": "기후부가 동복댐 용수 분석 결과를 토대로 광주 반도체 산업단지에 하루 30만 톤의 추가 용수 공급이 가능하다고 설명했습니다."
       },
       {
         "title": "기후부, 에너지신사업 창업 유도해 에너지전환 속도낸다",
@@ -266,7 +311,7 @@
         "description": "기후부가 에너지신사업 분야의 창업을 유도해 에너지전환을 가속화하기 위한 '스파크업 창업경연대회'의 본격적인 시작을 알렸다. 기후에너지환경부(장관 김성환)는 오는 17일 콘래드호텔(서울 영등포구 소재)에서... ",
         "pubDate": "Wed, 16 Sep 2026 14:12:00 +0900",
         "formatted_date": "09월 16일, 14시 12분",
-        "ai_summary": "기후부가 에너지전환 가속화를 위해 에너지신사업 분야 창업을 독려합니다. 오는 17일 '스파크업 창업경연대회'를 개최해 혁신 사례를 발굴할 예정입니다."
+        "ai_summary": "기후부가 에너지 전환 가속화를 위해 에너지 신사업 분야 창업을 지원하는 '스파크업 창업경연대회'를 개최합니다."
       }
     ],
     "산업혁신기반구축": []
@@ -274,336 +319,354 @@
   "pane3": {
     "호르무즈": [
       {
-        "title": "조현 &quot;대미투자 발표 연기, 한미 이견 아냐&quot;…호르무즈 파병 &quot;검토 중&quot;",
-        "originallink": "https://www.kado.net/news/articleView.html?idxno=2073312",
-        "link": "https://n.news.naver.com/mnews/article/654/0000201157?sid=100",
-        "description": "미국이 요청한 호르무즈 해협 파병과 관련해서는 아직 정부 방침이 확정되지 않았다는 기존 입장을... 또 호르무즈 해협의 자유항행을 우선적으로 검토한다&quot;는 입장을 미국 측에 전달하겠다고 밝혔다. 이란에도 정부의... ",
-        "pubDate": "Thu, 17 Sep 2026 10:54:00 +0900",
-        "formatted_date": "09월 17일, 10시 54분",
-        "ai_summary": "조현 외교부 차관이 대미 투자 연기는 이견 때문이 아니라고 밝혔습니다. 호르무즈 파병 문제는 자유항행 원칙을 우선 검토하며 신중히 논의 중입니다."
+        "title": "&quot;국민 간보나&quot; &quot;투자가치 있나&quot;…여야, 호르무즈 파병·대미투자 질타",
+        "originallink": "https://www.news1.kr/politics/assembly/6293811",
+        "link": "https://n.news.naver.com/mnews/article/421/0009176316?sid=100",
+        "description": "금준혁 한상희 김예슬 기자 = 국회 외교통일위원회는 17일 외교·통일부로부터 현안 보고를 받고 호르무즈 파병과 대미 투자 협상에 대해 일제히 우려를 표했다. 한정애 더불어민주당 의원은 &quot;2020년에 당시에도 미국과... ",
+        "pubDate": "Thu, 17 Sep 2026 11:51:00 +0900",
+        "formatted_date": "09월 17일, 11시 51분",
+        "ai_summary": "국회 외교통일위원회에서 여야 의원들이 호르무즈 파병의 적절성과 대미 투자 협상의 실효성에 대해 정부를 강하게 질타했습니다."
       },
       {
-        "title": "조현 &quot;호르무즈 파병, 아직 정해지지 않았다&quot;",
-        "originallink": "https://www.fnnews.com/news/202609171046042861",
-        "link": "https://n.news.naver.com/mnews/article/014/0005577232?sid=100",
-        "description": "호르무즈 해협 파병 문제와 관련, &quot;아직 정해지지 않았고 여러 요소를 감안해 검토 중&quot;이라는 입장을... 조 장관은 호르무즈 해협 파병 문제와 관련해 &quot;아직 정해지지 않았고 여러 요소를 감안해 검토 중&quot;이라는 기존 입장을... ",
-        "pubDate": "Thu, 17 Sep 2026 10:50:00 +0900",
-        "formatted_date": "09월 17일, 10시 50분",
-        "ai_summary": "조현 외교부 장관이 호르무즈 해협 파병 문제는 아직 결정된 바 없으며 여러 요소를 종합적으로 검토 중이라고 밝혔다."
+        "title": "&quot;침략전쟁 가담하는 파병은 위헌&quot; 진주, 호르무즈 파병 반대 집회",
+        "originallink": "http://www.dandinews.com/news/articleView.html?idxno=17553",
+        "link": "http://www.dandinews.com/news/articleView.html?idxno=17553",
+        "description": "&quot;침략전쟁 가담하는 파병은 위헌&quot; 진주, 호르무즈 파병 반대 집회 ⓒ진주진보연합&quot;침략전쟁 가담하는 파병은 위헌&quot; 진주, 호르무즈 파병 반대 집회 ⓒ진주진보연합 진주지역 시민사회단체·정당은 경상국립대 후문 볼래로... ",
+        "pubDate": "Thu, 17 Sep 2026 11:40:00 +0900",
+        "formatted_date": "09월 17일, 11시 40분",
+        "ai_summary": "진주지역 시민사회단체와 정당들이 호르무즈 파병이 침략 전쟁 가담이자 위헌적 결정이라며 반대 집회를 열었습니다."
       },
       {
-        "title": "조현 &quot;호르무즈 파병, 정해지지 않았다…대미투자 발표 연기는 국내 절...",
-        "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/09/17/2026091790087.html",
-        "link": "https://n.news.naver.com/mnews/article/448/0000639846?sid=100",
-        "description": "조 장관은 미국이 요청한 호르무즈 해협 파병 문제와 관련해 &quot;아직 정해지지 않았고 여러 요소를 감안해 검토 중&quot;이라는 기존 입장을 재확인했다. 그러면서 &quot;국제적 협력에는 참여하되, 우리 국민의 안전, 또 호르무즈... ",
-        "pubDate": "Thu, 17 Sep 2026 10:42:00 +0900",
-        "formatted_date": "09월 17일, 10시 42분",
-        "ai_summary": "조 장관은 파병 결정에 대해 국민 안전과 국제 협력을 고려 중이라며, 대미 투자 연기는 절차적 문제라고 설명했다."
+        "title": "'호르무즈 파병' 관련 답변하는 박윤주 1차관",
+        "originallink": "https://www.yna.co.kr/view/PYH20260917111400013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317383?sid=100",
+        "description": "외교부 박윤주 1차관이 17일 국회에서 열린 외교통일위원회 전체회의에서 호르무즈 파병 문제와 관련한 의원들의 질의에 답변하고 있다. 2026.9.17",
+        "pubDate": "Thu, 17 Sep 2026 11:37:00 +0900",
+        "formatted_date": "09월 17일, 11시 37분",
+        "ai_summary": "박윤주 외교부 1차관이 국회 외교통일위원회 전체회의에 출석해 호르무즈 파병 관련 의원들의 질의에 답변했습니다."
       },
       {
-        "title": "외교장관 &quot;호르무즈 파병 정해지지 않아... 여러 요소 검토 중&quot;",
-        "originallink": "https://www.edaily.co.kr/News/Read?newsId=03204566645581104&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-        "link": "https://n.news.naver.com/mnews/article/018/0006370947?sid=100",
-        "description": "조현 외교부 장관이 호르무즈 파병과 관련해 ‘우리 국민의 안전, 호르무즈 해협의 자유 항행을 우선적으로 검토한다는 입장’을 미측에 전달하겠다고 밝혔다. 17일 조 장관은 마코 루비오 미국 국무장관과의 한미... ",
-        "pubDate": "Thu, 17 Sep 2026 10:42:00 +0900",
-        "formatted_date": "09월 17일, 10시 42분",
-        "ai_summary": "조 장관은 한미 외교장관회담을 앞두고 국민 안전과 자유 항행을 최우선으로 파병 문제를 검토하겠다는 입장을 재확인했다."
+        "title": "'호르무즈 파병' 관련 답변하는 박윤주 1차관",
+        "originallink": "https://www.yna.co.kr/view/PYH20260917111300013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317382?sid=100",
+        "description": "외교부 박윤주 1차관이 17일 국회에서 열린 외교통일위원회 전체회의에서 호르무즈 파병 문제와 관련한 의원들의 질의에 답변하고 있다. 2026.9.17",
+        "pubDate": "Thu, 17 Sep 2026 11:37:00 +0900",
+        "formatted_date": "09월 17일, 11시 37분",
+        "ai_summary": "박윤주 외교부 1차관이 국회 외교통일위원회 전체회의에 출석해 호르무즈 파병 관련 의원들의 질의에 답변했습니다."
       },
       {
-        "title": "조현, 호르무즈 파병에 &quot;국제협력 참여하되 국민 안전 우선 검토&quot;",
-        "originallink": "https://www.nocutnews.co.kr/news/6579600?utm_source=naver&utm_medium=article&utm_campaign=20260917104040",
-        "link": "https://n.news.naver.com/mnews/article/079/0004190356?sid=100",
-        "description": "조현, 18일 한미외교장관회담 위해 출국&quot;호르무즈 파병 정해지지 않았고 여러 요소 감안해 검토&quot; &quot;대미투자 일정 연기, 한미 간 이견보다는 절차적 문제&quot; 조현 외교부장관은 호르무즈 파병과 관련해 &quot;국제적 협력에는... ",
-        "pubDate": "Thu, 17 Sep 2026 10:41:00 +0900",
-        "formatted_date": "09월 17일, 10시 41분",
-        "ai_summary": "조 장관은 국제 협력의 필요성과 국민 안전을 동시에 강조하며, 대미 투자 일정 연기는 이견이 아닌 절차적 사안임을 밝혔다."
+        "title": "'호르무즈 파병' 관련 답변하는 박윤주 1차관",
+        "originallink": "https://www.yna.co.kr/view/PYH20260917111500013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317384?sid=100",
+        "description": "외교부 박윤주 1차관이 17일 국회에서 열린 외교통일위원회 전체회의에서 호르무즈 파병 문제와 관련한 의원들의 질의에 답변하고 있다. 2026.9.17",
+        "pubDate": "Thu, 17 Sep 2026 11:37:00 +0900",
+        "formatted_date": "09월 17일, 11시 37분",
+        "ai_summary": "박윤주 외교부 1차관이 국회 외교통일위원회 전체회의에 출석해 호르무즈 파병 관련 의원들의 질의에 답변했습니다."
       },
       {
-        "title": "호르무즈에 이어 홍해까지? 문답으로 알아본 사우디와 후티",
-        "originallink": "https://vop.co.kr/A00001696718.html",
-        "link": "https://vop.co.kr/A00001696718.html",
-        "description": "이란이 걸프만의 출구인 호르무즈해협을 봉쇄하자 사우디아라비아는 원유를 육상 파이프라인으로 반도... 전문가들은 걸프만 입구의 호르무즈해협이 봉쇄된 뒤 사우디가 원유 수출을 위해 이 항로에 갈수록 크게 의존하고... ",
-        "pubDate": "Thu, 17 Sep 2026 10:40:00 +0900",
-        "formatted_date": "09월 17일, 10시 40분",
-        "ai_summary": "이란의 호르무즈 해협 봉쇄 위협에 따라 사우디아라비아가 육상 파이프라인 의존도를 높이는 등 원유 수출 경로를 다변화하고 있다."
+        "title": "'호르무즈 파병' 관련 답변하는 박윤주 1차관",
+        "originallink": "https://www.yna.co.kr/view/PYH20260917111700013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317386?sid=100",
+        "description": "외교부 박윤주 1차관이 17일 국회에서 열린 외교통일위원회 전체회의에서 호르무즈 파병 문제와 관련한 의원들의 질의에 답변하고 있다. 2026.9.17",
+        "pubDate": "Thu, 17 Sep 2026 11:37:00 +0900",
+        "formatted_date": "09월 17일, 11시 37분",
+        "ai_summary": "박윤주 외교부 1차관이 국회 외교통일위원회 전체회의에 출석해 호르무즈 파병 관련 의원들의 질의에 답변했습니다."
       },
       {
-        "title": "사우디, 호르무즈 우회 송유관 복구 시도…국제유가 진정세",
-        "originallink": "https://view.asiae.co.kr/article/2026091709514100506",
-        "link": "https://n.news.naver.com/mnews/article/277/0005817735?sid=104",
-        "description": "받아 호르무즈 해협을 통해 더 많은 원유를 공급하기 위해 신속한 조치를 취하고 있다&quot;고 강조했다. 원유... 씨티은행은 이날 보고서를 통해 &quot;올해 4분기 내로 호르무즈 해협이 국제적 외교 노력에 힘입어 재개방되기... ",
-        "pubDate": "Thu, 17 Sep 2026 10:40:00 +0900",
-        "formatted_date": "09월 17일, 10시 40분",
-        "ai_summary": "사우디의 우회 송유관 복구 노력과 외교적 협상 기대감으로 호르무즈 해협발 국제 유가 불안이 다소 진정되고 있다."
+        "title": "'호르무즈 파병' 관련 답변하는 박윤주 1차관",
+        "originallink": "https://www.yna.co.kr/view/PYH20260917111200013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317381?sid=100",
+        "description": "외교부 박윤주 1차관이 17일 국회에서 열린 외교통일위원회 전체회의에서 호르무즈 파병 문제와 관련한 의원들의 질의에 답변하고 있다. 2026.9.17",
+        "pubDate": "Thu, 17 Sep 2026 11:36:00 +0900",
+        "formatted_date": "09월 17일, 11시 36분",
+        "ai_summary": "박윤주 외교부 1차관이 17일 국회 외교통일위원회 전체회의에 출석했습니다. 의원들의 호르무즈 파병 관련 질의에 답변했습니다."
       },
       {
-        "title": "조현 “호르무즈 파병, 국민 안전이 우선…국제 협력엔 참여”",
-        "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1278227.html",
-        "link": "https://n.news.naver.com/mnews/article/028/0002823479?sid=100",
-        "description": "조현 외교부 장관이 17일 호르무즈해협 파병 문제와 관련해 “국제적 협력에는 참여하되 우리 국민의 안전과 호르무즈해협의 자유항행을 우선적으로 검토한다는 입장”이라고 말했다. 조 장관은 이날 마코 루비오 미국... ",
-        "pubDate": "Thu, 17 Sep 2026 10:36:00 +0900",
-        "formatted_date": "09월 17일, 10시 36분",
-        "ai_summary": "조 장관은 파병과 관련해 국제적 협력에 동참하되, 국민 안전과 자유 항행 보장을 최우선 순위로 고려하겠다고 강조했다."
+        "title": "외통위, 호르무즈 파병 관련 질문하는 김준형 의원",
+        "originallink": "https://www.yna.co.kr/view/PYH20260917110700013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317373?sid=100",
+        "description": "17일 국회에서 열린 외교통일위원회 전체회의에서 조국혁신당 김준형 의원이 호르무즈 파병 문제와 관련한 질문을 하고 있다. 2026.9.17",
+        "pubDate": "Thu, 17 Sep 2026 11:36:00 +0900",
+        "formatted_date": "09월 17일, 11시 36분",
+        "ai_summary": "조국혁신당 김준형 의원이 17일 국회 외교통일위원회 전체회의에 참석했습니다. 호르무즈 파병 문제와 관련해 질의를 진행했습니다."
       },
       {
-        "title": "'호르무즈 파병 반대 결단 촉구'",
-        "originallink": "https://www.news1.kr/photos/8111371",
-        "link": "https://n.news.naver.com/mnews/article/421/0009175957?sid=102",
-        "description": "시민사회단체로 구성된 한국군파병반대 긴급행동 활동가들이 17일 오전 서울 종로구 청와대 앞 분수광장에서 기자회견을 열고, 정부에 이란 호르무즈 파병 불가 입장을 결단할 것을 촉구하고 있다. 2026.9.17/뉴스1",
-        "pubDate": "Thu, 17 Sep 2026 10:34:00 +0900",
-        "formatted_date": "09월 17일, 10시 34분",
-        "ai_summary": "시민사회단체가 청와대 앞에서 기자회견을 열고 정부를 향해 이란 호르무즈 파병에 반대하는 결단을 내릴 것을 강력히 촉구했다."
+        "title": "'호르무즈 파병' 관련 답변하는 박윤주 1차관",
+        "originallink": "https://www.yna.co.kr/view/PYH20260917111100013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317380?sid=100",
+        "description": "외교부 박윤주 1차관이 17일 국회에서 열린 외교통일위원회 전체회의에서 호르무즈 파병 문제와 관련한 의원들의 질의에 답변하고 있다. 2026.9.17",
+        "pubDate": "Thu, 17 Sep 2026 11:36:00 +0900",
+        "formatted_date": "09월 17일, 11시 36분",
+        "ai_summary": "박윤주 외교부 1차관이 17일 국회 외교통일위원회 전체회의에 출석했습니다. 의원들의 호르무즈 파병 관련 질의에 답변했습니다."
       },
       {
-        "title": "호르무즈 파병 반대 결단 촉구 기자회견",
-        "originallink": "https://www.news1.kr/photos/8111370",
-        "link": "https://n.news.naver.com/mnews/article/421/0009175958?sid=102",
-        "description": "시민사회단체로 구성된 한국군파병반대 긴급행동 활동가들이 17일 오전 서울 종로구 청와대 앞 분수광장에서 기자회견을 열고, 정부에 이란 호르무즈 파병 불가 입장을 결단할 것을 촉구하고 있다. 2026.9.17/뉴스1",
-        "pubDate": "Thu, 17 Sep 2026 10:34:00 +0900",
-        "formatted_date": "09월 17일, 10시 34분",
-        "ai_summary": "한국군파병반대 긴급행동 활동가들이 청와대 앞에서 기자회견을 열어 정부의 호르무즈 파병 불가를 요구했다."
+        "title": "'호르무즈 파병' 관련 답변하는 박윤주 1차관",
+        "originallink": "https://www.yna.co.kr/view/PYH20260917111000013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317379?sid=100",
+        "description": "외교부 박윤주 1차관이 17일 국회에서 열린 외교통일위원회 전체회의에서 호르무즈 파병 문제와 관련한 의원들의 질의에 답변하고 있다. 2026.9.17",
+        "pubDate": "Thu, 17 Sep 2026 11:36:00 +0900",
+        "formatted_date": "09월 17일, 11시 36분",
+        "ai_summary": "박윤주 외교부 1차관이 17일 국회 외교통일위원회 전체회의에 출석했습니다. 의원들의 호르무즈 파병 관련 질의에 답변했습니다."
       }
     ],
     "트럼프": [
       {
-        "title": "[속보] 트럼프 &quot;이란과 직접 대화…전쟁 종결 단계 접어들어&quot;",
-        "originallink": "https://biz.sbs.co.kr/article_hub/20000335201?division=NAVER",
-        "link": "https://n.news.naver.com/mnews/article/374/0000533427?sid=104",
-        "description": "트럼프 &quot;이란과 직접 대화…전쟁 종결 단계 접어들어&quot; 도널드 트럼프 미국 대통령은 16일(현지 시간) 미국이 이란과의 전쟁을 끝내는 데 가까워지고 있다고 밝혔습니다 . 알자지라에 따르면 트럼프 대통령은 이날... ",
-        "pubDate": "Thu, 17 Sep 2026 10:50:00 +0900",
-        "formatted_date": "09월 17일, 10시 50분",
-        "ai_summary": "트럼프 미국 대통령이 이란과의 직접 대화를 통해 전쟁 종결 단계에 접어들었다고 밝혔다."
+        "title": "'금리인상' 워시, 트럼프에게 할 말…&quot;독립성은 본분 지키는 것&quot;[문답]",
+        "originallink": "https://www.mt.co.kr/world/2026/09/17/2026091708523192931",
+        "link": "https://n.news.naver.com/mnews/article/008/0005415188?sid=101",
+        "description": "도널드 트럼프 대통령이 임명한 케빈 워시 연준 의장이 인플레이션 우려가 크지 않다는 백악관의 주장과... -금리를 인상하지 말고 인하하라고 거듭 요구해 온 트럼프 대통령에게 전할 메시지가 있나 ▶ (웃음) 대통령과의... ",
+        "pubDate": "Thu, 17 Sep 2026 11:51:00 +0900",
+        "formatted_date": "09월 17일, 11시 51분",
+        "ai_summary": "케빈 워시 연준 의장이 트럼프 대통령의 금리 인하 압박에 대해 입장을 밝혔습니다. 연준의 독립성과 본분을 지키는 것이 중요하다고 강조했습니다."
       },
       {
-        "title": "美 하원, 러시아 제재 법안 통과…트럼프, 최대 100% 관세 가능",
-        "originallink": "https://www.newsis.com/view/NISX20260917_0003793230",
-        "link": "https://n.news.naver.com/mnews/article/003/0014196360?sid=104",
-        "description": "트럼프 대통령에게 권한을 부여하는 내용이 핵심이다. 하원은 이날 찬성 262표, 반대 159표로 이른바 '린지 그레이엄 법안'을 통과시켰다. 법안은 지난달 상원에서 86대 11의 압도적인 찬성으로 가결됐으며, 이제 트럼프... ",
-        "pubDate": "Thu, 17 Sep 2026 10:50:00 +0900",
-        "formatted_date": "09월 17일, 10시 50분",
-        "ai_summary": "미 하원이 트럼프 대통령에게 최대 100% 관세 부과 권한을 부여하는 '린지 그레이엄 법안'을 통과시켰습니다. 해당 법안은 상원에서도 압도적인 찬성으로 가결된 바 있습니다."
+        "title": "[연준 3년만 인상] 트럼프 압박에도 금리 인상…&quot;연준 신뢰 회복&quot; 평가도",
+        "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435408",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435408",
+        "description": "앞서 연준은 도널드 트럼프 미국 대통령이 금리 인하 또는 최소한 유지를 강조했음에도 만장일치로... 재확인하고, 트럼프 대통령의 금리 인하 요구에 대한 독립적인 입장을 보여줬다&quot;며 &quot;통화 정책 결정이 여전히 경제... ",
+        "pubDate": "Thu, 17 Sep 2026 11:50:00 +0900",
+        "formatted_date": "09월 17일, 11시 50분",
+        "ai_summary": "연준이 트럼프 대통령의 인하 압박에도 만장일치로 금리 인상을 단행했습니다. 이번 결정으로 연준은 통화 정책의 독립성과 신뢰를 재확인했습니다."
       },
       {
-        "title": "트럼프, '마약통제 불이행국' 명단에서 베네수엘라 해제",
-        "originallink": "https://www.ytn.co.kr/_ln/0104_202609171049263873",
-        "link": "https://n.news.naver.com/mnews/article/052/0002408158?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 매년 발표하는 '마약 통제 의무 명백 불이행국' 지정 목록에서 베네수엘라를 20여 년 만에 해제했습니다. 현지시간 16일 로이터와 블룸버그, EFE 통신 등은 트럼프 대통령이 델시 로드리게스... ",
-        "pubDate": "Thu, 17 Sep 2026 10:49:00 +0900",
-        "formatted_date": "09월 17일, 10시 49분",
-        "ai_summary": "트럼프 대통령이 매년 발표하는 '마약 통제 불이행국' 명단에서 베네수엘라를 20여 년 만에 제외했습니다. 이번 조치는 델시 로드리게스 임시대통령 취임과 연관된 것으로 보입니다."
+        "title": "EU, 캐나다에 ‘첫 준회원국’ 러브콜… 트럼프 “웃기는 일”",
+        "originallink": "https://www.munhwa.com/article/11617754?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/021/0002819494?sid=104",
+        "description": "도널드 트럼프 미 대통령의 관세 압박 등으로 미국과의 갈등의 골이 깊어진 캐나다가 유럽에 밀착하는 모습을 보이는 가운데 유럽연합(EU) 수장이 캐나다에 사상 첫 ‘준회원국’이 되라며 공개 러브콜을 보냈다. 트럼프... ",
+        "pubDate": "Thu, 17 Sep 2026 11:49:00 +0900",
+        "formatted_date": "09월 17일, 11시 49분",
+        "ai_summary": "미국과 갈등 중인 캐나다가 EU와 밀착하는 가운데 EU가 캐나다에 준회원국을 제안했습니다. 트럼프 대통령은 이를 비판했습니다."
       },
       {
-        "title": "트럼프 &quot;미 금리 1% 이하로 서둘러 낮춰야&quot;…연준 금리 인상 비판",
-        "originallink": "https://www.obsnews.co.kr/news/articleView.html?idxno=1537770",
-        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1537770",
-        "description": "트럼프 미국 대통령은 연준이 기준금리를 인상하자 &quot;미국의 금리는 1%이거나 그보다 낮아야 한다&quot;며 &quot;금리를 서둘러 낮추라&quot;고 비판했습니다. 트럼프 대통령은 현지시간 16일 소셜미디어에 &quot;우리는 새로운 투자로 호황을... ",
-        "pubDate": "Thu, 17 Sep 2026 10:48:00 +0900",
-        "formatted_date": "09월 17일, 10시 48분",
-        "ai_summary": "트럼프 대통령이 연준의 금리 인상을 강력히 비판하며 경제 호황을 위해 금리를 1% 이하로 조속히 낮출 것을 요구했습니다."
+        "title": "정동영 통일부 장관 &quot;이재명-트럼프 최적의 리더십&quot;…한반도 평화체제 ...",
+        "originallink": "https://www.kado.net/news/articleView.html?idxno=2073320",
+        "link": "https://n.news.naver.com/mnews/article/654/0000201167?sid=100",
+        "description": "이재명 대통령이 지난 해 8월 첫 한·미 정상회담에서 &quot;트럼프 대통령이 피스 메이커를 하면 저는... 정 장관은 이 대통령이 불안정한 정전체제를 향구적 평화체제로의 전환을 6차례 밝힌 것 등을 언급하며 &quot;트럼프 대통령... ",
+        "pubDate": "Thu, 17 Sep 2026 11:48:00 +0900",
+        "formatted_date": "09월 17일, 11시 48분",
+        "ai_summary": "정동영 통일부 장관이 이재명 대통령과 트럼프 대통령의 리더십을 높게 평가했습니다. 한반도 평화체제 구축을 위한 최적의 조합이라고 언급했습니다."
       },
       {
-        "title": "트럼프, ‘마약통제 불이행국’ 명단서 베네수엘라 뺐다…20여년만 처음...",
-        "originallink": "https://biz.heraldcorp.com/article/10876785?ref=naver",
-        "link": "https://n.news.naver.com/mnews/article/016/0002698653?sid=104",
-        "description": "트럼프의 한마디에 세계 경제와 금융시장이 출렁이는 시대. 쏟아지는 트럼프 뉴스를 일일이 찾아보기 벅차다면 [1일1트]가 딱입니다. 새벽 5시부터 움직이는 헤럴드경제 국제부가 미국 증시 마감 시황부터 글로벌... ",
-        "pubDate": "Thu, 17 Sep 2026 10:48:00 +0900",
-        "formatted_date": "09월 17일, 10시 48분",
-        "ai_summary": "트럼프 대통령이 20여 년 만에 베네수엘라를 마약 통제 불이행국 명단에서 해제했습니다. 급변하는 트럼프 관련 뉴스를 매일 요약하는 서비스에 대한 안내입니다."
+        "title": "트럼프, 중동 6개국 지도자와 뉴욕 회동 추진…이란전 논의",
+        "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758060&plink=ORI&cooper=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/055/0001389030?sid=104",
+        "description": "▲ 도널드 트럼프 미국 대통령 도널드 트럼프 미국 대통령이 다음 주 뉴욕에서 중동 6개국 지도자들과의 회동을 추진하고 있다고 인터넷매체 악시오스가 현지시간 16일 보도했습니다. 소식통에 따르면 트럼프 대통령은... ",
+        "pubDate": "Thu, 17 Sep 2026 11:40:00 +0900",
+        "formatted_date": "09월 17일, 11시 40분",
+        "ai_summary": "트럼프 대통령이 다음 주 뉴욕에서 중동 6개국 지도자들과 회동을 추진합니다. 이번 만남에서 이란 문제를 집중적으로 논의할 예정입니다."
       },
       {
-        "title": "'트럼프·하프 키스 사진' 알고 보니 AI 조작…6개 손가락이 드러낸 가짜",
-        "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000066415",
-        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000066415",
-        "description": "도널드 트럼프 미국 대통령과 보좌관 나탈리 하프가 골프장에서 포옹하고 입을 맞추는 모습이 담긴 사진이... 미국 시사주간지 뉴스위크는 15일(현지시간) 트럼프 대통령과 하프 보좌관이 골프장에서 함께 있는 장면의... ",
-        "pubDate": "Thu, 17 Sep 2026 10:48:00 +0900",
-        "formatted_date": "09월 17일, 10시 48분",
-        "ai_summary": "SNS상에서 화제가 된 트럼프와 보좌관의 키스 사진이 AI로 조작된 가짜로 드러났습니다. 사진 속 인물의 손가락 개수가 6개인 점 등이 조작의 근거로 지목됐습니다."
+        "title": "트럼프 절친 석유사업가 베네수엘라 진출",
+        "originallink": "https://biz.sbs.co.kr/article_hub/20000335237?division=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/374/0000533449?sid=104",
+        "description": "도널드 트럼프 미국 대통령과 가까운 억만장자 석유 사업가 헤럴드 햄이 이끄는 미국 셰일업체 콘티넨털... 콘티넨털은 트럼프 행정부가 미국 에너지 기업들에 베네수엘라 석유 산업 재건을 지원해줄 것을 요청한 후... ",
+        "pubDate": "Thu, 17 Sep 2026 11:40:00 +0900",
+        "formatted_date": "09월 17일, 11시 40분",
+        "ai_summary": "트럼프 대통령의 측근인 석유 사업가 헤럴드 햄의 회사가 베네수엘라에 진출합니다. 트럼프 행정부의 에너지 정책 지원이 영향을 미친 것으로 보입니다."
       },
       {
-        "title": "트럼프, '마약 통제 불이행국' 명단서 베네수엘라 해제",
-        "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260917104649den",
-        "link": "https://n.news.naver.com/mnews/article/422/0000907025?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 매년 발표하는 '마약 통제 의무 명백 불이행국' 지정 목록에서 베네수엘라를 20여년만에 해제했습니다. 현지 시간 16일 외신들에 따르면 트럼프 대통령은 델시 로드리게스 임시대통령이... ",
-        "pubDate": "Thu, 17 Sep 2026 10:47:00 +0900",
-        "formatted_date": "09월 17일, 10시 47분",
-        "ai_summary": "트럼프 대통령이 델시 로드리게스 임시대통령 체제의 베네수엘라를 마약 통제 불이행국 명단에서 20여 년 만에 해제했습니다."
+        "title": "[오늘 트럼프는] 연준 금리인상에 &quot;1% 이하로, 빨리 내려라&quot;",
+        "originallink": "https://www.news1.kr/world/usa-canada/6293792",
+        "link": "https://n.news.naver.com/mnews/article/421/0009176299?sid=104",
+        "description": "금리 인하를 공개 요구했던 트럼프 대통령은 이에 &quot;우리나라는 새로운 투자가 호황을 누리고 적자를 보고... 트럼프는 이 계획에 대한 취재진의 질문에 &quot;터무니없다고 생각한다&quot;고 말했다. 이어 &quot;만약 그들이 그렇게... ",
+        "pubDate": "Thu, 17 Sep 2026 11:37:00 +0900",
+        "formatted_date": "09월 17일, 11시 37분",
+        "ai_summary": "(원문) 금리 인하를 공개 요구했던 트럼프 대통령은 이에 &quot;우리나라는 새로운 투자가 호황을 누리고 적자를 보고... 트럼프는 이 계획에 대한 취..."
       },
       {
-        "title": "&quot;워시, 너마저&quot;...궁지 몰린 트럼프 또 '남 탓' 공세",
-        "originallink": "https://www.ytn.co.kr/_ln/0104_202609171044160620",
-        "link": "https://n.news.naver.com/mnews/article/052/0002408154?sid=104",
-        "description": "미 연방준비제도가 기준금리를 전격 인상하자, 도널드 트럼프 미국 대통령이 자신이 직접 지명한 연준 의장을... [기자] 자신이 직접 낙점한 케빈 워시 연준 의장이 취임 넉 달 만에 금리 인상을 단행하자, 트럼프 대통령은... ",
-        "pubDate": "Thu, 17 Sep 2026 10:44:00 +0900",
-        "formatted_date": "09월 17일, 10시 44분",
-        "ai_summary": "연준의 금리 인상 단행에 트럼프 대통령이 자신이 지명한 케빈 워시 의장을 강하게 비판하며 남 탓 행보를 보이고 있습니다."
+        "title": "트럼프 절친 석유사업가 베네수앨라 진출",
+        "originallink": "https://www.yna.co.kr/view/AKR20260917091700009?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317377?sid=101",
+        "description": "도널드 트럼프 미국 대통령과 가까운 억만장자 석유 사업가 헤럴드 햄이 이끄는 미국 셰일업체 콘티넨털... 콘티넨털은 트럼프 행정부가 미국 에너지 기업들에 베네수엘라 석유 산업 재건을 지원해줄 것을 요청한 후... ",
+        "pubDate": "Thu, 17 Sep 2026 11:36:00 +0900",
+        "formatted_date": "09월 17일, 11시 36분",
+        "ai_summary": "(원문) 도널드 트럼프 미국 대통령과 가까운 억만장자 석유 사업가 헤럴드 햄이 이끄는 미국 셰일업체 콘티넨털... 콘티넨털은 트럼프 행정부가 미국 에너지..."
       },
       {
-        "title": "트럼프, '마약통제 불이행국' 명단서 베네수엘라 해제",
-        "originallink": "https://imnews.imbc.com/news/2026/world/article/6852441_36925.html",
-        "link": "https://n.news.naver.com/mnews/article/214/0001524475?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 매년 발표하는 '마약 통제 의무 명백 불이행국' 지정 목록에서 베네수엘라를 20여 년 만에 해제했습니다. 16일 로이터·블룸버그·EFE 통신 등에 따르면 트럼프 대통령은 델시 로드리게스... ",
-        "pubDate": "Thu, 17 Sep 2026 10:44:00 +0900",
-        "formatted_date": "09월 17일, 10시 44분",
-        "ai_summary": "트럼프 대통령이 20여 년 만에 베네수엘라를 마약 통제 불이행국 명단에서 해제하며 외교적 태도 변화를 보였습니다."
+        "title": "트럼프, 중동 6개국 지도자와 뉴욕 회동 추진…이란전 논의",
+        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665931&ref=A",
+        "link": "https://n.news.naver.com/mnews/article/056/0012259173?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 다음 주 뉴욕에서 중동 6개국 지도자들과의 회동을 추진하고 있다고 인터넷 매체 악시오스가 현지 시각 16일 보도했습니다. 소식통에 따르면 트럼프 대통령은 유엔 정기총회 기간인 오는... ",
+        "pubDate": "Thu, 17 Sep 2026 11:35:00 +0900",
+        "formatted_date": "09월 17일, 11시 35분",
+        "ai_summary": "(원문) 도널드 트럼프 미국 대통령이 다음 주 뉴욕에서 중동 6개국 지도자들과의 회동을 추진하고 있다고 인터넷 매체 악시오스가 현지 시각 16일 보도했습..."
       },
       {
-        "title": "트럼프 &quot;EU의 캐나다 준회원국 추진, 적대행위 될 수도…나쁜 의도면 고...",
-        "originallink": "https://www.ajunews.com/view/20260917102049530",
-        "link": "https://www.ajunews.com/view/20260917102049530",
-        "description": "com 도널드 트럼프 미국 대통령 [사진=AFP·연합뉴스] 도널드 트럼프 미국 대통령이 유럽연합(EU)의 캐나다 준회원국 추진 가능성을 두고 적대 행위가 될 수 있다며 추가 관세 부과까지 경고했다. 16일(현지시간) AP통신 등에... ",
-        "pubDate": "Thu, 17 Sep 2026 10:40:00 +0900",
-        "formatted_date": "09월 17일, 10시 40분",
-        "ai_summary": "트럼프 대통령이 EU의 캐나다 준회원국 추진을 적대 행위로 간주하고, 나쁜 의도로 판단될 경우 관세 부과 등 강력한 대응을 예고했습니다."
+        "title": "“금리 1% 이하로 내려라”…트럼프, 3년여 만의 연준 인상에 반발",
+        "originallink": "https://www.ddaily.co.kr/page/view/2026091711053927924",
+        "link": "https://n.news.naver.com/mnews/article/138/0002241804?sid=101",
+        "description": "도널드 트럼프 미국 대통령이 미국 연방준비제도(Fed·연준)의 3년여 만의 기준금리 인상 직후 “금리를 1... 물가를 잡기 위해 추가 긴축 가능성까지 열어둔 연준과 대폭적인 금리 인하를 요구하는 트럼프 행정부의... ",
+        "pubDate": "Thu, 17 Sep 2026 11:31:00 +0900",
+        "formatted_date": "09월 17일, 11시 31분",
+        "ai_summary": "(원문) 도널드 트럼프 미국 대통령이 미국 연방준비제도(Fed·연준)의 3년여 만의 기준금리 인상 직후 “금리를 1... 물가를 잡기 위해 추가 긴축 가..."
       }
     ],
     "유가": [
       {
-        "title": "[특징주] 유가 100달러대 고공행진…정유株·S-Oil 5%↑",
-        "originallink": "https://www.newspim.com/news/view/20260917000401",
-        "link": "https://www.newspim.com/news/view/20260917000401",
-        "description": "국제유가가 배럴당 100달러를 웃도는 고유가 흐름을 이어가면서 국내 정유주가 17일 장 초반 동반 강세를 보이고 있다. 이날 오전 10시 14분 기준 S-Oil은 전 거래일보다 5.27% 오른 15만1700원에 거래되고 있다. GS는 2.14... ",
-        "pubDate": "Thu, 17 Sep 2026 10:49:00 +0900",
-        "formatted_date": "09월 17일, 10시 49분",
-        "ai_summary": "국제 유가가 배럴당 100달러를 돌파하며 고공행진을 이어가자 S-Oil 등 국내 정유주들이 동반 강세를 보이고 있습니다."
+        "title": "고금리·고유가·고물가 압박 더 커진다[포럼]",
+        "originallink": "https://www.munhwa.com/article/11617756?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/021/0002819496?sid=110",
+        "description": "중동 정세가 불안해지면서 유가는 배럴당 100달러를 넘어섰다. 이에 따라 미국 연방준비제도(Fed)는... 고유가·고금리로 세계 경제는 경기침체와 부채 위기에 노출되고 있다. 미국 금리인상과 고유가는 한국 경제에도 큰... ",
+        "pubDate": "Thu, 17 Sep 2026 11:53:00 +0900",
+        "formatted_date": "09월 17일, 11시 53분",
+        "ai_summary": "(원문) 중동 정세가 불안해지면서 유가는 배럴당 100달러를 넘어섰다. 이에 따라 미국 연방준비제도(Fed)는... 고유가·고금리로 세계 경제는 경기침체..."
       },
       {
-        "title": "사우디 원유 우회 공급 타진에 국제유가 3% 안팎 하락",
-        "originallink": "https://www.obsnews.co.kr/news/articleView.html?idxno=1537769",
-        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1537769",
-        "description": "이틀 연속 급등했던 국제유가가 사우디아라비아의 원유 우회 공급 소식에 하락세로 돌아섰습니다. 현지시간 16일 런던 ICE 선물거래소에서 11월 인도분 브렌트유 선물은 전장보다 2.69% 내린 배럴당 105.83달러에 장을... ",
-        "pubDate": "Thu, 17 Sep 2026 10:48:00 +0900",
-        "formatted_date": "09월 17일, 10시 48분",
-        "ai_summary": "사우디아라비아의 원유 우회 공급 소식이 전해지면서 급등하던 국제유가가 3% 내외로 하락했습니다. 공급 차질 완화 기대감이 시장에 반영된 결과입니다."
+        "title": "미 휘발유, 중간유분 제고 증가 등에 9월16일 국제유가 하락",
+        "originallink": "https://www.energy-news.co.kr/news/articleView.html?idxno=228276",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=228276",
+        "description": "16일 국제유가는 사우디의 오만 해상 선박 간 환적을 통한 아시아향 원유 공급 확대 제안 및 미국... 반면 국내 기준 유가로 적용되는 중동산 Dubai유는 전일대비 배럴당 0.30달러 오른 128.00달러에 마감됐다.... ",
+        "pubDate": "Thu, 17 Sep 2026 11:42:00 +0900",
+        "formatted_date": "09월 17일, 11시 42분",
+        "ai_summary": "(원문) 16일 국제유가는 사우디의 오만 해상 선박 간 환적을 통한 아시아향 원유 공급 확대 제안 및 미국... 반면 국내 기준 유가로 적용되는 중동산 ..."
       },
       {
-        "title": "&quot;가격 올렸는데 원가 또 오르나&quot; 사우디發 유가 쇼크에 식품업계 '긴장...",
-        "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/09/17/2026091700111.html",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/17/2026091700111.html",
-        "description": "뉴데일리 최신혜 기자 = 국제유가가 배럴당 100달러를 웃돌면서 국내 식품업계의 원가 부담에 다시 경고등이... 사우디아라비아가 원유 우회 공급에 나서면서 16일 유가는 고점에서 일부 내려왔지만 두 유종 모두 여전히... ",
-        "pubDate": "Thu, 17 Sep 2026 10:44:00 +0900",
-        "formatted_date": "09월 17일, 10시 44분",
-        "ai_summary": "국제유가가 배럴당 100달러를 웃돌면서 국내 식품업계의 원가 부담이 가중되고 있습니다. 유가가 다소 하락했으나 여전히 높은 수준이라 긴장이 지속되고 있습니다."
+        "title": "중동 긴장에도 국제유가 소폭 하락…물량 90% 확보",
+        "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260917110823Azc",
+        "link": "https://n.news.naver.com/mnews/article/422/0000907042?sid=101",
+        "description": "중동 긴장으로 높은 수준을 이어가던 국제유가가 소폭 하락했습니다. 정부는 원유와 나프타 물량 9~10월분을 지난해 평균 대비 90% 확보했습니다. 산업통상부는 오늘(17일) 오전 8시 기준 브렌트유가 배럴당 105.6달러로... ",
+        "pubDate": "Thu, 17 Sep 2026 11:30:00 +0900",
+        "formatted_date": "09월 17일, 11시 30분",
+        "ai_summary": "(원문) 중동 긴장으로 높은 수준을 이어가던 국제유가가 소폭 하락했습니다. 정부는 원유와 나프타 물량 9~10월분을 지난해 평균 대비 90% 확보했습니다..."
       },
       {
-        "title": "사우디, 호르무즈 우회 송유관 복구 시도…국제유가 진정세",
-        "originallink": "https://view.asiae.co.kr/article/2026091709514100506",
-        "link": "https://n.news.naver.com/mnews/article/277/0005817735?sid=104",
-        "description": "연일 폭등하던 국제유가 상승세는 이로 인해 한풀 꺾였다. 다만 후티 반군의 사우디 본토 공습이 계속 진행 중인데다 러시아의 경유 수출금지 조치가 연장되면서 한동안 유가가 배럴당 100달러선 아래로 떨어지기는... ",
-        "pubDate": "Thu, 17 Sep 2026 10:40:00 +0900",
-        "formatted_date": "09월 17일, 10시 40분",
-        "ai_summary": "사우디의 원유 수출 우회 경로 확보로 국제유가 상승세가 진정되었습니다. 하지만 지정학적 리스크가 여전해 유가가 100달러 아래로 떨어지기는 쉽지 않을 전망입니다."
+        "title": "트럼프, 중간선거 지원 시동… 고유가에 “이란전 성과 비하면 값싼 대...",
+        "originallink": "https://www.chosun.com/international/us/2026/09/17/FYD464QWRBGFPD2V4CBJ2EBEOY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "link": "https://n.news.naver.com/mnews/article/023/0003998976?sid=104",
+        "description": "3줄 요약 ㆍ미국 경유 가격 사상 첫 갤런당 6달러 돌파 ㆍ트럼프, 이란전 성과 대비 유가 상승 '저렴한 대가' 주장 ㆍ중간선거 결과가 트럼프 2기 후반부 국정 동력 좌우 도널드 트럼프 미국 대통령은 16일 노스캐롤라이나주... ",
+        "pubDate": "Thu, 17 Sep 2026 11:24:00 +0900",
+        "formatted_date": "09월 17일, 11시 24분",
+        "ai_summary": "(원문) 3줄 요약 ㆍ미국 경유 가격 사상 첫 갤런당 6달러 돌파 ㆍ트럼프, 이란전 성과 대비 유가 상승 '저렴한 대가' 주장 ㆍ중간선거 결과가 트럼프 ..."
       },
       {
-        "title": "[국제유가] 사우디 수출 우회로 확보에 하락…WTI 3.2%↓",
-        "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=291500",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=291500",
-        "description": "국제유가가 사우디아라비아의 원유 수출 차질 완화 기대에 3거래일 만에 하락했다. 16일(미국 동부시간)... 이날 유가를 끌어내린 핵심 요인은 사우디의 원유 수출 경로 다변화였다. 로이터에 따르면 사우디는 오만... ",
-        "pubDate": "Thu, 17 Sep 2026 10:36:00 +0900",
-        "formatted_date": "09월 17일, 10시 36분",
-        "ai_summary": "사우디가 오만을 경유하는 등 원유 수출 경로를 다변화하며 수급 우려를 덜었습니다. 이로 인해 WTI를 비롯한 국제유가가 3거래일 만에 하락세로 전환되었습니다."
+        "title": "트럼프, 고유가에 “이란전 성과 비하면 값싼 대가”…선거전 시동",
+        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665912&ref=A",
+        "link": "https://n.news.naver.com/mnews/article/056/0012259164?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 현지 시각 16일 이란전쟁으로 촉발된 유가 상승 문제를 가리켜 “우리가 해낸... 이어 “(원유) 가격이 훨씬 더 비싸졌다고 하더라도 마찬가지일 것”이라며 전쟁이 끝나면 유가가 매우 빠르게... ",
+        "pubDate": "Thu, 17 Sep 2026 11:19:00 +0900",
+        "formatted_date": "09월 17일, 11시 19분",
+        "ai_summary": "(원문) 도널드 트럼프 미국 대통령이 현지 시각 16일 이란전쟁으로 촉발된 유가 상승 문제를 가리켜 “우리가 해낸... 이어 “(원유) 가격이 훨씬 더 ..."
       },
       {
-        "title": "중동전쟁에 국제유가 다시 100달러…정유업계 '11월 물량'이 고비",
-        "originallink": "https://www.ppss.kr/news/articleView.html?idxno=311210",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=311210",
-        "description": "미국과 이란의 충돌로 중동의 지정학적 위험이 다시 커지면서 국제유가가 배럴당 100달러 선을 넘어섰다.... 17일 한국석유공사 페트로넷에 따르면 9월 평균 국제유가는 브렌트유가 배럴당 100.4달러, 서부텍사스산원유(WTI)... ",
-        "pubDate": "Thu, 17 Sep 2026 10:29:00 +0900",
-        "formatted_date": "09월 17일, 10시 29분",
-        "ai_summary": "중동의 지정학적 위험 고조로 국제유가가 다시 배럴당 100달러를 돌파했습니다. 유가 상승에 따라 11월 물량 확보를 앞둔 정유업계의 고민이 깊어지고 있습니다."
+        "title": "트럼프 &quot;고유가? 이란전 성과 대비 값싼 대가&quot;…선거전 시동",
+        "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260917110822Xab",
+        "link": "https://n.news.naver.com/mnews/article/422/0000907035?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 이란전쟁으로 촉발된 유가 상승 문제를 가리켜 &quot;우리가 해낸 일에 비하면 아주... 이어 &quot;(원유) 가격이 훨씬 더 비싸졌다고 하더라도 마찬가지일 것&quot;이라며 전쟁이 끝나면 유가가 매우 빠르게... ",
+        "pubDate": "Thu, 17 Sep 2026 11:09:00 +0900",
+        "formatted_date": "09월 17일, 11시 09분",
+        "ai_summary": "(원문) 도널드 트럼프 미국 대통령이 이란전쟁으로 촉발된 유가 상승 문제를 가리켜 &quot;우리가 해낸 일에 비하면 아주... 이어 &quot;(원유)..."
+      },
+      {
+        "title": "국제유가 3% 안팎 하락…사우디, 오만서 원유 환적 제안",
+        "originallink": "https://www.tokenpost.kr/news/breaking/409423",
+        "link": "https://www.tokenpost.kr/news/breaking/409423",
+        "description": "국제유가가 16일 3% 안팎 하락했다. 사우디아라비아가 송유관 피격 이후 추가 원유 공급 방안을 제안했다는 보도가 나오면서 공급 차질 우려가 일부 완화됐다. 브렌트유 선물은 배럴당 105.83달러로 2.7% 하락했고... ",
+        "pubDate": "Thu, 17 Sep 2026 11:06:00 +0900",
+        "formatted_date": "09월 17일, 11시 06분",
+        "ai_summary": "사우디아라비아의 원유 추가 공급 제안으로 공급 차질 우려가 완화되며 국제유가가 3%가량 하락했다."
+      },
+      {
+        "title": "코스피, 미 금리인상에도 상승…유가 하락 영향",
+        "originallink": "http://www.yonhapnewstv.co.kr/news/MYH202609171104040Vf",
+        "link": "https://n.news.naver.com/mnews/article/422/0000907031?sid=101",
+        "description": "그간 연준의 금리 인상 우려를 증시에 상당 부분 반영한 데다, 미국 기술주가 선방하고, 국제 유가가 하락한... 연이틀 급등했던 국제유가도 사우디아라비아의 원유 우회 공급 소식 등에 힘입어 하락세로 돌아섰습니다.... ",
+        "pubDate": "Thu, 17 Sep 2026 11:04:00 +0900",
+        "formatted_date": "09월 17일, 11시 04분",
+        "ai_summary": "미국 금리 인상 영향이 선반영되고 국제유가가 하락하면서 코스피가 상승세를 보였다."
       }
     ],
     "코스피": [
       {
-        "title": "[개장 시황] 코스피, 미 연준 통화정책 불확실성 해소에 0.9% 상승한 6,77...",
-        "originallink": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277165",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277165",
-        "description": "이날 코스피 지수는 전 거래일 대비 61.05포인트(0.91%) 오른 6,779.02로 개장했으나, 장 초반 상단에서의... 오전 9시 50분 기준 코스피 시장에서 개인 투자자는 총 1조 8,500억 원 규모를 매수하고 1조 7,016억 원을 매도해... ",
-        "pubDate": "Thu, 17 Sep 2026 10:54:00 +0900",
-        "formatted_date": "09월 17일, 10시 54분",
-        "ai_summary": "미국 연준의 통화정책 불확실성이 해소되면서 코스피 지수가 0.9% 상승하며 개장했습니다. 장 초반 개인 투자자들의 대규모 매수세가 시장을 이끌고 있습니다."
+        "title": "외국인·기관 매도세 확대에…코스피, 6700선에서 강보합",
+        "originallink": "https://biz.chosun.com/stock/stock_general/2026/09/17/VDVUWWQR6JBAHLFGXDXLITWFEQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "link": "https://n.news.naver.com/mnews/article/366/0001193001?sid=101",
+        "description": "개인 홀로 순매수하며 장 방어 코스피 지수가 17일 오전 6700선에서 강보합세를 유지 중이다. 미국... 이날 오전 11시 37분 기준 코스피 지수는 전 거래일보다 10.82포인트(0.16%) 상승한 6728.79를 기록 중이다.... ",
+        "pubDate": "Thu, 17 Sep 2026 11:49:00 +0900",
+        "formatted_date": "09월 17일, 11시 49분",
+        "ai_summary": "외국인과 기관의 매도세 속에서도 개인 투자자의 매수세에 힘입어 코스피가 6700선에서 강보합을 유지했다."
       },
       {
-        "title": "[오늘증시] '매파 FOMC' 넘긴 코스피…금리 인상에도 6800선 성큼",
-        "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=813417",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=813417",
-        "description": "코스피가 미국 연방준비제도(Fed)의 3년여 만의 금리 인상에도 이틀째 상승 흐름을 이어가고 있다.... ■ 외인 5643억 매도에도 상승…개인 2261억 순매수 17일 오전 10시25분 현재 코스피는 전 거래일보다 44.99포인트... ",
-        "pubDate": "Thu, 17 Sep 2026 10:48:00 +0900",
-        "formatted_date": "09월 17일, 10시 48분",
-        "ai_summary": "미국 연준의 금리 인상 단행에도 코스피가 이틀 연속 상승세를 보이고 있습니다. 외국인의 매도세가 이어짐에도 개인의 순매수로 지수를 방어하는 모습입니다."
+        "title": "FOMC 충격 견뎌낸 코스피 6700선 보합권…'개인·자사주' 1조 순매수[장...",
+        "originallink": "https://www.news1.kr/finance/general-stock/6293803",
+        "link": "https://n.news.naver.com/mnews/article/421/0009176310?sid=101",
+        "description": "코스피가 미국 연방준비제도(연준·Fed)의 매파적 연방공개시장위원회(FOMC) 결과에도 큰 충격 없이... 17일 오전 11시 36분 코스피는 전일 대비 2.92포인트(p)(0.04%) 오른 6720.89를 가리키고 있다. 개장 직후... ",
+        "pubDate": "Thu, 17 Sep 2026 11:47:00 +0900",
+        "formatted_date": "09월 17일, 11시 47분",
+        "ai_summary": "미국 FOMC의 매파적 결정에도 코스피는 개인과 자사주의 대규모 매수로 6700선 보합권을 지켜냈다."
       },
       {
-        "title": "우려 선반영? 불확실성 완화?…'매파적' 연준에도 코스피 상승",
-        "originallink": "https://www.yna.co.kr/view/AKR20260917078900008?input=1195m",
-        "link": "https://n.news.naver.com/mnews/article/001/0016317033?sid=101",
-        "description": "&quot;장기채 금리상승 압력 완화되며 코스피도 상단저항 약화 가능성&quot; &quot;금리 높아질수록 가격전가력 높은... 17일 한국거래소와 금융정보서비스업체 연합인포맥스에 따르면 이날 오전 10시 16분 현재 코스피는 전장보다 0.... ",
-        "pubDate": "Thu, 17 Sep 2026 10:40:00 +0900",
-        "formatted_date": "09월 17일, 10시 40분",
-        "ai_summary": "매파적 연준의 정책이 시장의 우려를 선반영하며 불확실성을 해소했습니다. 금리 인상 악재에도 불구하고 증시 상단 저항이 약화되며 상승 흐름을 보이고 있습니다."
+        "title": "금리 올렸는데 다행?…반도체 저가매수에 코스피 상승",
+        "originallink": "https://biz.sbs.co.kr/article_hub/20000335212?division=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/374/0000533447?sid=101",
+        "description": "상승하던 코스피도 점차 상승분을 반납하는 모습입니다. 자세한 흐름 확인해 보겠습니다. 김종윤 기자, 현재까지 증시 전해주시죠. [기자] 미국 기준금리 인상에도 불구하고 코스피는 개장 후 6779로 상승한 뒤 6720선... ",
+        "pubDate": "Thu, 17 Sep 2026 11:37:00 +0900",
+        "formatted_date": "09월 17일, 11시 37분",
+        "ai_summary": "미국 기준금리 인상에도 불구하고 반도체 저가 매수세가 유입되며 코스피가 상승 출발했다."
       },
       {
-        "title": "美 금리 인상에도 버티는 코스피...외국인은 7거래일째 매도 중 [fn오전...",
-        "originallink": "https://www.fnnews.com/news/202609171027188143",
-        "link": "https://n.news.naver.com/mnews/article/014/0005577218?sid=101",
-        "description": "올렸지만 코스피는 오름세를 이어가고 있다. 다만 외국인이 국내 주식을 7거래일째 팔아치우고 있어 상승폭 자체는 크지 않은 모습이다.한국거래소에 따르면 17일 오전 10시 30분 현재 코스피는 전 거래일보다... ",
-        "pubDate": "Thu, 17 Sep 2026 10:34:00 +0900",
-        "formatted_date": "09월 17일, 10시 34분",
-        "ai_summary": "미국의 금리 인상 기조 속에서도 코스피는 견조한 흐름을 유지하고 있습니다. 다만 외국인 투자자들이 7거래일 연속 매도세를 이어가며 상승 폭을 제한하고 있습니다."
+        "title": "코스피 보합권 등락…반도체 하락에 '삼전닉스' 자사주 6800억 매입",
+        "originallink": "https://www.newspim.com/news/view/20260917000651",
+        "link": "https://www.newspim.com/news/view/20260917000651",
+        "description": "17일 장 초반 1% 넘게 뛰었던 코스피가 상승폭을 모두 반납하며 보합권으로 내려왔다. 삼성전자와... 한국거래소에 따르면 이날 오전 11시 25분 기준 코스피는 전 거래일보다 0.17포인트 오른 6717.80을 기록하고... ",
+        "pubDate": "Thu, 17 Sep 2026 11:37:00 +0900",
+        "formatted_date": "09월 17일, 11시 37분",
+        "ai_summary": "삼성전자 등 반도체주가 하락하며 장 초반 상승분을 반납하고 코스피가 보합권에서 등락을 거듭했다."
       },
       {
-        "title": "&quot;매파적 연준에도 불확실성 정점 통과…코스피 6600선 매수 기회&quot;",
-        "originallink": "https://news.bizwatch.co.kr/article/market/2026/09/17/0003",
-        "link": "https://n.news.naver.com/mnews/article/648/0000050853?sid=101",
-        "description": "그동안 코스피 7000~7100선 상단 저항도 약해질 가능성이 높다&quot;고 전망했다. 국내 증시는 단기적으로 코스피 6600선의 지지력을 확인하는 과정이 나타날 수 있다고 봤다. 다만 이를 추세적인 하락의 시작이라기보다는... ",
-        "pubDate": "Thu, 17 Sep 2026 10:26:00 +0900",
-        "formatted_date": "09월 17일, 10시 26분",
-        "ai_summary": "연준의 매파적 행보가 불확실성 정점을 통과했다는 평가가 나옵니다. 증시 전문가들은 단기 조정 가능성이 있으나 현재 지수대를 매수 기회로 활용할 것을 조언했습니다."
+        "title": "美 금리 올랐는데 코스피도 같이 오른다…왜?",
+        "originallink": "https://www.etnews.com/20260917000253",
+        "link": "https://n.news.naver.com/mnews/article/030/0003467792?sid=101",
+        "description": "시사했지만 코스피는 17일 상승 출발했다. 시장이 금리 인상 가능성을 미리 반영한 데다 미국 기술주와 국제유가 하락 등이 투자심리를 지지한 것으로 풀이된다. 한국거래소에 따르면 이날 오전 9시6분 코스피는... ",
+        "pubDate": "Thu, 17 Sep 2026 11:35:00 +0900",
+        "formatted_date": "09월 17일, 11시 35분",
+        "ai_summary": "미국 금리 인상이 시장에 선반영된 가운데, 기술주 선방과 유가 하락이 투자심리를 지지하며 코스피가 상승했다."
       },
       {
-        "title": "코스피,美 금리인상에도 6,740선 강보합…삼전 상승,닉스 하락",
-        "originallink": "http://www.seouleconews.com/news/articleView.html?idxno=93808",
-        "link": "http://www.seouleconews.com/news/articleView.html?idxno=93808",
-        "description": "17일 서울 중구 하나은행 딜링룸 전광판에 원달러 환율과 코스피가 표시돼 있다. 코스피가 매크로 이슈를 견뎌내며 약진하고 있다. 코스피가 17일 간밤 미국 연방준비제도(Fed·연준)의 기준금리 인상과 케빈... ",
-        "pubDate": "Thu, 17 Sep 2026 10:24:00 +0900",
-        "formatted_date": "09월 17일, 10시 24분",
-        "ai_summary": "미국 기준금리 인상이라는 매크로 악재에도 불구하고 코스피가 강보합세를 유지하고 있습니다. 종목별로는 삼성전자는 상승했으나 SK하이닉스는 하락하는 흐름을 보였습니다."
+        "title": "코스피 6800선 문턱서 주춤…외국인 7거래일째 '팔자'",
+        "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000066446",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000066446",
+        "description": "코스피가 17일 장중 6720대 보합권에서 움직이고 있다. 이날 오전 11시10분 기준 코스피는 전장보다 3.34포인트(0.05%) 오른 6721.31이다. 지수는 전장보다 61.05포인트(0.91%) 상승한 6779.02로 출발해 한때 6795.53(1.15... ",
+        "pubDate": "Thu, 17 Sep 2026 11:33:00 +0900",
+        "formatted_date": "09월 17일, 11시 33분",
+        "ai_summary": "외국인의 매도세가 지속되는 가운데 코스피는 장중 6800선 돌파를 시도하다 6720대에서 주춤하고 있다."
       },
       {
-        "title": "美 금리 인상에도 버티는 코스피…장 초반 강보합 개인 순매수",
-        "originallink": "https://www.hankyung.com/article/2026091706416",
-        "link": "https://n.news.naver.com/mnews/article/015/0005333322?sid=101",
-        "description": "인공지능(AI) 기반 투자정보 플랫폼 에픽AI에 따르면 이날 코스피는 전 거래일보다 61.05포인트(0.91%) 오른 6779.02에 출발했다. 9시26분 기준 코스피는 전장보다 23.42포인트(0.35%) 오른 6741.39다. 전날 코스피는... ",
-        "pubDate": "Thu, 17 Sep 2026 10:21:00 +0900",
-        "formatted_date": "09월 17일, 10시 21분",
-        "ai_summary": "미 금리 인상 여파 속에서도 코스피가 개인 투자자들의 순매수에 힘입어 강보합권에서 출발했습니다. 장 초반 0.35% 상승하며 견조한 흐름을 이어가고 있습니다."
+        "title": "올랐다가 내렸다가...'매' 든 연준에, 코스피 '어질어질'",
+        "originallink": "https://www.mt.co.kr/stock/2026/09/17/2026091711251276526",
+        "link": "https://n.news.naver.com/mnews/article/008/0005415162?sid=101",
+        "description": "코스피 지수가 17일 오전 장중 혼조를 빚고 있다. 미국 연방준비제도(Fed·연준)가 매파적 태도를 본격화하면서 관망세가 짙어지는 분위기다. 이날 오전 11시20분 코스피는 전 거래일 대비 8.65포인트(0.13%) 오른 6726.62로... ",
+        "pubDate": "Thu, 17 Sep 2026 11:29:00 +0900",
+        "formatted_date": "09월 17일, 11시 29분",
+        "ai_summary": "연준의 매파적 행보에 따른 관망세로 코스피가 장중 혼조세를 보이며 6720선에서 움직이고 있다."
       },
       {
-        "title": "[마켓펄스] 美 금리 인상·국채금리 상승에...코스피, '혼조세'",
-        "originallink": "https://www.ntoday.co.kr/news/articleView.html?idxno=129462",
-        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=129462",
-        "description": "17일 한국거래소에 따르면 코스피는 전 거래일보다 61.05포인트(+0.91%) 오른 6779.02에 개장했다.... 17일 한국거래소에 따르면 코스피는 전 거래일보다 61.05포인트(+0.91%) 오른 6779.02에 개장했다. 수급별로는 오전 9시... ",
-        "pubDate": "Thu, 17 Sep 2026 10:16:00 +0900",
-        "formatted_date": "09월 17일, 10시 16분",
-        "ai_summary": "미국 금리 인상과 국채 금리 상승 등의 영향으로 코스피가 장중 혼조세를 보이고 있습니다. 시장은 매크로 환경 변화를 소화하며 방향성을 탐색 중입니다."
+        "title": "예견된 악재 버틴 코스피…‘추가 긴축’ 경계는 여전",
+        "originallink": "https://biz.heraldcorp.com/article/10876925?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/016/0002698750?sid=101",
+        "description": "미국 연방준비제도(Fed·연준)가 3년 2개월 만에 기준금리를 올렸지만 코스피는 17일 상승 출발했다. 이미... 이날 코스피는 오전 10시 기준 전장 대비 37.44포인트(0.56%) 오른 6755.41을 기록했다. 지수는 전 거래일보다 61.... ",
+        "pubDate": "Thu, 17 Sep 2026 11:26:00 +0900",
+        "formatted_date": "09월 17일, 11시 26분",
+        "ai_summary": "미국 금리 인상이 예견된 악재로 반영되어 코스피가 상승 출발했으나, 여전히 추가 긴축에 대한 경계감은 남아있다."
       },
       {
-        "title": "[EBN 데이터센터] 코스피 대형주 혼조...금융·방산 강세, 2차전지·반도...",
-        "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1724618",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1724618",
-        "description": "코스피와 코스닥 시가총액 상위 종목들이 장중 혼조 흐름을 나타냈다. 코스피에서는 금융과 방산, 조선 관련 대형주가 상대적으로 강세를 보인 반면 2차전지와 일부 반도체, 자동차 종목은 종목별로... ",
-        "pubDate": "Thu, 17 Sep 2026 10:12:00 +0900",
-        "formatted_date": "09월 17일, 10시 12분",
-        "ai_summary": "코스피 대형주가 업종별로 엇갈린 흐름을 보이고 있습니다. 금융, 방산, 조선주는 강세를 보인 반면 2차전지와 일부 반도체, 자동차주는 약세를 기록했습니다."
+        "title": "코스피, 보합권서 등락…美 금리 인상에도 상승하다 탄력 둔화",
+        "originallink": "https://www.yna.co.kr/view/AKR20260917094300008?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016317278?sid=101",
+        "description": "외국인 7일째 '팔자', 개인은 순매수…삼전·닉스 하락전환 방산·조선주 강세…코스닥, 소폭 상승 코스피가 17일 장중 6,720대 보합권에서 움직이고 있다. 이날 오전 11시 10분 기준 코스피는 전장보다 3.... ",
+        "pubDate": "Thu, 17 Sep 2026 11:19:00 +0900",
+        "formatted_date": "09월 17일, 11시 19분",
+        "ai_summary": "코스피는 외국인의 매도세와 개인의 매수세가 맞물리며 보합권에서 등락을 반복하고 있습니다. 삼성전자 등 주요 종목은 하락세이나 방산 및 조선주는 강세를 보이고 있습니다."
       },
       {
-        "title": "코스피, 美 금리인상 소화하며 6,720선 강보합…삼전·하닉은 약세",
-        "originallink": "https://www.news2day.co.kr/article/20260917500109",
-        "link": "https://www.news2day.co.kr/article/20260917500109",
-        "description": "속에 코스피가 장 초반 강보합권에서 등락하고 있다. 지수는 개장 직후 0.9% 넘게 뛰었지만 삼성전자와... 17일 한국거래소에 따르면 이날 오전 9시 17분 현재 코스피는 전 거래일보다 3.48포인트(0.05%) 오른 6,721.... ",
-        "pubDate": "Thu, 17 Sep 2026 10:10:00 +0900",
-        "formatted_date": "09월 17일, 10시 10분",
-        "ai_summary": "코스피가 미 금리 인상 이슈를 소화하며 6,720선에서 강보합세를 나타내고 있습니다. 지수는 장 초반 상승 출발했으나 삼성전자와 SK하이닉스 등 주요 반도체주는 약세를 보였습니다."
+        "title": "FOMC 마무리에 외인 '팔자' 멈출까…코스피 7000 복귀 조건은",
+        "originallink": "https://news.tf.co.kr/read/economy/2367032.htm",
+        "link": "https://n.news.naver.com/mnews/article/629/0000534683?sid=101",
+        "description": "증권가는 코스피 반등이 이어지려면 미국 장기금리 상승세가 진정되고 국내 기업의 이익 전망도 버텨줘야 한다고 보고 있다. 17일 한국거래소에 따르면 전날 코스피는 전 거래일보다 1.37% 오른 6717.97로 마감하며 닷새... ",
+        "pubDate": "Thu, 17 Sep 2026 11:15:00 +0900",
+        "formatted_date": "09월 17일, 11시 15분",
+        "ai_summary": "코스피가 7,000선을 회복하기 위해서는 미국 장기금리 상승세의 진정과 국내 기업의 견고한 이익 전망이 뒷받침되어야 할 것으로 분석됩니다."
       }
     ]
   },
-  "last_updated": "2026-09-17 11:00:40"
+  "last_updated": "2026-09-17 12:00:31"
 }
