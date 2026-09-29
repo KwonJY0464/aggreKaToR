@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-28 09:53:44",
+  "last_updated": "2026-09-29 02:35:35",
   "schedules": [
+    {
+      "date": "2026-10-02",
+      "time": "16:00",
+      "title": "산업용 지역 전기요금제 설계안 진단 및 개선방향 토론회",
+      "committee": "",
+      "location": "의원회관 제10간담회의실(217호)",
+      "type": "sanja"
+    },
     {
       "date": "2026-10-02",
       "time": "10:00~12:00",
@@ -10,12 +18,20 @@
       "type": "gihyu"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-02",
       "time": "10:00",
-      "title": "탄소중립 성과관리를 위한 기후정책 성과감사 세미나",
+      "title": "인쇄산업 피해회복과 경쟁력 강화를 위한 국회 토론회",
       "committee": "",
-      "location": "의원회관 제6간담회의실(209호)",
-      "type": "gihyu"
+      "location": "의원회관 신관 제3세미나실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-10-01",
+      "time": "13:30",
+      "title": "산업안보가 된 디스플레이, AI로 이끄는 초격차",
+      "committee": "",
+      "location": "의원회관 신관 제3세미나실",
+      "type": "sanja"
     },
     {
       "date": "2026-09-30",
@@ -24,6 +40,14 @@
       "committee": "정보위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-09-30",
+      "time": "10:00",
+      "title": "탄소중립 성과관리를 위한 기후정책 성과감사 세미나",
+      "committee": "",
+      "location": "의원회관 제6간담회의실(209호)",
+      "type": "gihyu"
     },
     {
       "date": "2026-09-29",
@@ -52,18 +76,18 @@
     {
       "date": "2026-09-29",
       "time": "14:00",
-      "title": "제439회국회(정기회) 제8차 전체회의(연금개혁 특별위원회)",
-      "committee": "보건복지위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-29",
-      "time": "14:00",
       "title": "AI 시대, 대한민국 콘텐츠 산업의 새로운 도약과 정책 과제",
       "committee": "",
       "location": "의원회관 제5간담회의실(208호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "14:00",
+      "title": "제439회국회(정기회) 제8차 전체회의(연금개혁 특별위원회)",
+      "committee": "보건복지위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-29",
@@ -76,26 +100,18 @@
     {
       "date": "2026-09-29",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "보건복지위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-29",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "문화체육관광위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-29",
-      "time": "10:00",
       "title": "에너지 산업국가전략 국회 연속토론회: 4차- 새로운 전력 미래 비전-해상 SMR",
       "committee": "",
       "location": "의원회관 제2간담회의실(202호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "보건복지위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-29",
@@ -110,6 +126,14 @@
       "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
       "committee": "교육위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "문화체육관광위원회",
       "location": null,
       "type": "session"
     },
@@ -140,14 +164,6 @@
     {
       "date": "2026-09-28",
       "time": "14:00",
-      "title": "제439회국회(정기회) 제5차 전체회의",
-      "committee": "재정경제기획위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-28",
-      "time": "14:00",
       "title": "제439회국회(정기회) 제8차 전체회의",
       "committee": "법제사법위원회",
       "location": null,
@@ -158,6 +174,14 @@
       "time": "14:00",
       "title": "제439회국회(정기회) 제3차 전체회의",
       "committee": "행정안전위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "14:00",
+      "title": "제439회국회(정기회) 제5차 전체회의",
+      "committee": "재정경제기획위원회",
       "location": null,
       "type": "session"
     },
@@ -196,26 +220,18 @@
     {
       "date": "2026-09-22",
       "time": "09:30",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "산업통상자원중소벤처기업위원회",
-      "location": null,
-      "type": "sanja"
-    },
-    {
-      "date": "2026-09-22",
-      "time": "09:30",
       "title": "제439회국회(정기회) 제4차 전체회의",
       "committee": "재정경제기획위원회",
       "location": null,
       "type": "session"
     },
     {
-      "date": "2026-09-21",
-      "time": "14:00",
-      "title": "제439회국회(정기회) 제7차 전체회의",
-      "committee": "법제사법위원회",
+      "date": "2026-09-22",
+      "time": "09:30",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "산업통상자원중소벤처기업위원회",
       "location": null,
-      "type": "session"
+      "type": "sanja"
     },
     {
       "date": "2026-09-21",
@@ -230,6 +246,14 @@
       "time": "14:00",
       "title": "제439회국회(정기회) 제3차 전체회의",
       "committee": "국토교통위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "14:00",
+      "title": "제439회국회(정기회) 제7차 전체회의",
+      "committee": "법제사법위원회",
       "location": null,
       "type": "session"
     },
@@ -292,18 +316,18 @@
     {
       "date": "2026-09-17",
       "time": "10:00",
-      "title": "AX 시대, 지역 주도형 산업혁신 방안 모색 국회 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제2세미나실",
-      "type": "sanja"
+      "title": "제439회국회(정기회) 제1차 전체회의",
+      "committee": "외교통일위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-17",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "보건복지위원회",
-      "location": null,
-      "type": "session"
+      "title": "AX 시대, 지역 주도형 산업혁신 방안 모색 국회 토론회",
+      "committee": "",
+      "location": "의원회관 신관 제2세미나실",
+      "type": "sanja"
     },
     {
       "date": "2026-09-17",
@@ -316,16 +340,8 @@
     {
       "date": "2026-09-17",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "정무위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-17",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "외교통일위원회",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -333,7 +349,15 @@
       "date": "2026-09-17",
       "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
+      "committee": "보건복지위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-17",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "정무위원회",
       "location": null,
       "type": "session"
     },
@@ -381,7 +405,7 @@
       "date": "2026-09-16",
       "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "문화체육관광위원회",
+      "committee": "국토교통위원회",
       "location": null,
       "type": "session"
     },
@@ -389,7 +413,15 @@
       "date": "2026-09-16",
       "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "국토교통위원회",
+      "committee": "국방위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-09-16",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "문화체육관광위원회",
       "location": null,
       "type": "session"
     },
@@ -400,14 +432,6 @@
       "committee": "",
       "location": "의원회관 제1간담회의실(201호)",
       "type": "sanja"
-    },
-    {
-      "date": "2026-09-16",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "국방위원회",
-      "location": null,
-      "type": "session"
     },
     {
       "date": "2026-09-16",
@@ -461,7 +485,7 @@
       "date": "2026-09-15",
       "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
+      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
     },
@@ -477,7 +501,15 @@
       "date": "2026-09-15",
       "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "행정안전위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-09-15",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "재정경제기획위원회",
       "location": null,
       "type": "session"
     },
@@ -493,17 +525,9 @@
       "date": "2026-09-15",
       "time": "10:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "재정경제기획위원회",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
       "type": "session"
-    },
-    {
-      "date": "2026-09-15",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "산업통상자원중소벤처기업위원회",
-      "location": null,
-      "type": "sanja"
     },
     {
       "date": "2026-09-14",
@@ -588,18 +612,18 @@
     {
       "date": "2026-09-09",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 전체회의",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-09-09",
-      "time": "10:00",
       "title": "에너지 산업국가전략 국회 연속토론회: 2차-무탄소 PPA 확대와 전통산업 경쟁력 강화",
       "committee": "",
       "location": "의원회관 제2간담회의실(202호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-09-08",
@@ -637,7 +661,7 @@
       "date": "2026-09-08",
       "time": "14:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "재정경제기획위원회",
+      "committee": "국토교통위원회",
       "location": null,
       "type": "session"
     },
@@ -645,7 +669,7 @@
       "date": "2026-09-08",
       "time": "14:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "국토교통위원회",
+      "committee": "재정경제기획위원회",
       "location": null,
       "type": "session"
     },
@@ -700,17 +724,17 @@
     {
       "date": "2026-09-03",
       "time": "14:00",
-      "title": "대한민국 반도체 미래지도와 인프라 전략 Part 3. 인력",
+      "title": "국가전력망 민간참여 본격화, 공공성 훼손 우려와 대응과제: 전력산업 공공성 강화를 위한 정책 연속세미나",
       "committee": "",
-      "location": "의원회관 제9간담회의실(212호)",
+      "location": "의원회관 제7간담회의실(210호)",
       "type": "sanja"
     },
     {
       "date": "2026-09-03",
       "time": "14:00",
-      "title": "국가전력망 민간참여 본격화, 공공성 훼손 우려와 대응과제: 전력산업 공공성 강화를 위한 정책 연속세미나",
+      "title": "대한민국 반도체 미래지도와 인프라 전략 Part 3. 인력",
       "committee": "",
-      "location": "의원회관 제7간담회의실(210호)",
+      "location": "의원회관 제9간담회의실(212호)",
       "type": "sanja"
     },
     {
@@ -780,14 +804,6 @@
     {
       "date": "2026-09-01",
       "time": "15:00",
-      "title": "에너지전환기 발전공기업, 어떻게 재편할 것인가",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-09-01",
-      "time": "15:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
       "committee": "문화체육관광위원회",
       "location": null,
@@ -800,6 +816,14 @@
       "committee": "법제사법위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "15:00",
+      "title": "에너지전환기 발전공기업, 어떻게 재편할 것인가",
+      "committee": "",
+      "location": "의원회관 제2소회의실",
+      "type": "gihyu"
     },
     {
       "date": "2026-09-01",
@@ -821,17 +845,17 @@
       "date": "2026-09-01",
       "time": "10:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "정보위원회",
+      "committee": "기후에너지환경노동위원회",
       "location": null,
-      "type": "session"
+      "type": "gihyu"
     },
     {
       "date": "2026-09-01",
       "time": "10:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "기후에너지환경노동위원회",
+      "committee": "성평등가족위원회",
       "location": null,
-      "type": "gihyu"
+      "type": "session"
     },
     {
       "date": "2026-09-01",
@@ -845,7 +869,7 @@
       "date": "2026-09-01",
       "time": "10:00",
       "title": "제439회국회(정기회) 제1차 전체회의",
-      "committee": "성평등가족위원회",
+      "committee": "정보위원회",
       "location": null,
       "type": "session"
     },
