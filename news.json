@@ -1,143 +1,215 @@
 {
   "pane1": [
     {
-      "title": "[속보]클라이밍 간판' 이도현, 1번 과제 0점 딛고 은메달",
-      "originallink": "https://www.fnnews.com/news/202609301950581966",
-      "link": "https://n.news.naver.com/mnews/article/014/0005583268?sid=104",
+      "title": "[속보] 마이크론, 4분기 매출 73조원…AI 데이터센터 메모리가 끌어올렸...",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=611363",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=611363",
+      "description": "자료사진=본 기사와 무관  미국 메모리 반도체 기업 마이크론 테크놀로지가 AI 데이터센터용 메모리 수요에 힘입어 분기 매출 542억2900만달러를 기록했다. 9월 30일 서울 외환시장 종가(1352.8원)로 환산하면 약... ",
+      "pubDate": "Thu, 01 Oct 2026 07:46:00 +0900",
+      "formatted_date": "10월 01일, 07시 46분",
+      "ai_summary": "마이크론 테크놀로지가 AI 데이터센터용 메모리 수요 급증에 힘입어 분기 매출 542억 달러를 기록했습니다."
+    },
+    {
+      "title": "[속보] 트럼프 &quot;한국 대미투자…텍사스 가스발전·대형 원전 8기, '알래...",
+      "originallink": "https://www.busan.com/view/busan/view.php?code=2026100107003436391",
+      "link": "https://n.news.naver.com/mnews/article/082/0001400630?sid=104",
+      "description": "도널드 트럼프 미국 대통령은 30일(현지시간) 텍사스 가스발전소 건설, 대형 원자력발전소 8기 건설, 알래스카 액화천연가스(LNG) 개발 등 한국의 대미투자 프로젝트를 발표했다. 트럼프 대통령은 이날 하워드 러트닉... ",
+      "pubDate": "Thu, 01 Oct 2026 07:11:00 +0900",
+      "formatted_date": "10월 01일, 07시 11분",
+      "ai_summary": "트럼프 대통령이 한국의 텍사스 가스발전소, 원전 8기, 알래스카 LNG 개발 등 대규모 대미 투자 프로젝트를 발표했습니다."
+    },
+    {
+      "title": "美 8월 PCE, 예상보다 낮게 나왔다...10월 금리인상 확률↓-[굿모닝 글로...",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610010009&t=NN",
+      "link": "https://n.news.naver.com/mnews/article/215/0001267794?sid=101",
+      "description": "미국의 GDP 성장률은 보통 속보치, 잠정치, 확정치 이렇게 세 번에 나눠서 발표되고 있죠. 오늘 공개된 것은 미국의 2분기 GDP 성장률 확정치였는데, 2.2%로 집계되면서 잠정치였던 1.5% 대비 0.7% 포인트 상향 조정됐습니다.... ",
+      "pubDate": "Thu, 01 Oct 2026 07:03:00 +0900",
+      "formatted_date": "10월 01일, 07시 03분",
+      "ai_summary": "미국 8월 개인소비지출(PCE) 물가가 예상치를 밑돌면서 10월 금리 인상 가능성이 낮아졌습니다."
+    },
+    {
+      "title": "트럼프, GDP와 PCE 개편결과에 흥분했다고? | 다우 10만·성장률 5% 구상...",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610010016&t=NN",
+      "link": "https://n.news.naver.com/mnews/article/215/0001267790?sid=101",
+      "description": "- 개정된 방식으로 2분기 성장률 확정치, 2.2% - 종전 방식대로 환산하면 속보치와 잠정치 같아 - Fed의 잠재성장 추정치 2.0%, 인플레 갭 발생 - 경기 과열인가? 인플레 잡기 위해 추가 인상? - BEA 방향으로 Fed도... ",
+      "pubDate": "Thu, 01 Oct 2026 07:01:00 +0900",
+      "formatted_date": "10월 01일, 07시 01분",
+      "ai_summary": "미국의 2분기 GDP 성장률 확정치가 2.2%로 상향 조정되었으며, 트럼프 대통령은 이를 바탕으로 경제 성장 구상을 밝혔습니다."
+    },
+    {
+      "title": "[속보] 뉴욕증시, 물가 둔화에도 혼조세…다우 0.86%↓·나스닥 0.24%↑",
+      "originallink": "https://www.dailian.co.kr/news/view/1696525/?sc=Naver",
+      "link": "https://n.news.naver.com/mnews/article/119/0003138247?sid=104",
+      "description": "미국 뉴욕증시가 예상보다 낮은 물가지표에도 불구하고 혼조세로 마감했다. 지난달 30일(현지시간) 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수는 전 거래일 대비 0.86% 하락한 5만906.05에 거래를 마쳤다.... ",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 +0900",
+      "formatted_date": "10월 01일, 07시 00분",
+      "ai_summary": "미국 뉴욕증시가 물가 둔화 지표 발표에도 불구하고 투자자들의 경계심이 작용하며 혼조세로 마감했습니다."
+    },
+    {
+      "title": "[속보] 미국 증시 혼조 마감…다우 0.86%↓·S&amp;P500 0.25%↓, 나스닥은 0...",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=611357",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=611357",
+      "description": "자료사진 기사와는 무관함. AI가 생성.  미국 뉴욕증시 주요 지수가 혼조세로 거래를 마쳤다. 다우존스30 산업평균지수와 스탠더드앤드푸어스(S&amp;P)500지수가 하락한 반면 기술주 중심의 나스닥 종합지수는... ",
+      "pubDate": "Thu, 01 Oct 2026 06:48:00 +0900",
+      "formatted_date": "10월 01일, 06시 48분",
+      "ai_summary": "뉴욕증시에서 다우와 S&P500 지수는 하락했으나, 기술주 중심의 나스닥은 상승하며 혼조 양상을 보였습니다."
+    },
+    {
+      "title": "[속보]트럼프 &quot;한국, 알래스카LNG개발 포함 2000억달러 투자&quot;",
+      "originallink": "https://www.sidae.com/article/2026100106352160616",
+      "link": "https://n.news.naver.com/mnews/article/417/0001159748?sid=104",
+      "description": "도널드 트럼프 미국 대통령은 30일(현지시간) &quot;한국 정부가 최대 2000억 달러(약 270조 원)를 들여 텍사스에 6기가와트급 발전 시설 등을 건설한다&quot;고 발표했다. 이날 발표된 한국의 대미투자에는 텍사스 엔시날 가스화력... ",
+      "pubDate": "Thu, 01 Oct 2026 06:45:00 +0900",
+      "formatted_date": "10월 01일, 06시 45분",
+      "ai_summary": "트럼프 대통령은 한국이 텍사스 가스화력 발전 등 미국 에너지 인프라에 최대 2000억 달러를 투자한다고 발표했습니다."
+    },
+    {
+      "title": "[속보] 트럼프, ‘알래스카 LNG 개발사업’ 한국 투자 일방 발표",
+      "originallink": "https://www.hani.co.kr/arti/international/america/1280316.html",
+      "link": "https://n.news.naver.com/mnews/article/028/0002825447?sid=104",
+      "description": "도널드 트럼프 미국 대통령이 30일(현지시간) 한국 정부가 알래스카 액화천연가스(LNG) 개발 사업과 대형 원자력 발전소 8기 건설을 포함해 미국 에너지 인프라에 최대 2000억 달러(약 280조원)를 투자한다고 공식... ",
+      "pubDate": "Thu, 01 Oct 2026 06:38:00 +0900",
+      "formatted_date": "10월 01일, 06시 38분",
+      "ai_summary": "트럼프 대통령이 한국의 알래스카 LNG 개발과 원전 8기 건설 등 2000억 달러 규모의 대미 투자 계획을 공식 발표했습니다."
+    },
+    {
+      "title": "[속보]美상무 &quot;한국, 알래스카 LNG에 500억달러 이상 투자&quot;",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1726299",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726299",
       "description": "",
-      "pubDate": "Wed, 30 Sep 2026 19:52:00 +0900",
-      "formatted_date": "09월 30일, 19시 52분",
-      "ai_summary": "스포츠 클라이밍의 이도현 선수가 1번 과제에서의 0점을 극복하고 은메달을 획득했습니다."
+      "pubDate": "Thu, 01 Oct 2026 06:36:00 +0900",
+      "formatted_date": "10월 01일, 06시 36분",
+      "ai_summary": "미 상무부가 한국이 알래스카 LNG 개발 사업에 500억 달러 이상을 투자할 예정이라고 밝혔습니다."
     },
     {
-      "title": "[속보] 자카르타 銅→항저우 銅→나고야 銅, 김민석 男 레슬링 그레코로...",
-      "originallink": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010658",
-      "link": "https://m.sports.naver.com/general/article/477/0000630920",
-      "description": "김민석이 2018 자카르타-팔렘방, 2023 항저우에 이어 2026 아이치·나고야 아시안게임에서도 동메달을 획득했다. 김민석은 30일 일본 나고야 이나에 스포츠센터에서 열린 2026 아이치·나고야 아시안게임 레슬링 남자... ",
-      "pubDate": "Wed, 30 Sep 2026 19:48:00 +0900",
-      "formatted_date": "09월 30일, 19시 48분",
-      "ai_summary": "레슬링 국가대표 김민석이 2026 아이치·나고야 아시안게임에서 동메달을 목에 걸며 3회 연속 아시안게임 메달을 기록했습니다."
-    },
-    {
-      "title": "속보=노벨리스 코리아 영주공장, 30일 직장폐쇄 10월 1일 오후 10시부로...",
-      "originallink": "https://www.imaeil.com/page/view/2026093019290709583",
-      "link": "https://n.news.naver.com/mnews/article/088/0001031539?sid=102",
-      "description": "직장폐쇄 조치에 들어갔던 노벨리스 코리아 영주공장이 오는 10월 1일 오후 10시부로 직장폐쇄를 철회키로 30일 결정했다. 노벨리스 영주공장은 노동조합의 파업으로 정상적인 공장 운영이 어려워지자 직원 안전과 설비... ",
-      "pubDate": "Wed, 30 Sep 2026 19:31:00 +0900",
-      "formatted_date": "09월 30일, 19시 31분",
-      "ai_summary": "노벨리스 코리아 영주공장이 노조 파업으로 인한 직장폐쇄 조치를 10월 1일 오후 10시부로 철회하기로 했습니다."
-    },
-    {
-      "title": "차기 경남은행장 12월 중순 윤곽 나올 듯",
-      "originallink": "https://www.knnews.co.kr/news/articleView.php?idxno=1551962",
-      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1551962",
-      "description": "속보= 올해 말 임기가 끝나는 김태한 BNK경남은행장의 연임 여부를 포함한 차기 경남은행장 인선 결과가 오는 12월 중순께 윤곽을 드러낸다. (9월 29일 9면 ▲ 연임이냐 교체냐… 경남은행 차기 행장 인선 본격화 )... ",
-      "pubDate": "Wed, 30 Sep 2026 19:26:00 +0900",
-      "formatted_date": "09월 30일, 19시 26분",
-      "ai_summary": "임기가 만료되는 김태한 BNK경남은행장의 연임 여부를 포함한 차기 행장 인선 결과가 12월 중순경 발표될 예정입니다."
-    },
-    {
-      "title": "[이슈진단] 120일 끌었던 HD현대중 임단협…이번엔 '1차 부결 공식' 깨질...",
-      "originallink": "https://www.iusm.co.kr/news/articleView.html?idxno=1068637",
-      "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1068637",
-      "description": "노조는 교섭속보를 통해 &quot;투쟁과 단결이 있었기에 영업이익과 관계없이 고정급 최소 5만원의 인상액을 만들었고, 14년만에 장기근속 포상도 인상했다&quot;며 &quot;오래 묵은 제도 변화를 이끌어냈다&quot;고 평했다. HD현대중공업... ",
-      "pubDate": "Wed, 30 Sep 2026 19:06:00 +0900",
-      "formatted_date": "09월 30일, 19시 06분",
-      "ai_summary": "HD현대중공업 노사가 120일간의 진통 끝에 임단협 잠정 합의안을 도출하며 14년 만의 장기근속 포상 인상 등을 이끌어냈습니다."
-    },
-    {
-      "title": "[속보]한 달 넘게 논의했는데…전남체육회장 &quot;보고 못 받았다&quot;",
-      "originallink": "https://www.namdonews.com/news/articleView.html?idxno=924888",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=924888",
-      "description": "제1회 전남광주생활체육대축전 도체육회 추진 상황 공유 쟁점 &quot;논의 몰랐다는 의미 아니다&quot; [속보]전남광주통합특별시 출범을 계기로 추진됐다가 무산된 '제1회 전남광주생활체육대축전' 공동주최 갈등&lt;본보 8월 24일·27일... ",
-      "pubDate": "Wed, 30 Sep 2026 19:04:00 +0900",
-      "formatted_date": "09월 30일, 19시 04분",
-      "ai_summary": "전남광주생활체육대축전 공동주최 무산 과정에서 전남체육회장이 추진 상황을 보고받지 못했다고 밝혀 논란이 일고 있습니다."
-    },
-    {
-      "title": "[속보]유도 장세윤, 여자 52㎏ 銀…한국 유도 대회 첫 메달",
-      "originallink": "https://www.fnnews.com/news/202609301900145706",
-      "link": "https://n.news.naver.com/mnews/article/014/0005583266?sid=104",
+      "title": "[속보] &quot;알래스카 파이프라인 건설 즉시 착수…3년 공기 예상&quot;",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1726298",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726298",
       "description": "",
-      "pubDate": "Wed, 30 Sep 2026 19:01:00 +0900",
-      "formatted_date": "09월 30일, 19시 01분",
-      "ai_summary": "유도 여자 52kg급에 출전한 장세윤이 은메달을 획득하며 한국 유도 대표팀의 이번 대회 첫 메달을 기록했습니다."
+      "pubDate": "Thu, 01 Oct 2026 06:34:00 +0900",
+      "formatted_date": "10월 01일, 06시 34분",
+      "ai_summary": "알래스카 LNG 파이프라인 건설 사업이 즉시 착수될 예정이며 공사 기간은 약 3년이 소요될 것으로 예상됩니다."
     },
     {
-      "title": "[속보]전력질주 안된다니까… 삼성 초초초비상! 리딩히터 구자욱 1회 햄...",
-      "originallink": "https://www.sportschosun.com/baseball/2026-09-30/202609300100205020013719",
-      "link": "https://m.sports.naver.com/kbaseball/article/076/0004451446",
-      "description": "기어이 허벅지가 탈을 일으켰다. 삼성 라이온즈 구자욱이 주루 중 왼쪽 햄스트링 통증으로 경기중 교체됐다. 구자욱은 30일 대구 라이온즈파크에서 열린 한화 이글스전에 3번 좌익수로 선발 출전했다. 첫 타석부터 사달이... ",
-      "pubDate": "Wed, 30 Sep 2026 18:57:00 +0900",
-      "formatted_date": "09월 30일, 18시 57분",
-      "ai_summary": "삼성 라이온즈의 핵심 타자 구자욱이 경기 중 주루 과정에서 왼쪽 햄스트링 부상을 입어 교체되었습니다."
+      "title": "[속보] 마이크론, 분기매출 73.5조원 '사상최대'",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610010005&t=NN",
+      "link": "https://n.news.naver.com/mnews/article/215/0001267785?sid=101",
+      "description": "미국 메모리 반도체 기업 마이크론이 인공지능(AI) 열풍에 따른 메모리 수요 폭증에 힘입어 분기·연간 사상 최대 실적을 기록했다. 마이크론은 회계연도 4분기(6∼8월) 매출이 지난해 같은 기간의 5배에... ",
+      "pubDate": "Thu, 01 Oct 2026 06:31:00 +0900",
+      "formatted_date": "10월 01일, 06시 31분",
+      "ai_summary": "마이크론이 AI 메모리 수요 급증에 힘입어 분기 및 연간 사상 최대 실적을 달성했습니다. 매출이 전년 동기 대비 5배 성장하는 등 가파른 상승세를 보였습니다."
     },
     {
-      "title": "[속보] '아, 아깝다' 장세윤 비디오 챌린지→통한의 세 번째 지도, 女 유...",
-      "originallink": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010652",
-      "link": "https://m.sports.naver.com/general/article/477/0000630913",
-      "description": "한국 여자 유도의 차세대 스타 장세윤(KH필룩스)이 골든스코어까지 가는 치열한 승부 끝에 아쉽게도 은메달에 그쳤다. 장세윤은 일본 나고야의 아이치 인터내셔널 아레나에서 열린 2026 아이치·나고야 아시안게임 유도... ",
-      "pubDate": "Wed, 30 Sep 2026 18:32:00 +0900",
-      "formatted_date": "09월 30일, 18시 32분",
-      "ai_summary": "여자 유도 장세윤이 결승전에서 비디오 판독 끝에 세 번째 지도를 받아 아쉽게 은메달에 머물렀습니다."
+      "title": "[속보] 벤치 달군 호날두, 돌연 포르투갈 대표팀 자진 하차…&quot;적절한 때...",
+      "originallink": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98603",
+      "link": "https://m.sports.naver.com/wfootball/article/411/0000087929",
+      "description": "'캡틴' 크리스티아누 호날두가 돌연 포르투갈 축구 국가대표팀에서 자진 하차했다. 조르제 제수스 감독이 이끄는 포르투갈 축구 국가대표팀은 28일(이하 한국시간) 노르웨이 오슬로에 위치한 울레발 스타디온에서 열린... ",
+      "pubDate": "Thu, 01 Oct 2026 06:31:00 +0900",
+      "formatted_date": "10월 01일, 06시 31분",
+      "ai_summary": "포르투갈 축구 국가대표팀 주장 크리스티아누 호날두가 돌연 대표팀 자진 하차를 선언했습니다. 정확한 사유는 밝혀지지 않은 가운데 갑작스러운 결정으로 주목받고 있습니다."
     },
     {
-      "title": "미끄럼방지 포장 본예산 확보 전망",
-      "originallink": "https://www.busan.com/view/busan/view.php?code=2026093018263998983",
-      "link": "https://n.news.naver.com/mnews/article/082/0001400601?sid=102",
-      "description": "속보=스쿨존(학교 앞 어린이보호구역)의 노후 미끄럼방지 포장의 위험성과 관리 부실 문제(부산일보 7월 6일 자 1면 등 보도)가 제기되자 부산시가 미끄럼방지포장의 점검·관리 강화를 위해 내년도 본예산 확보에 나선다.... ",
-      "pubDate": "Wed, 30 Sep 2026 18:31:00 +0900",
-      "formatted_date": "09월 30일, 18시 31분",
-      "ai_summary": "부산시가 스쿨존 내 노후 미끄럼방지 포장의 관리 부실 문제를 해결하기 위해 내년도 본예산 확보를 추진합니다."
+      "title": "[속보]美 트럼프, 韓 2천억 달러 대미투자 일방 발표…알래스카·원전 '...",
+      "originallink": "https://www.ikbc.co.kr/article/view/kbc202610010002",
+      "link": "https://n.news.naver.com/mnews/article/660/0000118185?sid=104",
+      "description": "도널드 트럼프 미국 대통령이 알래스카 액화천연가스 개발과 대형 원전 8기 건설 등 한국의 대미 투자 프로젝트를 일방적으로 공식 발표했습니다. 트럼프 대통령은 30일 백악관 집무실에서 상무·에너지·내무장관 등이... ",
+      "pubDate": "Thu, 01 Oct 2026 06:19:00 +0900",
+      "formatted_date": "10월 01일, 06시 19분",
+      "ai_summary": "트럼프 미 대통령이 한국의 알래스카 LNG 개발 및 원전 건설 등 2천억 달러 규모의 대미 투자 프로젝트를 일방적으로 발표했습니다. 한미 간 대규모 에너지 협력 사업이 본격화될 전망입니다."
     },
     {
-      "title": "통한의 다리잡기! 그래도 '41위의 기적' 장세윤, 첫 AG에 제대로 사고쳤...",
-      "originallink": "https://www.sportschosun.com/sports-news/2026-09-30/202609300100204890013703",
-      "link": "https://m.sports.naver.com/general/article/076/0004451432",
-      "description": "장세윤(24·KH그룹필룩스)이 한국 유도 첫 메달 주인공이 됐다. 장세윤은 30일 일본 나고야 아이치 인터내셔널 아레나에서 열린 2026 아이치-나고야 아시안게임 유도 여자 52㎏급 결승전에서 우즈베키스탄의 시타... ",
-      "pubDate": "Wed, 30 Sep 2026 18:31:00 +0900",
-      "formatted_date": "09월 30일, 18시 31분",
-      "ai_summary": "장세윤 선수가 2026 아이치-나고야 아시안게임 유도 여자 52kg급에서 한국 유도 첫 메달을 획득했습니다. 세계 랭킹 41위의 한계를 극복하고 값진 성과를 거뒀습니다."
+      "title": "[속보] 산업부 &quot;알래스카 LNG, 상업적 합리성·국내법 절차 따라 검토해...",
+      "originallink": "https://www.ytn.co.kr/_ln/0102_202610010617284559",
+      "link": "https://n.news.naver.com/mnews/article/052/0002413206?sid=101",
+      "description": "정부 &quot;알래스카 LNG, 상업적 합리성 확인 시 추진&quot; &quot;상업적 합리성 확인 시 추진한다는 분명한 원칙&quot; &quot;상업적 합리성·국내법 절차 따라 검토해 판단&quot; &quot;한미, 알래스카 LNG 프로젝트 검토 착수하기로&quot; &quot;미측, 사업 추진 시... ",
+      "pubDate": "Thu, 01 Oct 2026 06:17:00 +0900",
+      "formatted_date": "10월 01일, 06시 17분",
+      "ai_summary": "산업부가 미국의 알래스카 LNG 프로젝트와 관련해 상업적 합리성과 국내법 절차를 우선 검토하겠다는 입장을 밝혔습니다. 무조건적인 추진이 아닌 철저한 사업성 검증을 거칠 예정입니다."
     },
     {
-      "title": "합천영상테마파크, 가을밤까지 즐긴다…하반기 야간개장 운영",
-      "originallink": "http://www.gndomin.com/news/articleView.html?idxno=491246",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=491246",
-      "description": "주간 프로그램은 영상테마파크 일원에서 버스킹 공연과 레트로 뉴스 컨셉의 '속보 데스크'를 운영하며 추억의 간식, 전통놀이, 영수증사진기, 엽서꾸미기, 에코백·스마트톡 제작 등 다양한 체험 프로그램을 운영한다.... ",
-      "pubDate": "Wed, 30 Sep 2026 18:14:00 +0900",
-      "formatted_date": "09월 30일, 18시 14분",
-      "ai_summary": "합천영상테마파크가 가을밤을 즐길 수 있는 다양한 야간 프로그램을 운영합니다. 버스킹, 레트로 컨셉의 이벤트 및 다채로운 체험 활동이 제공됩니다."
-    },
-    {
-      "title": "[속보] LS전선, 코리아모션웍스에 1500억원 출자…희토류 영구자석 사업...",
-      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=611261",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=611261",
-      "description": "자료사진. AI가 생성한 이미지. LS의 자회사 LS전선이 희토류 영구자석 사업 진출을 위해 자회사 코리아모션웍스에 1500억원을 출자하기로 결정했다고 밝혔다. 공시에 따르면 LS전선은 코리아모션웍스 주식... ",
-      "pubDate": "Wed, 30 Sep 2026 17:48:00 +0900",
-      "formatted_date": "09월 30일, 17시 48분",
-      "ai_summary": "LS전선이 희토류 영구자석 사업 진출을 위해 자회사 코리아모션웍스에 1500억 원을 출자합니다. 신성장 동력 확보를 위한 전략적 투자로 풀이됩니다."
-    },
-    {
-      "title": "[속보] 한화투자증권, 5000억원 제3자배정 유상증자…한화자산운용·한...",
-      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=611262",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=611262",
-      "description": "자료사진 기사와는 무관.AI가 생성. 한화투자증권이 5000억원 규모의 제3자배정 유상증자를 결정했다고 밝혔다. 조달 자금은 재무건전성 및 사업경쟁력 강화 등을 위한 운영자금으로 사용할 예정이다.... ",
-      "pubDate": "Wed, 30 Sep 2026 17:48:00 +0900",
-      "formatted_date": "09월 30일, 17시 48분",
-      "ai_summary": "한화투자증권이 재무건전성 확보와 사업 경쟁력 강화를 위해 5000억 원 규모의 제3자배정 유상증자를 결정했습니다."
-    },
-    {
-      "title": "[속보] 한화솔루션 美 종속회사, 4058억원 규모 유상증자…운영자금 조...",
-      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=611260",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=611260",
-      "description": "한화솔루션 로고. 한화솔루션의 미국 종속회사 HANWHA Q CELLS USA, Inc.가 약 4058억원 규모의 유상증자를 결정했다고 밝혔다. 증자 방식은 주주배정증자이며 조달 자금은 운영자금으로 사용된다. 공시에... ",
-      "pubDate": "Wed, 30 Sep 2026 17:46:00 +0900",
-      "formatted_date": "09월 30일, 17시 46분",
-      "ai_summary": "한화솔루션의 미국 자회사 HANWHA Q CELLS USA가 운영자금 조달을 목적으로 약 4058억 원 규모의 유상증자를 시행합니다."
+      "title": "[속보]美상무 &quot;한국, 알래스카 LNG에 500억달러 이상 투자&quot;",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02210726645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "link": "https://n.news.naver.com/mnews/article/018/0006378164?sid=101",
+      "description": "하워드 러트닉 미 상무장관이 29일(현지시간) 한국이 알래스카 LNG 프로젝트에 500억달러(약 67조8500억원) 이상 투자하기로 했다고 밝혔다. 백악관이 밝힌 알래스카 LNG 투자 규모는 540억달러다. 러트닉 장관은 특히... ",
+      "pubDate": "Thu, 01 Oct 2026 06:17:00 +0900",
+      "formatted_date": "10월 01일, 06시 17분",
+      "ai_summary": "미 상무부가 한국의 알래스카 LNG 프로젝트 투자 규모를 500억 달러 이상으로 발표했습니다. 백악관은 실제 투자 규모를 540억 달러 수준으로 파악하고 있습니다."
     }
   ],
   "pane2": {
     "산업부": [
+      {
+        "title": "산업부 지원금 1570억 받은 상위 5곳, 5년간 검사·감사 '0건'",
+        "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3051641",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3051641",
+        "description": "5년간 산업부가 예산을 지원한 소관 비영리법인은 33곳으로, 지원액은 총 3275억6000만원에 달했다. 예산은... 하지만 이들 5개 법인은 최근 5년간 산업부의 별도 사무검사나 자체감사를 한 차례도 받지 않았다. 산업부가... ",
+        "pubDate": "Thu, 01 Oct 2026 07:08:00 +0900",
+        "formatted_date": "10월 01일, 07시 08분",
+        "ai_summary": "산업부로부터 거액의 지원금을 받은 상위 5개 비영리법인이 지난 5년간 단 한 차례도 감사나 검사를 받지 않은 것으로 드러났습니다. 예산 집행 관리에 허점이 있다는 비판이 제기됩니다."
+      },
+      {
+        "title": "김정관 산업부 장관 &quot;대미 투자, 韓 기업 세계 시장 진출 기회&quot;",
+        "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437232",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437232",
+        "description": "김정관 산업부 장관[출처: 연합뉴스 자료 사진] (서울=연합인포맥스) 주동일 윤은별 기자 = 김정관... 1일 산업통상부에 따르면 김정관 산업부 장관은 지난달 22일 정부서울청사에서 진행한 대미 전략투자 프로젝트... ",
+        "pubDate": "Thu, 01 Oct 2026 07:02:00 +0900",
+        "formatted_date": "10월 01일, 07시 02분",
+        "ai_summary": "김정관 산업부 장관이 한국 기업들의 대미 투자가 세계 시장 진출의 기회가 될 것이라고 강조했습니다. 전략적 대미 투자를 통해 글로벌 경쟁력을 확보하겠다는 의지입니다."
+      },
+      {
+        "title": "산업부, 미래차 기술 조기 상용화 나선다",
+        "originallink": "https://www.labortoday.co.kr/news/articleView.html?idxno=237023",
+        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=237023",
+        "description": "산업부는 30일 오전 서울 현대모비스 본사에서 미래차 생태계 구축 협력 업무협약식과 기업 간담회를... 김정관 산업부 장관은 &quot;산업부가 미래차 부품 생태계 전환 문제를 풀기 위해 촘촘한 지원대책을 준비 중&quot;이라며... ",
+        "pubDate": "Thu, 01 Oct 2026 06:34:00 +0900",
+        "formatted_date": "10월 01일, 06시 34분",
+        "ai_summary": "산업부가 미래차 기술의 조기 상용화를 위해 생태계 구축 및 부품 산업 지원에 나섭니다. 현대모비스 등과 협력해 미래차 전환을 위한 촘촘한 대책을 마련할 계획입니다."
+      },
+      {
+        "title": "산업부 산하 공공기관 노조 14곳 '산공노협' 출범",
+        "originallink": "https://www.labortoday.co.kr/news/articleView.html?idxno=237022",
+        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=237022",
+        "description": "산업부와 정례적인 정책협의를 추진하고 국회 정책간담회와 토론회, 세미나 등을 열어 공공기관 정책과 제도 개선을 요구하기로 했다. 협의회는 이날 출범식에서 임원단도 선출했다. 의장은 이상주... ",
+        "pubDate": "Thu, 01 Oct 2026 06:34:00 +0900",
+        "formatted_date": "10월 01일, 06시 34분",
+        "ai_summary": "산업부 산하 14개 공공기관 노조가 연합체인 '산공노협'을 출범했습니다. 향후 산업부와 정례 협의를 통해 공공기관 정책 개선과 제도 변화를 적극 요구할 방침입니다."
+      },
+      {
+        "title": "김성원 의원, 산업부 산하 공공기관 노조협의회 출범 간담회 참석",
+        "originallink": "https://www.tournews21.com/news/articleView.html?idxno=144677",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=144677",
+        "description": "비롯한 산업부 산하 14개 공공기관 노동조합 위원장들과 간담회를 가졌다고 밝혔다. 이날 간담회는... 산공노협에는 산업부 산하 14개 공공기관 노동조합이 참여했으며, 기관별 특성이 다른 가운데에서도 인력과 정원 문제... ",
+        "pubDate": "Wed, 30 Sep 2026 22:50:00 +0900",
+        "formatted_date": "09월 30일, 22시 50분",
+        "ai_summary": "김성원 의원이 산업부 산하 14개 공공기관 노조협의회 출범 간담회에 참석했습니다. 인력 및 정원 문제 등 각 기관의 현안을 공유하고 정책적 해결 방안을 모색했습니다."
+      },
+      {
+        "title": "산업부 산하 공공기관 노조 14곳 '산공노협' 출범",
+        "originallink": "http://www.e-platform.net/news/articleView.html?idxno=105820",
+        "link": "http://www.e-platform.net/news/articleView.html?idxno=105820",
+        "description": "산업부 소속 공공기관들은 산업·에너지·통상·안전·기술·무역 등 국가의 핵심 정책을 현장에서 수행하고 있지만 최근 정부의 공공기관 정책 변화와 경영효율화, 인력 및 정원 정책, 총인건비 제도, 경영평가, 조직·기능... ",
+        "pubDate": "Wed, 30 Sep 2026 22:00:00 +0900",
+        "formatted_date": "09월 30일, 22시 00분",
+        "ai_summary": "산업부 산하 14개 공공기관 노동조합이 '산공노협'을 공식 출범했습니다.\n정부의 경영효율화 정책에 공동 대응하며 현장 목소리를 대변할 계획입니다."
+      },
+      {
+        "title": "알래스카 투자 입장 차?...산업부 &quot;참여 미확정&quot;",
+        "originallink": "https://www.ytn.co.kr/_ln/0102_202609302151582686",
+        "link": "https://n.news.naver.com/mnews/article/052/0002413133?sid=101",
+        "description": "없는 상황이 생기는 것 아니냐는 우려가 나오는 상황. 산업부는 이 같은 전망에 대해 상업적 합리성을 관련 법률에 따라 검토해 참여 여부를 결정하는 것이지, 확정된 것은 아니라며 선을 그었습니다. YTN 김대근입니다.",
+        "pubDate": "Wed, 30 Sep 2026 21:51:00 +0900",
+        "formatted_date": "09월 30일, 21시 51분",
+        "ai_summary": "산업부는 알래스카 투자 참여 여부에 대해 결정된 바 없다고 밝혔습니다.\n상업적 합리성과 관련 법률을 검토해 향후 참여 여부를 결정할 방침입니다."
+      },
+      {
+        "title": "박완수 지사, 산업부 차관 만나 경남 4대 산업현안 지원 요청",
+        "originallink": "http://www.newstown.co.kr/news/articleView.html?idxno=717349",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=717349",
+        "description": "한국산업기술진흥원과 대한무역투자진흥공사 등 산업부 소관 기관이 경남으로 이전하면 기존 혁신도시... 경남도는 앞으로도 서부경남 경제자유구역과 메가특구 지정, 한미 조선산업 협력 기반 구축, 산업부 산하... ",
+        "pubDate": "Wed, 30 Sep 2026 20:32:00 +0900",
+        "formatted_date": "09월 30일, 20시 32분",
+        "ai_summary": "박완수 경남도지사가 산업부 차관을 만나 경남의 4대 산업현안을 논의했습니다.\n서부경남 경제자유구역 지정과 산하기관 이전 등 지역 경제 활성화를 요청했습니다."
+      },
       {
         "title": "박완수 경남지사, 산업부 차관 만나 '경제자유구역·메가특구 지정' 건...",
         "originallink": "https://www.newspim.com/news/view/20260930001305",
@@ -145,88 +217,7 @@
         "description": "산업부 소관 공공기관 이전 역시 &quot;경남의 전략산업과 기존 혁신도시 기관이 연계되면 시너지 효과를 높일 수 있다&quot;며 관심을 요청했다. 경남도는 산업통상부 등 관계부처와 협의해 서부경남 경제자유구역과 메가특구 지정... ",
         "pubDate": "Wed, 30 Sep 2026 18:56:00 +0900",
         "formatted_date": "09월 30일, 18시 56분",
-        "ai_summary": "박완수 경남지사가 산업부 차관을 만나 서부경남 경제자유구역 및 메가특구 지정을 건의했습니다. 지역 전략산업과 공공기관 이전을 연계한 시너지 창출을 강조했습니다."
-      },
-      {
-        "title": "박완수 지사, 산업부 차관 만나 서부경남 경제자유구역·메가특구 건의",
-        "originallink": "https://www.ppss.kr/news/articleView.html?idxno=313310",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=313310",
-        "description": "이날 면담에서 경남도는 경제자유구역과 메가특구를 비롯해 한미 조선산업 특화단지 조성, 한국산업기술진흥원(KIAT)·대한무역투자진흥공사(KOTRA) 등 산업부 소관 공공기관의 경남 이전을 공식 건의했다. 다만 산업부가... ",
-        "pubDate": "Wed, 30 Sep 2026 18:37:00 +0900",
-        "formatted_date": "09월 30일, 18시 37분",
-        "ai_summary": "박완수 지사가 산업부에 경제자유구역 지정과 조선산업 특화단지 조성, 산업부 산하 공공기관의 경남 이전을 공식 요청했습니다."
-      },
-      {
-        "title": "산업부, 1569억 지원 법인은 감사 안 했다…지원금 없는 단체는 감사",
-        "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=320681",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=320681",
-        "description": "30일 한국일보 보도에서 국회 산업통상자원중소벤처기업위원회 소속 임문영 더불어민주당 의원실이 산업부로부터 제출받은 자료에 따르면 산업부는 최근 5년간 5개 비영리법인에 총 1569억6000만원을 지원했다.... ",
-        "pubDate": "Wed, 30 Sep 2026 18:34:00 +0900",
-        "formatted_date": "09월 30일, 18시 34분",
-        "ai_summary": "산업부가 거액의 보조금을 지원한 비영리법인들은 감사에서 제외하고, 지원금이 없는 단체들만 감사했다는 비판이 제기되었습니다."
-      },
-      {
-        "title": "산업부, 현대모비스 등 자율주행 설루션 KGM LV2+ 차량에 적용 추진",
-        "originallink": "https://www.viva100.com/article/20260930501492",
-        "link": "https://www.viva100.com/article/20260930501492",
-        "description": "산업부는 내달 인공지능(AI) 자율차 10대 데이터 팩토리 추진 방향과 데이터 공유 포맷 방안 등을 발표한다.... 산업부 설명에 따르면 자율주행 고도화 협력을 통해 KGM이 자율주행 차량을 개발한다. 정부 R&amp;D를 통해 개발... ",
-        "pubDate": "Wed, 30 Sep 2026 18:10:00 +0900",
-        "formatted_date": "09월 30일, 18시 10분",
-        "ai_summary": "산업부가 현대모비스 등과 협력하여 KGM 차량에 자율주행 솔루션을 적용하는 사업을 추진합니다. 정부 R&D를 통해 자율주행 기술 고도화를 지원할 계획입니다."
-      },
-      {
-        "title": "박완수 지사, 산업부 차관 만나 &quot;서부경남 경자구역·메가특구 지정&quot; 건...",
-        "originallink": "https://www.newsgn.com/news/articleView.html?idxno=576967",
-        "link": "https://www.newsgn.com/news/articleView.html?idxno=576967",
-        "description": "이어 한미 조선산업 특화단지에 대해서도 &quot;조선업 호황의 효과가 대기업에만 머무르지 않고 지역의 기자재·협력업체까지 확산돼야 한다&quot;며 특화단지를 통한 산업생태계 강화 필요성을 강조하고, 산업부 소관 공공기관... ",
-        "pubDate": "Wed, 30 Sep 2026 17:42:00 +0900",
-        "formatted_date": "09월 30일, 17시 42분",
-        "ai_summary": "박완수 지사가 서부경남 경제자유구역 지정과 조선업 생태계 강화를 위한 특화단지 조성을 산업부에 건의했습니다. 지역 협력업체까지 성과가 확산되도록 지원을 요청했습니다."
-      },
-      {
-        "title": "산업부, 미래차 상생협력 MOU...&quot;핵심기술 조기 상용화&quot;",
-        "originallink": "https://www.ytn.co.kr/_ln/0102_202609301704176848",
-        "link": "https://n.news.naver.com/mnews/article/052/0002413044?sid=101",
-        "description": "속도를 내고, 로보택시 분야에서도 관련 데이터를 함께 공유하기로 했습니다. 김정관 산업부 장관은 업무협약 간담회 이후 강남 일대에서 운행중인 로보택시에 탑승해 국내 자율주행 기술 수준을 점검하기도 했습니다.",
-        "pubDate": "Wed, 30 Sep 2026 17:04:00 +0900",
-        "formatted_date": "09월 30일, 17시 04분",
-        "ai_summary": "산업부가 미래차 상생협력을 위한 MOU를 체결하고 로보택시 데이터 공유 등 기술 협력을 추진합니다. 김정관 장관은 직접 로보택시에 탑승해 국내 자율주행 기술 현황을 점검했습니다."
-      },
-      {
-        "title": "현대모비스-산업부 車반도체·SDV 생태계 구축 협력",
-        "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869099",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869099",
-        "description": "M.AX 얼라이언스는 국내 제조업의 AI 전환을 위해 산업부 주도로 구성된 산·관·학·연 협력체다. 현대모비스는 AI 미래차 분과의 앵커기업으로 차량용 반도체 생태계 구축과 국내 중형 완성차 업체의 SDV 전환을... ",
-        "pubDate": "Wed, 30 Sep 2026 17:02:00 +0900",
-        "formatted_date": "09월 30일, 17시 02분",
-        "ai_summary": "현대모비스가 산업부 주도 협력체인 'M.AX 얼라이언스'에 참여해 차량용 반도체 생태계를 구축합니다. 중형 완성차 업체의 SDV 전환을 위한 핵심 역할을 수행할 예정입니다."
-      },
-      {
-        "title": "[부고] 차상근(메트로신문 산업부 부국장)씨 빙모상",
-        "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=366378",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366378",
-        "description": "▲문오순(향년 82세)씨 별세, 이경희씨 모친상, 차상근(메트로신문 산업부 부국장)씨 빙모상, 차혁우·인서·혜원씨 외조모상 = 부산 사하구 괴정병원장례식장 2층 202호, 발인 10월 1일 오전. 051-293-4382... ",
-        "pubDate": "Wed, 30 Sep 2026 16:52:00 +0900",
-        "formatted_date": "09월 30일, 16시 52분",
-        "ai_summary": "차상근 메트로신문 산업부 부국장의 빙모상 소식입니다. 발인은 10월 1일 오전이며, 부산 사하구 괴정병원장례식장에서 진행됩니다."
-      },
-      {
-        "title": "산업부, 배터리 냉각부품·네크워크 보안 신기술 승인…5년간 481억원 투...",
-        "originallink": "https://www.ddaily.co.kr/page/view/2026093010202202426",
-        "link": "https://n.news.naver.com/mnews/article/138/0002243199?sid=101",
-        "description": "두 기업은 사업 재편을 통해 향후 5년간 총 481억원을 투자하고 99명을 새롭게 채용할 예정이다. 산업부는 사업재편 기업의 조기 성과 창출을 위해 컨설팅과 R&amp;D, 펀드 지원 등 각종 지원책을 확대해 나갈 예정이다.",
-        "pubDate": "Wed, 30 Sep 2026 16:48:00 +0900",
-        "formatted_date": "09월 30일, 16시 48분",
-        "ai_summary": "산업부가 배터리 냉각부품 및 네트워크 보안 기업의 신기술 사업 재편을 승인했습니다. 5년간 481억 원을 투자하고 99명을 채용할 예정이며 정부가 이를 적극 지원합니다."
-      },
-      {
-        "title": "[부음] 차상근(메트로신문 산업부 부국장)씨 빙모상",
-        "originallink": "https://www.sisajournal-e.com/news/articleView.html?idxno=424042",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424042",
-        "description": "▲문오순(향년 82세)씨 별세, 이경희씨 모친상, 차상근(메트로신문 산업부 부국장)씨 빙모상, 차혁우·인서·혜원씨 외조모상=부산 사하구 괴정병원장례식장 2층 202호, 발인 10월 1일 오전, 051-293-4382 시사저널e",
-        "pubDate": "Wed, 30 Sep 2026 16:38:00 +0900",
-        "formatted_date": "09월 30일, 16시 38분",
-        "ai_summary": "차상근 메트로신문 산업부 부국장의 빙모상 소식입니다. 발인은 10월 1일 오전, 장소는 부산 사하구 괴정병원장례식장입니다."
+        "ai_summary": "박완수 지사가 산업부 소관 공공기관의 경남 이전을 통한 시너지 창출을 제안했습니다.\n경제자유구역 및 메가특구 지정을 위해 관계부처와 긴밀히 협의할 예정입니다."
       }
     ],
     "KIAT": [
@@ -237,7 +228,7 @@
         "description": "한국산업기술진흥원(KIAT)이 국내 지역 소프트웨어(SW) 기업의 유럽 연구개발(R&amp;D) 네트워크 확대와 국제공동연구 파트너 발굴을 지원한다. KIAT는 지난 15~17일 튀르키예 이스탄불에서 열린 'ITEA PO Days 2026'에 국내 SW... ",
         "pubDate": "Mon, 21 Sep 2026 15:53:00 +0900",
         "formatted_date": "09월 21일, 15시 53분",
-        "ai_summary": "한국산업기술진흥원(KIAT)이 국내 지역 소프트웨어 기업의 유럽 공동 R&D 진출을 지원합니다. 이스탄불에서 열린 행사에서 해외 기관과 35건의 상담을 진행했습니다."
+        "ai_summary": "한국산업기술진흥원(KIAT)이 국내 SW기업의 유럽 R&D 네트워크 확대를 지원했습니다.\n튀르키예에서 열린 행사에서 해외기관과 35건의 기술협력 상담을 진행했습니다."
       },
       {
         "title": "KIAT, 지역 기업 국제공동 R&amp;D 파트너 발굴 지원",
@@ -246,7 +237,7 @@
         "description": "한국산업기술진흥원(KIAT)은 지난 15일부터 17일까지 튀르키예 이스탄불에서 열린 ‘ITEA PO Days 2026’에 국내... 산업통상부와 KIAT는 이번 행사에서 발굴된 아이디어와 컨소시엄이 ITEA 본 과제 선정과 자금 확보로... ",
         "pubDate": "Mon, 21 Sep 2026 15:38:00 +0900",
         "formatted_date": "09월 21일, 15시 38분",
-        "ai_summary": "KIAT가 이스탄불에서 열린 'ITEA PO Days 2026'에 참가해 지역 기업의 R&D 파트너 발굴을 도왔습니다. 향후 본 과제 선정 및 자금 확보를 지원할 계획입니다."
+        "ai_summary": "KIAT가 튀르키예 이스탄불에서 열린 행사에서 지역 기업의 국제공동 R&D를 도왔습니다.\n발굴된 아이디어와 컨소시엄이 실제 과제 선정 및 자금 지원으로 이어지도록 지원합니다."
       },
       {
         "title": "KIAT, 지역 SW기업 글로벌 R&amp;D 파트너 발굴 지원…해외 산학연과 35건 상...",
@@ -255,7 +246,7 @@
         "description": "사진=KIAT 지역 혁신기업의 글로벌 진출 전략이 제품 수출을 넘어 해외 연구기관·기업과 공동으로 기술을 개발하고 사업화하는 방식으로 확대되고 있다. 한국산업기술진흥원(KIAT)이 지역 소프트웨어·디지털 기업의... ",
         "pubDate": "Mon, 21 Sep 2026 15:18:00 +0900",
         "formatted_date": "09월 21일, 15시 18분",
-        "ai_summary": "KIAT가 지역 SW 기업의 글로벌 진출을 위해 해외 연구기관과의 공동 R&D를 지원하고 있습니다. 최근 행사에서 해외 산학연과 35건의 기술 협력 상담을 마쳤습니다."
+        "ai_summary": "KIAT가 지역 SW기업의 글로벌 진출을 위해 해외 공동연구 파트너 발굴을 지원했습니다.\n단순 수출을 넘어 기술 공동개발과 사업화를 통한 혁신 성장을 추진합니다."
       },
       {
         "title": "KIAT, 혁신기업 해외 파트너 발굴 지원…&quot;글로벌 진출 돕는다&quot;",
@@ -264,7 +255,7 @@
         "description": "한국산업기술진흥원(KIAT)이 국내 소프트웨어·디지털 혁신기업들의 글로벌 경쟁력 확보를 위해 해외 공동연구 파트너 발굴에 나섰습니다. KIAT는 지난 15일부터 사흘간 튀르키예 이스탄불에서 열린 ‘ITEA PO Days... ",
         "pubDate": "Mon, 21 Sep 2026 13:35:00 +0900",
         "formatted_date": "09월 21일, 13시 35분",
-        "ai_summary": "KIAT는 국내 SW·디지털 혁신기업의 글로벌 경쟁력을 높이기 위해 유럽 현지 R&D 파트너 발굴을 지원했습니다. 이스탄불 행사 참여를 통해 공동연구 기회를 모색했습니다."
+        "ai_summary": "KIAT가 소프트웨어·디지털 혁신기업의 글로벌 경쟁력 확보를 돕고 있습니다.\n해외 공동연구 파트너 발굴을 통해 기업들의 성공적인 해외 진출을 지원할 방침입니다."
       },
       {
         "title": "KIAT&lt;한국산업기술진흥원&gt;, R&amp;D 파트너 발굴 지원",
@@ -273,7 +264,7 @@
         "description": "한국산업기술진흥원(KIAT·원장 전윤종)은 15~17일 튀르키예 이스탄불에서 열린 유럽 최대 소프트웨어... 전윤종 KIAT 원장은 “지역 혁신기업과 유럽 ITEA 클러스터를 긴밀히 연결해 글로벌 공동연구·사업화 성과를... ",
         "pubDate": "Mon, 21 Sep 2026 13:02:00 +0900",
         "formatted_date": "09월 21일, 13시 02분",
-        "ai_summary": "KIAT가 국내 혁신기업과 유럽 ITEA 클러스터를 연결해 글로벌 공동연구를 돕습니다. 전윤종 원장은 이번 협력을 통해 국내 기업의 기술 성과 창출을 적극 지원하겠다고 밝혔습니다."
+        "ai_summary": "KIAT가 유럽 최대 SW 클러스터와 국내 기업을 연결하는 R&D 지원 활동을 펼쳤습니다.\n전윤종 원장은 지역 기업의 글로벌 공동연구와 사업화 성과 창출에 집중하겠다고 밝혔습니다."
       },
       {
         "title": "KIAT, 글로벌 SW행사에서 韓 기업 파트너 발굴지원",
@@ -282,7 +273,7 @@
         "description": "35건의 B2B 상담하고 컨소시엄 구성 논의 한국산업기술진흥원(KIAT)은 지난 15~17일까지 튀르키예... 산업통상부와 KIAT는 이번 행사를 통해 발굴된 아이디어 및 컨소시엄이 ITEA 본 과제 선정 및 자금 확보로... ",
         "pubDate": "Mon, 21 Sep 2026 11:12:00 +0900",
         "formatted_date": "09월 21일, 11시 12분",
-        "ai_summary": "KIAT가 튀르키예에서 열린 국제 SW 행사에서 국내 기업들의 글로벌 R&D 파트너 발굴과 컨소시엄 구성을 지원했습니다. 총 35건의 B2B 상담을 진행하며 우리 기업의 해외 진출 기반을 마련했습니다."
+        "ai_summary": "KIAT가 글로벌 SW 행사에서 국내 기업을 위해 35건의 B2B 상담을 지원했습니다.\n산업부와 협력해 컨소시엄 구성 및 본 과제 선정을 위한 실질적 지원을 이어갑니다."
       },
       {
         "title": "KIAT, 지역 SW·디지털기업 글로벌 R&amp;D 발굴 지원",
@@ -291,7 +282,7 @@
         "description": "한국산업기술진흥원(KIAT)이 지역 소프트웨어·디지털 기업들의 글로벌 경쟁력을 강화하는 해외 연구개발 파트너 발굴에 나섰다. KIAT는 21일 지난 15일~17일 튀르키예 이스탄불에서 열린 ‘ITEA PO Days 2026’에... ",
         "pubDate": "Mon, 21 Sep 2026 10:37:00 +0900",
         "formatted_date": "09월 21일, 10시 37분",
-        "ai_summary": "한국산업기술진흥원(KIAT)이 국내 SW·디지털 기업의 글로벌 경쟁력 강화를 위해 해외 R&D 파트너 발굴을 지원했습니다. 튀르키예에서 열린 'ITEA PO Days 2026'에 참여해 기술 협력을 도모했습니다."
+        "ai_summary": "한국산업기술진흥원(KIAT)이 국내 지역 SW 및 디지털 기업의 글로벌 경쟁력 강화를 위해 해외 R&D 파트너 발굴을 지원했습니다. 튀르키예에서 열린 'ITEA PO Days 2026'에 참여해 기술 협력을 도모했습니다."
       },
       {
         "title": "KIAT, 지역 혁신기업 글로벌 R&amp;D 파트너 발굴 지원",
@@ -300,7 +291,7 @@
         "description": "한국산업기술진흥원(KIAT)이 국내 지역 혁신기업들의 소프트웨어(SW) 및 디지털 역량을 앞세워 글로벌 연구개발(R&amp;D) 파트너 발굴을 위한 든든한 가교 역할을 했다. KIAT는 15일부터 17일까지 튀르키예 이스탄불에서... ",
         "pubDate": "Mon, 21 Sep 2026 10:18:00 +0900",
         "formatted_date": "09월 21일, 10시 18분",
-        "ai_summary": "KIAT가 국내 지역 혁신기업의 글로벌 R&D 파트너 발굴을 위한 가교 역할을 수행했습니다. 튀르키예 이스탄불에서 열린 국제 행사에서 우리 기업들의 기술 역량을 앞세워 활발한 교류를 지원했습니다."
+        "ai_summary": "KIAT가 국내 지역 혁신기업의 글로벌 R&D 진출을 돕기 위해 해외 파트너 발굴 및 매칭을 지원했습니다. 튀르키예 이스탄불에서 열린 행사를 통해 국내 기업들의 소프트웨어 및 디지털 역량을 알렸습니다."
       },
       {
         "title": "KIAT, 지역 혁신기업 5곳 해외 R&amp;D 연결…35건 이상 협력 상담",
@@ -309,10 +300,28 @@
         "description": "한국산업기술진흥원(KIAT)은 지난 15~17일 튀르키예 이스탄불에서 열린 'ITEA PO Days 2026'에 국내 소프트웨어... KIAT는 지난해 포르투갈에서 열린 행사에서도 국내 기업 6곳의 참여와 기술 매칭을 지원했다. 당시 8개국... ",
         "pubDate": "Mon, 21 Sep 2026 08:42:00 +0900",
         "formatted_date": "09월 21일, 08시 42분",
-        "ai_summary": "KIAT가 'ITEA PO Days 2026'에 지역 혁신기업 5곳을 지원해 35건 이상의 기술 협력 상담을 이끌어냈습니다. 지속적인 글로벌 매칭 지원을 통해 국내 기업의 해외 R&D 참여를 확대하고 있습니다."
+        "ai_summary": "KIAT가 'ITEA PO Days 2026'에 참여하여 국내 혁신기업 5곳의 해외 기술 매칭을 지원하고 35건 이상의 협력 상담을 이끌어냈습니다. 지속적인 글로벌 R&D 네트워크 구축을 통해 국내 기업의 성장을 돕고 있습니다."
       }
     ],
     "기후부": [
+      {
+        "title": "소양강댐에 국내 최대 수상태양광…기후부·강원도·춘천시 ‘물빛 에너...",
+        "originallink": "https://www.kwnews.co.kr/article/20260930500875",
+        "link": "https://n.news.naver.com/mnews/article/087/0001221318?sid=100",
+        "description": "김성환 기후부 장관은 “AI혁명과 기후위기 시대, 더 많은 재생에너지가 필요한 상황&quot;이라며 &quot;다목적댐의 기존 계통을 최대한 활용하는 교차송전을 통해 재생에너지를 저렴하게 신속 보급하고, 수익은 주민들과 공유할... ",
+        "pubDate": "Thu, 01 Oct 2026 00:02:00 +0900",
+        "formatted_date": "10월 01일, 00시 02분",
+        "ai_summary": "기후부와 강원도 등이 소양강댐에 국내 최대 규모의 수상태양광 사업을 추진합니다. 기존 댐 계통을 활용한 교차송전으로 재생에너지를 신속히 보급하고 수익은 지역 주민과 공유할 예정입니다."
+      },
+      {
+        "title": "기후부, 발전공기업 통합준비위원회 발족...발전 5사 통합추진 이행안 ...",
+        "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=445049",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=445049",
+        "description": "기후부가 이달 초 공개한 자료 기준으로 5사의 발전설비 규모는 합계 약 53GW다. 통합준비위원회는 관련... 기후부에 따르면 발전 5사는 현재 575개의 시스템과 소프트웨어를 운영하고 있다. 이호현 차관은 &quot;발전 5사의... ",
+        "pubDate": "Wed, 30 Sep 2026 21:20:00 +0900",
+        "formatted_date": "09월 30일, 21시 20분",
+        "ai_summary": "기후부가 발전 5사 통합을 위한 준비위원회를 발족하고 통합 이행안 마련에 착수했습니다. 약 53GW 규모의 발전 설비와 수많은 운영 시스템을 통합하여 효율적인 에너지 관리를 추진합니다."
+      },
       {
         "title": "풍력 '알박기 대못' 뽑고 태양광엔 '교차송전'…기후부, 재생에너지 속...",
         "originallink": "https://www.hankyung.com/article/202609304980i",
@@ -320,7 +329,7 @@
         "description": "풍황계측기 대신 '가상 바람지도' 활용 30일 기후부는 다음달 1일부터 육상풍력 발전사업 허가 신청 시 필수... 기후부는 한국수자원공사와 이날 '태양광 비전선포식'을 열고, 2030년까지 총 500㎿ 규모의 수상태양광 설비를... ",
         "pubDate": "Wed, 30 Sep 2026 15:48:00 +0900",
         "formatted_date": "09월 30일, 15시 48분",
-        "ai_summary": "기후부가 육상풍력 발전사업 시 가상 바람지도를 도입해 규제를 완화하고 재생에너지 보급에 속도를 냅니다. 또한, 2030년까지 수자원공사와 협력해 대규모 수상태양광 설비를 구축할 계획입니다."
+        "ai_summary": "기후부가 육상풍력 허가 시 '가상 바람지도'를 도입해 규제를 완화하고 수상태양광 설비를 2030년까지 500㎿로 확대합니다. 재생에너지 보급 속도를 높이기 위한 정책적 지원을 본격화했습니다."
       },
       {
         "title": "육동한 춘천 시장, 기후부 장관에 수계기금 지원 확대 건의",
@@ -329,7 +338,7 @@
         "description": "시는 물이용부담금이 톤당 170원으로 16년간 동결된 데다 기후부 중점사업에 기금이 집중되면서 지역 친환경 사업에 필요한 재원이 부족해지고 있다고 설명했다. 육 시장은 소양강댐 수상태양광 사업의 주민 참여를... ",
         "pubDate": "Wed, 30 Sep 2026 15:43:00 +0900",
         "formatted_date": "09월 30일, 15시 43분",
-        "ai_summary": "육동한 춘천시장이 기후부 장관을 만나 물이용부담금 등 수계기금 지원 확대를 건의했습니다. 지역 친환경 사업 재원 마련과 소양강댐 수상태양광 사업의 주민 참여 방안을 논의했습니다."
+        "ai_summary": "육동한 춘천시장이 기후부 장관을 만나 수계기금 지원 확대를 건의했습니다. 16년간 동결된 물이용부담금 문제와 소양강댐 수상태양광 사업의 주민 참여를 위한 재원 확보 방안을 논의했습니다."
       },
       {
         "title": "[단독] 기후부 ODA 예산 늘었는데⋯ 에너지 분야는 ‘된서리’",
@@ -338,7 +347,7 @@
         "description": "30일 브릿지경제가 기후부로부터 제공받은 ‘최근 5년간 ODA 사업 추진결과’에 따르면 내년도 기후부 ODA 정부안 예산은 총 519억원으로 집계됐다. 이는 전년도 예산(497억원) 대비 소폭 증가한 규모다. 그러나 기후부... ",
         "pubDate": "Wed, 30 Sep 2026 14:34:00 +0900",
         "formatted_date": "09월 30일, 14시 34분",
-        "ai_summary": "기후부의 내년 ODA 예산은 소폭 증가했으나, 정작 에너지 분야 예산은 오히려 감소한 것으로 나타났습니다. 공적개발원조 내 에너지 부문의 비중 축소에 대한 우려가 제기됩니다."
+        "ai_summary": "내년 기후부의 ODA 예산이 소폭 증가했으나, 에너지 분야 예산은 오히려 감소하여 어려움이 예상됩니다. ODA 사업 내 에너지 비중 축소에 대한 우려와 대책 마련이 필요한 상황입니다."
       },
       {
         "title": "거북이걸음 육상풍력…기후부 '풍황 실측' 없애고 보급 속도전",
@@ -347,7 +356,7 @@
         "description": "기후부에 따르면 국내 육상풍력 누적 보급 규모는 약 2GW, 최근 신규 보급량은 연간 0.1GW 내외다. 정부는... 기후부는 &quot;이번 제도 개선은 지난해 12월 정부가 발표한 '육상풍력 발전 활성화 전략'의 후속조치&quot;라며 &quot;정부는... ",
         "pubDate": "Wed, 30 Sep 2026 13:32:00 +0900",
         "formatted_date": "09월 30일, 13시 32분",
-        "ai_summary": "기후부가 육상풍력 발전 활성화를 위해 풍황 실측 규제를 개선하는 등 보급 속도를 높입니다. 연간 신규 보급량이 저조했던 육상풍력 시장에 활력을 불어넣기 위한 후속 조치입니다."
+        "ai_summary": "기후부가 육상풍력 발전 보급 속도를 높이기 위해 필수였던 풍황계측기 실측 대신 '가상 바람지도' 활용을 허용합니다. 육상풍력 활성화 전략의 일환으로 복잡한 허가 절차를 간소화했습니다."
       },
       {
         "title": "기후부, 발전공기업 5사 통합 시동",
@@ -356,7 +365,7 @@
         "description": "기후부는 이날 전국전력산업노동조합연맹과 전국공공산업노동조합연맹, 한국발전산업노조 등 발전공기업 관련 노동자단체와 만나 통합준비위원회 논의 결과를 공유하고 정례적인 노사 소통체계를 마련하는 방안을... ",
         "pubDate": "Wed, 30 Sep 2026 13:16:00 +0900",
         "formatted_date": "09월 30일, 13시 16분",
-        "ai_summary": "기후부가 발전공기업 5개사의 통합을 추진하며 노동자 단체와 소통에 나섰습니다. 통합준비위원회의 논의 내용을 공유하고 정례적인 노사 소통 체계를 마련하기로 했습니다."
+        "ai_summary": "기후부가 발전공기업 5사 통합 추진을 위해 노동자단체와 소통하며 준비위원회 논의 결과를 공유했습니다. 정례적인 노사 소통체계를 구축하여 통합 과정에서의 갈등을 관리하고 협력 기반을 마련 중입니다."
       },
       {
         "title": "인사말 하는 김성환 기후부 장관",
@@ -365,7 +374,7 @@
         "description": "김성환 기후에너지환경부 장관이 30일 강원도 춘천 소양강댐 물문화관에서 열린 '수상태양광 비전선포식'에 참석해 인사말을 하고 있다. (사진=기후부 제공) 2026.09.30. photo@newsis.com *재판매 및 DB 금지",
         "pubDate": "Wed, 30 Sep 2026 13:14:00 +0900",
         "formatted_date": "09월 30일, 13시 14분",
-        "ai_summary": "김성환 기후부 장관이 강원도 춘천 소양강댐에서 열린 수상태양광 비전선포식에 참석했습니다. 해당 행사를 통해 친환경 에너지 확산 의지를 밝혔습니다."
+        "ai_summary": "김성환 기후에너지환경부 장관이 강원도 춘천에서 열린 '수상태양광 비전선포식'에 참석했습니다. 행사에서 장관은 인사말을 전하며 수상태양광 사업의 비전을 공유했습니다."
       },
       {
         "title": "인사말 하는 김성환 기후부 장관",
@@ -374,34 +383,7 @@
         "description": "김성환 기후에너지환경부 장관이 30일 강원도 춘천 소양강댐 물문화관에서 열린 '수상태양광 비전선포식'에 참석해 인사말을 하고 있다. (사진=기후부 제공) 2026.09.30. photo@newsis.com *재판매 및 DB 금지",
         "pubDate": "Wed, 30 Sep 2026 13:14:00 +0900",
         "formatted_date": "09월 30일, 13시 14분",
-        "ai_summary": "김성환 기후에너지환경부 장관이 강원도 춘천에서 열린 '수상태양광 비전선포식'에 참석했습니다."
-      },
-      {
-        "title": "기후부 김성환 장관 &quot;재생에너지 100GW 목표 달성, 수상태양광이 핵심&quot;",
-        "originallink": "http://www.e-platform.net/news/articleView.html?idxno=105796",
-        "link": "http://www.e-platform.net/news/articleView.html?idxno=105796",
-        "description": "수자원공사가 2030년까지 10여개 지역에서 500MW 규모의 수상태양광 사업을 실시할 예정인 가운데, 기후부 김성환 장관이 재생에너지 보급목표를 달성하기 위해서는 수상태양광 확대가 필수라고 강조했다.... ",
-        "pubDate": "Wed, 30 Sep 2026 11:10:00 +0900",
-        "formatted_date": "09월 30일, 11시 10분",
-        "ai_summary": "김성환 장관은 재생에너지 100GW 목표 달성을 위해 수상태양광 사업 확대가 필수적이라고 강조했습니다."
-      },
-      {
-        "title": "기후부, 비소 침출수 불법배출 A사에 과징금 부과",
-        "originallink": "http://www.ikld.kr/news/articleView.html?idxno=341523",
-        "link": "http://www.ikld.kr/news/articleView.html?idxno=341523",
-        "description": "기후부는 '환경정책기본법' 제30조제3항에 따라 '환경범죄 단속 및 환경범죄 등의 단속 및 가중처벌에 관한 법률' 제12조제1항을 위반한 자의 위반행위, 처분내용 등을 공표해 오고 있다.",
-        "pubDate": "Wed, 30 Sep 2026 10:56:00 +0900",
-        "formatted_date": "09월 30일, 10시 56분",
-        "ai_summary": "기후부가 환경 관련 법률을 위반해 비소 침출수를 불법 배출한 A사에 대해 과징금을 부과했습니다."
-      },
-      {
-        "title": "기후부, '발전공기업 통합준비위원회' 발족…절차 '본격 돌입'",
-        "originallink": "http://www.e-platform.net/news/articleView.html?idxno=105792",
-        "link": "http://www.e-platform.net/news/articleView.html?idxno=105792",
-        "description": "기후부가 이호현 2차관, 발전 5사 부사장, 외부 전문가가 참여하는 협의체를 구축하고 발전5사 통합 절차에 본격적으로 돌입한다. 기후에너지환경부는 30일 발전 5사 협력본부에서 이호현 제2차관을 위원장으로 하는... ",
-        "pubDate": "Wed, 30 Sep 2026 10:40:00 +0900",
-        "formatted_date": "09월 30일, 10시 40분",
-        "ai_summary": "기후부가 발전 5사 통합을 위한 준비위원회를 발족하고 본격적인 통합 절차에 착수했습니다."
+        "ai_summary": "김성환 기후에너지환경부 장관이 강원도 춘천에서 열린 '수상태양광 비전선포식'에 참석했습니다. 행사에서 장관은 인사말을 전하며 수상태양광 사업의 비전을 공유했습니다."
       }
     ],
     "산업혁신기반구축": []
@@ -409,336 +391,372 @@
   "pane3": {
     "호르무즈": [
       {
-        "title": "이란, '7일 신뢰구축안' 美답변 받아…호르무즈 협상 분수령(종합)",
-        "originallink": "https://www.news1.kr/world/middleeast-africa/6306698",
-        "link": "https://n.news.naver.com/mnews/article/421/0009201882?sid=104",
-        "description": "앞서 이란은 △해상 봉쇄 해제 △원유 제재 완화 △레바논을 포함한 역내 휴전 등 여러 요구 조건을 제시하며, 이를 받아들인다면 호르무즈 해협을 7일 내로 개방하겠다고 제안했다. 도널드 트럼프 미국 대통령은 이... ",
-        "pubDate": "Wed, 30 Sep 2026 19:54:00 +0900",
-        "formatted_date": "09월 30일, 19시 54분",
-        "ai_summary": "이란이 미국으로부터 신뢰구축안에 대한 답변을 받으면서 호르무즈 해협 개방 협상이 분수령을 맞았습니다."
+        "title": "트럼프 &quot;호르무즈 원유 통항 역대 최대…이란전 곧 승리&quot;",
+        "originallink": "https://www.ajunews.com/view/20261001072634000",
+        "link": "https://www.ajunews.com/view/20261001072634000",
+        "description": "최근 호르무즈 해협을 통과한 원유가 역대 어느 때보다 많았다고 주장하며 이란과의 전쟁에서도 조만간... 축하행사에서 &quot;우리는 호르무즈 해협을 사실상 완전히 통제하고 있다&quot;며 &quot;지난 사흘 동안 호르무즈 해협을... ",
+        "pubDate": "Thu, 01 Oct 2026 07:30:00 +0900",
+        "formatted_date": "10월 01일, 07시 30분",
+        "ai_summary": "트럼프 대통령이 최근 호르무즈 해협의 원유 통항량이 역대 최대 수준임을 강조했습니다. 또한 이란과의 전쟁에서 곧 승리할 것이라는 강경한 입장을 밝혔습니다."
       },
       {
-        "title": "이란, 호르무즈 지렛대 힘 빠지나… 원유 수송량 전쟁 전 근접",
-        "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000018744&cp=nv",
-        "link": "https://n.news.naver.com/mnews/article/005/0001875999?sid=104",
-        "description": "이란 전쟁 발발 이후 이란의 가장 강력한 지렛대로 떠오른 호르무즈 해협의 경제적 중요성이 약화하고 있다. 아랍에미리트(UAE)는 ‘제로 호르무즈’ 전략을 추진하는 등 해협 의존도를 줄이기 위한 작업을 본격화하는... ",
-        "pubDate": "Wed, 30 Sep 2026 19:21:00 +0900",
-        "formatted_date": "09월 30일, 19시 21분",
-        "ai_summary": "UAE의 해협 의존도 낮추기 전략 등으로 인해 이란의 핵심 지렛대였던 호르무즈 해협의 경제적 중요성이 약화하고 있습니다."
+        "title": "트럼프 &quot;경유 수출금지, 휘발윳값 올릴수도…호르무즈 열려 유가하락 시...",
+        "originallink": "https://www.newsis.com/view/NISX20261001_0003809764",
+        "link": "https://n.news.naver.com/mnews/article/003/0014225433?sid=104",
+        "description": "한편 트럼프 대통령은 호르무즈 해협 통항 회복세를 언급하며 국제 유가가 계속 내려갈 것으로 기대했다. 그는 &quot;나는 우리가 좋은 상황에 있다고 생각한다. 유가가 내려가기 시작할 것이기 때문&quot;이라며 &quot;호르무즈 해협에서... ",
+        "pubDate": "Thu, 01 Oct 2026 07:29:00 +0900",
+        "formatted_date": "10월 01일, 07시 29분",
+        "ai_summary": "트럼프 대통령은 호르무즈 해협의 통항 회복세를 언급하며 국제 유가가 하락할 것으로 기대했습니다. 경유 수출금지 조치가 휘발유 가격에 미칠 영향도 함께 언급했습니다."
       },
       {
-        "title": "&quot;호르무즈·홍해 막혀도 LNG 공급한다&quot; 자원 위기서 빛난 SK이노베이션",
-        "originallink": "https://www.hankookilbo.com/news/article/A2026093014290005979?did=NA",
-        "link": "https://n.news.naver.com/mnews/article/469/0000956950?sid=101",
-        "description": "&quot;호르무즈·홍해 막혀도 LNG 공급한다&quot; 미국·이란 전쟁 이후 LNG 가격이 치솟고, 최대 LNG 수출국인... 게다가 호르무즈해협이나 홍해 바브엘만데브해협을 통과하지 않아 중동발 리스크의 영향에서 자유롭고, 해상... ",
-        "pubDate": "Wed, 30 Sep 2026 17:58:00 +0900",
-        "formatted_date": "09월 30일, 17시 58분",
-        "ai_summary": "SK이노베이션이 중동 리스크와 무관한 LNG 공급망을 구축하며 자원 위기 속에서 안정적인 공급 능력을 입증했습니다."
+        "title": "트럼프, &quot;이란 결국 항복할 것&quot; 강경 발언…호르무즈 해협 긴장 재고조",
+        "originallink": "https://www.g-enews.com/view.php?ud=202609300725362010fda4f5ab74_1",
+        "link": "https://www.g-enews.com/view.php?ud=202609300725362010fda4f5ab74_1",
+        "description": "차단됐으며, 호르무즈 해협 통항 차질에 따른 유가 상승이 오는 11월 미국 중간선거의 주요 변수로 떠올랐다고 보도했다. 이번 트럼프 대통령의 강경 발언 여파로 호르무즈 해협의 통항 차질 우려가 다시 고조되면서 한국... ",
+        "pubDate": "Thu, 01 Oct 2026 06:54:00 +0900",
+        "formatted_date": "10월 01일, 06시 54분",
+        "ai_summary": "트럼프 대통령의 강경 발언으로 호르무즈 해협의 긴장이 다시 고조되고 있습니다. 통항 차질에 따른 유가 상승은 11월 미국 중간선거의 주요 변수로 주목받고 있습니다."
       },
       {
-        "title": "호르무즈 뚫린 건가…“중동원유 수출량 전쟁 전 98% 회복 ”",
-        "originallink": "https://www.dt.co.kr/article/12086759?ref=naver",
-        "link": "https://n.news.naver.com/mnews/article/029/0003050793?sid=104",
-        "description": "JP모건 분석…‘셔틀선 환적’ 덕 호르무즈 통과 가능 미군 호위 속에 이란 몰래 호르무즈 빠져나오는 방식 비용 많이 들고 위험을 수반한다는 점에서 임시 대안 석유제품 운송물량은 아직 전쟁 전 정상 수준 못 미쳐... ",
-        "pubDate": "Wed, 30 Sep 2026 17:29:00 +0900",
-        "formatted_date": "09월 30일, 17시 29분",
-        "ai_summary": "중동 원유 수출량이 전쟁 전의 98% 수준으로 회복되었으나, 호르무즈 통과는 여전히 위험 부담이 큰 임시 방식을 사용 중입니다."
+        "title": "&quot;호르무즈 원유 물동량, 이란 전쟁 이전 수준 회복&quot;…남은 문제는",
+        "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437229",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437229",
+        "description": "확보되면서 호르무즈 해협을 통한 원유 수출이 이란 전쟁 이전의 정상 수준을 사실상 회복한 것으로 나타났다고 미국 CNBC가 30일(현지시간) 보도했다. 호르무즈 해협[연합뉴스 자료사진] 원유 정보 분석 업체 케이플러가... ",
+        "pubDate": "Thu, 01 Oct 2026 06:32:00 +0900",
+        "formatted_date": "10월 01일, 06시 32분",
+        "ai_summary": "원유 정보 분석 업체 케이플러에 따르면 호르무즈 해협의 원유 물동량이 이란 전쟁 이전 수준을 회복했습니다. 시장에서는 안정적인 통항 확보를 긍정적으로 평가하고 있습니다."
       },
       {
-        "title": "중동 산유국, 석유 수출 98% 회복...호르무즈 가동률 77%",
-        "originallink": "https://www.fnnews.com/news/202609301707061227",
-        "link": "https://n.news.naver.com/mnews/article/014/0005583144?sid=101",
-        "description": "해당 물량은 호르무즈해협과 홍해로 수출된 물량을 모두 합한 숫자이며 지난 2월말 전쟁 발발 이전 수출 물량 대비 98%에 해당하는 양이다. 전쟁 이전 세계 해양 석유 운송량의 약 25%를 차지했던 호르무즈해협 역시... ",
-        "pubDate": "Wed, 30 Sep 2026 17:15:00 +0900",
-        "formatted_date": "09월 30일, 17시 15분",
-        "ai_summary": "중동 산유국의 석유 수출이 전쟁 전 수준으로 회복되었으며, 호르무즈 해협의 가동률도 점진적으로 개선되고 있습니다."
+        "title": "트럼프 “호르무즈 원유 수송 역대 최다…이란전 곧 승리”[1일1트]",
+        "originallink": "https://biz.heraldcorp.com/article/10889657?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/016/0002703975?sid=104",
+        "description": "도널드 트럼프 미국 대통령은 30일(현지시간) 최근 호르무즈 해협을 통해 반출된 원유가 전쟁 이전을 포함해... 트럼프 대통령은 이날 백악관에서 열린 ‘히스패닉 유산의 달’ 축하 행사 연설에서 미국이 호르무즈 해협을... ",
+        "pubDate": "Thu, 01 Oct 2026 06:05:00 +0900",
+        "formatted_date": "10월 01일, 06시 05분",
+        "ai_summary": "트럼프 대통령이 백악관 행사에서 호르무즈 해협의 원유 수송량이 전쟁 전보다 많다고 주장했습니다. 미국이 해협을 완전히 통제하고 있음을 강조하며 이란전 승리를 언급했습니다."
       },
       {
-        "title": "호르무즈 협상 교착…이란, 11월 전 공격 확대 가능성 거론",
-        "originallink": "https://www.tokenpost.kr/news/international/416377",
-        "link": "https://www.tokenpost.kr/news/international/416377",
-        "description": "이란과 미국의 협상이 교착 상태에 빠지면서 호르무즈 해협을 둘러싼 긴장이 미국 중간선거 이후까지... 협상의 핵심 쟁점은 호르무즈 해협 재개방 조건이다. 이란은 미국의 해상 봉쇄 완화와 동결 자산 해제, 원유 제재... ",
-        "pubDate": "Wed, 30 Sep 2026 17:04:00 +0900",
-        "formatted_date": "09월 30일, 17시 04분",
-        "ai_summary": "미국과 이란의 호르무즈 협상이 교착 상태에 빠지면서 긴장이 지속되고 있으며, 이란의 공격 확대 가능성도 제기됩니다."
+        "title": "트럼프 “사흘간 호르무즈 통과한 원유, 어느 때보다 많아”",
+        "originallink": "https://biz.chosun.com/international/international_general/2026/10/01/OK3TZH4CEBDPJJJC6QYKEKWKRU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "link": "https://n.news.naver.com/mnews/article/366/0001195432?sid=104",
+        "description": "최근 호르무즈 해협을 통해 빠져나온 원유가 전쟁 전보다 많았다고 주장했다. 트럼프 대통령은 이날 백악관에서 열린 ‘히스패닉 유산의 달’ 축하 행사 연설에서 미국이 호르무즈 해협을 완전히 장악하고 있다면서... ",
+        "pubDate": "Thu, 01 Oct 2026 05:29:00 +0900",
+        "formatted_date": "10월 01일, 05시 29분",
+        "ai_summary": "트럼프 대통령은 최근 사흘간 호르무즈 해협을 통과한 원유량이 역대 최다를 기록했다고 밝혔습니다. 미국이 해당 해역을 완전히 장악하고 있다고 재차 강조했습니다."
       },
       {
-        "title": "[시론] 미-이란 전쟁, 호르무즈 해협의 안정과 안전",
-        "originallink": "https://www.incheonilbo.com/news/articleView.html?idxno=1333196",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1333196",
-        "description": "이제 '호르무즈 해협을 둘러싼 해상·에너지 전쟁의 성격이 매우 강해진 국면'으로 전개되고 있다. 현재 호르무즈 해협은 전쟁의 '부수적인 장소'가 아니라 전쟁의 '핵심적인 전략 공간'이 되어버렸다. 세계 석유와 LNG의 약... ",
-        "pubDate": "Wed, 30 Sep 2026 16:48:00 +0900",
-        "formatted_date": "09월 30일, 16시 48분",
-        "ai_summary": "호르무즈 해협이 단순한 분쟁지를 넘어 세계 에너지 공급의 핵심 전략 공간으로 부상했다. 미·이란 간의 긴장 고조로 해상 에너지 안보가 국가적 위협 요소가 되고 있다."
+        "title": "트럼프 &quot;호르무즈 원유 수송 역대 최다…이란전 곧 승리&quot;",
+        "originallink": "https://www.hankyung.com/article/2026100160387",
+        "link": "https://n.news.naver.com/mnews/article/015/0005337895?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 호르무즈 해협을 통한 원유 수송량이 최근 크게 늘었다고 강조하며 이란과의... 트럼프 대통령은 30일(현지시간) 백악관에서 열린 '히스패닉 유산의 달' 기념행사에서 미국이 호르무즈 해협을... ",
+        "pubDate": "Thu, 01 Oct 2026 05:15:00 +0900",
+        "formatted_date": "10월 01일, 05시 15분",
+        "ai_summary": "트럼프 대통령은 호르무즈 해협의 원유 수송량 증가를 근거로 이란과의 전쟁에서 곧 승리할 것이라 예고했습니다. 관련 발언은 히스패닉 유산의 달 기념행사에서 나왔습니다."
       },
       {
-        "title": "호르무즈 난장판에도…중동 원유 수송량 전쟁 전 98% 회복",
-        "originallink": "http://www.4th.kr/news/articleView.html?idxno=2118949",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2118949",
-        "description": "포쓰저널 김현주 기자 호르무즈 해협의 유조선과 화물선./로이터 연합 미국과 이란의 충돌이 이어지고 호르무즈 해협을 지나는 선박의 안전 위험도 해소되지 않았지만 중동발 원유 공급은 전쟁 이전 수준에 근접한... ",
-        "pubDate": "Wed, 30 Sep 2026 16:28:00 +0900",
-        "formatted_date": "09월 30일, 16시 28분",
-        "ai_summary": "미·이란 갈등으로 호르무즈 해협의 항행 위험은 여전하지만, 중동발 원유 수송량은 전쟁 이전 수준의 98%까지 회복했다."
+        "title": "트럼프 “호르무즈 통과 원유, 전쟁 전보다 많아”",
+        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675162&ref=A",
+        "link": "https://n.news.naver.com/mnews/article/056/0012265947?sid=104",
+        "description": "도널드 트럼프 미국 대통령은 최근 사흘간 호르무즈 해협을 통과한 원유가 전쟁 전보다 많았다고 주장하며... 트럼프 대통령은 현지시간 지난달 30일 백악관에서 열린 '히스패닉 유산의 달' 축하행사 연설에서 호르무즈... ",
+        "pubDate": "Thu, 01 Oct 2026 04:55:00 +0900",
+        "formatted_date": "10월 01일, 04시 55분",
+        "ai_summary": "트럼프 대통령은 최근 호르무즈 해협을 통과한 원유가 전쟁 전보다 많다고 주장했습니다. 백악관 연설을 통해 호르무즈 해협에 대한 미국의 장악력을 과시했습니다."
       },
       {
-        "title": "대우건설 참여 이라크 알포 신항, 호르무즈 위기에 시험운영 연기",
-        "originallink": "http://www.press9.kr/news/articleView.html?idxno=83522",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=83522",
-        "description": "대우건설이 주요 시설 건설에 참여한 이라크 알포 신항의 시험운영이 호르무즈 해협을 둘러싼 위기로... 필요하다&quot;며 &quot;호르무즈 해협 문제가 해결되면 시험운영을 시작할 것&quot;이라고 밝혔다. 현재 상황에서는 시험운영을... ",
-        "pubDate": "Wed, 30 Sep 2026 16:26:00 +0900",
-        "formatted_date": "09월 30일, 16시 26분",
-        "ai_summary": "호르무즈 해협의 지정학적 위기가 지속되면서 대우건설이 참여 중인 이라크 알포 신항의 시험운영이 연기되었다."
+        "title": "트럼프 &quot;호르무즈서 사흘간 운송된 원유, 어느 때보다 많아&quot;",
+        "originallink": "https://www.ytn.co.kr/_ln/0104_202610010449406690",
+        "link": "https://n.news.naver.com/mnews/article/052/0002413192?sid=104",
+        "description": "도널드 트럼프 미국 대통령은 호르무즈해협을 통해 최근 빠져나온 원유가 전쟁 전보다 많았다며 이란... 트럼프 대통령은 현지 시간 9월 30일 백악관에서 열린 '히스패닉 유산의 달' 축하행사 연설에서 호르무즈 해협을... ",
+        "pubDate": "Thu, 01 Oct 2026 04:49:00 +0900",
+        "formatted_date": "10월 01일, 04시 49분",
+        "ai_summary": "트럼프 대통령이 최근 호르무즈 해협을 통한 원유 운송량이 전쟁 전보다 많다고 언급했습니다. 이란과 관련된 상황을 긍정적으로 평가하며 전쟁 승리를 확신했습니다."
       },
       {
-        "title": "호르무즈 원유 수송량 회복…JP모건·골드만 추정 엇갈려",
-        "originallink": "https://www.tokenpost.kr/news/breaking/416347",
-        "link": "https://www.tokenpost.kr/news/breaking/416347",
-        "description": "JP모건과 골드만삭스가 중동 원유 흐름이 전쟁 전 수준에 가까워졌다고 각각 평가했지만, 호르무즈... JP모건은 호르무즈 해협 통과량이 사우디아라비아 물량을 중심으로 하루 약 1300만 배럴까지 회복돼 6월 말... ",
-        "pubDate": "Wed, 30 Sep 2026 16:20:00 +0900",
-        "formatted_date": "09월 30일, 16시 20분",
-        "ai_summary": "JP모건과 골드만삭스 등 주요 투자은행들이 중동 원유 수송량 회복세를 긍정적으로 평가했으나 호르무즈 해협의 불확실성은 여전히 변수로 남아있다."
+        "title": "트럼프 &quot;호르무즈서 사흘간 운송된 원유, 어느 때보다 많아&quot;",
+        "originallink": "https://www.yna.co.kr/view/AKR20261001004800071?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016348681?sid=104",
+        "description": "호르무즈 해협을 통해 최근 빠져나온 원유가 전쟁 전보다 많았다고 주장하며 이란 전쟁을 곧 승리로 이끌 것이라고 밝혔다. 트럼프 대통령은 이날 백악관에서 열린 '히스패닉 유산의 달' 축하행사 연설에서 호르무즈... ",
+        "pubDate": "Thu, 01 Oct 2026 04:35:00 +0900",
+        "formatted_date": "10월 01일, 04시 35분",
+        "ai_summary": "트럼프 대통령이 호르무즈 해협의 원유 운송이 원활함을 강조하며 이란과의 전쟁에서 곧 승리할 것이라고 밝혔습니다. 백악관 행사 연설을 통해 현재 상황을 낙관적으로 전망했습니다."
       }
     ],
     "트럼프": [
       {
-        "title": "북핵 묻자 &quot;괜찮다&quot;는 트럼프…&quot;김정은, 나 좋아해&quot;",
-        "originallink": "https://news.jtbc.co.kr/article/NB12320746?influxDiv=NAVER",
-        "link": "https://n.news.naver.com/mnews/article/437/0000513489?sid=104",
-        "description": "북한이 유엔에서 핵보유국 지위를 내려놓을 수 없다며 엄포를 놓았음에도 트럼프 대통령은 유화 메시지를... [기자] 트럼프 대통령은 이란이 핵 무기를 보유해선 안 된다면서도 북한은 상당한 핵 능력을 갖고 있다고... ",
-        "pubDate": "Wed, 30 Sep 2026 19:41:00 +0900",
-        "formatted_date": "09월 30일, 19시 41분",
-        "ai_summary": "트럼프 대통령이 북한의 핵 위협에도 불구하고 김정은 위원장과의 개인적 친분을 강조하며 유화적인 태도를 유지하고 있다."
+        "title": "트럼프, '알래스카 LNG에 한국 500억불 투자' 일방 발표(종합2보)",
+        "originallink": "https://www.yna.co.kr/view/AKR20261001006952071?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016348852?sid=104",
+        "description": "도널드 트럼프 미국 대통령은 30일(현지시간) 한국이 알래스카 액화천연가스(LNG) 개발 사업에 투자한다고 일방 발표했다. 트럼프 대통령은 이날 하워드 러트닉 상무장관, 더그 버검 내무장관, 크리스 라이트 에너지장관... ",
+        "pubDate": "Thu, 01 Oct 2026 07:48:00 +0900",
+        "formatted_date": "10월 01일, 07시 48분",
+        "ai_summary": "트럼프 대통령이 한국의 알래스카 LNG 개발 사업 투자를 일방적으로 발표했습니다. 주요 부처 장관들이 배석한 가운데 대규모 투자 계획을 공식화했습니다."
       },
       {
-        "title": "알래스카 LNG사업 우리는 검토인데 트럼프는 540억 달러 발표할 듯",
-        "originallink": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5222327",
-        "link": "https://n.news.naver.com/mnews/article/057/0001971431?sid=104",
-        "description": "트럼프 대통령이 내일 새벽 백악관에서 우리나라의 대미투자 계획을 발표합니다. 그런데 알래스카 LNG... 이 지역에 석유관 외에도 천연가스관을 건설하는 게 도널드 트럼프 대통령의 숙원 사업입니다. 배가 닿기... ",
-        "pubDate": "Wed, 30 Sep 2026 19:41:00 +0900",
-        "formatted_date": "09월 30일, 19시 41분",
-        "ai_summary": "트럼프 대통령이 알래스카 LNG 사업과 관련해 대규모 투자 발표를 앞두고 있으나, 한국 측은 아직 구체적인 검토 단계에 머물러 있다."
+        "title": "트럼프 &quot;한국, 알래스카-원전 등에 2천억달러 투자&quot;",
+        "originallink": "https://www.viewsnnews.com/article?q=238805",
+        "link": "https://www.viewsnnews.com/article?q=238805",
+        "description": "우리 정부 대응 주목 도널드 트럼프 미국 대통령은 30일(현지시간) 한국이 알래스카 액화천연가스(LNG) 개발... 겨냥한 트럼프의 막무가내식 압박에 대한 향후 정부 대응이 주목된다. 트럼프 대통령은 이날 하워드 러트닉... ",
+        "pubDate": "Thu, 01 Oct 2026 07:48:00 +0900",
+        "formatted_date": "10월 01일, 07시 48분",
+        "ai_summary": "트럼프 대통령이 한국의 알래스카 LNG 및 원전 관련 2천억 달러 투자를 일방적으로 발표했습니다. 사실상 압박으로 해석되는 이번 발표에 우리 정부의 향후 대응이 주목됩니다."
       },
       {
-        "title": "트럼프 “AI 안전, 정부 규제 아닌 업계 자율규제에 맡긴다”",
-        "originallink": "https://www.segye.com/newsView/20260930516665?OutUrl=naver",
-        "link": "https://n.news.naver.com/mnews/article/022/0004163077?sid=104",
-        "description": "도널드 트럼프 미국 대통령은 정부 규제가 아닌 AI 업계 ‘자율규제’에 맡기기로 했다. 트럼프 대통령은 29일(현지시간) 백악관에서 미국의 주요 AI 기업 최고경영자(CEO)들과 오찬을 함께한 뒤 자신과 AI 기업... ",
-        "pubDate": "Wed, 30 Sep 2026 19:32:00 +0900",
-        "formatted_date": "09월 30일, 19시 32분",
-        "ai_summary": "트럼프 대통령이 AI 산업 발전을 위해 정부 주도의 강력한 규제 대신 업계 자율 규제를 원칙으로 삼겠다고 밝혔다."
+        "title": "트럼프, '알래스카 LNG 개발사업에 한국 투자' 일방 발표",
+        "originallink": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145105",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145105",
+        "description": "도널드 트럼프 미 대통령. 사진=연합뉴스.  도널드 트럼프 미국 대통령은 30일(현지시간) 한국이 알래스카 액화천연가스(LNG) 개발 사업에 투자한다고 일방 발표했다. 이와 함께 한국의 대미투자 프로젝트에 대형... ",
+        "pubDate": "Thu, 01 Oct 2026 07:48:00 +0900",
+        "formatted_date": "10월 01일, 07시 48분",
+        "ai_summary": "트럼프 대통령이 한국의 알래스카 LNG 개발 사업 투자를 일방적으로 발표했습니다. 대규모 대미 투자 프로젝트를 공식화하며 경제적 영향력을 과시했습니다."
       },
       {
-        "title": "미 국토안보부, '트럼프 찬양' 광고에 2천만 달러 투입",
-        "originallink": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539123",
-        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539123",
-        "description": "미국 국토안보부가 중간선거를 앞두고 트럼프 대통령 선거운동 형식의 광고에 2천만 달러, 우리 돈 271억... 이에 상원 세출위원회 민주당 간사 등은 국토안보부 장관에게 보낸 서한에서 &quot;트럼프 대통령을 칭송하는 광고를... ",
-        "pubDate": "Wed, 30 Sep 2026 19:28:00 +0900",
-        "formatted_date": "09월 30일, 19시 28분",
-        "ai_summary": "미 국토안보부가 중간선거를 앞두고 트럼프 대통령을 찬양하는 광고에 막대한 예산을 투입해 정치적 중립성 논란이 일고 있다."
+        "title": "“왜 민주당원 불러 내 욕해?”…트럼프 언론전, ‘우군’ 폭스뉴스로 ...",
+        "originallink": "https://www.dt.co.kr/article/12086840?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/029/0003050870?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 자신에게 비판적인 언론들과 갈등을 빚어온 데 이어 이번에는 보수 성향 매체인 폭스뉴스를 향해서도 공개적으로 불만을 터뜨렸다. 트럼프 대통령은 30일(현지시간) 자신의 소셜미디어... ",
+        "pubDate": "Thu, 01 Oct 2026 07:48:00 +0900",
+        "formatted_date": "10월 01일, 07시 48분",
+        "ai_summary": "트럼프 대통령이 자신에게 비판적인 언론에 이어 우군이었던 폭스뉴스에도 불만을 표출했습니다. 소셜미디어를 통해 보수 매체의 보도 태도를 공개적으로 비판했습니다."
       },
       {
-        "title": "한국 '알래스카 투자' 미정인데…트럼프, 일방 발표하나",
-        "originallink": "https://news.jtbc.co.kr/article/NB12320735?influxDiv=NAVER",
-        "link": "https://n.news.naver.com/mnews/article/437/0000513487?sid=104",
-        "description": "트럼프 미국 대통령이 이르면 내일, 한국의 대미투자 프로젝트 내용을 직접 발표할 것이라는 외신 보도가... 중간선거를 앞둔 트럼프 대통령이 합의도 안 된 투자 내용까지 일방적으로 발표하는 것이 아니냐는 우려가... ",
-        "pubDate": "Wed, 30 Sep 2026 19:23:00 +0900",
-        "formatted_date": "09월 30일, 19시 23분",
-        "ai_summary": "트럼프 대통령이 한국의 대미 투자 프로젝트를 일방적으로 발표할 가능성이 제기되면서, 합의되지 않은 투자 계획에 대한 우려가 커지고 있다."
+        "title": "트럼프, 韓 합의 없이 대미투자 발표...알래스카 LNG까지 포함",
+        "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1726306",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726306",
+        "description": "도널드 트럼프 미국 대통령이 한국의 2000억달러(약 271조6000억원) 규모 대미투자 사업을 발표했다. 한국 정부가 아직 검토 중인 알래스카 액화천연가스(LNG) 사업까지 포함되면서 양국 간 온도차가 드러났다. 트럼프... ",
+        "pubDate": "Thu, 01 Oct 2026 07:46:00 +0900",
+        "formatted_date": "10월 01일, 07시 46분",
+        "ai_summary": "트럼프 대통령이 한국 정부와 충분한 합의 없이 2천억 달러 규모의 대미 투자 계획을 발표했습니다. 특히 미확정된 알래스카 LNG 사업이 포함되어 양국 간 온도차가 확인됐습니다."
       },
       {
-        "title": "트럼프, '우월한 지능'으로 AI 명칭 변경?...예측시장서 70% 베팅 폭주",
-        "originallink": "http://coinreaders.com/260928",
-        "link": "http://coinreaders.com/260928",
-        "description": "트럼프 미국 대통령이 인공지능(AI)의 공식 명칭 변경을 추진하면서 예측 시장의 베팅 열기가 뜨겁게 달아오르고 있다. 현재의 '인공지능'이라는 명칭이 기술의 본질과 가치를 제대로 담아내지 못한다는 트럼프... ",
-        "pubDate": "Wed, 30 Sep 2026 19:22:00 +0900",
-        "formatted_date": "09월 30일, 19시 22분",
-        "ai_summary": "트럼프 대통령이 AI 명칭 변경을 추진하며 예측 시장에서 큰 관심을 끌고 있다. 현재의 명칭이 기술의 본질을 담지 못한다는 판단에 따른 행보로 보인다."
+        "title": "트럼프 &quot;한국, 알래스카에 540억달러 투자&quot; 일방 발표…정부와 온도차",
+        "originallink": "https://www.kado.net/news/articleView.html?idxno=2075861",
+        "link": "https://n.news.naver.com/mnews/article/654/0000203368?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 한국의 대미 투자 사업에 알래스카 액화천연가스(LNG) 개발과 대형... 트럼프 대통령은 30일(현지시간) 하워드 러트닉 상무장관, 더그 버검 내무장관, 크리스 라이트 에너지장관, 댄 설리번... ",
+        "pubDate": "Thu, 01 Oct 2026 07:46:00 +0900",
+        "formatted_date": "10월 01일, 07시 46분",
+        "ai_summary": "트럼프 대통령이 한국의 알래스카 LNG 투자 계획을 일방 발표했으나 정부 입장과는 차이가 있습니다. 주요 장관들과 함께 대미 투자 내용을 공식화하며 주목받고 있습니다."
       },
       {
-        "title": "트럼프 “김정은, 내 친구…상당한 핵 능력”",
-        "originallink": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000552979",
-        "link": "https://n.news.naver.com/mnews/article/449/0000362563?sid=104",
-        "description": "이와중에 트럼프 대통령은 북한 김정은 위원장을 &quot;내 친구&quot;라고 칭했습니다. 북한이 상당한 핵 능력을 갖고있다고도 재차 밝혔는데요. 뉴욕에서 백승우 특파원입니다. [기자] 백악관에서 취재진과 만난 트럼프 미국 대통령.... ",
-        "pubDate": "Wed, 30 Sep 2026 19:20:00 +0900",
-        "formatted_date": "09월 30일, 19시 20분",
-        "ai_summary": "(원문) 이와중에 트럼프 대통령은 북한 김정은 위원장을 &quot;내 친구&quot;라고 칭했습니다. 북한이 상당한 핵 능력을 갖고있다고도 재차 밝혔는데..."
+        "title": "[뉴스초점] 트럼프, 韓 대미투자 발표…알래스카 LNG 포함",
+        "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20261001074406Zp4",
+        "link": "https://n.news.naver.com/mnews/article/422/0000911416?sid=104",
+        "description": "트럼프 대통령이 오늘 새벽 한국의 대미투자 계획을 공식 발표했습니다. 사업성이 충분히 검증되지 않아... &lt;질문 1&gt; 트럼프 대통령이 백악관 집무실에서 직접 사업 내용을 발표했는데요, 우리 정부가 '투자 1호'로 공개한... ",
+        "pubDate": "Thu, 01 Oct 2026 07:45:00 +0900",
+        "formatted_date": "10월 01일, 07시 45분",
+        "ai_summary": "트럼프 대통령이 한국의 대미 투자 계획을 직접 발표했으나, 포함된 알래스카 LNG 사업은 아직 사업성 검증이 필요합니다. 정부가 신중한 가운데 일방적인 발표가 이루어졌습니다."
       },
       {
-        "title": "트럼프 “김정은, 상당한 핵 능력 보유”…북·미 대화 또 구애",
-        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674768&ref=A",
-        "link": "https://n.news.naver.com/mnews/article/056/0012265667?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 공개 석상에서 북한에 유화 메시지를 또 보냈습니다. 이란에 대해선 핵무기를... [리포트] 현지 시각 29일 오전 트럼프 대통령은 이란 핵 문제에 대해 거듭 강경한 입장을 밝혔습니다. [도널드... ",
-        "pubDate": "Wed, 30 Sep 2026 19:20:00 +0900",
-        "formatted_date": "09월 30일, 19시 20분",
-        "ai_summary": "(원문) 도널드 트럼프 미국 대통령이 공개 석상에서 북한에 유화 메시지를 또 보냈습니다. 이란에 대해선 핵무기를... [리포트] 현지 시각 29일 오전 ..."
+        "title": "트럼프 &quot;한국, 알래스카 LNG 개발사업에 투자&quot;",
+        "originallink": "https://www.news1.kr/photos/8135695",
+        "link": "https://n.news.naver.com/mnews/article/421/0009202165?sid=104",
+        "description": "도널드 트럼프 대통령이 30일(현지시간) 워싱턴 D.C. 백악관 오벌 오피스(집무실)에서 한국의 대미투자 관련 발언을 하고 있다. 2026.09.30 ⓒ AFP=뉴스1",
+        "pubDate": "Thu, 01 Oct 2026 07:44:00 +0900",
+        "formatted_date": "10월 01일, 07시 44분",
+        "ai_summary": "트럼프 대통령이 백악관에서 한국의 대미 투자 관련 내용을 직접 발표했습니다. 한국이 알래스카 LNG 개발 사업에 참여한다는 점을 공식적으로 언급했습니다."
       },
       {
-        "title": "이 와중에 트럼프 &quot;내가 있는 동안 김정은 괜찮아…핵능력 상당&quot;",
-        "originallink": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5222332",
-        "link": "https://n.news.naver.com/mnews/article/057/0001971418?sid=104",
-        "description": "그런데 이 와중에 트럼프 대통령은 김정은 위원장을 &quot;친구&quot;라고 추켜세웠습니다. 북한이 상당한 핵 능력을... 【 기자 】 백악관에서 AI 업계 리더들과 회담을 마치고 나온 트럼프 대통령. 이란의 핵무기 보유는... ",
-        "pubDate": "Wed, 30 Sep 2026 19:17:00 +0900",
-        "formatted_date": "09월 30일, 19시 17분",
-        "ai_summary": "(원문) 그런데 이 와중에 트럼프 대통령은 김정은 위원장을 &quot;친구&quot;라고 추켜세웠습니다. 북한이 상당한 핵 능력을... 【 기자 】 백악..."
+        "title": "트럼프, '알래스카 LNG와 대형 원전 8기에 한국 투자' 일방적 발표",
+        "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=122641",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=122641",
+        "description": "30일(현지시간) 백악관 집무실에서 한국의 대미 투자와 관련해 발표하는 도널드 트럼프 대통령. (사진=EPA, 연합뉴스) 도널드 트럼프 미국 대통령이 한국의 대미 투자 대상과 관련해 대형 원자력발전소 8기와 알래스카... ",
+        "pubDate": "Thu, 01 Oct 2026 07:44:00 +0900",
+        "formatted_date": "10월 01일, 07시 44분",
+        "ai_summary": "트럼프 미국 대통령이 한국의 대미 투자 대상으로 알래스카 LNG 개발과 대형 원전 8기 건설을 일방적으로 발표했습니다."
       },
       {
-        "title": "트럼프, 곧 한국 대미투자 발표… 540억 달러 알래스카 LNG 포함",
-        "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000018735&cp=nv",
-        "link": "https://n.news.naver.com/mnews/article/005/0001875994?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 30일(현지시간) 백악관에서 알래스카 액화천연가스(LNG) 개발 사업 투자를... 로이터통신도 트럼프가 이르면 30일 한국의 대미 투자 프로젝트를 발표할 수 있다고 보도했다. 로이터통신은... ",
-        "pubDate": "Wed, 30 Sep 2026 19:11:00 +0900",
-        "formatted_date": "09월 30일, 19시 11분",
-        "ai_summary": "(원문) 도널드 트럼프 미국 대통령이 30일(현지시간) 백악관에서 알래스카 액화천연가스(LNG) 개발 사업 투자를... 로이터통신도 트럼프가 이르면 30..."
+        "title": "트럼프, '한국, 알래스카 LNG 개발사업에 투자' 일방 발표",
+        "originallink": "https://www.news1.kr/photos/8135694",
+        "link": "https://n.news.naver.com/mnews/article/421/0009202164?sid=104",
+        "description": "도널드 트럼프 대통령이 30일(현지시간) 워싱턴 D.C. 백악관 오벌 오피스(집무실)에서 한국의 대미투자 관련 발언을 하고 있다. 2026.09.30 ⓒ 로이터=뉴스1",
+        "pubDate": "Thu, 01 Oct 2026 07:43:00 +0900",
+        "formatted_date": "10월 01일, 07시 43분",
+        "ai_summary": "트럼프 대통령이 백악관에서 한국의 알래스카 LNG 개발사업 투자 참여 계획을 공식적으로 언급했습니다."
       }
     ],
     "유가": [
       {
-        "title": "국회 산자위, '유가 담합' 국내 정유 4사 대표 국감 증인 채택 조율",
-        "originallink": "https://www.tfmedia.co.kr/news/article.html?no=207607",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=207607",
-        "description": "국회가 유가 담합 의혹과 관련해 GS칼텍스·에쓰오일·HD현대오일뱅크·SK에너지 등 국내 정유 4사 대표를 국정감사 증인으로 채택하는 방안을 추진한다. 앞서 지난 7월초 서울중앙지검은 미국-이란 전쟁 직후 유가를... ",
-        "pubDate": "Wed, 30 Sep 2026 18:36:00 +0900",
-        "formatted_date": "09월 30일, 18시 36분",
-        "ai_summary": "(원문) 국회가 유가 담합 의혹과 관련해 GS칼텍스·에쓰오일·HD현대오일뱅크·SK에너지 등 국내 정유 4사 대표를 국정감사 증인으로 채택하는 방안을 추진..."
+        "title": "국제유가, 미국과 이란간 평화협상 교착 등 영향 상승-WTI 1%대 올라 배럴...",
+        "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=445083",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=445083",
+        "description": "국제유가는 30일(현지시간) 상승했다. 사진은 미국 캘리포니아주 베이커스필드의 컨 리버 유전지대 모습=뉴시스 자료사진 국제유가는 30일(현지시간) 미국과 이란 간 평화협상 교착과 미국내 석유제품 재고 감소 등... ",
+        "pubDate": "Thu, 01 Oct 2026 07:50:00 +0900",
+        "formatted_date": "10월 01일, 07시 50분",
+        "ai_summary": "미국과 이란의 평화협상 교착 상태와 미국 내 석유 재고 감소로 인해 국제유가가 상승세를 보였습니다."
       },
       {
-        "title": "유가 꺾이고 인상 전망 약해져도…美장기금리 ‘高高’",
-        "originallink": "https://www.edaily.co.kr/News/Read?newsId=05113526645585368&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-        "link": "https://n.news.naver.com/mnews/article/018/0006377923?sid=101",
-        "description": "국제유가가 하락세로 돌아서고 미국 연방준비제도(Fed·연준)의 추가 금리 인상 전망도 약해졌지만 미 장기... 국제유가 역시 전날의 급등세를 뒤로하고 하락 전환했다. 연준의 긴축 경계감이 한풀 꺾인 셈이다. 그러나... ",
-        "pubDate": "Wed, 30 Sep 2026 18:09:00 +0900",
-        "formatted_date": "09월 30일, 18시 09분",
-        "ai_summary": "(원문) 국제유가가 하락세로 돌아서고 미국 연방준비제도(Fed·연준)의 추가 금리 인상 전망도 약해졌지만 미 장기... 국제유가 역시 전날의 급등세를 뒤..."
+        "title": "&quot;포스코인터내셔널, 유가 상승에 최대 실적 신기록 행진 기대&quot;-하나",
+        "originallink": "https://www.hankyung.com/article/2026100162406",
+        "link": "https://n.news.naver.com/mnews/article/015/0005337931?sid=101",
+        "description": "하나증권은 1일 포스코인터내셔널에 대해 국제유가 상승으로 에너지 부문이 호조를 보여 분기 기준 최대... 유재선 하나증권 연구원은 “국제유가 상승이 에너지 부문 실적에 긍정적으로 작용해 환율 등 대외 변수... ",
+        "pubDate": "Thu, 01 Oct 2026 07:48:00 +0900",
+        "formatted_date": "10월 01일, 07시 48분",
+        "ai_summary": "하나증권은 국제유가 상승세가 지속됨에 따라 포스코인터내셔널의 에너지 부문 실적이 사상 최대치를 기록할 것으로 전망했습니다."
       },
       {
-        "title": "유가증권시장 제약지수 1만 5000선 반납",
-        "originallink": "http://www.newsmp.com/news/articleView.html?idxno=258412",
-        "link": "http://www.newsmp.com/news/articleView.html?idxno=258412",
-        "description": "유가증권시장 제약지수가 3거래일 만에 다시 1만 5000선에서 물러섰다. 한국거래소에 따르면, 30일 유가증권시장 제약지수는 1만 4998.94로 전일대비 8.96p(-0.06%) 하락했다. 반면, 코스닥시장 제약지수는 8356.... ",
-        "pubDate": "Wed, 30 Sep 2026 18:04:00 +0900",
-        "formatted_date": "09월 30일, 18시 04분",
-        "ai_summary": "(원문) 유가증권시장 제약지수가 3거래일 만에 다시 1만 5000선에서 물러섰다. 한국거래소에 따르면, 30일 유가증권시장 제약지수는 1만 4998.94..."
+        "title": "[금/유가] 美·이란 협상 교착에 유가 상승…금값 하락",
+        "originallink": "https://www.newspim.com/news/view/20261001000032",
+        "link": "https://www.newspim.com/news/view/20261001000032",
+        "description": "권지언 특파원 = 국제유가가 미국과 이란의 평화 협상 교착과 미국 내 연료 재고 감소에 따른 공급 부족... 다시 유가를 밀어 올렸다. 카타르는 이란과 미국 간 셔틀 외교가 돌파구를 마련할 수 있기를 기대한다고... ",
+        "pubDate": "Thu, 01 Oct 2026 07:37:00 +0900",
+        "formatted_date": "10월 01일, 07시 37분",
+        "ai_summary": "미·이란 협상 난항과 공급 불안이 겹치며 국제유가는 상승했고, 반면 안전자산인 금값은 하락했습니다."
       },
       {
-        "title": "고금리·고유가에도 '증시 강세론'으로 돌아선 월가",
-        "originallink": "https://www.hankyung.com/article/2026093056331",
-        "link": "https://n.news.naver.com/mnews/article/015/0005337774?sid=101",
-        "description": "고유가·고금리 충격에 몸을 사리던 월가가 다시 ‘증시 강세론’으로 돌아서고 있다. 증시를 짓누르고 있는 금리가 머지않아 고점을 찍고 하향 안정될 것이라 전망에서다. 골드만삭스는 유가와 인플레이션이... ",
-        "pubDate": "Wed, 30 Sep 2026 18:03:00 +0900",
-        "formatted_date": "09월 30일, 18시 03분",
-        "ai_summary": "(원문) 고유가·고금리 충격에 몸을 사리던 월가가 다시 ‘증시 강세론’으로 돌아서고 있다. 증시를 짓누르고 있는 금리가 머지않아 고점을 찍고 하향 안정될..."
+        "title": "뉴욕증시, 국채금리 부담에 혼조세 나스닥 0.24%↑...국제유가 WTI 1.16%↑",
+        "originallink": "https://www.public25.com/news/articleView.html?idxno=55674",
+        "link": "https://www.public25.com/news/articleView.html?idxno=55674",
+        "description": "한편 국제유가는 미국과 이란 간 협상이 교착 상태를 보임에 따라 상승했다. 이날 뉴욕상업거래소에서 11월 인도분 서부텍사스산원유(WTI)는 전장보다 1.04달러(1.16%) 오른 배럴당 90.42달러에 마감했다.... ",
+        "pubDate": "Thu, 01 Oct 2026 07:32:00 +0900",
+        "formatted_date": "10월 01일, 07시 32분",
+        "ai_summary": "뉴욕증시는 국채 금리 부담으로 혼조세를 보였으나, 국제유가는 중동 리스크 여파로 1% 이상 상승했습니다."
       },
       {
-        "title": "유가 100달러 안팎에 물가 비상…주요국 중앙은행 추가 금리인상 촉각",
-        "originallink": "https://www.kukinews.com/article/view/kuk202609300209",
-        "link": "https://www.kukinews.com/article/view/kuk202609300209",
-        "description": "쿠키뉴스=정혜선 기자 | 중동발 원유 공급 차질로 국제유가가 배럴당 100달러 안팎에서 움직이면서 주요국... 고유가로 인한 물가 상승 우려가 커지면서 미 국채 금리도 오름세다. 같은 날 미 30년물 국채 금리는 장중 5.... ",
-        "pubDate": "Wed, 30 Sep 2026 17:10:00 +0900",
-        "formatted_date": "09월 30일, 17시 10분",
-        "ai_summary": "(원문) 쿠키뉴스=정혜선 기자 | 중동발 원유 공급 차질로 국제유가가 배럴당 100달러 안팎에서 움직이면서 주요국... 고유가로 인한 물가 상승 우려가 ..."
+        "title": "트럼프 &quot;경유 수출금지, 휘발윳값 올릴수도…호르무즈 열려 유가하락 시...",
+        "originallink": "https://www.newsis.com/view/NISX20261001_0003809764",
+        "link": "https://n.news.naver.com/mnews/article/003/0014225433?sid=104",
+        "description": "한편 트럼프 대통령은 호르무즈 해협 통항 회복세를 언급하며 국제 유가가 계속 내려갈 것으로 기대했다. 그는 &quot;나는 우리가 좋은 상황에 있다고 생각한다. 유가가 내려가기 시작할 것이기 때문&quot;이라며 &quot;호르무즈 해협에서... ",
+        "pubDate": "Thu, 01 Oct 2026 07:29:00 +0900",
+        "formatted_date": "10월 01일, 07시 29분",
+        "ai_summary": "트럼프 대통령은 호르무즈 해협 상황이 개선됨에 따라 향후 국제유가가 하향 안정세를 보일 것으로 기대했습니다."
       },
       {
-        "title": "사람 줄고 환율·유가 뛰어도 '좌석 유지'..항공업계 &quot;시장 변화 고려해...",
-        "originallink": "https://www.mt.co.kr/industry/2026/09/30/2026093016195847098",
-        "link": "https://n.news.naver.com/mnews/article/008/0005420529?sid=101",
-        "description": "앞서 대한항공은 중동 전쟁에 따른 유가·환율 급등, 항공 여객 수요 위축을 고려해 시정명령 대상 전체 노선에 대한 공급 좌석 유지 의무의 면제 또는 완화를 요청했다. 하지만 공정위는 &quot;시정명령을 변경해야 할... ",
-        "pubDate": "Wed, 30 Sep 2026 17:10:00 +0900",
-        "formatted_date": "09월 30일, 17시 10분",
-        "ai_summary": "(원문) 앞서 대한항공은 중동 전쟁에 따른 유가·환율 급등, 항공 여객 수요 위축을 고려해 시정명령 대상 전체 노선에 대한 공급 좌석 유지 의무의 면제 ..."
+        "title": "국제유가, 미·이란 협상 교착에 오름세…브렌트유 0.9%↑",
+        "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=882289",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=882289",
+        "description": "국제유가가 30일(현지시간) 오름세로 거래를 마쳤다. 개전(2월 28일) 7개월이 지났지만 미국과 이란 간... 미국과 이란 간 협상 진전이 지연되고 있다는 점이 유가 상승 압력으로 작용했다. 도널드 트럼프 미국... ",
+        "pubDate": "Thu, 01 Oct 2026 07:00:00 +0900",
+        "formatted_date": "10월 01일, 07시 00분",
+        "ai_summary": "미국과 이란 간의 협상 지연으로 중동 지역 공급 불안이 커지면서 브렌트유를 비롯한 국제유가가 상승했습니다."
+      },
+      {
+        "title": "뉴욕증시, 물가 안도에도 유가·금리 부담에 혼조⋯나스닥 0.24%↑[종합]",
+        "originallink": "https://www.etoday.co.kr/news/view/2631169",
+        "link": "https://www.etoday.co.kr/news/view/2631169",
+        "description": "국제유가와 미국 국채금리 상승에 경기민감주를 중심으로 매물이 나왔다. 다만 물가 지표가 시장... 국제유가는 반등했다. 미국과 이란의 전투 종식을 위한 협상이 진전을 보이지 않으면서 중동발 공급 불안이... ",
+        "pubDate": "Thu, 01 Oct 2026 06:42:00 +0900",
+        "formatted_date": "10월 01일, 06시 42분",
+        "ai_summary": "뉴욕증시는 물가 지표 안도감에도 유가 상승과 금리 부담이 겹치며 혼조세를 기록했습니다."
+      },
+      {
+        "title": "국제유가, 미·이란 협상 교착에 반등⋯WTI 90달러대 마감[상보]",
+        "originallink": "https://www.etoday.co.kr/news/view/2631167",
+        "link": "https://www.etoday.co.kr/news/view/2631167",
+        "description": "이투데이=변효선 기자 | WTI 1.2%↑…호르무즈 인근 유조선 피격도 불안 키워 국제유가가 30일(현지시간)... 소식은 유가 상승 폭을 제한했다. 미국 에너지정보청(EIA)이 발표한 주간 석유 재고 통계에서는 휘발유와... ",
+        "pubDate": "Thu, 01 Oct 2026 06:34:00 +0900",
+        "formatted_date": "10월 01일, 06시 34분",
+        "ai_summary": "미·이란 협상 교착과 호르무즈 해협 불안으로 국제유가가 반등하며 WTI가 배럴당 90달러대에 마감했습니다."
+      },
+      {
+        "title": "미·이란 협상 교착에 국제유가 상승…WTI 90달러 돌파",
+        "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491616",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491616",
+        "description": "국제유가가 미국과 이란의 협상 교착과 미국 내 석유제품 재고 감소 영향으로 상승했다. 중동을 둘러싼... 양국의 협상이 예상보다 길어질 경우 이란산 원유 공급을 둘러싼 불확실성이 이어질 수 있다는 판단이 유가에... ",
+        "pubDate": "Thu, 01 Oct 2026 06:30:00 +0900",
+        "formatted_date": "10월 01일, 06시 30분",
+        "ai_summary": "미국과 이란의 협상 장기화와 석유 재고 감소 여파로 국제유가가 상승했다. 이란산 원유 공급 불확실성이 지속하며 시장에 영향을 주고 있다."
+      },
+      {
+        "title": "뉴욕증시, 유가·금리 부담에 혼조⋯기술주는 물가 안도에 반등[상보]",
+        "originallink": "https://www.etoday.co.kr/news/view/2631165",
+        "link": "https://www.etoday.co.kr/news/view/2631165",
+        "description": "국제유가와 미국 국채금리 상승에 경기민감주를 중심으로 매물이 나왔다. 다만 물가 지표가 시장 예상치를 밑돌면서 대형 기술주에는 매수세가 유입됐다. 이날 블룸버그통신에 따르면 뉴욕증권거래소(NYSE)에서... ",
+        "pubDate": "Thu, 01 Oct 2026 06:26:00 +0900",
+        "formatted_date": "10월 01일, 06시 26분",
+        "ai_summary": "유가 및 국채금리 상승으로 경기민감주가 하락했으나, 물가 지표가 예상치를 밑돌며 대형 기술주는 반등했다. 뉴욕증시는 업종별로 엇갈린 흐름을 보였다."
       }
     ],
     "코스피": [
       {
-        "title": "사이드카도 멈춘 9월 코스피…7000선 회복 뒤 다시 6800선대",
-        "originallink": "https://www.womentimes.co.kr/news/articleView.html?idxno=106641",
-        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106641",
-        "description": "우먼타임스 = 성민 기자 9월 코스피는 사이드카와 서킷브레이커가 한 차례도... 코스피 9월 추이 매수 사이드카 매도 사이드카 서킷브레이커 ※ 이번 달 발동 없음(function... ",
-        "pubDate": "Wed, 30 Sep 2026 19:44:00 +0900",
-        "formatted_date": "09월 30일, 19시 44분",
-        "ai_summary": "9월 코스피는 장중 등락을 거듭하며 7000선 회복을 시도했으나 6800선대로 마감했습니다. 해당 기간 사이드카나 서킷브레이커는 발동되지 않았습니다."
+        "title": "[코스피·코스닥,현대건설 삼성중공업 한화생명 현대모비스 계룡건설산...",
+        "originallink": "https://www.public25.com/news/articleView.html?idxno=55675",
+        "link": "https://www.public25.com/news/articleView.html?idxno=55675",
+        "description": "퍼블릭타임스=[코스피·코스닥,현대건설 삼성중공업 한화생명 현대모비스 계룡건설산업 태영건설LS전선 현대로템 제일기획 삼영이엔씨등 30일 주요공시] ▲ 현대건설 : 마천5재정비촉진구역... ",
+        "pubDate": "Thu, 01 Oct 2026 07:46:00 +0900",
+        "formatted_date": "10월 01일, 07시 46분",
+        "ai_summary": "현대건설, 삼성중공업, 한화생명 등 주요 상장사들의 공시 내용이 발표되었다. 마천5구역 재개발 등 기업별 주요 사업 현황이 포함되었다."
       },
       {
-        "title": "코스피, 사흘 연속 하락…코스닥은 상승 마감",
-        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674714&ref=A",
-        "link": "https://n.news.naver.com/mnews/article/056/0012265634?sid=101",
-        "description": "코스피가 3거래일 연속 하락 마감했습니다. 오늘(30일) 코스피는 32.77포인트(0.48%) 내린 6,838.04를 기록했습니다. 지수는 1.06% 오른 6,943.47로 장을 시작했지만 오후 들어 하락세로 접어들었습니다. 외국인이... ",
-        "pubDate": "Wed, 30 Sep 2026 18:46:00 +0900",
-        "formatted_date": "09월 30일, 18시 46분",
-        "ai_summary": "코스피가 장중 상승세를 지키지 못하고 오후 들어 하락 전환하며 3거래일 연속 내림세를 보였습니다. 이날 외국인 투자자의 매도세가 이어진 가운데 지수는 6838.04로 마감했습니다."
+        "title": "[마켓 프리뷰] 美 장기국채 금리 부담에 코스피 사흘째 하락 마감",
+        "originallink": "https://biz.sbs.co.kr/article_hub/20000337685?division=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/374/0000535722?sid=101",
+        "description": "어제(30일) 9월 마지막 거래일에 코스피가 장중 등락 끝에 약보합으로 마감했습니다. 오전에만 해도 1%대... - 코스피, 전장대비 0.48% 하락…6838.04 마감 - 국채금리 급등 속 PCE·마이크론 실적 앞두고 경계감 - 전날... ",
+        "pubDate": "Thu, 01 Oct 2026 07:35:00 +0900",
+        "formatted_date": "10월 01일, 07시 35분",
+        "ai_summary": "미국 장기 국채금리 상승에 따른 부담감으로 코스피가 사흘 연속 하락 마감했다. 경제 지표 발표를 앞둔 투자자들의 경계 심리가 커졌다."
       },
       {
-        "title": "코스피, 사흘 연속 하락…미 국채금리 급등 부담",
-        "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20260930184608j55",
-        "link": "https://n.news.naver.com/mnews/article/422/0000911303?sid=101",
-        "description": "코스피가 등락을 거듭하다가 하락 전환해 6,800선에서 마감했습니다. 미국 국채금리가 급등한 것이 부담으로 작용했습니다. 김동욱 기자입니다. [기자] 오늘(30일) 코스피가 등락을 거듭한 끝에 소폭 하락... ",
-        "pubDate": "Wed, 30 Sep 2026 18:46:00 +0900",
-        "formatted_date": "09월 30일, 18시 46분",
-        "ai_summary": "미국 국채금리 급등에 따른 투자 심리 위축으로 코스피가 사흘 연속 하락했습니다. 등락을 반복하던 지수는 결국 6800선에서 장을 마쳤습니다."
+        "title": "코스피 지지부진에 개미 미국 ETF로...지수·배당·국채 골라 담았다",
+        "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704021",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704021",
+        "description": "코스피가 7000선 안팎에서 등락을 이어가는 가운데 개인투자자들이 국내 지수 상품을 팔고 미국지수 ETF를 사들이고 있다. 한국거래소에 따르면 9월1~30일 개인은 코스피에서 14조6275억원을 순매도했다.... ",
+        "pubDate": "Thu, 01 Oct 2026 07:30:00 +0900",
+        "formatted_date": "10월 01일, 07시 30분",
+        "ai_summary": "코스피의 지지부진한 흐름에 실망한 개인 투자자들이 국내 주식을 팔고 미국 지수 ETF를 대거 사들이고 있다. 지수와 배당, 국채 상품에 자금이 쏠리는 중이다."
       },
       {
-        "title": "코스피, 美 국채금리 급등 부담으로 0.48% 하락",
-        "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=122630",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=122630",
-        "description": "30일 코스피는 오전에는 한 때 1.38%까지 오르다 오후 들어 하락세로 전환, 0.48% 하락마감했다(사진=연합뉴스) 30일 코스피가 미국 국채금리 급등 부담과 미 물가지표 발표와 마이크론의 실적 발표를 앞두고 커진... ",
-        "pubDate": "Wed, 30 Sep 2026 18:18:00 +0900",
-        "formatted_date": "09월 30일, 18시 18분",
-        "ai_summary": "미국 국채금리 급등과 주요 경제지표 발표를 앞둔 경계감에 코스피가 0.48% 하락했습니다. 장 초반 1% 넘는 상승세를 보였으나 오후 들어 하락세로 돌아섰습니다."
+        "title": "“세계 1위였는데”…코스피, 대만에 추월당하고 한 달 수익률도 주춤[...",
+        "originallink": "https://www.sedaily.com/article/20096694?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/011/0004667116?sid=101",
+        "description": "1일 인베스팅닷컴의 주요 증시 지수 비교에 따르면 전일까지 코스피 올해 누적 상승률은 62.26%로 대만... 최근 한 달로 기간을 좁히면 코스피 상승률은 0.26%에 그쳐 비교 대상 중 12위로 밀렸다. 같은 기간 미국 나스닥... ",
+        "pubDate": "Thu, 01 Oct 2026 07:01:00 +0900",
+        "formatted_date": "10월 01일, 07시 01분",
+        "ai_summary": "코스피가 대만 증시에 수익률 추월을 허용하며 부진한 흐름을 이어가고 있다. 한 달 수익률 또한 주요국 증시 중 하위권으로 밀려났다."
       },
       {
-        "title": "'전강후약' 코스피 사흘째 내리막…외국인 나흘째 '팔자'",
-        "originallink": "https://biz.sbs.co.kr/article_hub/20000337627?division=NAVER",
-        "link": "https://n.news.naver.com/mnews/article/374/0000535662?sid=101",
-        "description": "미국 국채금리 상승 부담에 코스피가 사흘째 힘없이 밀렸습니다. 장 초반 7000선을 넘봤다가 오후 들어... 신다미 기자, 오늘(30일)도 코스피 분위기가 별로 좋지 않았어요? [기자] 코스피는 어제(29일)보다 0.48% 내린 6838.... ",
-        "pubDate": "Wed, 30 Sep 2026 18:10:00 +0900",
-        "formatted_date": "09월 30일, 18시 10분",
-        "ai_summary": "미국 국채금리 상승 부담으로 코스피가 사흘째 약세를 보였습니다. 외국인의 4거래일 연속 순매도세가 이어지며 장중 7000선을 넘지 못하고 6838.04로 마감했습니다."
+        "title": "美 물가 둔화에도 국채금리 급등…코스피, 외국인 수급에 촉각",
+        "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1726300",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726300",
+        "description": "코스피가 1일 미국의 물가 둔화와 경기 호조가 엇갈린 뉴욕증시 흐름 속에서 방향성 탐색에 나설 전망이다.... 이는 코스피에는 긍정적인 재료다. 물가 압력이 예상보다 빠르게 확대되지 않는다면 미국의 통화긴축... ",
+        "pubDate": "Thu, 01 Oct 2026 06:44:00 +0900",
+        "formatted_date": "10월 01일, 06시 44분",
+        "ai_summary": "미국의 물가 둔화 신호와 경기 호조가 교차하며 코스피가 방향성을 탐색 중이다. 미국의 통화 긴축 완화 기대감이 코스피에 긍정적인 재료로 작용할지 주목된다."
       },
       {
-        "title": "[오늘의 주목주] 삼성전자우 주가 4%대 내려, 코스피 외국인·기관 매도...",
-        "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=448352",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448352",
-        "description": "오늘 코스피와 코스닥 시가총액 상위 30개 종목 가운데 주가가 가장 크게 움직인 종목은 무엇일까요?... 30일 오후 3시30분 정규거래 마감 기준 코스피 시가총액 상위 30개 종목 가운데 삼성전자우 주가가 가장 크게... ",
-        "pubDate": "Wed, 30 Sep 2026 18:08:00 +0900",
-        "formatted_date": "09월 30일, 18시 08분",
-        "ai_summary": "코스피 시가총액 상위 종목 중 삼성전자우가 4%대 하락하며 두드러진 약세를 보였습니다. 외국인과 기관의 매도세가 지수 하락을 주도했습니다."
+        "title": "3분기 거래대금 무너지며 코스피 6800선 마감…4분기는? [분석+]",
+        "originallink": "https://www.hankyung.com/article/2026093053446",
+        "link": "https://n.news.naver.com/mnews/article/015/0005337915?sid=101",
+        "description": "3분기 코스피가 롤러코스터 장세를 거친 끝에 6800선에서 장을 마감했다. 7월 초 8300선을 웃돌던 지수는... 1일 한국거래소에 따르면 전날 코스피는 32.77포인트(0.48%) 내린 6838.04에 마감했다. 3분기 첫 거래일인 지난... ",
+        "pubDate": "Thu, 01 Oct 2026 06:31:00 +0900",
+        "formatted_date": "10월 01일, 06시 31분",
+        "ai_summary": "3분기 코스피는 변동성 장세를 겪으며 6800선에서 마무리되었다. 거래대금이 급감하는 등 3분기 내내 투자 심리가 위축된 모습을 보였다."
       },
       {
-        "title": "외국인 '팔자' 행렬에 코스피 3거래일째 하락",
-        "originallink": "https://www.hankyung.com/article/2026093055131",
-        "link": "https://n.news.naver.com/mnews/article/015/0005337763?sid=101",
-        "description": "코스피지수가 3거래일 연속 하락하면서 ‘7천피’ 회복에 실패했다. 미국의 물가지수와... 30일 코스피지수는 0.48% 하락한 6838.04에 거래를 마쳤다. 이날 코스피지수는 1.06% 상승한 6943.47로 개장했다. 오전 한때 6965.... ",
-        "pubDate": "Wed, 30 Sep 2026 17:56:00 +0900",
-        "formatted_date": "09월 30일, 17시 56분",
-        "ai_summary": "미국 물가지수 발표 등 대외 변수 영향으로 외국인 매도세가 지속되며 코스피가 3거래일 연속 하락했습니다. 지수는 6838.04를 기록하며 7000선 회복에 실패했습니다."
+        "title": "7000선 막힌 코스피…4분기 ‘실적의 힘’으로 고금리 넘을까",
+        "originallink": "https://www.kbmaeil.com/article/20261001500030",
+        "link": "https://www.kbmaeil.com/article/20261001500030",
+        "description": "7000선 안착에 어려움을 겪는 코스피가 기업 실적 개선과 고금리 부담이 맞서는 가운데 4분기를 시작한다.... 1일 한국거래소와 연합인포맥스에 따르면 3분기 마지막 거래일인 지난달 30일 코스피는 전장보다 32.... ",
+        "pubDate": "Thu, 01 Oct 2026 06:26:00 +0900",
+        "formatted_date": "10월 01일, 06시 26분",
+        "ai_summary": "코스피가 7000선 돌파에 어려움을 겪는 가운데 4분기를 맞이했다. 고금리 부담을 기업들의 실적 개선이 상쇄할 수 있을지가 관건이다."
       },
       {
-        "title": "코스피, '미 금리 악재'에 0.4%↓…사흘 연속 하락",
-        "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109570",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109570",
-        "description": "코스피가 미국 국채금리 급등 부담 등에 3거래일 연속 하락했습니다. 코스피는 전장보다 32.77포인트 내린 6,838.04로 마감했습니다. 반면, 코스닥은 6.11포인트 오른 855.91로 장을 마쳤습니다. 서울... ",
-        "pubDate": "Wed, 30 Sep 2026 17:54:00 +0900",
-        "formatted_date": "09월 30일, 17시 54분",
-        "ai_summary": "미국 국채금리 급등 악재로 코스피가 0.48% 하락하며 3거래일 연속 약세를 기록했습니다. 반면 코스닥 지수는 상승세를 보이며 대조적인 모습을 보였습니다."
+        "title": "코스피 약세…삼성전자·삼성전자우 하락, SK하이닉스·SK스퀘어는 올라",
+        "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=611225",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=611225",
+        "description": "코스피가 9월 마지막 거래일인 30일 하락 마감했다. 시가총액 상위 종목에서는 삼성전자와 삼성전자우, KB금융 등이 약세를 보인 반면 SK하이닉스와 SK스퀘어 등은 상승했다. 30일 코스피는 전... ",
+        "pubDate": "Thu, 01 Oct 2026 06:20:00 +0900",
+        "formatted_date": "10월 01일, 06시 20분",
+        "ai_summary": "코스피가 9월 마지막 거래일에 하락 마감했다. 삼성전자 등 시총 상위주가 약세를 보인 반면, SK하이닉스 등 일부 기술주는 상승하며 대조를 이뤘다."
       },
       {
-        "title": "‘저평가’ 코스피 못 믿는 개인·외인…한달새 36조 매도",
-        "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20260930010010877",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260930010010877",
-        "description": "속 코스피는 국고채보다 높은 가격 매력을 유지하고 있지만, 개인과 외국인은 이달 36조원 넘게 순매도하고 있다. 최근 국내 기업들의 이익 전망이 잇따라 하향 조정되면서 코스피의 낮은 밸류에이션과 실제 수급이... ",
-        "pubDate": "Wed, 30 Sep 2026 17:52:00 +0900",
-        "formatted_date": "09월 30일, 17시 52분",
-        "ai_summary": "코스피의 밸류에이션 매력에도 불구하고 기업 실적 전망 하향으로 개인과 외국인의 이탈이 가속화되었습니다. 최근 한 달간 이들은 36조 원 이상을 순매도했습니다."
+        "title": "“실적은 안 꺾였다”…리서치센터장, 코스피 반등 넘어 9000까지 눈높여...",
+        "originallink": "https://www.etoday.co.kr/news/view/2630907",
+        "link": "https://www.etoday.co.kr/news/view/2630907",
+        "description": "이투데이=김범근 기자 | 코스피, 하단 6500·상단 평균 8500…9000 재돌파는 ‘신중’ 6명 모두 반도체·AI 인프라 주도주로 꼽아…외국인 수급 개선 기대 코스피가 고점 대비 40% 가까이 급락한 채 4분기를 맞았다.... ",
+        "pubDate": "Thu, 01 Oct 2026 06:12:00 +0900",
+        "formatted_date": "10월 01일, 06시 12분",
+        "ai_summary": "코스피가 급락했으나 리서치센터장들은 실적은 견고하다고 평가하며 향후 8500선까지의 반등을 전망했습니다. 반도체와 AI 인프라 관련주가 시장 상승을 주도할 것으로 예상됩니다."
       },
       {
-        "title": "코스피, 0.48% 하락한 6838.04…장 초반 상승분 반납",
-        "originallink": "https://news.mtn.co.kr/news-detail/2026093016043111365",
-        "link": "https://news.mtn.co.kr/news-detail/2026093016043111365",
-        "description": "코스피가 장 초반 상승세를 이어가지 못하고 하락 마감했습니다.오늘(30일) 한국거래소에 따르면 코스피는 어제보다 0.48% 내린 6838.04를 기록했습니다.1% 넘게 상승 출발한 코스피는 외국인과 기관의 동반 매도세... ",
-        "pubDate": "Wed, 30 Sep 2026 17:44:00 +0900",
-        "formatted_date": "09월 30일, 17시 44분",
-        "ai_summary": "코스피가 1%대 상승으로 출발했으나 외국인과 기관의 동반 매도세에 밀려 0.48% 하락 마감했습니다. 장 초반의 상승분을 모두 반납하며 6838.04로 거래를 마쳤습니다."
+        "title": "'7,000선 공방전' 지루한 박스권…코스피, 4분기 전망은",
+        "originallink": "https://www.yna.co.kr/view/AKR20260930088400008?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016348687?sid=101",
+        "description": "&quot;실적성장이 높은 할인율 견뎌낼지 관건…이익 전망 견조&quot; 코스피 주요기업 3분기 영업익, 전분기 대비 20... 전날 코스피는 전장보다 32.77포인트(0.48%) 내린 6,838.04로 거래를 마감했다. 연중 고점(6월 22일·9,114.55)... ",
+        "pubDate": "Thu, 01 Oct 2026 05:00:00 +0900",
+        "formatted_date": "10월 01일, 05시 00분",
+        "ai_summary": "코스피가 7000선 근처에서 박스권 흐름을 보이는 가운데, 4분기 실적 성장이 높은 할인율을 견뎌낼 수 있을지가 관건입니다. 주요 기업의 견조한 이익 전망이 향후 주가 향방의 핵심 변수로 꼽힙니다."
       }
     ]
   },
-  "last_updated": "2026-09-30 20:01:04"
+  "last_updated": "2026-10-01 08:00:56"
 }
