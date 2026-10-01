@@ -1,143 +1,197 @@
 {
   "pane1": [
     {
-      "title": "[속보] 서울 아파트값 86주 연속 상승…文정부 기록 깼다",
-      "originallink": "https://www.mk.co.kr/article/12166068",
-      "link": "https://n.news.naver.com/mnews/article/024/0000108617?sid=102",
-      "description": "서울 아파트값 86주 연속 상승…文정부 기록 깼다",
-      "pubDate": "Thu, 01 Oct 2026 14:54:00 +0900",
-      "formatted_date": "10월 01일, 14시 54분",
-      "ai_summary": "서울 아파트값이 86주 연속 상승하며 문재인 정부 시절의 기록을 경신했습니다."
-    },
-    {
-      "title": "[속보] 청와대, 김지용 중수청장 인사청문요청안 금명간 국회 제출",
-      "originallink": "https://www.kgnews.co.kr/news/article.html?no=913766",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=913766",
-      "description": "청와대는 1일 김지용 중대범죄수사청장 후보자 논란과 관련해 &quot;현 단계에서 후보자의 국회 인사청문 소명 기회를 박탈할 정도는 아니라고 판단된다&quot;는 입장을 밝혔다. 성기홍 청와대 홍보소통수석은 이날 오후 춘추관에서... ",
-      "pubDate": "Thu, 01 Oct 2026 14:54:00 +0900",
-      "formatted_date": "10월 01일, 14시 54분",
-      "ai_summary": "청와대가 김지용 중대범죄수사청장 후보자 논란에 대해 인사청문회를 통한 소명 기회를 보장하겠다고 밝혔습니다."
-    },
-    {
-      "title": "[속보] 靑 “김지용 중수청장 후보 청문요청안, 금명간 국회 보낼 예정...",
-      "originallink": "https://www.seoul.co.kr/news/politics/2026/10/01/20261001500169?wlog_tag3=naver",
-      "link": "https://n.news.naver.com/mnews/article/081/0003685225?sid=100",
-      "description": "靑 “김지용 중수청장 후보 청문요청안, 금명간 국회 보낼 예정”",
-      "pubDate": "Thu, 01 Oct 2026 14:54:00 +0900",
-      "formatted_date": "10월 01일, 14시 54분",
-      "ai_summary": "청와대가 김지용 중대범죄수사청장 후보자에 대한 인사청문요청안을 조만간 국회에 제출할 예정입니다."
-    },
-    {
-      "title": "[속보] 靑 &quot;김지용 중수청장 후보자 인사청문 요청안 국회로 보낼 예정...",
-      "originallink": "http://www.inews24.com/view/2010990",
-      "link": "https://n.news.naver.com/mnews/article/031/0001062801?sid=100",
-      "description": "청와대가 1일 김지용 중대범죄수사청장 후보자와 관련해 &quot;일각에서 제기된 의혹 중에는 사실과 다르거나 막연한 추정 수준의 내용도 있었다&quot;며 &quot;현 단계에서 후보자의 국회 인사청문 소명 기회를 박탈할 정도는 아니라고... ",
-      "pubDate": "Thu, 01 Oct 2026 14:51:00 +0900",
-      "formatted_date": "10월 01일, 14시 51분",
-      "ai_summary": "청와대는 김지용 후보자를 둘러싼 의혹들이 사실과 다르거나 추정에 불과해 청문회 기회를 유지하기로 결정했습니다."
-    },
-    {
-      "title": "[속보] 청와대 &quot;조만간 김지용 청문요청안 보낼 것&quot;",
-      "originallink": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271876&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "link": "https://n.news.naver.com/mnews/article/047/0002530889?sid=100",
-      "description": "▲  중대범죄수사청장 후보로 지명된 김지용 변호사가 지난 9월 8일 오후 서울 종로구 정부서울청사 창성동 별관에 마련된 준비단 사무실로 출근하며 취재진의 질문에 답변하고 있다. ⓒ 유성호",
-      "pubDate": "Thu, 01 Oct 2026 14:51:00 +0900",
-      "formatted_date": "10월 01일, 14시 51분",
-      "ai_summary": "청와대가 김지용 중대범죄수사청장 후보자에 대한 인사청문요청안을 곧 국회로 보낼 계획임을 밝혔습니다."
-    },
-    {
-      "title": "[속보] 靑 &quot;김지용 중수청장 후보 인사청문요청안, 금명간 국회 보낼 예...",
-      "originallink": "https://www.polinews.co.kr/news/articleView.html?idxno=744596",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=744596",
+      "title": "[속보] 연간 3명 이상 산재 사망시 '영업익 5%' 과징금…산안법 국회 통...",
+      "originallink": "https://www.news1.kr/politics/assembly/6307613",
+      "link": "https://n.news.naver.com/mnews/article/421/0009204433?sid=100",
       "description": "",
-      "pubDate": "Thu, 01 Oct 2026 14:50:00 +0900",
-      "formatted_date": "10월 01일, 14시 50분",
-      "ai_summary": "청와대가 김지용 중대범죄수사청장 후보자의 인사청문요청안을 곧 국회에 송부할 예정입니다."
+      "pubDate": "Thu, 01 Oct 2026 15:56:00 +0900",
+      "formatted_date": "10월 01일, 15시 56분",
+      "ai_summary": "연간 3명 이상의 산업재해 사망자가 발생할 경우, 영업이익의 최대 5%까지 과징금을 부과하는 산업안전보건법 개정안이 국회 본회의를 통과했습니다."
     },
     {
-      "title": "[속보] 靑 &quot;김지용 인사청문요구안 곧 송부…소명기회 박탈할 정도 아냐...",
-      "originallink": "https://news.tf.co.kr/read/ptoday/2371972.htm",
-      "link": "https://n.news.naver.com/mnews/article/629/0000538616?sid=100",
-      "description": "청와대는 1일 김지용 중대범죄수사청장 후보자 논란과 관련해 &quot;일각에서 제기된 의혹 중에는 사실과 다르거나 막연한 추정 수준의 내용도 있었고, 현 단계에서 후보자의 국회 인사청문 소명 기회를 박탈할 정도는 아니라고... ",
-      "pubDate": "Thu, 01 Oct 2026 14:50:00 +0900",
-      "formatted_date": "10월 01일, 14시 50분",
-      "ai_summary": "청와대는 제기된 의혹이 소명 기회를 박탈할 수준은 아니라고 판단하여 김지용 후보자의 청문요청안을 곧 송부할 예정입니다."
+      "title": "[속보] '다수·반복 산재 시 영업이익 5% 과징금' 산안법, 與 주도 국회...",
+      "originallink": "https://www.fnnews.com/news/202610011425278289",
+      "link": "https://n.news.naver.com/mnews/article/014/0005583808?sid=100",
+      "description": "국회는 1일 다수·반복 산업재해를 발생시킨 사업주 등에게 영업이익의 최대 5%까지 과징금을 부과할 수 있도록 하는 산업안전보건법 개정안을 더불어민주당 주도로 의결했다.",
+      "pubDate": "Thu, 01 Oct 2026 15:56:00 +0900",
+      "formatted_date": "10월 01일, 15시 56분",
+      "ai_summary": "더불어민주당 주도로 다수·반복적 산재 사고 발생 시 사업주에게 영업이익의 5%를 과징금으로 부과하는 개정안이 국회에서 의결되었습니다."
     },
     {
-      "title": "[속보]靑 &quot;김지용 인사청문안 금명 간 국회에 송부&quot;",
-      "originallink": "https://www.nocutnews.co.kr/news/6585832?utm_source=naver&utm_medium=article&utm_campaign=20261001024812",
-      "link": "https://n.news.naver.com/mnews/article/079/0004194756?sid=100",
-      "description": "靑 &quot;김지용 인사청문안 금명 간 국회에 송부&quot;",
-      "pubDate": "Thu, 01 Oct 2026 14:49:00 +0900",
-      "formatted_date": "10월 01일, 14시 49분",
-      "ai_summary": "청와대가 김지용 중대범죄수사청장 후보자에 대한 인사청문요청안을 금명간 국회로 제출할 예정입니다."
+      "title": "[속보] ‘공소청·중수청’ 출범 D-1...이 대통령 &quot;피해자 보호 총력 기...",
+      "originallink": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261001510&PRO_CODE=99",
+      "link": "https://n.news.naver.com/mnews/article/655/0000033007?sid=102",
+      "description": "이재명 대통령은 1일 공소청·중수청(중대범죄수사청) 출범을 앞두고 &quot;우리 정부는 새로운 시스템에 정착 과정에서, 국민들이 억울한 피해를 보거나, 수사 역량과 공정성, 피해자 보호에 작은 빈틈도 발생하지 않도록 총력을... ",
+      "pubDate": "Thu, 01 Oct 2026 15:54:00 +0900",
+      "formatted_date": "10월 01일, 15시 54분",
+      "ai_summary": "이재명 대통령은 공소청과 중수청 출범을 앞두고, 새로운 수사 시스템이 공정하게 정착되어 국민 피해와 수사 공백이 발생하지 않도록 총력을 다할 것을 당부했습니다."
     },
     {
-      "title": "[속보] 靑 &quot;김지용 중수청장 후보자 인사청문요청안 금명간 국회에 보낼...",
-      "originallink": "https://www.dailian.co.kr/news/view/1696911/?sc=Naver",
-      "link": "https://n.news.naver.com/mnews/article/119/0003138605?sid=100",
-      "description": "靑 &quot;김지용 중수청장 후보자 인사청문요청안 금명간 국회에 보낼 것&quot;",
-      "pubDate": "Thu, 01 Oct 2026 14:49:00 +0900",
-      "formatted_date": "10월 01일, 14시 49분",
-      "ai_summary": "청와대가 김지용 중대범죄수사청장 후보자 인사청문요청안을 조만간 국회에 송부하겠다는 입장을 밝혔습니다."
+      "title": "[속보] 수출 호조 등에 증시 상승 마감...코스피 6,900대",
+      "originallink": "https://www.ytn.co.kr/_ln/0102_202610011542476448",
+      "link": "https://n.news.naver.com/mnews/article/052/0002413461?sid=101",
+      "description": "수출 호조 등에 증시 상승 마감…코스피 6,900대 코스피, 1.95% 오른 6,971선 마감 삼성전자 2.79%·SK하이닉스 3.21% 상승 마감 코스닥, 4.48% 오른 894선 마감 원·달러 환율 5.6원 오른 1,358.4원(15:30 기준... ",
+      "pubDate": "Thu, 01 Oct 2026 15:42:00 +0900",
+      "formatted_date": "10월 01일, 15시 42분",
+      "ai_summary": "수출 호조에 힘입어 코스피가 1.95% 상승한 6,971선에 마감했습니다. 코스닥 또한 4.48% 급등하며 894선으로 장을 마쳤습니다."
     },
     {
-      "title": "[속보] 이 대통령, 김지용 중수청장 인사청문요청안 국회 제출 예정",
-      "originallink": "https://www.hani.co.kr/arti/politics/bluehouse/1280405.html",
-      "link": "https://n.news.naver.com/mnews/article/028/0002825532?sid=100",
-      "description": "청와대가 중대범죄수사청 출범을 하루 앞둔 1일 김지용 중수청장 후보자에 대한 인사청문요청안을 금명간 국회로 보낼 예정이라고 밝혔다. 성기홍 홍보소통수석은 이날 청와대 춘추관 브리핑에서 “김 후보자에 대한... ",
-      "pubDate": "Thu, 01 Oct 2026 14:48:00 +0900",
-      "formatted_date": "10월 01일, 14시 48분",
-      "ai_summary": "청와대는 중대범죄수사청 출범을 앞두고 김지용 후보자 인사청문요청안을 곧 국회에 제출할 계획입니다."
+      "title": "[속보] 코스피, 133.31p(1.95%) 오른 6971.35 마감",
+      "originallink": "https://www.ajunews.com/view/20261001153627901",
+      "link": "https://www.ajunews.com/view/20261001153627901",
+      "description": "아주경제=송윤서 기자 sys0303@ajunews.com 코스피, 133.31p(1.95%) 오른 6971.35 마감 코스닥, 38.38p(4.48%) 오른 894.29 마감",
+      "pubDate": "Thu, 01 Oct 2026 15:40:00 +0900",
+      "formatted_date": "10월 01일, 15시 40분",
+      "ai_summary": "국내 증시가 강세를 보이며 코스피는 1.95% 오른 6,971.35에, 코스닥은 4.48% 상승한 894.29에 각각 장을 마감했습니다."
     },
     {
-      "title": "[속보] 靑 &quot;김지용 중수청장 후보 청문요청안, 금명간 국회 보낼 예정&quot;",
-      "originallink": "https://www.hidomin.com/news/articleView.html?idxno=723301",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=723301",
-      "description": "靑 &quot;김지용 중수청장 후보 청문요청안, 금명간 국회 보낼 예정&quot;",
-      "pubDate": "Thu, 01 Oct 2026 14:48:00 +0900",
-      "formatted_date": "10월 01일, 14시 48분",
-      "ai_summary": "청와대가 김지용 중대범죄수사청장 후보자에 대한 인사청문요청안을 조만간 국회로 보낼 예정입니다."
+      "title": "[속보] 코스피 6,971.35(▲133.31p, 1.95%) 마감, 원·달러 환율 1,358.5원",
+      "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5222510",
+      "link": "https://n.news.naver.com/mnews/article/057/0001971566?sid=101",
+      "description": "코스피 6,971.35(▲133.31p, 1.95%) 마감, 원·달러 환율 1,358.5원",
+      "pubDate": "Thu, 01 Oct 2026 15:39:00 +0900",
+      "formatted_date": "10월 01일, 15시 39분",
+      "ai_summary": "코스피 지수가 1.95% 상승한 6,971.35로 마감했으며, 원·달러 환율은 1,358.5원을 기록했습니다."
     },
     {
-      "title": "[속보] '승승승승승' 페이커 없어도 OK, 제우스+케니언 폭주! 한국 결승...",
-      "originallink": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010802",
-      "link": "https://m.sports.naver.com/esports/article/477/0000631049",
-      "description": "역시 디펜딩챔피언 다웠다. 한국 리그 오브 레전드(LoL) 대표팀이 5연승을 질주하며 손쉽게 결승 진출에 성공했다. 2회 연속 전승 금메달이 보인다. 한국 대표팀은 1일 일본 아이치현 도코나메 아이치 스카이 엑스포에서... ",
-      "pubDate": "Thu, 01 Oct 2026 14:46:00 +0900",
-      "formatted_date": "10월 01일, 14시 46분",
-      "ai_summary": "한국 리그 오브 레전드 대표팀이 5연승을 기록하며 결승 진출에 성공했습니다. 2회 연속 전승 금메달을 노립니다."
+      "title": "[속보] 코스닥 38.38p(4.48%) 오른 894.29(장마감)",
+      "originallink": "https://www.etoday.co.kr/news/view/2631588",
+      "link": "https://www.etoday.co.kr/news/view/2631588",
+      "description": "이투데이=김범근 기자 | 코스닥 38.38p(4.48%) 오른 894.29(장마감)",
+      "pubDate": "Thu, 01 Oct 2026 15:36:00 +0900",
+      "formatted_date": "10월 01일, 15시 36분",
+      "ai_summary": "코스닥 지수가 4.48% 상승하며 894.29로 장을 마감했습니다."
     },
     {
-      "title": "[속보] 청와대 “김지용 중수청장 내정자 청문요청안 금명간 국회 송부...",
-      "originallink": "https://www.khan.co.kr/article/202610011446001",
-      "link": "https://n.news.naver.com/mnews/article/032/0003473671?sid=100",
-      "description": "청와대는 1일 이재명 대통령이 금명간 김지용 중대범죄수사청 내정자의 인사청문요청안을 국회로 송부하기로 했다고 밝혔다. 성기홍 청와대 홍보소통수석은 이날 춘추관 브리핑에서 김 내정자와 관련해 “추가 검증 결과... ",
-      "pubDate": "Thu, 01 Oct 2026 14:46:00 +0900",
-      "formatted_date": "10월 01일, 14시 46분",
-      "ai_summary": "청와대는 추가 검증을 마친 김지용 중대범죄수사청장 내정자의 인사청문요청안을 곧 국회에 송부할 계획입니다."
+      "title": "[속보]코스닥, 38.38포인트(4.48%) 오른 894.29 마감",
+      "originallink": "https://www.newsis.com/view/NISX20261001_0003811027",
+      "link": "https://n.news.naver.com/mnews/article/003/0014227838?sid=101",
+      "description": "후속 기사가 이어집니다.",
+      "pubDate": "Thu, 01 Oct 2026 15:36:00 +0900",
+      "formatted_date": "10월 01일, 15시 36분",
+      "ai_summary": "코스닥 지수가 전일 대비 4.48% 오른 894.29로 장을 마감했습니다."
     },
     {
-      "title": "[속보] 청와대 “김지용, 친윤검사 아니다” 추가검증 결과 발표",
-      "originallink": "https://vop.co.kr/A00001696951.html",
-      "link": "https://vop.co.kr/A00001696951.html",
-      "description": "성기홍 청와대 홍보소통수석은 1일 기자회견을 열고 김지용 중대범죄수사청장(중수청장) 후보자에 대한 추가로 제기된 의혹에 대한 검증 결과와 당초 검증 결과와 달라진 것이 없다고 밝혔다.성 수석은 일각에서 제기된... ",
-      "pubDate": "Thu, 01 Oct 2026 14:46:00 +0900",
-      "formatted_date": "10월 01일, 14시 46분",
-      "ai_summary": "청와대는 김지용 중수청장 후보자에 대해 제기된 의혹을 추가 검증한 결과, 기존 입장과 달라진 것이 없다고 밝혔습니다."
+      "title": "홍천군체육회 사무국장 불법 임명 발언 군의원에 사과촉구",
+      "originallink": "https://www.kado.net/news/articleView.html?idxno=2075940",
+      "link": "https://n.news.naver.com/mnews/article/654/0000203439?sid=102",
+      "description": "속보=홍천군체육회가 사무국장 재임명과 관련, 충분한 사실관계 확인 없이 '불법·무효 인사'라고 주장(본지 8월 28일자 15면) 한 군의회 민주당 의원들에게 공개 사과를 촉구하는 등 반발하고 있다. 홍천군체육회 이사회는... ",
+      "pubDate": "Thu, 01 Oct 2026 15:36:00 +0900",
+      "formatted_date": "10월 01일, 15시 36분",
+      "ai_summary": "홍천군체육회가 사무국장 임명 관련 불법 인사라고 주장한 군의원들에게 사실 확인 없는 비판이라며 공개 사과를 촉구하고 나섰습니다."
     },
     {
-      "title": "[속보] 靑 “김지용 중수청장 후보 청문요청안, 금명간 국회 보낼 예정...",
-      "originallink": "https://www.viva100.com/article/20261001501177",
-      "link": "https://www.viva100.com/article/20261001501177",
-      "description": "靑 “김지용 중수청장 후보 청문요청안, 금명간 국회 보낼 예정”",
-      "pubDate": "Thu, 01 Oct 2026 14:46:00 +0900",
-      "formatted_date": "10월 01일, 14시 46분",
-      "ai_summary": "청와대가 김지용 중대범죄수사청장 후보자에 대한 인사청문요청안을 조만간 국회로 제출할 예정입니다."
+      "title": "[속보]李 “검찰개혁 비로소 결실…불의에서 국민 지키는 역사적 발걸음...",
+      "originallink": "https://www.donga.com/news/Politics/article/all/20261001/134768686/2",
+      "link": "https://n.news.naver.com/mnews/article/020/0003752078?sid=100",
+      "description": "이재명 대통령은 중수청(중대범죄수사청)·공소청 출범을 하루 앞둔 2일 “새로운 시스템의 정착 과정에서 국민이 억울한 피해를 보거나 수사 역량과 공정성, 피해자 보호에 작은 빈틈도 발생하지 않도록 총력을 기울여... ",
+      "pubDate": "Thu, 01 Oct 2026 15:35:00 +0900",
+      "formatted_date": "10월 01일, 15시 35분",
+      "ai_summary": "이재명 대통령은 검찰개혁의 일환인 공소청·중수청 출범을 앞두고, 국민 보호와 수사 공정성을 위한 철저한 준비와 총력을 다하겠다고 강조했습니다."
+    },
+    {
+      "title": "[속보]코스피 2% 가까이 올라 6970선 마감…코스닥은 4.5% 상승",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=04805206645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "link": "https://n.news.naver.com/mnews/article/018/0006378757?sid=101",
+      "description": "코스피가 1일 장 초반 약세를 딛고 2% 가까이 상승하며 6970선에서 거래를 마쳤다. 시장 예상을 웃돈 마이크론의 실적과 가이던스가 반도체 투자심리를 끌어올린 가운데 기관 매수세가 지수 상승을... ",
+      "pubDate": "Thu, 01 Oct 2026 15:35:00 +0900",
+      "formatted_date": "10월 01일, 15시 35분",
+      "ai_summary": "마이크론의 실적 호조로 반도체 투자 심리가 개선되며 코스피와 코스닥이 동반 상승 마감했습니다. 기관의 매수세가 지수 상승을 견인했습니다."
+    },
+    {
+      "title": "[속보]'응급실 뺑뺑이 방지' 응급의료법 국회 본회의 통과",
+      "originallink": "https://www.newsis.com/view/NISX20261001_0003811071",
+      "link": "https://n.news.naver.com/mnews/article/003/0014227834?sid=100",
+      "description": "후속기사가 이어집니다",
+      "pubDate": "Thu, 01 Oct 2026 15:35:00 +0900",
+      "formatted_date": "10월 01일, 15시 35분",
+      "ai_summary": "응급실 뺑뺑이 문제를 해결하기 위한 응급의료법 개정안이 국회 본회의를 통과했습니다."
+    },
+    {
+      "title": "[속보] ‘응급실 뺑뺑이 방지’ 법안 국회 본회의 통과",
+      "originallink": "https://biz.heraldcorp.com/article/10890764?ref=naver",
+      "link": "https://n.news.naver.com/mnews/article/016/0002704454?sid=100",
+      "description": "",
+      "pubDate": "Thu, 01 Oct 2026 15:34:00 +0900",
+      "formatted_date": "10월 01일, 15시 34분",
+      "ai_summary": "응급실 이송 지연 현상을 방지하기 위한 법안이 국회 본회의를 통과하여 제도 개선의 발판이 마련되었습니다."
+    },
+    {
+      "title": "[속보] '마이크론·반도체 수출' 훈풍…코스피 1.95%·코스닥 4.48%↑",
+      "originallink": "https://www.yna.co.kr/view/AKR20261001142800008?input=1195m",
+      "link": "https://n.news.naver.com/mnews/article/001/0016351088?sid=101",
+      "description": "",
+      "pubDate": "Thu, 01 Oct 2026 15:34:00 +0900",
+      "formatted_date": "10월 01일, 15시 34분",
+      "ai_summary": "마이크론발 반도체 훈풍에 힘입어 코스피가 1.95%, 코스닥이 4.48% 급등했습니다."
+    },
+    {
+      "title": "[속보] 코스피 133.31p(1.95%) 오른 6971.35(장마감)",
+      "originallink": "https://www.etoday.co.kr/news/view/2631587",
+      "link": "https://www.etoday.co.kr/news/view/2631587",
+      "description": "이투데이=김범근 기자 | 코스피 133.31p(1.95%) 오른 6971.35(장마감)",
+      "pubDate": "Thu, 01 Oct 2026 15:34:00 +0900",
+      "formatted_date": "10월 01일, 15시 34분",
+      "ai_summary": "코스피 지수가 전일 대비 133.31포인트(1.95%) 상승한 6971.35에 장을 마감했습니다."
     }
   ],
   "pane2": {
     "산업부": [
+      {
+        "title": "트럼프 알래스카 LNG 확정 발표에…산업부 &quot;투자 미정, 검토 단계&quot;",
+        "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1726446",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726446",
+        "description": "산업부 관계자는 &quot;미국 측이 국내 정치적으로 중요한 지역구 사업을 부각하려 한 것으로 보인다&quot;며 &quot;정부는 경제성 분석과 인허가 여건, 자금 회수 가능성 등 상업적 타당성을 철저히 검증한 뒤 국익에 부합하는... ",
+        "pubDate": "Thu, 01 Oct 2026 15:50:00 +0900",
+        "formatted_date": "10월 01일, 15시 50분",
+        "ai_summary": "트럼프 당선인의 알래스카 LNG 투자 발표에 대해 산업부는 경제성 등을 검토 중인 초기 단계이며 확정된 바 없다고 밝혔습니다."
+      },
+      {
+        "title": "경제수석까지 꿰찼다…청와대 경제팀 ‘산업부 전성시대'",
+        "originallink": "https://www.edaily.co.kr/News/Read?newsId=04870806645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "link": "https://n.news.naver.com/mnews/article/018/0006378770?sid=100",
+        "description": "청와대 경제팀에서 산업부 출신 관료들의 보폭이 커졌다. 이재명 대통령이 1일 문신학 산업통상부 차관을... 자리까지 산업부 출신에게 돌아갔다. 국내에서는 첨단산업과 메가 프로젝트를 움직이고, 미국과는 대규모... ",
+        "pubDate": "Thu, 01 Oct 2026 15:45:00 +0900",
+        "formatted_date": "10월 01일, 15시 45분",
+        "ai_summary": "청와대 경제팀 요직에 산업부 출신 관료들이 대거 배치되며 산업부의 영향력이 확대되고 있습니다."
+      },
+      {
+        "title": "KGM, 산업부 '맥스 얼라이언스' 참여... 현대모비스·라이드플럭스와 맞...",
+        "originallink": "https://www.insight.co.kr/news/576164",
+        "link": "https://www.insight.co.kr/news/576164",
+        "description": "참여했다.산업부에 따르면 이날 AI 미래차 분과에서는 완성차와 자동차 부품, 차량용 반도체, 자율주행... 개발한다.산업부가 공개한 계획에 따르면 정부 연구개발(R&amp;D)을 통해 개발 중인 현대모비스의 SDV 기술과... ",
+        "pubDate": "Thu, 01 Oct 2026 15:42:00 +0900",
+        "formatted_date": "10월 01일, 15시 42분",
+        "ai_summary": "KGM이 산업부 주관 '맥스 얼라이언스'에 참여하여 현대모비스 등과 협력해 미래차 및 SDV 기술 개발에 나섭니다."
+      },
+      {
+        "title": "트럼프, 韓 알래스카 LNG 투자 발표…산업부 “투자 여부·규모 미정”",
+        "originallink": "https://www.ceoscoredaily.com/page/view/2026100114023639153",
+        "link": "https://www.ceoscoredaily.com/page/view/2026100114023639153",
+        "description": "산업부는 “알래스카 LNG 프로젝트는 양해각서(MOU) 상 상업적 합리성과 관련 국내법 절차를 전제로 검토에 착수한다는 것”이라며 “투자 여부나 규모에 대해서는 정해진 바가 없다”고 설명했다. 또한 산업부는... ",
+        "pubDate": "Thu, 01 Oct 2026 15:28:00 +0900",
+        "formatted_date": "10월 01일, 15시 28분",
+        "ai_summary": "알래스카 LNG 투자와 관련해 산업부는 MOU 기반의 검토 단계일 뿐, 구체적인 투자 여부나 규모는 정해지지 않았다고 강조했습니다."
+      },
+      {
+        "title": "산업부, 미국 전략적 투자 계획 후속조치 밑그림 공식발표",
+        "originallink": "http://www.engdaily.com/news/articleView.html?idxno=23457",
+        "link": "http://www.engdaily.com/news/articleView.html?idxno=23457",
+        "description": "1일 산업부는 한미 전략투자 프로젝트 추진 계획에 대한 일환으로 3건 프로젝트 계획을 내놓았다. 이번... 산업부는 관련 사업을 통해 국내 원전 산업의 해외진출을 가속화 하는 동시에 미국의 노후화 된 전력시장의... ",
+        "pubDate": "Thu, 01 Oct 2026 15:26:00 +0900",
+        "formatted_date": "10월 01일, 15시 26분",
+        "ai_summary": "산업부가 한미 전략투자 프로젝트의 일환으로 3건의 사업 계획을 발표하며 국내 원전 산업의 미국 시장 진출을 가속화합니다."
+      },
+      {
+        "title": "산업부, 중견기업 10대 초격차 기술 확보 1조원 R&amp;D 추진",
+        "originallink": "https://www.viva100.com/article/20261001501258",
+        "link": "https://www.viva100.com/article/20261001501258",
+        "description": "산업부는 김정관 장관 주재로 1일 충남 아산시 하나마이크론 본사에서 중견기업 간담회를 갖고 이 같은... 산업부는 중소기업에서 중견기업으로 다시 대기업으로 성장할 수 있도록 성장사다리를 강화할 계획이다. 이에... ",
+        "pubDate": "Thu, 01 Oct 2026 15:20:00 +0900",
+        "formatted_date": "10월 01일, 15시 20분",
+        "ai_summary": "산업부가 중견기업의 10대 초격차 기술 확보를 위해 1조 원 규모의 R&D 지원을 추진합니다. 기업의 성장 사다리를 강화해 중견기업에서 대기업으로의 도약을 돕습니다."
+      },
       {
         "title": "산업부, 미국 알래스카 LNG 투자 발표에 “아직 확정 안 돼”",
         "originallink": "https://www.mk.co.kr/article/12166077",
@@ -145,7 +199,7 @@
         "description": "산업부는 1일 “알래스카 LNG 프로젝트는 상업적 합리성과 국내법 절차를 전제로 검토에 착수한다는 것”이라며 “투자 여부나 규모에 대해서는 정해진 바가 없다”고 밝혔다. 산업부에 따르면, 한미 양국은 2000억달러... ",
         "pubDate": "Thu, 01 Oct 2026 14:58:00 +0900",
         "formatted_date": "10월 01일, 14시 58분",
-        "ai_summary": "산업부는 미국 알래스카 LNG 프로젝트 투자가 아직 확정되지 않았으며, 사업성 등을 검토할 예정이라고 밝혔습니다."
+        "ai_summary": "산업부는 알래스카 LNG 프로젝트와 관련해 검토를 시작하는 단계일 뿐 투자 여부나 규모는 정해진 바 없다고 밝혔습니다. 사업의 상업적 합리성을 우선 고려할 방침입니다."
       },
       {
         "title": "산업부, 트럼프 선제 발표 선긋기 &quot;LNG 투자 미확정&quot;",
@@ -154,70 +208,16 @@
         "description": "산업부는 한미 전략적 투자 양해각서(MOU)에 명시된 '상업적 합리성' 원칙과 국내법상 절차에 따라 사업성을 면밀히 따져 투자 여부를 결정하겠다고 밝혔다. 실제 한미 양국이 이날 공개한 공동 팩트시트에도 알래스카... ",
         "pubDate": "Thu, 01 Oct 2026 14:32:00 +0900",
         "formatted_date": "10월 01일, 14시 32분",
-        "ai_summary": "산업부는 알래스카 LNG 투자와 관련해 국내법과 사업성 검토가 선행되어야 하며 현재 확정된 것은 없다고 강조했습니다."
+        "ai_summary": "산업부가 알래스카 LNG 투자와 관련해 국내법과 상업적 타당성을 바탕으로 면밀히 검토하겠다고 강조했습니다. 트럼프 측의 선제 발표와는 선을 긋고 신중한 입장을 보였습니다."
       },
       {
-        "title": "[속보] 靑 경제성장수석에 문신학 산업부 차관",
-        "originallink": "https://www.mk.co.kr/article/12165968",
-        "link": "https://n.news.naver.com/mnews/article/009/0005742596?sid=101",
-        "description": "청와대가 이재명 대통령이 청와대 경제성장수석에 문신학 산업부 차관을 임명했다고 1일 밝혔다. 문 신임... 2017년 문재인 정부 당시 산업부 원전산업정책관을 맡아 탈원전 정책을 시행했다. 월성 1호기 원전 업무와... ",
-        "pubDate": "Thu, 01 Oct 2026 13:53:00 +0900",
-        "formatted_date": "10월 01일, 13시 53분",
-        "ai_summary": "청와대 신임 경제성장수석에 문신학 산업부 차관이 임명되었습니다. 문 수석은 과거 탈원전 정책을 수행한 이력이 있습니다."
-      },
-      {
-        "title": "트럼프 대통령 '한국 알래스카 LNG 투자' 발표에 산업부 &quot;확정 안 돼&quot;",
-        "originallink": "https://www.ngonews.kr/news/articleView.html?idxno=239623",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=239623",
-        "description": "이에 산업통상부(이하 산업부)는 투자가 아직 확정되지 않았다고 선을 그었다. 한미 양국은 1일(한국시간... 이에 대해 산업부는 투자가 아직 확정되지 않았다고 선을 그었다. 산업부는 이날 &quot;알래스카 LNG 프로젝트는... ",
-        "pubDate": "Thu, 01 Oct 2026 13:42:00 +0900",
-        "formatted_date": "10월 01일, 13시 42분",
-        "ai_summary": "산업부는 트럼프 대통령이 언급한 한국의 알래스카 LNG 투자에 대해 아직 확정된 사항이 없다고 선을 그었습니다."
-      },
-      {
-        "title": "KGM, 산업부 맥스 얼라이언스 참여…AI 미래차 기술개발 협력",
-        "originallink": "https://www.thebigdata.co.kr/view.php?ud=2026100113303994900ecbf9426b_23",
-        "link": "https://www.thebigdata.co.kr/view.php?ud=2026100113303994900ecbf9426b_23",
-        "description": "KGM은 AI 미래차 분과 참여 기업·기관들과 산업부 국책과제인 '다양한 OEM(차종·차급)의 SDV 지원을 위한 Vehicle 플랫폼 기술개발'을 수행한다. 기술 개발부터 실증까지 협력 체계를 구축하는 것이 목표다. KGM은 AI... ",
-        "pubDate": "Thu, 01 Oct 2026 13:40:00 +0900",
-        "formatted_date": "10월 01일, 13시 40분",
-        "ai_summary": "KGM이 산업부의 AI 미래차 국책과제에 참여하여 SDV 지원을 위한 차량 플랫폼 기술 개발 및 협력에 나섭니다."
-      },
-      {
-        "title": "[속보] 靑 신임 경제성장수석에 문신학 산업부 차관",
-        "originallink": "https://www.viva100.com/article/20261001500990",
-        "link": "https://www.viva100.com/article/20261001500990",
-        "description": "靑 신임 경제성장수석에 문신학 산업부 차관",
-        "pubDate": "Thu, 01 Oct 2026 13:34:00 +0900",
-        "formatted_date": "10월 01일, 13시 34분",
-        "ai_summary": "문신학 산업부 차관이 청와대 신임 경제성장수석으로 임명되었습니다."
-      },
-      {
-        "title": "[속보]靑정책실장에 하준경 수석…경제수석에 문신학 산업부 차관",
-        "originallink": "https://www.donga.com/news/Politics/article/all/20261001/134767139/1",
-        "link": "https://n.news.naver.com/mnews/article/020/0003752032?sid=100",
-        "description": "靑정책실장에 하준경 수석…경제수석에 문신학 산업부 차관 대통령 평화외교 특보 송영길·국방정책 특보 김병주",
-        "pubDate": "Thu, 01 Oct 2026 13:34:00 +0900",
-        "formatted_date": "10월 01일, 13시 34분",
-        "ai_summary": "청와대 정책실장에 하준경 수석, 경제수석에 문신학 차관이 임명되었습니다. 또한 특보직으로 송영길 평화외교 특보와 김병주 국방정책 특보가 선임되었습니다."
-      },
-      {
-        "title": "[속보] 靑 신임 정책실장에 하준경 경제수석…경제수석에 문신학 산업부...",
-        "originallink": "https://www.ajunews.com/view/20261001133010295",
-        "link": "https://www.ajunews.com/view/20261001133010295",
-        "description": "아주경제=김봉철 기자 nicebong@ajunews.com 靑 신임 정책실장에 하준경 경제수석…경제수석에 문신학 산업부 차관",
-        "pubDate": "Thu, 01 Oct 2026 13:34:00 +0900",
-        "formatted_date": "10월 01일, 13시 34분",
-        "ai_summary": "하준경 경제수석이 신임 정책실장으로 승진하고, 후임 경제수석에 문신학 산업부 차관이 임명되었습니다."
-      },
-      {
-        "title": "[속보] 靑 &quot;신임 경제성장수석에 문신학 산업부 차관&quot;",
-        "originallink": "https://view.asiae.co.kr/article/2026100113331617512",
-        "link": "https://n.news.naver.com/mnews/article/277/0005823499?sid=100",
-        "description": "靑 &quot;새 경제성장수석에 문신학 산업부 차관 임명&quot;",
-        "pubDate": "Thu, 01 Oct 2026 13:33:00 +0900",
-        "formatted_date": "10월 01일, 13시 33분",
-        "ai_summary": "청와대가 신임 경제성장수석으로 문신학 산업부 차관을 공식 임명했습니다."
+        "title": "청와대 정책실장에 하준경 수석…경제수석에 문신학 산업부 차관",
+        "originallink": "https://www.segye.com/newsView/20261001511125?OutUrl=naver",
+        "link": "https://n.news.naver.com/mnews/article/022/0004163297?sid=100",
+        "description": "새 경제수석으로는 문신학 산업부 차관이 임명됐다. 성 수석은 “문 신임 경제수석은 산업 에너지 분야 주요 보직을 두루 역임한 실물경제 전문가”라며 “반도체와 AI 등 첨단산업 육성을 진두지휘한 역량을 바탕으로, 3대... ",
+        "pubDate": "Thu, 01 Oct 2026 14:00:00 +0900",
+        "formatted_date": "10월 01일, 14시 00분",
+        "ai_summary": "신임 경제수석에 문신학 산업부 차관이 임명되었습니다. 반도체와 AI 등 첨단산업 육성 경험을 갖춘 실물경제 전문가로서 경제 정책을 이끌 것으로 기대됩니다."
       }
     ],
     "KIAT": [
@@ -228,7 +228,7 @@
         "description": "한국산업기술진흥원(KIAT)과 대한무역투자진흥공사(KOTRA) 등 산업통상부 소관 공공기관을 경남으로 이전하는... 정부가 추진하는 공공기관 2차 이전과 관련해서는 KIAT와 KOTRA 등 산업통상부 소관 기관의 경남 이전을... ",
         "pubDate": "Thu, 01 Oct 2026 11:28:00 +0900",
         "formatted_date": "10월 01일, 11시 28분",
-        "ai_summary": "박완수 경남지사가 정부의 공공기관 2차 이전 계획에 맞춰 KIAT와 KOTRA의 경남 이전을 건의했습니다."
+        "ai_summary": "박완수 경남지사가 정부의 공공기관 2차 이전에 맞춰 KIAT와 KOTRA의 경남 이전을 건의했습니다. 지역 산업 현안 해결과 지역 균형 발전을 위한 조치입니다."
       },
       {
         "title": "KIAT, 지역 SW기업 유럽 공동R&amp;D 지원…해외기관과 35건 상담",
@@ -237,7 +237,7 @@
         "description": "한국산업기술진흥원(KIAT)이 국내 지역 소프트웨어(SW) 기업의 유럽 연구개발(R&amp;D) 네트워크 확대와 국제공동연구 파트너 발굴을 지원한다. KIAT는 지난 15~17일 튀르키예 이스탄불에서 열린 'ITEA PO Days 2026'에 국내 SW... ",
         "pubDate": "Mon, 21 Sep 2026 15:53:00 +0900",
         "formatted_date": "09월 21일, 15시 53분",
-        "ai_summary": "KIAT가 튀르키예에서 열린 행사를 통해 국내 지역 SW 기업들의 유럽 공동 R&D 파트너 발굴을 지원했습니다."
+        "ai_summary": "KIAT가 튀르키예에서 열린 ITEA PO Days 2026에 참여해 국내 지역 SW 기업의 해외 공동 R&D 파트너 발굴을 지원했습니다. 총 35건의 상담을 통해 네트워크 확대를 도왔습니다."
       },
       {
         "title": "KIAT, 지역 기업 국제공동 R&amp;D 파트너 발굴 지원",
@@ -246,7 +246,7 @@
         "description": "한국산업기술진흥원(KIAT)은 지난 15일부터 17일까지 튀르키예 이스탄불에서 열린 ‘ITEA PO Days 2026’에 국내... 산업통상부와 KIAT는 이번 행사에서 발굴된 아이디어와 컨소시엄이 ITEA 본 과제 선정과 자금 확보로... ",
         "pubDate": "Mon, 21 Sep 2026 15:38:00 +0900",
         "formatted_date": "09월 21일, 15시 38분",
-        "ai_summary": "KIAT는 국내 지역 기업들이 글로벌 R&D 네트워크를 확보하고 연구 과제를 선정받을 수 있도록 국제 파트너 발굴을 돕고 있습니다."
+        "ai_summary": "KIAT가 지역 기업들의 국제 공동 R&D를 위해 글로벌 파트너 발굴을 지원했습니다. 이번 행사를 통해 발굴된 아이디어가 실제 과제 선정 및 자금 확보로 이어지도록 노력할 계획입니다."
       },
       {
         "title": "KIAT, 지역 SW기업 글로벌 R&amp;D 파트너 발굴 지원…해외 산학연과 35건 상...",
@@ -255,7 +255,7 @@
         "description": "사진=KIAT 지역 혁신기업의 글로벌 진출 전략이 제품 수출을 넘어 해외 연구기관·기업과 공동으로 기술을 개발하고 사업화하는 방식으로 확대되고 있다. 한국산업기술진흥원(KIAT)이 지역 소프트웨어·디지털 기업의... ",
         "pubDate": "Mon, 21 Sep 2026 15:18:00 +0900",
         "formatted_date": "09월 21일, 15시 18분",
-        "ai_summary": "KIAT가 지역 SW 기업의 글로벌 진출을 위해 유럽 연구기관들과 35건의 R&D 협력 상담을 진행했습니다."
+        "ai_summary": "KIAT가 지역 SW 및 디지털 기업의 글로벌 진출을 위해 해외 산학연과의 기술 공동개발을 지원합니다. 제품 수출을 넘어 기술 협력으로 글로벌 경쟁력을 높이고 있습니다."
       },
       {
         "title": "KIAT, 혁신기업 해외 파트너 발굴 지원…&quot;글로벌 진출 돕는다&quot;",
@@ -264,7 +264,7 @@
         "description": "한국산업기술진흥원(KIAT)이 국내 소프트웨어·디지털 혁신기업들의 글로벌 경쟁력 확보를 위해 해외 공동연구 파트너 발굴에 나섰습니다. KIAT는 지난 15일부터 사흘간 튀르키예 이스탄불에서 열린 ‘ITEA PO Days... ",
         "pubDate": "Mon, 21 Sep 2026 13:35:00 +0900",
         "formatted_date": "09월 21일, 13시 35분",
-        "ai_summary": "KIAT가 국내 디지털 혁신 기업의 글로벌 경쟁력 강화를 위해 해외 공동 연구 파트너 발굴을 적극 지원합니다."
+        "ai_summary": "KIAT가 국내 SW·디지털 혁신기업의 글로벌 경쟁력 확보를 위해 유럽 기업들과의 공동연구 파트너 발굴을 지원했습니다. 튀르키예 행사 참석을 통해 해외 네트워크 구축을 도왔습니다."
       },
       {
         "title": "KIAT&lt;한국산업기술진흥원&gt;, R&amp;D 파트너 발굴 지원",
@@ -273,7 +273,7 @@
         "description": "한국산업기술진흥원(KIAT·원장 전윤종)은 15~17일 튀르키예 이스탄불에서 열린 유럽 최대 소프트웨어... 전윤종 KIAT 원장은 “지역 혁신기업과 유럽 ITEA 클러스터를 긴밀히 연결해 글로벌 공동연구·사업화 성과를... ",
         "pubDate": "Mon, 21 Sep 2026 13:02:00 +0900",
         "formatted_date": "09월 21일, 13시 02분",
-        "ai_summary": "KIAT는 유럽 ITEA 클러스터와 국내 기업을 연결해 기술 공동 연구 및 사업화 성과 창출을 지원하고 있습니다."
+        "ai_summary": "KIAT가 유럽 최대 SW 클러스터 ITEA와 지역 혁신기업을 연결해 공동연구와 사업화를 지원합니다. 전윤종 원장은 기업들의 글로벌 성과 창출을 위해 적극 지원하겠다고 밝혔습니다."
       },
       {
         "title": "KIAT, 글로벌 SW행사에서 韓 기업 파트너 발굴지원",
@@ -282,7 +282,7 @@
         "description": "35건의 B2B 상담하고 컨소시엄 구성 논의 한국산업기술진흥원(KIAT)은 지난 15~17일까지 튀르키예... 산업통상부와 KIAT는 이번 행사를 통해 발굴된 아이디어 및 컨소시엄이 ITEA 본 과제 선정 및 자금 확보로... ",
         "pubDate": "Mon, 21 Sep 2026 11:12:00 +0900",
         "formatted_date": "09월 21일, 11시 12분",
-        "ai_summary": "KIAT가 튀르키예에서 열린 글로벌 SW 행사에서 국내 기업들의 B2B 상담 및 컨소시엄 구성을 지원했습니다. 이를 통해 우리 기업들의 글로벌 연구개발 과제 선정 및 자금 확보를 도울 예정입니다."
+        "ai_summary": "KIAT가 튀르키예에서 열린 글로벌 SW 행사에 국내 기업들의 참여를 지원했습니다. 총 35건의 상담을 통해 기술 컨소시엄 구성 및 과제 선정 기반을 마련했습니다."
       },
       {
         "title": "KIAT, 지역 SW·디지털기업 글로벌 R&amp;D 발굴 지원",
@@ -291,7 +291,7 @@
         "description": "한국산업기술진흥원(KIAT)이 지역 소프트웨어·디지털 기업들의 글로벌 경쟁력을 강화하는 해외 연구개발 파트너 발굴에 나섰다. KIAT는 21일 지난 15일~17일 튀르키예 이스탄불에서 열린 ‘ITEA PO Days 2026’에... ",
         "pubDate": "Mon, 21 Sep 2026 10:37:00 +0900",
         "formatted_date": "09월 21일, 10시 37분",
-        "ai_summary": "KIAT가 지역 SW·디지털 기업의 글로벌 경쟁력 강화를 위해 해외 R&D 파트너 발굴을 지원했습니다. 지난 15일부터 튀르키예에서 열린 'ITEA PO Days 2026'에 참여해 협력을 이끌었습니다."
+        "ai_summary": "KIAT가 국내 SW·디지털 기업의 글로벌 경쟁력 강화를 지원합니다. 튀르키예 이스탄불에서 열린 국제 행사를 통해 해외 R&D 파트너 발굴을 도왔습니다."
       },
       {
         "title": "KIAT, 지역 혁신기업 글로벌 R&amp;D 파트너 발굴 지원",
@@ -300,7 +300,7 @@
         "description": "한국산업기술진흥원(KIAT)이 국내 지역 혁신기업들의 소프트웨어(SW) 및 디지털 역량을 앞세워 글로벌 연구개발(R&amp;D) 파트너 발굴을 위한 든든한 가교 역할을 했다. KIAT는 15일부터 17일까지 튀르키예 이스탄불에서... ",
         "pubDate": "Mon, 21 Sep 2026 10:18:00 +0900",
         "formatted_date": "09월 21일, 10시 18분",
-        "ai_summary": "KIAT가 국내 지역 혁신기업의 글로벌 R&D 진출을 돕는 가교 역할을 수행했습니다. 튀르키예에서 열린 국제 행사를 통해 우리 기업들의 SW·디지털 기술 홍보와 파트너 발굴을 적극 지원했습니다."
+        "ai_summary": "KIAT가 국내 지역 혁신기업의 글로벌 R&D 진출을 위한 가교 역할을 수행했습니다. 튀르키예 행사에서 SW 및 디지털 기업들의 파트너 발굴을 적극 지원했습니다."
       },
       {
         "title": "KIAT, 지역 혁신기업 5곳 해외 R&amp;D 연결…35건 이상 협력 상담",
@@ -309,10 +309,46 @@
         "description": "한국산업기술진흥원(KIAT)은 지난 15~17일 튀르키예 이스탄불에서 열린 'ITEA PO Days 2026'에 국내 소프트웨어... KIAT는 지난해 포르투갈에서 열린 행사에서도 국내 기업 6곳의 참여와 기술 매칭을 지원했다. 당시 8개국... ",
         "pubDate": "Mon, 21 Sep 2026 08:42:00 +0900",
         "formatted_date": "09월 21일, 08시 42분",
-        "ai_summary": "KIAT가 'ITEA PO Days 2026'에 국내 기업 5곳의 참가를 지원하며 35건 이상의 기술 협력 상담을 성사했습니다. 향후 국내 기업의 해외 R&D 시장 진출을 위한 후속 지원을 이어갈 계획입니다."
+        "ai_summary": "KIAT가 5개 혁신기업과 함께 국제 SW 행사에 참여해 35건 이상의 협력 상담을 진행했습니다. 지속적인 기술 매칭을 통해 글로벌 연구개발 생태계를 조성하고 있습니다."
       }
     ],
     "기후부": [
+      {
+        "title": "기후부·환경공단·현대차그룹, ‘국가 PnC’ 인증체계 첫선",
+        "originallink": "https://www.donga.com/news/Economy/article/all/20261001/134768959/2",
+        "link": "https://n.news.naver.com/mnews/article/020/0003752087?sid=103",
+        "description": "현대차그룹은 1일 경기 안산시 한국전기연구원 안산분원에서 열린 국가 PnC 현장 시연회에서 기후부... 현대차그룹은 지난 7월 기후부·환경공단과 업무협약을 맺고 PnC 인증서와 인증서 발급 권한을 국가에 제공하기로... ",
+        "pubDate": "Thu, 01 Oct 2026 15:52:00 +0900",
+        "formatted_date": "10월 01일, 15시 52분",
+        "ai_summary": "현대차그룹과 관계 부처가 국내 전기차 '국가 PnC' 인증체계를 최초로 선보였습니다. 연결만으로 충전과 결제가 가능한 자동화 시스템을 구축했습니다."
+      },
+      {
+        "title": "현대차그룹, 기후부·환경공단과 '국가 플러그 앤 차지' 인증체계 첫선",
+        "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7186995",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7186995",
+        "description": "앞서 현대차그룹은 지난 7월 기후부, 환경공단과 '국내 전기차 PnC 인증체계 구축을 위한 업무협약(MOU)'을... 현장에서 기후부 직할 공공 충전기를 활용해 다양한 차량과 연결만으로 인증부터 충전 개시, 결제가... ",
+        "pubDate": "Thu, 01 Oct 2026 15:42:00 +0900",
+        "formatted_date": "10월 01일, 15시 42분",
+        "ai_summary": "현대차그룹이 환경부 등과 협력해 전기차 국가 PnC 인증체계를 공개했습니다. 충전기 연결 시 인증, 충전, 결제가 한 번에 이루어지는 기술을 시연했습니다."
+      },
+      {
+        "title": "현대차그룹, 기후부·환경공단과 국가 PnC 인증체계 첫 공개⋯ 내년 2월...",
+        "originallink": "https://www.viva100.com/article/20261001501306",
+        "link": "https://www.viva100.com/article/20261001501306",
+        "description": "현대차그룹은 지난 7월 기후부, 환경공단과 ‘국내 전기차 PnC 인증체계 구축을 위한 업무협약’을 맺고, 자사의 PnC 인증서와 인증서 발급 권한을 국가에 제공하기로 한 바 있다. 시연회 참석자들은 기후부 직할 공공... ",
+        "pubDate": "Thu, 01 Oct 2026 15:38:00 +0900",
+        "formatted_date": "10월 01일, 15시 38분",
+        "ai_summary": "현대차그룹이 자체 PnC 인증 권한을 국가에 제공하고 인증체계 구축에 나섰습니다. 내년 2월 시행을 목표로 실증을 거쳐 공공 충전 편의성을 높일 계획입니다."
+      },
+      {
+        "title": "현대차그룹·기후부·환경공단, '국가 플러그 앤 차지(PnC)' 인증체계 첫...",
+        "originallink": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253530",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253530",
+        "description": "현대차그룹은 지난 7월 기후부, 환경공단과 '국내 전기차 PnC 인증체계 구축을 위한 업무협약(MOU)'을 맺고... 참석자들은 기후부 직할 공공 충전기에 여러 차량을 연결해 인증과 충전 개시, 결제가 안정적으로 자동... ",
+        "pubDate": "Thu, 01 Oct 2026 15:06:00 +0900",
+        "formatted_date": "10월 01일, 15시 06분",
+        "ai_summary": "현대차그룹과 기후부 등이 전기차 PnC 인증체계를 처음 시연했습니다. 다양한 차량이 공공 충전기에 연결 시 자동으로 결제까지 진행되는 안정성을 확인했습니다."
+      },
       {
         "title": "현대차그룹, 기후부·환경공단과 '국가 PnC' 인증체계 첫 선",
         "originallink": "http://www.press9.kr/news/articleView.html?idxno=83580",
@@ -320,7 +356,7 @@
         "description": "현대차그룹은 앞서 7월 기후부, 환경공단과 국내 전기차 PnC 인증체계 구축을 위한 업무협약을 맺고 자체 PnC 인증서와 인증서 발급 권한을 국가에 제공하기로 했다. 현장에서는 기후부 직할 공공 충전기를 활용해 차량을... ",
         "pubDate": "Thu, 01 Oct 2026 14:52:00 +0900",
         "formatted_date": "10월 01일, 14시 52분",
-        "ai_summary": "현대차그룹이 기후부 및 환경공단과 협력해 국내 최초로 국가 플러그 앤 차지(PnC) 인증 체계를 선보였습니다. 차량과 충전기를 연결하면 인증부터 결제까지 자동으로 이루어지는 시스템입니다."
+        "ai_summary": "현대차그룹이 보유한 PnC 인증 기술을 국가에 제공해 협력체계를 마련했습니다. 공공 충전기에서의 시연을 통해 사용자 편의성을 극대화한 인증 시스템을 검증했습니다."
       },
       {
         "title": "현대차그룹, 기후부·환경공단과 ‘국가 플러그 앤 차지’ 인증 체계 공...",
@@ -329,7 +365,7 @@
         "description": "국가 플러그 앤 차지 인증 체계는 지난 7월 기후부·환경공단과 현대차그룹이 맺은 업무협약(MOU)를 통해... 이날 시연에서 기후부 직할 공공 충전기는 다양한 자동차와 연결만으로 인증과 충전, 결제를 진행하는 모습을... ",
         "pubDate": "Thu, 01 Oct 2026 14:38:00 +0900",
         "formatted_date": "10월 01일, 14시 38분",
-        "ai_summary": "현대차그룹과 기후부, 환경공단이 협약을 맺고 공동 개발한 국가 PnC 인증 체계를 시연했습니다. 충전기 연결만으로 결제가 가능한 기술의 상호운용성과 편의성을 성공적으로 입증했습니다."
+        "ai_summary": "현대차그룹과 정부 기관이 협력해 국가 PnC 인증체계를 처음으로 공개했습니다. 충전소에서의 인증 및 자동 결제 과정을 선보이며 차세대 충전 환경을 제시했습니다."
       },
       {
         "title": "'대청댐 물로 데이터센터 식힌다'…김성환 기후부 장관, 현도면 현장 점...",
@@ -338,7 +374,7 @@
         "description": "이복원 충북도 경제부지사는 &quot;기후부, 청주시, 한국수자원공사 등 관계기관과 긴밀히 협력해 대청댐 수열에너지 클러스터 조성을 차질 없이 추진하겠다&quot;며 &quot;수열에너지를 기반으로 친환경 첨단산업을 육성해 지역의... ",
         "pubDate": "Thu, 01 Oct 2026 14:26:00 +0900",
         "formatted_date": "10월 01일, 14시 26분",
-        "ai_summary": "김성환 기후부 장관이 대청댐 수열에너지 클러스터 조성 현장을 방문했습니다. 수열에너지를 활용한 친환경 첨단산업 육성을 통해 지역 경제 활성화를 도모할 방침입니다."
+        "ai_summary": "충북도가 기후부, 수자원공사와 협력해 대청댐 수열에너지를 활용한 친환경 데이터센터 클러스터를 조성합니다. 이를 통해 첨단산업을 육성하고 지역 경제 활성화를 도모할 계획입니다."
       },
       {
         "title": "현대차그룹·기후부, 국가 PnC 첫 공개…&quot;케이블 꽂으면 결제까지 자동...",
@@ -347,7 +383,7 @@
         "description": "현대차그룹은 지난 7월 기후부·환경공단과 업무협약을 맺고 자사의 PnC 인증서와 인증서 발급 권한을 국가에 제공하기로 했다. 정부와 현대차그룹은 올해 12월까지 공공 충전기를 대상으로 시범서비스를 운영한 뒤 민간... ",
         "pubDate": "Thu, 01 Oct 2026 14:21:00 +0900",
         "formatted_date": "10월 01일, 14시 21분",
-        "ai_summary": "현대차그룹이 국가 PnC 인증 체계를 공개하며 연말까지 공공 충전기 대상 시범 서비스를 운영합니다. 향후 민간 충전기까지 서비스 범위를 확대하여 전기차 이용 편의성을 높일 예정입니다."
+        "ai_summary": "현대차그룹이 기후부와 협력해 케이블 연결 시 결제까지 자동으로 이루어지는 '플러그앤차지(PnC)' 기술을 국가 충전망에 도입합니다. 12월부터 공공 충전기 시범 운영을 거쳐 민간으로 확대할 예정입니다."
       },
       {
         "title": "&quot;전기차 꽂으면 결제까지&quot; 현대차-기후부 '플러그앤차지' 인증체계 마련",
@@ -356,16 +392,7 @@
         "description": "현대차그룹은 지난 7월 기후부, 환경공단과 PnC 인증서 및 인증서 발급 권한을 국가에 제공하기로 했었다. 이어 이날 시연회에서 인증체계의 기술적 완성도와 상호운용성을 입증했다. 참석자들은 기후부 직할 공공... ",
         "pubDate": "Thu, 01 Oct 2026 14:13:00 +0900",
         "formatted_date": "10월 01일, 14시 13분",
-        "ai_summary": "현대차그룹과 기후부가 전기차 충전과 결제를 자동화하는 국가 PnC 인증 체계를 시연했습니다. 인증서 기술 제공을 통해 전기차 사용자들에게 보다 편리한 충전 환경을 제공할 것으로 기대됩니다."
-      },
-      {
-        "title": "김성환 기후부 장관, 대청호 녹조 점검",
-        "originallink": "https://www.newsis.com/view/NISI20261001_0021470104",
-        "link": "https://n.news.naver.com/mnews/article/003/0014227054?sid=100",
-        "description": "김성환 기후에너지환경부 장관이 1일 대전시 동구 대청호 추동 수역을 방문해 녹조 발생 현장 조치상황을 점검하고 있다. (사진=기후부 제공) 2026.10.01. photo@newsis.com *재판매 및 DB 금지",
-        "pubDate": "Thu, 01 Oct 2026 14:05:00 +0900",
-        "formatted_date": "10월 01일, 14시 05분",
-        "ai_summary": "김성환 기후부 장관이 대청호 현장을 방문해 녹조 발생 상황을 점검했습니다. 현장 조치 현황을 확인하고 수질 관리와 녹조 대응에 총력을 기울이고 있습니다."
+        "ai_summary": "현대차그룹이 국가 공공 충전기에 적용할 PnC 인증체계를 선보이며 기술적 완성도를 입증했습니다. 전기차 충전 편의성을 높이기 위해 정부와 긴밀한 협력을 이어가고 있습니다."
       },
       {
         "title": "김성환 기후부 장관, 대청호 녹조 점검",
@@ -374,34 +401,7 @@
         "description": "김성환 기후에너지환경부 장관이 1일 대전시 동구 대청호 추동 수역을 방문해 녹조 발생 현장 조치상황을 점검하고 있다. (사진=기후부 제공) 2026.10.01. photo@newsis.com *재판매 및 DB 금지",
         "pubDate": "Thu, 01 Oct 2026 14:05:00 +0900",
         "formatted_date": "10월 01일, 14시 05분",
-        "ai_summary": "김성환 기후에너지환경부 장관이 대청호를 방문하여 녹조 발생 현장과 대응 상황을 점검했습니다."
-      },
-      {
-        "title": "현대차그룹, 기후부·환경공단과 ‘국가 플러그 앤 차지’ 인증체계 첫...",
-        "originallink": "https://www.edaily.co.kr/News/Read?newsId=04172166645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-        "link": "https://n.news.naver.com/mnews/article/018/0006378596?sid=101",
-        "description": "앞서 현대차그룹은 지난 7월 기후부, 환경공단과 ‘국내 전기차 PnC 인증체계 구축을 위한 업무협약(MOU)’을... 행사 참석자들은 현장에서 기후부 직할 공공 충전기를 활용해 다양한 차량과 연결만으로 인증부터 충전... ",
-        "pubDate": "Thu, 01 Oct 2026 14:02:00 +0900",
-        "formatted_date": "10월 01일, 14시 02분",
-        "ai_summary": "현대차그룹이 기후부 및 환경공단과 협력하여 전기차 충전과 결제가 한 번에 가능한 국가 PnC 인증체계를 구축했습니다."
-      },
-      {
-        "title": "현대차그룹·기후부·환경공단, 충전 케이블만 꽂으면 결제까지…국가...",
-        "originallink": "https://www.kukinews.com/article/view/kuk202610010129",
-        "link": "https://www.kukinews.com/article/view/kuk202610010129",
-        "description": "현대차그룹은 지난 7월 기후부, 환경공단과 ‘국내 전기차 PnC 인증체계 구축을 위한 업무협약’을 체결하고 자사의 PnC 인증서와 인증서 발급 권한을 국가에 제공하기로 했다. 이날 시연에서는 기후부 직할 공공... ",
-        "pubDate": "Thu, 01 Oct 2026 14:02:00 +0900",
-        "formatted_date": "10월 01일, 14시 02분",
-        "ai_summary": "현대차그룹이 자사의 PnC 인증 기술을 국가에 제공하여, 충전기 연결만으로 결제까지 완료되는 국가 인증체계 시연을 마쳤습니다."
-      },
-      {
-        "title": "현대차그룹, 기후부·환경공단 '맞손' 성과…전기차 충전·결제 '한번에...",
-        "originallink": "https://www.news1.kr/industry/auto-industry/6307584",
-        "link": "https://n.news.naver.com/mnews/article/421/0009203603?sid=103",
-        "description": "앞서 현대차그룹은 지난 7월 기후부, 환경공단과 '국내 전기차 PnC 인증 체계 구축을 위한 업무협약(MOU)'을 체결하고 회사의 PnC 인증서 및 인증서 발급 권한을 국가에 제공하기로 했다. 참여 주체들은 이날 국가 표준 PnC... ",
-        "pubDate": "Thu, 01 Oct 2026 14:00:00 +0900",
-        "formatted_date": "10월 01일, 14시 00분",
-        "ai_summary": "현대차그룹과 기후부 등이 협력해 구축한 국가 표준 PnC 인증체계를 통해 전기차 충전 편의성이 대폭 개선될 전망입니다."
+        "ai_summary": "김성환 기후에너지환경부 장관이 대청호를 방문해 녹조 발생 현장을 직접 점검했습니다. 녹조 확산을 막기 위한 긴급 조치 상황을 확인하고 대응 체계를 살폈습니다."
       }
     ],
     "산업혁신기반구축": []
@@ -409,13 +409,22 @@
   "pane3": {
     "호르무즈": [
       {
+        "title": "호르무즈 봉쇄 시 포장재·물류비 상승…아부다비 12조 우회로에 식품업...",
+        "originallink": "https://www.polinews.co.kr/news/articleView.html?idxno=744594",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=744594",
+        "description": "호르무즈 해협을 둘러싼 불안이 이어지면서 중동에서 기존 해상로 의존도를 낮추려는 움직임이 나타나고... 것은 호르무즈 해협에 집중된 에너지 이동 경로를 분산하기 위해서다. 해협을 둘러싼 긴장이 장기화하면 원유... ",
+        "pubDate": "Thu, 01 Oct 2026 15:36:00 +0900",
+        "formatted_date": "10월 01일, 15시 36분",
+        "ai_summary": "호르무즈 해협의 긴장 고조로 해상 물류 불안이 커지면서 기업들이 우회로 확보 등 에너지 이동 경로 다변화를 추진하고 있습니다. 물류비 상승 우려에 따라 식품업계 등 관련 업계의 대응도 분주합니다."
+      },
+      {
         "title": "이란, 호르무즈 통제력 잃고 있다",
         "originallink": "https://biz.sbs.co.kr/article_hub/20000337832?division=NAVER",
         "link": "https://n.news.naver.com/mnews/article/374/0000535840?sid=104",
         "description": "이란의 호르무즈 해협 통제력이 약화되고 있으며 이로 인해 미국과의 협상력도 약화되고 있다는 분석이... 호르무즈 해협을 지나는 에너지 수송량도 상당한 수준으로 회복됐습니다. 해양정보업체 케플러는 지난주... ",
         "pubDate": "Thu, 01 Oct 2026 14:04:00 +0900",
         "formatted_date": "10월 01일, 14시 04분",
-        "ai_summary": "호르무즈 해협의 통제력이 약화되고 에너지 수송량이 회복세를 보이면서 이란의 대미 협상력이 낮아지고 있습니다."
+        "ai_summary": "이란의 호르무즈 해협 통제력이 약화되면서 미국과의 협상 입지가 좁아지고 있다는 분석이 나옵니다. 해협을 통한 에너지 수송량이 전쟁 이전 수준으로 상당 부분 회복되었습니다."
       },
       {
         "title": "美·이란, 호르무즈 협상 다시 움직인다…'누가 먼저 양보하나'",
@@ -424,7 +433,7 @@
         "description": "안에 호르무즈 해협을 재개방하겠다고 제안했다. 도널드 트럼프 미국 대통령은 이 제안을 거부했으나... 이 소식통이 로이터에 말한 '이행 순서'는 이란의 이런 조건을 미국이 먼저 이행할지, 아니면 이란이 호르무즈... ",
         "pubDate": "Thu, 01 Oct 2026 13:24:00 +0900",
         "formatted_date": "10월 01일, 13시 24분",
-        "ai_summary": "미국과 이란이 호르무즈 해협 재개방을 두고 협상을 재개했으나, 이행 순서를 두고 양측이 팽팽한 입장 차를 보이고 있습니다."
+        "ai_summary": "미국과 이란이 호르무즈 해협 재개방을 두고 협상을 시도하고 있으나, 양측의 우선 이행 조건을 둘러싼 의견 차이로 난항을 겪고 있습니다. 누가 먼저 양보할지가 관건입니다."
       },
       {
         "title": "호르무즈 선박 피격 4건 뒤늦게 공개",
@@ -433,7 +442,7 @@
         "description": "호르무즈 해협에서 발생한 선박 피격 4건이 뒤늦게 공개되면서 중동전쟁 이후 해상공급망에서 발생하는... 영국 해사무역기구(UKMTO)는 지난달 30일(현지시간) 홈페이지를 통해 “호르무즈 해협에서 일어난 유조선... ",
         "pubDate": "Thu, 01 Oct 2026 13:02:00 +0900",
         "formatted_date": "10월 01일, 13시 02분",
-        "ai_summary": "호르무즈 해협에서 발생한 선박 피격 사건 4건이 뒤늦게 공개되며 중동 해상 공급망의 불안정성이 재조명되고 있습니다."
+        "ai_summary": "최근 호르무즈 해협에서 발생한 선박 피격 사건 4건이 뒤늦게 공개되어 긴장감이 고조되고 있습니다. 이번 사건으로 중동 해상 공급망의 불안정성이 재확인되었습니다."
       },
       {
         "title": "호르무즈 해협 원유 수송 77% 회복…이란 협상 지렛대 약화 가능성",
@@ -442,7 +451,7 @@
         "description": "중동 지역 원유 수출량이 미국과 이란의 전쟁 발발 이전 수준의 98%까지 회복하면서 호르무즈 해협을 둘러싼... 호르무즈 해협을 통한 에너지 운송도 회복세를 보이고 있다. 해양정보업체 케플러에 따르면 지난주... ",
         "pubDate": "Thu, 01 Oct 2026 11:40:00 +0900",
         "formatted_date": "10월 01일, 11시 40분",
-        "ai_summary": "호르무즈 해협을 통한 원유 수송이 전쟁 이전 수준을 회복하면서, 이란이 가진 협상 지렛대인 해협 통제권의 영향력이 약화되고 있습니다."
+        "ai_summary": "호르무즈 해협을 통한 원유 수송량이 전쟁 이전의 98% 수준으로 회복되었습니다. 이로 인해 이란이 해협을 카드로 활용한 협상력이 크게 약화될 가능성이 제기됩니다."
       },
       {
         "title": "호르무즈 하루 972만배럴 다시 흐른다…'이란 해협 카드' 약해지나",
@@ -451,7 +460,7 @@
         "description": "온 호르무즈 해협의 원유 운송이 빠르게 회복되고 있다. 이란의 협상력이 약해질 수 있다는 분석이 나오지만 유가와 유조선 보험료가 여전히 높고 해협 내 공격도 이어져 이란의 ‘호르무즈 카드’가 사라졌다고... ",
         "pubDate": "Thu, 01 Oct 2026 10:46:00 +0900",
         "formatted_date": "10월 01일, 10시 46분",
-        "ai_summary": "호르무즈 해협의 원유 운송은 회복 중이나, 여전히 높은 보험료와 지속적인 공격으로 인해 이란의 위협적인 카드가 완전히 사라진 것은 아니라는 분석입니다."
+        "ai_summary": "호르무즈 해협의 원유 운송이 빠르게 정상화되면서 이란의 협상 카드가 무력화되고 있습니다. 다만 높은 유가와 지속되는 해협 내 공격 위험으로 인해 완전히 안심하기는 이른 상황입니다."
       },
       {
         "title": "호르무즈 해협서 선박 3척 또 피격…이란 연속 공격",
@@ -460,7 +469,7 @@
         "description": "가 호르무즈 해협에서 유조선을 포함한 선박 3척을 연속 타격했다. 2026년 2월 이란 전쟁 발발 이후 이 해협에서 집계된 공격 건수는 74건을 넘어섰다. 해상 안보 분석 기관 윈드워드에 따르면 29일(현지시간) 호르무즈... ",
         "pubDate": "Thu, 01 Oct 2026 10:06:00 +0900",
         "formatted_date": "10월 01일, 10시 06분",
-        "ai_summary": "호르무즈 해협에서 선박 3척이 추가로 피격당하며 전쟁 이후 누적 공격 건수가 74건을 넘어섰습니다."
+        "ai_summary": "호르무즈 해협에서 유조선을 포함한 선박 3척이 또다시 피격당했습니다. 이란 전쟁 발발 이후 해당 지역의 공격 건수는 74건을 넘어섰습니다."
       },
       {
         "title": "[인포맥스 POLL] 호르무즈 리스크·설비 차질에 4Q 유가 80달러↑",
@@ -469,231 +478,231 @@
         "description": "4분기 국제유가는 정유 설비 생산 차질과 호르무즈 해협 정상화 지연 등에 따른 공급 부족이 이어지면서... 최예찬 상상인증권 애널리스트는 &quot;호르무즈 및 바브엘만데브 해협 통항 불확실성이 유지되며 올해... ",
         "pubDate": "Thu, 01 Oct 2026 10:02:00 +0900",
         "formatted_date": "10월 01일, 10시 02분",
-        "ai_summary": "(원문) 4분기 국제유가는 정유 설비 생산 차질과 호르무즈 해협 정상화 지연 등에 따른 공급 부족이 이어지면서... 최예찬 상상인증권 애널리스트는 &qu..."
-      },
-      {
-        "title": "트럼프 &quot;이란전 곧 끝날 것…호르무즈 사실상 완전 통제&quot;",
-        "originallink": "https://www.fntoday.co.kr/news/articleView.html?idxno=394258",
-        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=394258",
-        "description": "통로인 호르무즈 해협을 사실상 통제하고 있다고 주장했다. 9월 30일(현지시간) 미국 언론 보도에 따르면... 트럼프 대통령은 특히 호르무즈 해협에 대해 &quot;거의 완전히 통제하고 있다&quot;며 한발 더 나아가 &quot;완전한 통제라고... ",
-        "pubDate": "Thu, 01 Oct 2026 09:30:00 +0900",
-        "formatted_date": "10월 01일, 09시 30분",
-        "ai_summary": "(원문) 통로인 호르무즈 해협을 사실상 통제하고 있다고 주장했다. 9월 30일(현지시간) 미국 언론 보도에 따르면... 트럼프 대통령은 특히 호르무즈 해..."
+        "ai_summary": "해상 안보 불안과 정유 시설 생산 차질로 공급 부족이 예상되면서 4분기 국제유가가 80달러를 웃돌 전망입니다."
       }
     ],
     "트럼프": [
       {
-        "title": "트럼프 '알래스카 LNG' 콕 찍은 배경에 '폭발 직전' 고유가 민심",
-        "originallink": "https://www.mt.co.kr/world/2026/10/01/2026100111255324674",
-        "link": "https://n.news.naver.com/mnews/article/008/0005421065?sid=101",
-        "description": "도널드 트럼프 미국 대통령이 알래스카 액화천연가스(LNG) 사업에 한국의 투자를 일방적으로 발표한... 트럼프 대통령은 지난달 30일(현지시간) 한국의 대미투자를 발표하는 자리에 참석한 댄 설리번 알래스카 상원의원을... ",
-        "pubDate": "Thu, 01 Oct 2026 14:57:00 +0900",
-        "formatted_date": "10월 01일, 14시 57분",
-        "ai_summary": "(원문) 도널드 트럼프 미국 대통령이 알래스카 액화천연가스(LNG) 사업에 한국의 투자를 일방적으로 발표한... 트럼프 대통령은 지난달 30일(현지시간)..."
+        "title": "트럼프, 알래스카 LNG 韓 투자 일방 발표…李 &quot;상업성 전제 착수&quot;",
+        "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2001773",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2001773",
+        "description": "매일일보 = 이상래 기자   |  도널드 트럼프 미국 대통령이 지난달 30일(현지시간) 백악관에서 한국의... 트럼프 대통령은 백악관 집무실에서 한국의 대미 전략투자 프로젝트를 발표하며 알래스카 LNG 사업을 주요 투자... ",
+        "pubDate": "Thu, 01 Oct 2026 15:48:00 +0900",
+        "formatted_date": "10월 01일, 15시 48분",
+        "ai_summary": "트럼프 대통령이 한국의 알래스카 LNG 투자를 일방적으로 발표했으나, 정부는 상업성이 전제되어야 한다는 신중한 입장을 보였습니다."
       },
       {
-        "title": "트럼프·모디, 통상갈등 속 3개월만 통화…“무역협상 재가동”[1일1트...",
-        "originallink": "https://biz.heraldcorp.com/article/10890675?ref=naver",
-        "link": "https://n.news.naver.com/mnews/article/016/0002704423?sid=104",
-        "description": "트럼프의 한마디에 세계 경제와 금융시장이 출렁이는 시대. 쏟아지는 트럼프 뉴스를 일일이 찾아보기 벅차다면 [1일1트]가 딱입니다. 새벽 5시부터 움직이는 헤럴드경제 국제부가 미국 증시 마감 시황부터 글로벌... ",
-        "pubDate": "Thu, 01 Oct 2026 14:51:00 +0900",
-        "formatted_date": "10월 01일, 14시 51분",
-        "ai_summary": "(원문) 트럼프의 한마디에 세계 경제와 금융시장이 출렁이는 시대. 쏟아지는 트럼프 뉴스를 일일이 찾아보기 벅차다면 [1일1트]가 딱입니다. 새벽 5시부터..."
+        "title": "트럼프가 극찬한 미 정부 AI, 트럼프 주장 반박 하루 뒤 답변 거부",
+        "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779104&plink=ORI&cooper=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/055/0001392438?sid=104",
+        "description": "▲ 미국 도널드 트럼프 대통령 미국 도널드 트럼프 행정부가 출시한 연방정부 인공지능(AI) 챗봇이 트럼프 대통령의 평소 주장과 배치되는 답변을 했다가, 하루 만에 일부 질문에 대한 답변을 거부하기 시작했다고... ",
+        "pubDate": "Thu, 01 Oct 2026 15:47:00 +0900",
+        "formatted_date": "10월 01일, 15시 47분",
+        "ai_summary": "트럼프 행정부의 AI 챗봇이 대통령의 주장과 다른 답변을 내놓았다가, 하루 만에 민감한 질문에 대해 답변을 거부하기 시작했습니다."
       },
       {
-        "title": "빌 게이츠 “AI 자율규제 제정신 아냐”…트럼프 정책에 쓴소리",
-        "originallink": "https://www.sedaily.com/article/20097153?ref=naver",
-        "link": "https://n.news.naver.com/mnews/article/011/0004667348?sid=104",
-        "description": "마이크로소프트(MS) 창업자 빌 게이츠가 인공지능(AI)의 위험성을 경고하며 도널드 트럼프 미국 대통령이... 전날 트럼프 대통령은 연방 차원의 규제를 일축하고 업계 중심의 ‘자율규제’ 합의문에 서명했다. 트럼프... ",
-        "pubDate": "Thu, 01 Oct 2026 14:50:00 +0900",
-        "formatted_date": "10월 01일, 14시 50분",
-        "ai_summary": "(원문) 마이크로소프트(MS) 창업자 빌 게이츠가 인공지능(AI)의 위험성을 경고하며 도널드 트럼프 미국 대통령이... 전날 트럼프 대통령은 연방 차원의..."
+        "title": "트럼프 &quot;알래스카 500억달러&quot; vs 산업부 &quot;검토일 뿐&quot;…MOU·조약 논쟁 재...",
+        "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=855334",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=855334",
+        "description": "도널드 트럼프 미국 대통령이 1일(한국시간) 한국의 알래스카 액화천연가스(LNG) 투자를 기정사실처럼... ◆같은 합의, 다른 설명 트럼프 대통령은 지난달 30일(현지시간) ▲텍사스 가스발전소(223억달러) ▲원전 8기... ",
+        "pubDate": "Thu, 01 Oct 2026 15:46:00 +0900",
+        "formatted_date": "10월 01일, 15시 46분",
+        "ai_summary": "트럼프 대통령은 한국의 대규모 LNG 투자를 기정사실화했으나, 우리 산업부는 검토 단계일 뿐이라며 사실 관계를 바로잡았습니다."
       },
       {
-        "title": "백악관 출입 허용됐지만…트럼프 행정부, CNN 대통령 풀 취재 배제",
-        "originallink": "https://www.news1.kr/world/usa-canada/6307694",
-        "link": "https://n.news.naver.com/mnews/article/421/0009203980?sid=104",
-        "description": "도널드 트럼프 미국 행정부가 CNN 등의 백악관 출입을 막은 조치에 법원이 제동을 건 뒤에도 CNN의 취재를... CNN은 당초 트럼프 대통령의 텍사스와 오클라호마 방문을 담당하는 TV 풀 순번이었지만, 백악관의 조치로... ",
-        "pubDate": "Thu, 01 Oct 2026 14:47:00 +0900",
-        "formatted_date": "10월 01일, 14시 47분",
-        "ai_summary": "(원문) 도널드 트럼프 미국 행정부가 CNN 등의 백악관 출입을 막은 조치에 법원이 제동을 건 뒤에도 CNN의 취재를... CNN은 당초 트럼프 대통령의..."
+        "title": "與, 대미투자 성과 부각…트럼프 ‘알래스카 LNG’ 발표엔 선긋기",
+        "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610011527115930200",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610011527115930200",
+        "description": "다만 도널드 트럼프 미국 대통령이 알래스카 액화천연가스(LNG) 개발 사업을 한국의 투자 대상으로... 그러나 트럼프 대통령은 지난달 30일(현지시간) 한국이 알래스카 LNG 프로젝트를 추진하게 됐다고 발표했고, 하워드... ",
+        "pubDate": "Thu, 01 Oct 2026 15:42:00 +0900",
+        "formatted_date": "10월 01일, 15시 42분",
+        "ai_summary": "여당은 대미 투자 성과를 강조하면서도 트럼프 대통령이 언급한 알래스카 LNG 사업에 대해서는 선을 그었습니다."
       },
       {
-        "title": "트럼프 ‘알래스카 투자 확정’ 발표에 與 “확정 아니야” 野 “굴종외...",
-        "originallink": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283224921899",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283224921899",
-        "description": "한정애 “충분히 검토 후 투자 여부 결정” 김성원 “투자 금액 사전 인지했는지 공개해야” 도널드 트럼프... 이어 “이번 트럼프 대통령의 발언은 알래스카 LNG 프로젝트에 대한 미국 측의 입장을 강조한 것으로... ",
-        "pubDate": "Thu, 01 Oct 2026 14:44:00 +0900",
-        "formatted_date": "10월 01일, 14시 44분",
-        "ai_summary": "(원문) 한정애 “충분히 검토 후 투자 여부 결정” 김성원 “투자 금액 사전 인지했는지 공개해야” 도널드 트럼프... 이어 “이번 트럼프 대통령의 발언은..."
+        "title": "트럼프 행정부 “‘이민 단속 비판’ 연방판사 조사해달라”",
+        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675684&ref=A",
+        "link": "https://n.news.naver.com/mnews/article/056/0012266336?sid=104",
+        "description": "이번 갈등의 출발점은 도널드 트럼프 행정부가 지난해 겨울 미네소타주 미니애폴리스와 세인트폴 등 트윈시티 지역에서 벌인 대규모 이민 단속, 이른바 ‘메트로 서지 작전’입니다. 이 작전으로 이민 당국에 구금된... ",
+        "pubDate": "Thu, 01 Oct 2026 15:39:00 +0900",
+        "formatted_date": "10월 01일, 15시 39분",
+        "ai_summary": "트럼프 행정부가 이민 단속 작전을 비판한 연방 판사에 대해 조사를 요구하며 사법부와의 갈등을 빚고 있습니다."
       },
       {
-        "title": "트럼프 &quot;시진핑과 정치범 석방 문제 논의…유익했길&quot;",
-        "originallink": "https://www.ajunews.com/view/20261001130935246",
-        "link": "https://www.ajunews.com/view/20261001130935246",
-        "description": "구체적 내용은 공개 안 해…&quot;매우 중요한 논의 했다&quot; 황진현 기자 jinhyun97@ajunews.com 트럼프 대통령(오른쪽)과 시진핑 주석 [사진=UPI·연합뉴스] 도널드 트럼프 미국 대통령이 지난주 시진핑 중국 국가주석과의 정상회담에서... ",
-        "pubDate": "Thu, 01 Oct 2026 14:40:00 +0900",
-        "formatted_date": "10월 01일, 14시 40분",
-        "ai_summary": "(원문) 구체적 내용은 공개 안 해…&quot;매우 중요한 논의 했다&quot; 황진현 기자 jinhyun97@ajunews.com 트럼프 대통령(오른쪽..."
+        "title": "트럼프가 극찬한 정부 AI, 트럼프 주장 반박했다가 하루 뒤엔 “말 안할...",
+        "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675683&ref=A",
+        "link": "https://n.news.naver.com/mnews/article/056/0012266335?sid=104",
+        "description": "미국 도널드 트럼프 행정부가 출시한 연방정부 인공지능(AI) 챗봇이 트럼프 대통령의 평소 주장과 배치되는 답변을 했다가, 하루 만에 일부 질문에 대한 답변을 거부하기 시작했다고 AFP통신이 현지 시각 1일... ",
+        "pubDate": "Thu, 01 Oct 2026 15:37:00 +0900",
+        "formatted_date": "10월 01일, 15시 37분",
+        "ai_summary": "정부 AI 챗봇이 트럼프 대통령의 정책과 배치되는 답변을 한 뒤 논란이 일자 해당 질문들에 대한 답변을 회피하고 있습니다."
       },
       {
-        "title": "진보당, 트럼프 대미투자 발표 규탄…전면 재협상 촉구",
-        "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=318538",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=318538",
-        "description": "진보당이 도널드 트럼프 미국 대통령의 '한국 대미투자' 계획 발표를 규탄하며 정부에 합의 원천 무효화 및... 열고 &quot;날강도 트럼프, 한국 경제 수탈 중단하라&quot;고 밝혔다. 진보당 의원들은 미국 측 발표가 한국 정부의 기존... ",
-        "pubDate": "Thu, 01 Oct 2026 14:38:00 +0900",
-        "formatted_date": "10월 01일, 14시 38분",
-        "ai_summary": "(원문) 진보당이 도널드 트럼프 미국 대통령의 '한국 대미투자' 계획 발표를 규탄하며 정부에 합의 원천 무효화 및... 열고 &quot;날강도 트럼프, ..."
+        "title": "[월가 톡톡] 트럼프의 꿈 '노벨상' 카니가 차지하나",
+        "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437409",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437409",
+        "description": "권용욱 이재헌 김지연 이민재 박지은 기자 = 도널드 트럼프 미국 대통령에 맞서며 국제적으로 주목받은... 아울러 미국 시사주간지 타임도 카니 총리를 올해 가장 영향력 있는 인물 100명에 포함하며 트럼프 대통령에... ",
+        "pubDate": "Thu, 01 Oct 2026 15:36:00 +0900",
+        "formatted_date": "10월 01일, 15시 36분",
+        "ai_summary": "트럼프 대통령에 맞서 주목받은 카니 총리가 유력한 노벨상 후보로 거론되며 미국 내에서 비중 있게 다뤄지고 있습니다."
       },
       {
-        "title": "한국은 아직 검토 중인데...트럼프가 먼저 공개한 '한국 투자 리스트' [...",
-        "originallink": "https://www.ytn.co.kr/_ln/0134_202610011437308179",
-        "link": "https://n.news.naver.com/mnews/article/052/0002413416?sid=104",
-        "description": "트럼프 대통령은 자신이 체결한 무역협정 덕분에 한국이 미국 역사상 최대 규모의 에너지 인프라 투자에... [도널드 트럼프 / 미국 대통령 : 알래스카 주민들에게 엄청난 성과입니다. 즉시 최대 12,000개의 건설 일자리와 1... ",
-        "pubDate": "Thu, 01 Oct 2026 14:37:00 +0900",
-        "formatted_date": "10월 01일, 14시 37분",
-        "ai_summary": "(원문) 트럼프 대통령은 자신이 체결한 무역협정 덕분에 한국이 미국 역사상 최대 규모의 에너지 인프라 투자에... [도널드 트럼프 / 미국 대통령 : 알..."
+        "title": "트럼프, 韓 알래스카 LNG 투자 발표…산업부 “투자 여부·규모 미정”",
+        "originallink": "https://www.ceoscoredaily.com/page/view/2026100114023639153",
+        "link": "https://www.ceoscoredaily.com/page/view/2026100114023639153",
+        "description": "도널드 트럼프 미국 대통령이 한국의 대미투자 사업으로 텍사스 가스복합화력발전소를 비롯해 대형... 트럼프 대통령은 30일(현지시간) 하워드 러트닉 상무장관, 더그 버검 내무장관, 크리스 라이트 에너지장관, 댄... ",
+        "pubDate": "Thu, 01 Oct 2026 15:28:00 +0900",
+        "formatted_date": "10월 01일, 15시 28분",
+        "ai_summary": "트럼프 대통령이 한국의 알래스카 LNG 투자를 공식 발표했으나, 산업부는 투자 여부와 규모가 결정된 바 없다고 반박했습니다."
       },
       {
-        "title": "트럼프는 알래스카 韓투자 못박았는데…美공식문서는 '조건부'",
-        "originallink": "https://www.fnnews.com/news/202610011429366357",
-        "link": "https://n.news.naver.com/mnews/article/014/0005583728?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 한국의 알래스카 액화천연가스(LNG) 사업 투자를 기정사실인 것처럼 못... 상업적 합리성 등을 사업 추진의 전제조건으로 명시한 미 정부 공식 문구와 상당한 차이가 있는 트럼프... ",
-        "pubDate": "Thu, 01 Oct 2026 14:35:00 +0900",
-        "formatted_date": "10월 01일, 14시 35분",
-        "ai_summary": "트럼프는 한국의 알래스카 LNG 투자를 확정된 것처럼 언급했으나, 미 정부 공식 문서에는 상업적 합리성 등 조건부 전제조건이 명시되어 있습니다."
+        "title": "트럼프가 극찬한 美정부 AI, 트럼프 주장 반박 하루 뒤 답변 거부",
+        "originallink": "https://www.yna.co.kr/view/AKR20261001139500009?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016351002?sid=104",
+        "description": "대선 부정선거론에 &quot;정황 발견 안 돼&quot;→&quot;과거 선거 분석 안 해&quot; 입장 바꿔 미국 도널드 트럼프 행정부가 출시한 연방정부 인공지능(AI) 챗봇이 트럼프 대통령의 평소 주장과 배치되는 답변을 했다가, 하루 만에 일부... ",
+        "pubDate": "Thu, 01 Oct 2026 15:27:00 +0900",
+        "formatted_date": "10월 01일, 15시 27분",
+        "ai_summary": "트럼프 행정부의 AI 챗봇이 부정선거 관련 질문에 트럼프의 주장과 배치되는 답변을 내놓았다가 하루 만에 답변을 거부했습니다."
       },
       {
-        "title": "트럼프 “이재명 대통령 만나 2천억 달러 투자 합의”",
-        "originallink": "https://vop.co.kr/A00001696950.html",
-        "link": "https://vop.co.kr/A00001696950.html",
-        "description": "도널드 트럼프 미국 대통령이 최근 뉴욕에서 이재명 대통령을 만나 2천억 달러 신규 투자를 시작하는 데 합의했다고 주장했다.트럼프 대통령은 1일 SNS인 트루스소셜 계정이 올린 글을 통해 이같이 밝혔다. 트럼프... ",
-        "pubDate": "Thu, 01 Oct 2026 14:34:00 +0900",
-        "formatted_date": "10월 01일, 14시 34분",
-        "ai_summary": "트럼프 대통령이 최근 이재명 대통령과 만나 2천억 달러 규모의 신규 투자에 합의했다고 SNS를 통해 주장했습니다."
+        "title": "트럼프, “뉴욕서 李 대통령과 2000억달러 투자 합의“... 외교부 “LNG ...",
+        "originallink": "https://biz.chosun.com/international/international_general/2026/10/01/NDW2HNISR5EFLHF7YS7AAFWYFE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "link": "https://n.news.naver.com/mnews/article/366/0001195658?sid=104",
+        "description": "트럼프, 대미 투자 발표 후 SNS에 공개 도널드 트럼프 미국 대통령이 지난달 이재명 대통령과 만나 2000억달러(271조5200억원) 규모의 대미 투자를 시작하기로 합의했다고 밝힌 가운데, 외교부는 투자 대상 중 하나로... ",
+        "pubDate": "Thu, 01 Oct 2026 15:26:00 +0900",
+        "formatted_date": "10월 01일, 15시 26분",
+        "ai_summary": "트럼프 대통령이 이재명 대통령과 2,000억 달러 규모의 대미 투자 합의를 발표했으나, 외교부는 상세 투자처에 대해 말을 아꼈습니다."
       }
     ],
     "유가": [
       {
-        "title": "김영환 &quot;최근 물가 상승, 수요 압력 아닌 유가·환율 영향 커&quot;",
-        "originallink": "https://www.tournews21.com/news/articleView.html?idxno=144738",
-        "link": "https://www.tournews21.com/news/articleView.html?idxno=144738",
-        "description": "최근 소비자물가 상승이 한국은행의 판단과 달리 수요 압력보다는 유가와 환율 등 공급 측 요인에 주로... 원인은 유가와 환율 변동 등 공급사이드 영향으로 나타났다. 이는 앞서 한국은행이 수요측 물가 압력 확대를... ",
-        "pubDate": "Thu, 01 Oct 2026 14:24:00 +0900",
-        "formatted_date": "10월 01일, 14시 24분",
-        "ai_summary": "김영환 의원은 최근 물가 상승이 한국은행의 판단과 달리 수요 압력이 아닌 유가와 환율 등 공급 측 요인에 기인한다고 분석했습니다."
+        "title": "동절기 난방비 시즌 시작…고유가에 취약계층 부담 커지나",
+        "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491921",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491921",
+        "description": "연합뉴스 중동 정세 불안에 따른 국제유가 변동성이 이어지는 가운데 겨울철 난방비 부담이 다시 민생 변수로 떠오르고 있다. 특히 도시가스보다 국제 석유가격 변화에 직접적인 영향을 받는 등유·액화석유가스(LPG)... ",
+        "pubDate": "Thu, 01 Oct 2026 15:44:00 +0900",
+        "formatted_date": "10월 01일, 15시 44분",
+        "ai_summary": "국제유가 변동성이 커지면서 겨울철 난방비 부담이 취약계층의 민생 경제를 위협하는 주요 변수로 떠오르고 있습니다."
       },
       {
-        "title": "9월 4주 유가↓, 美 수요 감소·중동 수출 회복",
-        "originallink": "http://amenews.kr/news/view.php?idx=68183",
-        "link": "http://amenews.kr/news/view.php?idx=68183",
-        "description": "9월 넷째 주 국제유가는 미국의 원유 수요 감소 우려와 중동 산유국의 원유 수출 회복으로 전 유종이... 한국석유공사 석유정보센터(PISC)가 발표한 ‘9월 4주 주간 국제유가 동향’에 따르면, 브렌트유 평균 가격은 전주... ",
-        "pubDate": "Thu, 01 Oct 2026 14:00:00 +0900",
-        "formatted_date": "10월 01일, 14시 00분",
-        "ai_summary": "미국의 원유 수요 감소 우려와 중동 지역의 원유 수출 회복으로 인해 9월 넷째 주 국제유가가 전반적으로 하락했습니다."
+        "title": "고유가에 금리 인하 꿈 ‘잿더미’⋯세계 국채, 2024년 말 이후 최악 분...",
+        "originallink": "https://www.etoday.co.kr/news/view/2631585",
+        "link": "https://www.etoday.co.kr/news/view/2631585",
+        "description": "1%↓ 인플레이션 공포, 국채금리 급등으로 이어져 저금리 전망도 빠르게 퇴색 국제유가가 배럴당... 중동 지역의 분쟁으로 국제유가가 한때 배럴당 100달러 선까지 올라선 데다 AI 인프라에 투입되는 대규모 투자와... ",
+        "pubDate": "Thu, 01 Oct 2026 15:36:00 +0900",
+        "formatted_date": "10월 01일, 15시 36분",
+        "ai_summary": "고유가로 인한 인플레이션 공포와 국채금리 급등으로 시장 내 금리 인하 기대감이 빠르게 사그라들고 있습니다."
       },
       {
-        "title": "유가 100달러·금리 상승 땐 코스피 17%↓ … &quot;10월엔 종목 선별 관건&quot;",
-        "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100073.html",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100073.html",
-        "description": "뉴데일리 박정은 기자 = 10월 증시는 유가 재상승과 원화 강세, 3분기 실적 부진 등 대내외 악재에 시달릴 것으로 전망된다. 국제 유가가 배럴당 100달러를 넘고 미국 국채금리까지 오르면 코스피가 최대 17% 하락할 수... ",
-        "pubDate": "Thu, 01 Oct 2026 14:00:00 +0900",
-        "formatted_date": "10월 01일, 14시 00분",
-        "ai_summary": "10월 증시는 유가 상승과 금리 인상 등 악재가 겹칠 경우 코스피가 최대 17% 하락할 수 있어 종목 선별이 중요한 시점입니다."
+        "title": "중동산 원유 수송 증가에 국제 유가 떨어져",
+        "originallink": "https://www.fnnews.com/news/202610011513519273",
+        "link": "https://n.news.naver.com/mnews/article/014/0005583778?sid=101",
+        "description": "중동의 원유 수출이 회복되고 있다는 소식에 1일 국제유가가 떨어졌다. CNBC방송은 12월물 북해산 브렌트유... 애널리스트들은 송유관 수송량이 전쟁 이전만 못하나 재가동 사실이 숨통을 트이게 하고 유가를... ",
+        "pubDate": "Thu, 01 Oct 2026 15:29:00 +0900",
+        "formatted_date": "10월 01일, 15시 29분",
+        "ai_summary": "중동 지역의 원유 수송량이 일부 회복세를 보이면서 국제유가가 하락 전환했습니다."
+      },
+      {
+        "title": "트럼프 '알래스카 LNG' 콕 찍은 배경에 '폭발 직전' 고유가 민심",
+        "originallink": "https://www.mt.co.kr/world/2026/10/01/2026100111255324674",
+        "link": "https://n.news.naver.com/mnews/article/008/0005421065?sid=101",
+        "description": "알래스카는 전통적인 공화당 텃밭으로 분류됐지만 이란전쟁 후 고유가·고물가에 직격타를 맞으면서 민심이 반전됐다. 트럼프 대통령은 지난달 30일(현지시간) 한국의 대미투자를 발표하는 자리에 참석한 댄 설리번... ",
+        "pubDate": "Thu, 01 Oct 2026 14:57:00 +0900",
+        "formatted_date": "10월 01일, 14시 57분",
+        "ai_summary": "트럼프 대통령이 알래스카 LNG 투자를 강조한 것은 고유가·고물가로 악화된 공화당 텃밭의 민심을 달래기 위한 전략으로 풀이됩니다."
       }
     ],
     "코스피": [
       {
-        "title": "신한운용 '코스피200 타켓위클리 커버드콜', 9월 주당 170원 분배",
-        "originallink": "http://www.metroseoul.co.kr/article/20261001500377",
-        "link": "http://www.metroseoul.co.kr/article/20261001500377",
-        "description": "신한자산운용의 'SOL 200타겟위클리커버드콜 ETF'는 코스피200에 투자하면서 옵션 프리미엄과 배당수익을... 'SOL 200타겟위클리커버드콜 ETF'는 코스피200 지수를 기초자산으로 활용해 옵션 프리미엄과 배당수익을... ",
-        "pubDate": "Thu, 01 Oct 2026 14:52:00 +0900",
-        "formatted_date": "10월 01일, 14시 52분",
-        "ai_summary": "신한자산운용의 'SOL 200타겟위클리커버드콜 ETF'가 9월 주당 170원의 분배금을 지급하며 배당수익을 실현했습니다."
+        "title": "코스피-코스닥 상승 마감",
+        "originallink": "https://www.yna.co.kr/view/PYH20261001245300013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016351203?sid=101",
+        "description": "1일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥지수 등이 표시되고 있다. 이날 코스피는 전장보다 133.31포인트(1.95%) 오른 6,971.35로, 코스닥지수는38.38포인트(4.48%) 오른 894.29로 장을... ",
+        "pubDate": "Thu, 01 Oct 2026 15:52:00 +0900",
+        "formatted_date": "10월 01일, 15시 52분",
+        "ai_summary": "1일 코스피와 코스닥 지수가 큰 폭으로 상승하며 장을 마감했습니다."
       },
       {
-        "title": "&quot;대미 전략투자, 코스피엔 중립…원전·가스터빈은 수혜&quot;",
-        "originallink": "https://www.yna.co.kr/view/AKR20261001125300008?input=1195m",
-        "link": "https://n.news.naver.com/mnews/article/001/0016350651?sid=101",
-        "description": "관련, 코스피 지수 전체에는 중립적인 이벤트라고 평가했다. 다만, 원전과 가스터빈, 액화천연가스(LNG) 밸류체인 등 일부 업종에는 수혜가 예상된다고 분석했다. 대신증권 이경민 연구원은 이날 보고서에서 미국이... ",
-        "pubDate": "Thu, 01 Oct 2026 14:46:00 +0900",
-        "formatted_date": "10월 01일, 14시 46분",
-        "ai_summary": "미국 대상 전략투자는 코스피 전체에는 중립적이나, 원전·가스터빈·LNG 등 관련 밸류체인 업종에는 수혜가 예상됩니다."
+        "title": "코스피-코스닥 상승 마감",
+        "originallink": "https://www.yna.co.kr/view/PYH20261001245400013?input=1196m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016351204?sid=101",
+        "description": "1일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥지수 등이 표시되고 있다. 이날 코스피는 전장보다 133.31포인트(1.95%) 오른 6,971.35로, 코스닥지수는38.38포인트(4.48%) 오른 894.29로 장을... ",
+        "pubDate": "Thu, 01 Oct 2026 15:52:00 +0900",
+        "formatted_date": "10월 01일, 15시 52분",
+        "ai_summary": "1일 코스피와 코스닥 지수가 전일 대비 각각 1.95%, 4.48% 상승하며 마감했습니다."
       },
       {
-        "title": "코스피, 1.7% 반등 6900선 재진입…삼전·닉스도 2%대 강세",
-        "originallink": "https://www.g-enews.com/view.php?ud=202610011309029371923c501012_1",
-        "link": "https://www.g-enews.com/view.php?ud=202610011309029371923c501012_1",
-        "description": "코스피가 장 초반 약세를 뒤집고 상승 흐름을 타면서 재차 6900선에 진입했다. 간밤 마이크론... 1일 한국거래소에 따르면 이 날 오후 2시 32분 기준 코스피 지수는 전 거래일 대비 1.72%(117.42포인트) 오른 6955.... ",
-        "pubDate": "Thu, 01 Oct 2026 14:40:00 +0900",
-        "formatted_date": "10월 01일, 14시 40분",
-        "ai_summary": "마이크론 호실적 등에 힘입어 코스피가 1.7% 반등하며 6900선을 회복했고, 삼성전자와 SK하이닉스도 강세를 보였습니다."
+        "title": "[마감시황] 코스피, 133.31포인트(+1.95%) 오른 6971.35 마감",
+        "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=209117",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=209117",
+        "description": "라이센스뉴스 = 김재용 기자 | 1일, 종가 기준으로 코스피가 전 거래일에 비해 133.31포인트(+1.95%) 상승하며 6971.35에 거래를 마쳤다. 전일, 미국 국채금리 인상의 여파로 소폭 하락한 코스피는 오늘은 미국... ",
+        "pubDate": "Thu, 01 Oct 2026 15:52:00 +0900",
+        "formatted_date": "10월 01일, 15시 52분",
+        "ai_summary": "미국 국채금리 여파로 하락했던 코스피가 반등에 성공하며 6,971.35로 장을 마쳤습니다."
       },
       {
-        "title": "마이크론 실적·수출 호재가 ‘쌍끌이’…삼전·닉스, 코스피 반등 견인",
-        "originallink": "https://www.g-enews.com/view.php?ud=202610011403524078923c501012_1",
-        "link": "https://www.g-enews.com/view.php?ud=202610011403524078923c501012_1",
-        "description": "힘입어 코스피가 장 초반 약세를 뒤집고 상승세를 보이고 있다. 여기에는 마이크론 호실적에 따른 반도체 호황 재증명과 반도체 수출 호조가 뒷받침했다. 1일 한국거래소에 따르면 오후 2시 2분 기준 코스피... ",
-        "pubDate": "Thu, 01 Oct 2026 14:26:00 +0900",
-        "formatted_date": "10월 01일, 14시 26분",
-        "ai_summary": "마이크론의 실적 호조와 국내 반도체 수출 호재가 맞물리며 삼성전자와 SK하이닉스가 코스피 상승을 주도하고 있습니다."
+        "title": "코스피 상승전환해 7000선 턱밑까지…코스닥은 4%대 '급등'",
+        "originallink": "https://www.hankyung.com/article/2026100181336",
+        "link": "https://n.news.naver.com/mnews/article/015/0005338202?sid=101",
+        "description": "10월 첫 거래일 코스피가 장초반 약세를 딛고 2% 가까이 상승해 7000선 턱밑까지 치고 올라갔다. 코스닥은 4% 넘게 급등해 900선을 눈 앞에 뒀다. 1일 코스피는 전일 대비 133.31포인트(1.95%) 오른 6971.35에 거래를... ",
+        "pubDate": "Thu, 01 Oct 2026 15:51:00 +0900",
+        "formatted_date": "10월 01일, 15시 51분",
+        "ai_summary": "1일 코스피는 7,000선 턱밑까지 상승했고, 코스닥은 4% 넘게 급등하며 900선 돌파를 눈앞에 두었습니다."
       },
       {
-        "title": "미래에셋자산운용 'TIGER 200 ETF'…'코스피200' 대표 상품 자리매김",
-        "originallink": "https://www.100ssd.co.kr/news/articleView.html?idxno=213167",
-        "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=213167",
-        "description": "한국거래소에 따르면 30일 기준 'TIGER 200 ETF'의 연초 이후 수익률은 81.28%로, 국내 상장 코스피200 지수... 이에 미래에셋자산운용은 'TIGER 200 ETF'가 국내 상장된 코스피200 지수 추종 ETF 중 연초 이후 수익률... ",
-        "pubDate": "Thu, 01 Oct 2026 14:26:00 +0900",
-        "formatted_date": "10월 01일, 14시 26분",
-        "ai_summary": "미래에셋자산운용의 'TIGER 200 ETF'가 연초 이후 81.28%의 높은 수익률을 기록하며 대표적인 코스피200 상품으로 자리 잡았습니다."
+        "title": "마이크론·반도체 수출 호조에 코스피 상승 마감",
+        "originallink": "https://www.news1.kr/photos/8137788",
+        "link": "https://n.news.naver.com/mnews/article/421/0009204411?sid=101",
+        "description": "이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로 마쳤다. 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 5.6원 오른 1358.4원을 기록했다.... ",
+        "pubDate": "Thu, 01 Oct 2026 15:51:00 +0900",
+        "formatted_date": "10월 01일, 15시 51분",
+        "ai_summary": "(원문) 이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로..."
       },
       {
-        "title": "마이크론 호실적에 반도체주 반등…코스피 6900선 회복·코스닥 3%대 급...",
-        "originallink": "https://www.sedaily.com/article/20097108?ref=naver",
-        "link": "https://n.news.naver.com/mnews/article/011/0004667312?sid=101",
-        "description": "1일 하락 출발했던 코스피와 코스닥이 상승 전환하며 각각 장중 6900선과 880선을 회복했다. 미국 메모리... 1일 한국거래소에 따르면 오후 1시 33분 기준 코스피는 전 거래일보다 81.70포인트(1.19%) 오른 6919.74를... ",
-        "pubDate": "Thu, 01 Oct 2026 14:11:00 +0900",
-        "formatted_date": "10월 01일, 14시 11분",
-        "ai_summary": "미국 마이크론의 호실적 영향으로 반도체주가 반등하며 코스피가 6900선, 코스닥이 880선을 회복했다."
+        "title": "코스피, 반도체 수출 호조에 상승 마감",
+        "originallink": "https://www.news1.kr/photos/8137791",
+        "link": "https://n.news.naver.com/mnews/article/421/0009204408?sid=101",
+        "description": "이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로 마쳤다. 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 5.6원 오른 1358.4원을 기록했다.... ",
+        "pubDate": "Thu, 01 Oct 2026 15:51:00 +0900",
+        "formatted_date": "10월 01일, 15시 51분",
+        "ai_summary": "(원문) 이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로..."
       },
       {
-        "title": "유가 100달러·금리 상승 땐 코스피 17%↓ … &quot;10월엔 종목 선별 관건&quot;",
-        "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100073.html",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100073.html",
-        "description": "국제 유가가 배럴당 100달러를 넘고 미국 국채금리까지 오르면 코스피가 최대 17% 하락할 수 있다는 분석도... 상승하면 코스피는 17%, S&amp;P500지수는 13%까지 하락할 수 있다는 추정이다. 유가가 120달러를 넘으면 긴축이... ",
-        "pubDate": "Thu, 01 Oct 2026 14:00:00 +0900",
-        "formatted_date": "10월 01일, 14시 00분",
-        "ai_summary": "국제 유가 100달러 돌파와 미 국채 금리 상승이 겹칠 경우 코스피가 최대 17% 하락할 수 있다는 분석이 나왔다. 이에 따라 10월 시장에서는 종목 선별의 중요성이 커지고 있다."
+        "title": "마이크론·반도체 수출 호조에 코스피·코스닥 상승 마감",
+        "originallink": "https://www.news1.kr/photos/8137793",
+        "link": "https://n.news.naver.com/mnews/article/421/0009204406?sid=101",
+        "description": "이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로 마쳤다. 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 5.6원 오른 1358.4원을 기록했다.... ",
+        "pubDate": "Thu, 01 Oct 2026 15:51:00 +0900",
+        "formatted_date": "10월 01일, 15시 51분",
+        "ai_summary": "(원문) 이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로..."
       },
       {
-        "title": "[장중시황] 코스피 1% 올라 6900선 회복⋯ 코스닥은 3%대 강세",
-        "originallink": "https://www.viva100.com/article/20261001501055",
-        "link": "https://www.viva100.com/article/20261001501055",
-        "description": "코스피가 1% 넘게 오르며 6900선을 회복했다. 개인과 외국인이 동반 순매도하는 가운데 삼성전자와... 1일 한국거래소에 따르면 오후 1시 47분 기준 코스피는 전 거래일보다 74.28포인트(1.09%) 오른 6912.32를... ",
-        "pubDate": "Thu, 01 Oct 2026 13:58:00 +0900",
-        "formatted_date": "10월 01일, 13시 58분",
-        "ai_summary": "개인과 외국인의 매도세에도 불구하고 삼성전자 등 반도체 관련주가 강세를 보이며 코스피가 1%대 상승해 6900선을 되찾았다."
+        "title": "마이크론·반도체 수출 호조에 코스피 상승 마감",
+        "originallink": "https://www.news1.kr/photos/8137789",
+        "link": "https://n.news.naver.com/mnews/article/421/0009204410?sid=101",
+        "description": "이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로 마쳤다. 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 5.6원 오른 1358.4원을 기록했다.... ",
+        "pubDate": "Thu, 01 Oct 2026 15:51:00 +0900",
+        "formatted_date": "10월 01일, 15시 51분",
+        "ai_summary": "(원문) 이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로..."
       },
       {
-        "title": "마이크론 훈풍에 반전…코스피 6900선 회복",
-        "originallink": "https://www.mstoday.co.kr/news/articleView.html?idxno=200029",
-        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=200029",
-        "description": "바꾸며 코스피 6900선을 회복했다. 30일(현지시간) 뉴욕증시는 혼조세로 마감했다.... ◆ 6780선까지 밀린 코스피 반전…6900선 회복 1일 국내 증시는 미국 국채금리 부담에 약세로 출발했다. 코스피는 전 거래일보다 23.... ",
-        "pubDate": "Thu, 01 Oct 2026 13:56:00 +0900",
-        "formatted_date": "10월 01일, 13시 56분",
-        "ai_summary": "미 국채 금리 부담으로 약세 출발했던 코스피가 마이크론의 실적 호조에 힘입어 반등에 성공하며 6900선을 회복했다."
+        "title": "마이크론·반도체 수출 호조에 코스피·코스닥 상승 마감",
+        "originallink": "https://www.news1.kr/photos/8137790",
+        "link": "https://n.news.naver.com/mnews/article/421/0009204409?sid=101",
+        "description": "이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로 마쳤다. 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 5.6원 오른 1358.4원을 기록했다.... ",
+        "pubDate": "Thu, 01 Oct 2026 15:51:00 +0900",
+        "formatted_date": "10월 01일, 15시 51분",
+        "ai_summary": "(원문) 이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로..."
       },
       {
-        "title": "[食전食후] 코스피, 장중 6920선 반등…마이크론 호실적에 반도체주 강...",
-        "originallink": "https://www.ajunews.com/view/20261001134323335",
-        "link": "https://www.ajunews.com/view/20261001134323335",
-        "description": "아주경제=송윤서 기자 sys0303@ajunews.com 코스피가 하락 출발한 1일 서울 중구 하나은행 본점 딜링룸 전광판에 실시간 코스피와 코스닥, 원/달러 환율이 표시되고 있다. 코스피 지수는 23.55p(0.34%) 내린 6814.49로... ",
-        "pubDate": "Thu, 01 Oct 2026 13:48:00 +0900",
-        "formatted_date": "10월 01일, 13시 48분",
-        "ai_summary": "코스피가 하락 출발했으나 마이크론 호실적에 따른 반도체주의 강세로 장중 6920선까지 반등했다."
+        "title": "코스피, 1.95% 상승한 6971.35 마감",
+        "originallink": "https://www.news1.kr/photos/8137787",
+        "link": "https://n.news.naver.com/mnews/article/421/0009204412?sid=101",
+        "description": "이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로 마쳤다. 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 5.6원 오른 1358.4원을 기록했다.... ",
+        "pubDate": "Thu, 01 Oct 2026 15:51:00 +0900",
+        "formatted_date": "10월 01일, 15시 51분",
+        "ai_summary": "(원문) 이날 코스피는 전 거래일보다 133.31포인트(1.95%) 상승한 6,971.35로, 코스닥은 38.38포인트(4.48%) 상승한 894.29로..."
       }
     ]
   },
-  "last_updated": "2026-10-01 15:00:31"
+  "last_updated": "2026-10-01 16:00:50"
 }
