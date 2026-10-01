@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01 02:11:43",
+  "last_updated": "2026-10-01 10:14:11",
   "schedules": [
     {
       "date": "2026-10-02",
@@ -8,6 +8,14 @@
       "committee": "",
       "location": "의원회관 제10간담회의실(217호)",
       "type": "sanja"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "10:30",
+      "title": "제439회국회(정기회) 제2차 전체회의",
+      "committee": "국회운영위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-10-02",
@@ -24,6 +32,14 @@
       "committee": "",
       "location": "의원회관 신관 제3세미나실",
       "type": "sanja"
+    },
+    {
+      "date": "2026-10-01",
+      "time": "본회의 산회 직후",
+      "title": "제439회국회(정기회) 제5차 전체회의",
+      "committee": "정무위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-10-01",
