@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-01 10:14:11",
+  "last_updated": "2026-10-02 02:18:36",
   "schedules": [
+    {
+      "date": "2026-10-06",
+      "time": "09:30~12:00",
+      "title": "AI 시대, 공공 업무환경 혁신을 위한 DaaS 제도화 전략 국회 정책 토론회",
+      "committee": "",
+      "location": "국회도서관 대강당",
+      "type": "gihyu"
+    },
     {
       "date": "2026-10-02",
       "time": "16:00",
@@ -11,7 +19,7 @@
     },
     {
       "date": "2026-10-02",
-      "time": "10:30",
+      "time": "11:00",
       "title": "제439회국회(정기회) 제2차 전체회의",
       "committee": "국회운영위원회",
       "location": null,
@@ -43,11 +51,27 @@
     },
     {
       "date": "2026-10-01",
+      "time": "14:05",
+      "title": "한국 영상콘텐츠산업 관련 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-10-01",
       "time": "13:30",
       "title": "산업안보가 된 디스플레이, AI로 이끄는 초격차",
       "committee": "",
       "location": "의원회관 신관 제3세미나실",
       "type": "sanja"
+    },
+    {
+      "date": "2026-10-01",
+      "time": "10:21",
+      "title": "대기환경보전법 일부개정법률안 대표발의 기자회견",
+      "committee": "",
+      "location": null,
+      "type": "gihyu"
     },
     {
       "date": "2026-10-01",
