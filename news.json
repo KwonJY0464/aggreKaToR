@@ -1,143 +1,215 @@
 {
   "pane1": [
     {
-      "title": "[속보]12개국 IP로 금융권 노렸다…금감원 '공격 주소' 19개 특정",
-      "originallink": "https://economist.co.kr/article/view/ecn202610060023",
-      "link": "https://n.news.naver.com/mnews/article/243/0000103902?sid=101",
-      "description": "12개국 IP로 금융권 노렸다…금감원 '공격 주소' 19개 특정",
-      "pubDate": "Tue, 06 Oct 2026 10:55:00 +0900",
-      "formatted_date": "10월 06일, 10시 55분",
-      "ai_summary": "금융감독원이 국내 금융권을 겨냥한 12개국 IP 주소 19개를 특정했습니다. 사이버 공격 차단을 위한 조치로 보입니다."
+      "title": "[속보] 임은정 광주중수청장, &quot;당장 정상 가동·지청 신설 어려워&quot;",
+      "originallink": "http://www.jmbc.co.kr/news/view_breakingnews/68526",
+      "link": "https://n.news.naver.com/mnews/article/659/0000047501?sid=102",
+      "description": "초대 광주지방중대범죄수사청장에 오른 임은정 청장이 사실상 '개문발차' 상태인 중수청 체제에 대한 시민 양해를 구했습니다. 임 청장은 오늘(6일) 출근길 약식 문답에 나서 현재 중수청은 당장 정상 가동이 불가능한... ",
+      "pubDate": "Tue, 06 Oct 2026 11:55:00 +0900",
+      "formatted_date": "10월 06일, 11시 55분",
+      "ai_summary": "임은정 초대 광주중수청장이 인력 및 체계 미비로 인해 현재 중수청의 정상 가동이 어렵다고 밝혔습니다. 시민들에게 이해를 구하며 체제 정비까지 시간이 필요함을 시사했습니다."
     },
     {
-      "title": "[속보] 김포 방향 서김포통진 IC 전도 사고…전면 통제 중",
-      "originallink": "https://news.skbroadband.com/news/articleView.html?idxno=239438",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=239438",
-      "description": "김포 방향 서김포통진 IC 진출 램프서 차량 전도 사고로 인해 해당 구간 전면 통제 중으로  정보 확인 후 우회 바랍니다.",
-      "pubDate": "Tue, 06 Oct 2026 10:54:00 +0900",
-      "formatted_date": "10월 06일, 10시 54분",
-      "ai_summary": "김포 방향 서김포통진 IC 진출로에서 차량 전도 사고가 발생했습니다. 해당 구간이 전면 통제 중이니 우회 바랍니다."
+      "title": "[속보]윤호중 &quot;수장 없는 중수청 출범·인사청문 요청 지연 송구&quot;",
+      "originallink": "https://www.newsis.com/view/NISX20261006_0003815336",
+      "link": "https://n.news.naver.com/mnews/article/003/0014235239?sid=100",
+      "description": "후속기사가 이어집니다",
+      "pubDate": "Tue, 06 Oct 2026 11:53:00 +0900",
+      "formatted_date": "10월 06일, 11시 53분",
+      "ai_summary": "윤호중 의원이 수장 없는 중수청의 출범과 인사청문 요청 지연 상황에 대해 유감을 표명했습니다."
     },
     {
-      "title": "[속보] 조희대 대법원장 “헌법·법률에 따라 대법원 구성 온전해질 수...",
-      "originallink": "https://www.sedaily.com/article/20098403?ref=naver",
-      "link": "https://n.news.naver.com/mnews/article/011/0004668483?sid=102",
+      "title": "[속보] 조희대 &quot;재제청, 헌법적 근거 명확지 않아&quot;…與, 이석 저지",
+      "originallink": "https://www.pressian.com/pages/articles/2026100611443999523?utm_source=naver&utm_medium=search",
+      "link": "https://n.news.naver.com/mnews/article/002/0002459664?sid=100",
+      "description": "국감 선서·증언 요구에 曺 &quot;삼권분립·사법독립 훼손 염려&quot; 거부 조희대 대법원장은 6일 국회에 출석해 '청와대의 대법관 후보자 재제청 요구'를 거부한 경위를 두고 &quot;구체적인 사유와 헌법적 근거가 명확하게 기재돼 있지... ",
+      "pubDate": "Tue, 06 Oct 2026 11:53:00 +0900",
+      "formatted_date": "10월 06일, 11시 53분",
+      "ai_summary": "조희대 대법원장이 국회 국감에서 대법관 후보자 재제청 요구에 대해 헌법적 근거가 불명확하며 사법 독립을 훼손할 우려가 있다고 거부 경위를 설명했습니다."
+    },
+    {
+      "title": "[속보] 임은정 &quot;중수청, 현재 정상가동 불가능&quot;…김지용 후보자 비판도",
+      "originallink": "https://www.imaeil.com/page/view/2026100611474567779",
+      "link": "https://n.news.naver.com/mnews/article/088/0001032479?sid=102",
+      "description": "임은정 &quot;중수청, 현재 정상가동 불가능&quot;…김지용 후보자 비판도",
+      "pubDate": "Tue, 06 Oct 2026 11:49:00 +0900",
+      "formatted_date": "10월 06일, 11시 49분",
+      "ai_summary": "임은정 청장이 중수청의 정상 운영이 불가능함을 재차 강조하며, 김지용 후보자에 대해서도 비판적 입장을 밝혔습니다."
+    },
+    {
+      "title": "[속보]조희대 &quot;대법관 격려금 대법원장이 지출하지 않아&quot;",
+      "originallink": "https://www.mt.co.kr/politics/2026/10/06/2026100611453634326",
+      "link": "https://n.news.naver.com/mnews/article/008/0005422470?sid=100",
+      "description": "6일 대법원 국정감사",
+      "pubDate": "Tue, 06 Oct 2026 11:46:00 +0900",
+      "formatted_date": "10월 06일, 11시 46분",
+      "ai_summary": "조희대 대법원장이 대법원 국정감사에서 대법관 격려금을 대법원장이 직접 지출하지 않았다고 답변했습니다."
+    },
+    {
+      "title": "[속보] 조희대 &quot;제2의 윤석열 꿈꾼다는 말, 모욕적이고 슬픈 일&quot;",
+      "originallink": "https://www.dailian.co.kr/news/view/1698141/?sc=Naver",
+      "link": "https://n.news.naver.com/mnews/article/119/0003139717?sid=102",
+      "description": "조희대 &quot;제2의 윤석열 꿈꾼다는 말, 모욕적&quot;",
+      "pubDate": "Tue, 06 Oct 2026 11:46:00 +0900",
+      "formatted_date": "10월 06일, 11시 46분",
+      "ai_summary": "조희대 대법원장이 국정감사 질의 중 '제2의 윤석열을 꿈꾸느냐'는 질문에 대해 모욕적이고 슬픈 일이라며 불편한 심기를 드러냈습니다."
+    },
+    {
+      "title": "[속보] 조희대, “제2의 윤석열 꿈꾸나” 질의에 “모욕적이고 서글픈 ...",
+      "originallink": "https://www.etoday.co.kr/news/view/2632764",
+      "link": "https://www.etoday.co.kr/news/view/2632764",
+      "description": "이투데이=조소현 기자 | 조희대, “제2의 윤석열 꿈꾸나” 질의에 “모욕적이고 서글픈 일”",
+      "pubDate": "Tue, 06 Oct 2026 11:40:00 +0900",
+      "formatted_date": "10월 06일, 11시 40분",
+      "ai_summary": "조희대 대법원장이 자신의 정치적 야망을 묻는 취지의 질의에 대해 매우 모욕적이고 서글픈 일이라고 답했습니다."
+    },
+    {
+      "title": "[속보] 조희대 &quot;제2의 윤석열 꿈꾼다는 말, 모욕적이고 조금 슬픈 일&quot;",
+      "originallink": "https://www.news1.kr/society/court-prosecution/6311308",
+      "link": "https://n.news.naver.com/mnews/article/421/0009211366?sid=102",
       "description": "",
-      "pubDate": "Tue, 06 Oct 2026 10:54:00 +0900",
-      "formatted_date": "10월 06일, 10시 54분",
-      "ai_summary": "조희대 대법원장이 대법원 구성의 온전함을 위해 헌법과 법률 준수의 중요성을 강조했습니다."
+      "pubDate": "Tue, 06 Oct 2026 11:36:00 +0900",
+      "formatted_date": "10월 06일, 11시 36분",
+      "ai_summary": "조희대 대법원장이 '제2의 윤석열' 관련 질의에 대해 모욕적이고 서글픈 감정을 느끼며 답변했습니다."
     },
     {
-      "title": "[속보] 제주 해상 전복 어선 실종자 1명 발견… 50대 한국인 선장 추정",
-      "originallink": "https://www.dailian.co.kr/news/view/1698106/?sc=Naver",
-      "link": "https://n.news.naver.com/mnews/article/119/0003139675?sid=102",
-      "description": "제주 차귀도 해상에서 전복된 어선 내부 수색 과정에서 실종자로 1명이 발견됐다. 50대 선장으로 추정되며 발견 당시 호흡과 맥박은 없는 상태로 알려졌다. 6일 제주해양경찰청 등에 따르면 이날 오전 9시 6분께... ",
-      "pubDate": "Tue, 06 Oct 2026 10:53:00 +0900",
-      "formatted_date": "10월 06일, 10시 53분",
-      "ai_summary": "제주 차귀도 해상에서 전복된 어선 내부를 수색하던 중 실종자 1명이 발견되었습니다. 50대 선장으로 추정되며 발견 당시 상태는 위중합니다."
+      "title": "[속보]강신철 “DMZ 지뢰 폭발 모든 책임 北에…단호히 대응”",
+      "originallink": "https://www.munhwa.com/article/11621586?ref=naver",
+      "link": "https://n.news.naver.com/mnews/article/021/0002823250?sid=100",
+      "description": "강신철 국방부 장관은 서부전선 비무장지대(DMZ)에서 발생한 지뢰 폭발 사고와 관련, “모든 책임은 북한에 있다”고 밝혔다. 강 장관은 6일 국방부 청사를 나가기 전 기자들과 만나 “앞으로 군은 국가안보를 위해하는... ",
+      "pubDate": "Tue, 06 Oct 2026 11:34:00 +0900",
+      "formatted_date": "10월 06일, 11시 34분",
+      "ai_summary": "강신철 국방부 장관이 DMZ 지뢰 폭발 사고의 모든 책임이 북한에 있음을 분명히 하고 단호한 대응을 예고했습니다."
     },
     {
-      "title": "[속보] 12개국 IP로 금융권 노렸다…금감원 '공격 주소' 19개 특정",
-      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008784532&plink=ORI&cooper=NAVER",
-      "link": "https://n.news.naver.com/mnews/article/055/0001393394?sid=102",
-      "description": "12개국 IP로 금융권 노렸다…금감원 '공격 주소' 19개 특정",
-      "pubDate": "Tue, 06 Oct 2026 10:51:00 +0900",
-      "formatted_date": "10월 06일, 10시 51분",
-      "ai_summary": "금감원이 12개국 IP를 활용한 금융권 대상 사이버 공격 징후를 포착하고 공격 주소 19개를 특정해 대응에 나섰습니다."
+      "title": "[속보] 국방부 &quot;예술체육요원 포함 보충역 감축·폐지 궁극적 추진&quot;",
+      "originallink": "https://www.busan.com/view/busan/view.php?code=2026100611143084461",
+      "link": "https://n.news.naver.com/mnews/article/082/0001401266?sid=102",
+      "description": "최근 논란이 불거진 예술·체육 분야 병역특례 제도와 관련해 국방부가 &quot;궁극적으로 예술·체육 요원을 포함하는 보충역 감축·폐지를 국방개혁 기본계획에 반영해서 추진할 계획을 갖고 있다&quot;고 밝혔다. 6일 연합뉴스 등에... ",
+      "pubDate": "Tue, 06 Oct 2026 11:33:00 +0900",
+      "formatted_date": "10월 06일, 11시 33분",
+      "ai_summary": "국방부가 예술·체육요원을 포함한 보충역 제도를 단계적으로 감축하거나 폐지하는 방향으로 국방개혁을 추진할 계획입니다."
     },
     {
-      "title": "[속보] 누리호, 발사대 기립 및 고정작업 완료...막바지 채비",
-      "originallink": "https://www.tjb.co.kr/news05/bodo/view/id/104427",
-      "link": "https://www.tjb.co.kr/news05/bodo/view/id/104427",
-      "description": "누리호, 발사대 기립 및 고정작업 완료",
-      "pubDate": "Tue, 06 Oct 2026 10:50:00 +0900",
-      "formatted_date": "10월 06일, 10시 50분",
-      "ai_summary": "누리호가 발사대에 기립 및 고정 작업을 마치고 본격적인 발사 준비 단계에 돌입했습니다."
+      "title": "[속보] 조희대 국감 출석 &quot;증인선서·증언거부&quot; 서영교 이석 불허… &quot;체...",
+      "originallink": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337549",
+      "link": "https://n.news.naver.com/mnews/article/006/0000138072?sid=100",
+      "description": "조희대 대법원장이 국회 법제사법위원회 대법원 국정감사에 출석했으나 증인 선서와 증언을 거부하겠다고 밝히자 서영교 법사위원장이 이석을 허가하지 않아 야당이 반발하는 등 초반부터 충돌했다. 조 대법원장은... ",
+      "pubDate": "Tue, 06 Oct 2026 11:32:00 +0900",
+      "formatted_date": "10월 06일, 11시 32분",
+      "ai_summary": "조희대 대법원장이 국감에서 증인 선서와 증언을 거부하겠다고 밝히자 서영교 법사위원장이 이석을 불허하며 여야가 충돌했다."
     },
     {
-      "title": "[속보] 이 대통령 &quot;공소청·중수청 등장은 국민의 역사적 결단&quot;",
-      "originallink": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406799",
-      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406799",
-      "description": "투데이코리아=김시온 기자 | 6일 이재명 대통령은 국무회의에서 공소청과 중대범죄수사청 출범과 관련해 &quot;공소청과 중수청의 등장은 국민의 역사적 결단&quot;이라며 &quot;국민들의 역사적 선택을 존중하며 사회 질서 확립을 위해... ",
-      "pubDate": "Tue, 06 Oct 2026 10:48:00 +0900",
-      "formatted_date": "10월 06일, 10시 48분",
-      "ai_summary": "이재명 대통령이 공소청과 중대범죄수사청의 출범을 국민의 역사적 결단이라고 평가했습니다. 사회 질서 확립을 위한 조치임을 강조했습니다."
+      "title": "[속보]삼성전기, 2900억 규모 AI 서버용 MLCC 공급계약 체결",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03325926645610296&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "link": "https://n.news.naver.com/mnews/article/018/0006381888?sid=101",
+      "description": "삼성전기 수원사업장 전경. (사진=삼성전기) 삼성전기가 글로벌 대형기업과 2900억원 규모의 인공지능(AI) 서버용 적층세라믹콘덴서(MLCC) 공급계약을 체결했다. AI 서버 시장 성장에 맞춰 고부가 부품의 장기... ",
+      "pubDate": "Tue, 06 Oct 2026 11:27:00 +0900",
+      "formatted_date": "10월 06일, 11시 27분",
+      "ai_summary": "삼성전기가 글로벌 대형 기업과 2900억 원 규모의 AI 서버용 MLCC 공급 계약을 체결했다. AI 서버 시장 확대에 따른 고부가 부품 수요 대응 차원이다."
     },
     {
-      "title": "[속보] “논란이 관객 불렀나”…‘암살자(들)’, 연휴 1위 굳히며 240만...",
-      "originallink": "https://www.dt.co.kr/article/12087566?ref=naver",
-      "link": "https://n.news.naver.com/mnews/article/029/0003051594?sid=103",
-      "description": "허진호 감독의 영화 ‘암살자(들)’이 개천절 연휴 극장가에서 59만명이 넘는 관객을 모으며 박스오피스 선두 자리를 굳건히 지켰다. 6일 영화관입장권 통합전산망에 따르면 ‘암살자(들)’은 지난 2~5일 나흘간... ",
-      "pubDate": "Tue, 06 Oct 2026 10:47:00 +0900",
-      "formatted_date": "10월 06일, 10시 47분",
-      "ai_summary": "영화 ‘암살자(들)’이 개천절 연휴 동안 59만 관객을 동원하며 박스오피스 1위를 차지했습니다. 누적 관객 수는 240만 명을 넘어섰습니다."
+      "title": "[속보] 금감원, 금융권 해킹 IP 19개 특정…소재국가 12개국",
+      "originallink": "https://www.kado.net/news/articleView.html?idxno=2076600",
+      "link": "https://n.news.naver.com/mnews/article/654/0000204023?sid=101",
+      "description": "금융당국이 인공지능(AI) 에이전트를 활용한 것으로 추정되는 금융권 해킹 공격과 관련해 공격에 사용된 인터넷주소(IP) 19개를 특정한 것으로 알려졌다. 6일 금융당국과 금융권 등에 따르면 금융감독원... ",
+      "pubDate": "Tue, 06 Oct 2026 11:27:00 +0900",
+      "formatted_date": "10월 06일, 11시 27분",
+      "ai_summary": "금융당국이 최근 금융권 대상 AI 활용 해킹 공격에 사용된 12개국 소재 IP 19개를 특정해 조사 중이다."
     },
     {
-      "title": "[속보] 조희대 “대법관 제청 증언, 삼권분립과 사법독립 훼손 염려”",
-      "originallink": "https://www.mk.co.kr/article/12169043",
-      "link": "https://n.news.naver.com/mnews/article/024/0000108725?sid=102",
-      "description": "조희대 “대법관 제청 증언, 삼권분립과 사법독립 훼손 염려”",
-      "pubDate": "Tue, 06 Oct 2026 10:46:00 +0900",
-      "formatted_date": "10월 06일, 10시 46분",
-      "ai_summary": "조희대 대법원장이 대법관 제청 관련 증언이 삼권분립과 사법 독립성을 훼손할 수 있다는 우려를 표명했습니다."
+      "title": "[속보] 수협은행 차기 행장 후보, 2차 회의서도 선정 불발",
+      "originallink": "https://news.tf.co.kr/read/economy/2373240.htm",
+      "link": "https://n.news.naver.com/mnews/article/629/0000539616?sid=101",
+      "description": "Sh수협은행 차기 은행장 최종 후보 선정이 또다시 불발됐다. 수협은행 은행장추천위원회는 6일 2차 회의를 열고 차기 행장 최종 후보 선정을 논의했지만 결론을 내지 못한 것으로 알려졌다. 행추위는 위원 5명 중 4명... ",
+      "pubDate": "Tue, 06 Oct 2026 11:24:00 +0900",
+      "formatted_date": "10월 06일, 11시 24분",
+      "ai_summary": "Sh수협은행이 2차 행장추천위원회 회의를 열었으나 차기 행장 후보를 선정하지 못하고 결론을 내지 못했다."
     },
     {
-      "title": "[속보] 조희대 “대법관 재제청 요구 헌법적 근거 없어…국회가 대법원...",
-      "originallink": "https://www.kwnews.co.kr/article/20261006500218",
-      "link": "https://n.news.naver.com/mnews/article/087/0001222118?sid=100",
-      "description": "청와대와 대법원이 대법관 재제청을 둘러싼 입장차를 좁히지 못하는 가운데, 국정감사 첫날인 6일 대법원에 대한 국정감사가 열렸다. 이날 국회 법제사법위원회에서 열린 국감에서 조희대 대법원장은 “(청와대의)대법관... ",
-      "pubDate": "Tue, 06 Oct 2026 10:46:00 +0900",
-      "formatted_date": "10월 06일, 10시 46분",
-      "ai_summary": "조희대 대법원장이 대법관 재제청 요구에 헌법적 근거가 없음을 지적하며 국회 차원의 협력을 요청했습니다."
-    },
-    {
-      "title": "[속보]조희대 국감 출석 &quot;국민기대 부응 못한 점 무겁게 받아들여&quot;",
-      "originallink": "https://www.ikbc.co.kr/article/view/kbc202610060017",
-      "link": "https://n.news.naver.com/mnews/article/660/0000118493?sid=102",
-      "description": "조희대 국감 출석 &quot;국민기대 부응 못한 점 무겁게 받아들여&quot;",
-      "pubDate": "Tue, 06 Oct 2026 10:45:00 +0900",
-      "formatted_date": "10월 06일, 10시 45분",
-      "ai_summary": "조희대 대법원장이 국정감사에 출석하여 국민의 기대에 부응하지 못한 점에 대해 무겁게 받아들인다고 밝혔습니다."
-    },
-    {
-      "title": "[속보] 누리호 5차 발사 D-1…발사대 기립·고정 완료",
-      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261006104329fQd",
-      "link": "https://n.news.naver.com/mnews/article/422/0000912898?sid=105",
-      "description": "",
-      "pubDate": "Tue, 06 Oct 2026 10:44:00 +0900",
-      "formatted_date": "10월 06일, 10시 44분",
-      "ai_summary": "누리호 5차 발사를 하루 앞두고 발사대 기립 및 고정 작업이 모두 완료되었습니다."
-    },
-    {
-      "title": "[속보] 누리호 우주 향해 기립 완료...발사대 설치 작업 돌입",
-      "originallink": "https://www.ytn.co.kr/_ln/0105_202610061044434705",
-      "link": "https://n.news.naver.com/mnews/article/052/0002415140?sid=105",
-      "description": "한국형 우주발사체 누리호 5차 발사를 하루 앞둔 오늘, 누리호 이송과 기립 작업이 모두 끝났습니다. 한국항공우주연구원은 새벽 6시쯤부터 누리호를 무인 특수차량에 실어 조립동에서 발사대로 이동을 시작해 1시간... ",
-      "pubDate": "Tue, 06 Oct 2026 10:44:00 +0900",
-      "formatted_date": "10월 06일, 10시 44분",
-      "ai_summary": "한국형 우주발사체 누리호 5차 발사를 위해 발사대 이송 및 기립 설치 작업이 성공적으로 종료되었습니다."
-    },
-    {
-      "title": "[속보]조희대 “대법관 제청 관련 증언 요구, 삼권분립 훼손 염려”",
-      "originallink": "https://www.donga.com/news/Politics/article/all/20261006/134791606/2",
-      "link": "https://n.news.naver.com/mnews/article/020/0003752968?sid=100",
-      "description": "조희대 대법원장은 6일 국회 법제사법위원회의 국정감사 일반증인 출석 요구에 “헌법의 취지에 비춰 대법원장의 대법관 제청에 관해 증언하도록 요구하는 것은 삼권분립과 사법 독립의 원칙을 훼손할 염려가 있다”고... ",
-      "pubDate": "Tue, 06 Oct 2026 10:44:00 +0900",
-      "formatted_date": "10월 06일, 10시 44분",
-      "ai_summary": "조희대 대법원장은 대법관 제청 관련 증언 요구가 삼권분립과 사법 독립 원칙을 훼손할 수 있다고 우려했습니다."
-    },
-    {
-      "title": "[속보] ‘13월의 월급’이 3억원?…연말정산 1억 넘게 돌려받은 195명",
-      "originallink": "https://www.kyeonggi.com/article/20261006580049",
-      "link": "https://n.news.naver.com/mnews/article/666/0000126187?sid=101",
-      "description": "지난해 귀속 연말정산에서 1억원 넘는 세금을 돌려받은 직장인이 200명에 육박한 것으로 나타났다. 1억원 초과 환급자의 1인당 평균 환급액은 3억원을 넘었으며, 반대로 1억원 이상을 추가로 낸 직장인도... ",
-      "pubDate": "Tue, 06 Oct 2026 10:44:00 +0900",
-      "formatted_date": "10월 06일, 10시 44분",
-      "ai_summary": "지난해 연말정산에서 1억원 이상을 환급받은 직장인이 195명에 달하며, 이들의 1인당 평균 환급액은 3억원을 넘었습니다."
+      "title": "[속보] 삼성전기, 2856억원 규모 MLCC 공급계약…지난해 매출액의 2.5%",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=612689",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612689",
+      "description": "자료사진 기사와는 무관함.AI가 생성. 삼성전기가 글로벌 대형기업과 2856억1104만원 규모의 MLCC(Multilayer Ceramic Capacitor·적층세라믹콘덴서) 공급계약을 체결했다고 밝혔다. 공시에 따르면 계약금액은... ",
+      "pubDate": "Tue, 06 Oct 2026 11:22:00 +0900",
+      "formatted_date": "10월 06일, 11시 22분",
+      "ai_summary": "삼성전기가 약 2856억 원 규모의 MLCC 공급 계약을 체결했다. 이는 지난해 매출액의 2.5%에 해당하는 규모다."
     }
   ],
   "pane2": {
     "산업부": [
+      {
+        "title": "여야, 산업부 국감서 '호남반도체'·'대미투자 보고유출' 신경전",
+        "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261006114416GbL",
+        "link": "https://n.news.naver.com/mnews/article/422/0000912918?sid=100",
+        "description": "장 의원은 되레 &quot;지난번 산자위에서 산업부의 대미전략투자 관련 비공개 보고가 이뤄진 이후 회의 녹취록이... 이에 김성원 산업통상자원중소벤처기업위원장은 산업부의 대면보고 등 자료 제출을 요구하는 한편, 대미투자... ",
+        "pubDate": "Tue, 06 Oct 2026 11:45:00 +0900",
+        "formatted_date": "10월 06일, 11시 45분",
+        "ai_summary": "산업부 국감에서 여야가 호남 반도체 문제와 대미 투자 비공개 보고 유출 건을 두고 날 선 공방을 벌였다."
+      },
+      {
+        "title": "산업부 김정관 장관, 산업·자원 안보 강화 선제적 대비",
+        "originallink": "http://www.e-platform.net/news/articleView.html?idxno=105927",
+        "link": "http://www.e-platform.net/news/articleView.html?idxno=105927",
+        "description": "산업부는 오는 2035년까지 국내 도입 원유의 비중동산 비중을 50%까지 높이고 천연가스의 특정국가 의존도를... 산업부는 자원안보기금 신설 근거를 담은 '국가자원안보 특별법' 개정안이 지난 9월 9일 발의됐으며... ",
+        "pubDate": "Tue, 06 Oct 2026 11:44:00 +0900",
+        "formatted_date": "10월 06일, 11시 44분",
+        "ai_summary": "산업부가 2035년까지 원유 비중동산 비중을 50%로 확대하는 등 자원 안보 강화를 추진한다. 이를 위해 자원안보기금 신설을 준비 중이다."
+      },
+      {
+        "title": "철암저탄장 석탄 재고 의혹…산업부 늑장 대응·자료제공자 확인 논란",
+        "originallink": "https://www.energydaily.co.kr/news/articleView.html?idxno=203834",
+        "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=203834",
+        "description": "국회 산업통상자원중소벤처기업위원회 오세희 의원(더불어민주당)이 산업부와 대한석탄공사에서 제출받은 자료에 따르면, 산업부 소관부서는 지난해 10~11월 철암저탄장 문제를 인지했다. 같은 해 11월 21일 감사담당관실도... ",
+        "pubDate": "Tue, 06 Oct 2026 11:44:00 +0900",
+        "formatted_date": "10월 06일, 11시 44분",
+        "ai_summary": "철암저탄장 석탄 재고 관리 문제를 두고 산업부의 늑장 대응과 자료 제공자 확인 과정을 둘러싼 논란이 국감에서 제기됐다."
+      },
+      {
+        "title": "‘아들 채용 셀프 결재’ 가스공사에…산업부 “친인척 채용 전수조사”",
+        "originallink": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553757",
+        "link": "https://n.news.naver.com/mnews/article/449/0000363121?sid=101",
+        "description": "산업부는 &quot;이번 사안을 매우 엄중하게 보고 한국가스안전공사의 감사 경과, 처분 적정성 등에 대한 면밀한 조사를 실시해 부실 감사, 봐주기 처분 등이 확인되면 엄중하게 책임을 물을 계획&quot;이라고 밝혔습니다. 김정관... ",
+        "pubDate": "Tue, 06 Oct 2026 11:42:00 +0900",
+        "formatted_date": "10월 06일, 11시 42분",
+        "ai_summary": "가스공사의 아들 채용 셀프 결재 논란에 산업부가 공공기관 친인척 채용 전수조사를 실시하고 부실 감사 여부를 엄중히 따지겠다고 밝혔다."
+      },
+      {
+        "title": "여야, 산업부 국감서 '호남반도체'·'대미투자 보고유출' 신경전",
+        "originallink": "https://www.yna.co.kr/view/AKR20261006079000001?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016359283?sid=100",
+        "description": "장 의원은 되레 &quot;지난번 산자위에서 산업부의 대미전략투자 관련 비공개 보고가 이뤄진 이후 회의 녹취록이... 김성원 산업통상자원중소벤처기업위원장은 산업부의 대면보고 등 자료 제출을 요구하는 한편, 대미투자 보고... ",
+        "pubDate": "Tue, 06 Oct 2026 11:27:00 +0900",
+        "formatted_date": "10월 06일, 11시 27분",
+        "ai_summary": "산업부 국감에서 호남 반도체 정책과 대미 투자 비공개 보고 유출 의혹을 두고 여야 간 신경전이 이어졌다."
+      },
+      {
+        "title": "[포토] 답변하는 김정관 산업부 장관",
+        "originallink": "https://www.newscj.com/news/articleView.html?idxno=3438096",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3438096",
+        "description": "김정관 산업통상부 장관이 6일 오전 서울 여의도 국회 산업통상자원중소벤처기업위원회에서 열린 산업부에 대한 국정감사에서 국회의원들의 질의에 답변하고 있다.",
+        "pubDate": "Tue, 06 Oct 2026 11:24:00 +0900",
+        "formatted_date": "10월 06일, 11시 24분",
+        "ai_summary": "김정관 산업통상부 장관이 국회 산업통상자원중소벤처기업위원회 국정감사에 출석했습니다. 의원들의 질의에 답변하며 현안을 점검했습니다."
+      },
+      {
+        "title": "가스안전공사 채용비위 의혹…산업부 &quot;친인척 채용 20개 기관 전수조사...",
+        "originallink": "http://www.seouleconews.com/news/articleView.html?idxno=94143",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=94143",
+        "description": "산업부는 &quot;이번 사안을 매우 엄중하게 보고 한국가스안전공사의 감사 경과, 처분 적정성 등에 대한 면밀한... 김정관 산업부 장관은 전날 자신의 페이스북을 통해 &quot;취업을 준비하는 청년과 그 가족의 심정으로 채용비위를... ",
+        "pubDate": "Tue, 06 Oct 2026 11:22:00 +0900",
+        "formatted_date": "10월 06일, 11시 22분",
+        "ai_summary": "한국가스안전공사의 채용 비위 의혹과 관련해 산업부가 엄중한 대응을 예고했습니다. 소관 20개 기관을 대상으로 친인척 채용 실태를 전수 조사할 예정입니다."
+      },
+      {
+        "title": "[단독] 반도체 등 핵심기술 83% 中으로…산업부는 유출 실태 ‘깜깜’",
+        "originallink": "https://www.dailian.co.kr/news/view/1698107/?sc=Naver",
+        "link": "https://n.news.naver.com/mnews/article/119/0003139698?sid=101",
+        "description": "산업부 제출자료에 따르면 2017년부터 지난 8월까지 국정원이 적발한 산업기술 해외 유출은 198건으로, 이... 문제는 산업기술 유출방지와 보호를 총괄하는 산업부조차 전체 실태를 충분히 들여다보기 어렵다는... ",
+        "pubDate": "Tue, 06 Oct 2026 11:19:00 +0900",
+        "formatted_date": "10월 06일, 11시 19분",
+        "ai_summary": "최근 7년간 산업기술 해외 유출이 198건 발생했으나 산업부의 실태 파악은 미흡하다는 지적이 제기됐습니다. 핵심 기술 보호를 위한 체계적 관리가 시급합니다."
+      },
       {
         "title": "김정관 산업부 장관 “지방주도성장 본격화, 제조AX 위해 현장서 소통할...",
         "originallink": "https://www.kukinews.com/article/view/kuk202610060049",
@@ -145,7 +217,7 @@
         "description": "그는 “산업부는 대외 통상환경 불확실성 등 복합위기 앞에서 돌파구를 마련하기 위해 많은 노력을 기울여 왔다”며 “특히 산업현장에서 기업과 함께 답을 찾고 지역과 중소·중견기업 모두가 성장을 체감할 수 있는... ",
         "pubDate": "Tue, 06 Oct 2026 10:54:00 +0900",
         "formatted_date": "10월 06일, 10시 54분",
-        "ai_summary": "김정관 산업부 장관이 지방 주도 성장과 제조 AI 전환을 위해 산업 현장과의 적극적인 소통을 강조했습니다."
+        "ai_summary": "김정관 장관은 제조 AI 전환과 지방 주도 성장을 위해 현장 소통을 강화하겠다고 밝혔습니다. 불확실한 통상 환경 속에서 기업 현장에서 돌파구를 찾을 계획입니다."
       },
       {
         "title": "가스안전공사 '자녀 채용 비위' 의혹에 산업부 &quot;친인척 채용 전수 조사...",
@@ -154,79 +226,7 @@
         "description": "산업부는 입장문을 내고 &quot;이번 사안을 매우 엄중하게 인식하고 있다&quot;며 &quot;한국가스안전공사 감사 결과 문제가 확인될 경우 엄중하게 책임을 묻겠다&quot;고 밝혔습니다. 그러면서 &quot;산업부 소관 전 공공기관 등을 대상으로... ",
         "pubDate": "Tue, 06 Oct 2026 10:51:00 +0900",
         "formatted_date": "10월 06일, 10시 51분",
-        "ai_summary": "가스안전공사의 채용 비위 의혹과 관련해 산업부가 소관 공공기관 전체를 대상으로 친인척 채용 전수 조사를 실시합니다."
-      },
-      {
-        "title": "[2026국감-포토] 업무보고 하는 산업부 김정관…대미투자 사업성 검증대",
-        "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068946",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068946",
-        "description": "산업통상자원중소벤처기업위원회 산업부 국정감사에서 업무보고를 하고 있다. 이날 국정감사에서는 대미 전략투자의 사업성 검토를 비롯해 호남 반도체 클러스터 조성, 메가특구 노동특례 등 산업부 주요 정책 현안이... ",
-        "pubDate": "Tue, 06 Oct 2026 10:50:00 +0900",
-        "formatted_date": "10월 06일, 10시 50분",
-        "ai_summary": "산업부 국정감사에서 대미 전략투자의 사업성 검토와 호남 반도체 클러스터 조성 등 주요 정책 현안이 논의되었습니다."
-      },
-      {
-        "title": "김정관 산업부 장관 “대미 투자 국익 최우선…미국·글로벌 진출 발판...",
-        "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061029586050522",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061029586050522",
-        "description": "국회 산자위, 산업부 국정 감사 출석 텍사스 발전, 2029년 상업운전 목표 1600조 지방투자ㆍAI 팩토리 500개 구축 [대한경제=신보훈 기자] 김정관 산업통상부 장관이 한미 양국의 대미 투자 프로젝트와 관련해 “국익을... ",
-        "pubDate": "Tue, 06 Oct 2026 10:42:00 +0900",
-        "formatted_date": "10월 06일, 10시 42분",
-        "ai_summary": "김정관 산업부 장관은 대미 투자에서 국익을 최우선으로 하겠다고 밝히며 글로벌 진출의 발판으로 삼겠다고 강조했습니다."
-      },
-      {
-        "title": "[뉴스워커_고동진 의원] 외교부·산업부, 美 정부·의회 대응에 연 40억...",
-        "originallink": "https://www.newsworker.co.kr/news/articleView.html?idxno=507208",
-        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=507208",
-        "description": "6일 국민의힘 고동진 의원이 외교부와 산업부로부터 제출받은 '대미 정부·의회 대응 관련 자문계약... 2025년 기준 외교부는 193만4000달러, 산업부는 84만3227달러를 각각 지출했다. 한화로 환산하면 두 부처... ",
-        "pubDate": "Tue, 06 Oct 2026 10:30:00 +0900",
-        "formatted_date": "10월 06일, 10시 30분",
-        "ai_summary": "외교부와 산업부가 미국 정부 및 의회 대응을 위한 로비 및 자문 계약으로 연간 약 40억원의 예산을 지출하는 것으로 나타났습니다."
-      },
-      {
-        "title": "[국감] 선서하는 김정관 산업부 장관",
-        "originallink": "https://www.news1.kr/photos/8143965",
-        "link": "https://n.news.naver.com/mnews/article/421/0009211076?sid=100",
-        "description": "김정관 산업통상부 장관이 6일 오전 서울 여의도 국회 산업통상자원중소벤처기업위원회에서 열린 산업부에 대한 국정감사에서 선서를 하고 있다. 2026.10.6/뉴스1",
-        "pubDate": "Tue, 06 Oct 2026 10:25:00 +0900",
-        "formatted_date": "10월 06일, 10시 25분",
-        "ai_summary": "김정관 산업통상부 장관이 6일 국회 산업통상자원중소벤처기업위원회의 산업부 국정감사에 참석해 선서했다."
-      },
-      {
-        "title": "가스안전공사 채용비위 의혹…산업부 &quot;친인척 채용 전수조사&quot;",
-        "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261006102246hJK",
-        "link": "https://n.news.naver.com/mnews/article/422/0000912882?sid=101",
-        "description": "산업부는 이에 대해 &quot;이번 사안을 매우 엄중하게 보고 한국가스안전공사의 감사 경과, 처분 적정성 등에 대한... 김정관 산업부 장관은 페이스북을 통해 &quot;취업을 준비하는 청년과 그 가족의 심정으로 채용 비위를 뿌리부터... ",
-        "pubDate": "Tue, 06 Oct 2026 10:23:00 +0900",
-        "formatted_date": "10월 06일, 10시 23분",
-        "ai_summary": "산업부가 한국가스안전공사의 채용 비위 의혹을 엄중히 보고 소관 기관 친인척 채용 전수조사를 실시한다."
-      },
-      {
-        "title": "산업부, 가스안전공사 친인척 채용 의혹 관련 소관기관 전수조사...김정...",
-        "originallink": "https://www.livebiz.today/news/articleView.html?idxno=205357",
-        "link": "https://www.livebiz.today/news/articleView.html?idxno=205357",
-        "description": "이에 대해 산업부는 &quot;이번 사안을 매우 엄중하게 보고 한국가스안전공사의 감사 경과, 처분 적정성 등에 대한... 앞서 전날 김정관 산업부 장관은 페이스북을 통해 &quot;공공기관에서 아직도 이런 일이 발생하고 있다는 사실이... ",
-        "pubDate": "Tue, 06 Oct 2026 10:22:00 +0900",
-        "formatted_date": "10월 06일, 10시 22분",
-        "ai_summary": "김정관 장관은 공공기관 채용 비위를 강하게 비판하며 가스안전공사 의혹과 관련한 소관 기관 전수조사를 추진한다."
-      },
-      {
-        "title": "산업부, 지방정부 '성장엔진 육성계획' 지원…2030년 AI 팩토리 500개 구...",
-        "originallink": "https://www.ajunews.com/view/20261006073529351",
-        "link": "https://www.ajunews.com/view/20261006073529351",
-        "description": "이에 산업부는 그동안 3대 메가프로젝트를 포함한 1600조원 규모 앵커기업 지방투자계획을 발표하고 M.AX를... 산업부는 2035년까지 비 중동산 원유 비중을 50%까지 높이고 가스의 특정 국가 의존도는 30%대 미만으로... ",
-        "pubDate": "Tue, 06 Oct 2026 10:22:00 +0900",
-        "formatted_date": "10월 06일, 10시 22분",
-        "ai_summary": "산업부가 지방정부 성장 지원을 위해 2030년까지 AI 팩토리 500개 구축 등 대규모 투자를 추진한다."
-      },
-      {
-        "title": "산업부, 수출시장 다변화 위해 CPTPP 가입 검토…농어업계 의견 수렴",
-        "originallink": "https://www.news1.kr/economy/idustry-trade/6311097",
-        "link": "https://n.news.naver.com/mnews/article/421/0009211061?sid=101",
-        "description": "산업부는 국제 통상질서 재편 속에서 CPTPP의 지정학적·지경학적 중요성이 확대되고 있다고 평가했다. 공급망 안정과 경제안보 강화, K-콘텐츠·소비재 수출 확대, 멕시코·아세안 등 시장 접근 개선을 가입 검토의... ",
-        "pubDate": "Tue, 06 Oct 2026 10:21:00 +0900",
-        "formatted_date": "10월 06일, 10시 21분",
-        "ai_summary": "산업부가 수출 시장 다변화와 공급망 안정을 위해 CPTPP 가입을 검토하며 농어업계 의견을 수렴하고 있다."
+        "ai_summary": "산업부가 가스안전공사의 채용 비위 의혹을 철저히 조사하고 책임을 묻겠다고 밝혔습니다. 소관 공공기관 전체를 대상으로 채용 실태 점검에 나섭니다."
       }
     ],
     "KIAT": [
@@ -237,10 +237,37 @@
         "description": "한국산업기술진흥원(KIAT)과 대한무역투자진흥공사(KOTRA) 등 산업통상부 소관 공공기관을 경남으로 이전하는... 정부가 추진하는 공공기관 2차 이전과 관련해서는 KIAT와 KOTRA 등 산업통상부 소관 기관의 경남 이전을... ",
         "pubDate": "Thu, 01 Oct 2026 11:28:00 +0900",
         "formatted_date": "10월 01일, 11시 28분",
-        "ai_summary": "박완수 경남지사가 산업부 소관 공공기관인 KIAT와 KOTRA의 경남 이전을 정부에 공식 건의했다."
+        "ai_summary": "박완수 경남지사가 정부의 공공기관 2차 이전에 발맞춰 KIAT와 KOTRA의 경남 이전을 건의했습니다. 지역 산업 현안 해결을 위한 적극적인 정부 지원을 요청했습니다."
       }
     ],
     "기후부": [
+      {
+        "title": "김성환 장관, &quot;재생에너지 중심 에너지대전환 본격화&quot;...기후부 국감",
+        "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110467",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110467",
+        "description": "김성환 장관은 오늘 국회 기후에너지환경노동위원회의 기후부 국정감사에 출석해 &quot;2030년까지 재생에너지 100기가와트 이상을 조기 달성하고, 조화로운 에너지믹스를 구현하여 메가프로젝트와 같은 미래로의 대도약을... ",
+        "pubDate": "Tue, 06 Oct 2026 11:26:00 +0900",
+        "formatted_date": "10월 06일, 11시 26분",
+        "ai_summary": "김성환 장관이 국감에서 2030년까지 재생에너지 100GW 달성을 목표로 에너지 대전환을 추진하겠다고 밝혔습니다. 조화로운 에너지 믹스로 미래 성장을 도모합니다."
+      },
+      {
+        "title": "[단독] &quot;대형업체 제외&quot; 슬그머니 삭제…컬리에 6.7억 쏜 기후부",
+        "originallink": "https://www.hankyung.com/article/202610064948i",
+        "link": "https://n.news.naver.com/mnews/article/015/0005339481?sid=100",
+        "description": "6일 국회 기후에너지환경노동위원회 소속 김기현 국민의힘 의원에 따르면 기후부는 2025년 포장폐기물 저감을 위해 '다회용 택배상자 시장형성 시범사업'을 실시했다. 당시 기후부는 국회에 대규모 유통업체를 지원... ",
+        "pubDate": "Tue, 06 Oct 2026 11:13:00 +0900",
+        "formatted_date": "10월 06일, 11시 13분",
+        "ai_summary": "기후부가 다회용 택배상자 사업에서 대형업체 제외 조건을 임의 삭제해 컬리에 6.7억 원을 지원한 사실이 드러났습니다. 지원 과정의 투명성 논란이 일고 있습니다."
+      },
+      {
+        "title": "[2026 국감] 김성환 기후부 장관 “재생e 100GW 조기 달성”…12차 전기본...",
+        "originallink": "https://www.etnews.com/20261006000150",
+        "link": "https://n.news.naver.com/mnews/article/030/0003472508?sid=100",
+        "description": "기후부는 이날 업무보고에서 제12차 전기본의 전원구성 방향으로 재생에너지 주력 전원화와 2040년 석탄화력 폐지, 신규 원전 등 전원별 적정 설비 규모 검토를 제시했다. 재생에너지 간헐성과 원전 경직성을 보완하기... ",
+        "pubDate": "Tue, 06 Oct 2026 11:05:00 +0900",
+        "formatted_date": "10월 06일, 11시 05분",
+        "ai_summary": "기후부가 2040년 석탄화력 폐지와 재생에너지 중심의 전력망 구축 계획을 발표했습니다. 제12차 전기본을 통해 원전과 재생에너지의 균형 잡힌 전원 구성을 검토합니다."
+      },
       {
         "title": "기후부, 재생에너지 100GW·2040 탈석탄 추진…전력·물관리 체계 전면 ...",
         "originallink": "https://www.energydaily.co.kr/news/articleView.html?idxno=203824",
@@ -248,16 +275,16 @@
         "description": "태양광·해상풍력 확충…2030년 재생에너지 100GW 이상 목표 기후부는 대규모 발전단지 조성과 생활공간 내... 기후부는 지역별 가격 신호를 통해 산업 입지 분산과 지역경제 활성화를 유도할 계획이다. 구체적인... ",
         "pubDate": "Tue, 06 Oct 2026 10:48:00 +0900",
         "formatted_date": "10월 06일, 10시 48분",
-        "ai_summary": "기후부가 2030년까지 재생에너지 100GW 확보와 2040년 탈석탄을 목표로 전력 체계 개편을 추진한다."
+        "ai_summary": "기후부가 재생에너지 100GW 달성과 탈석탄을 핵심으로 하는 에너지 정책을 추진합니다. 지역별 전기 요금 차등화 등을 통해 산업 입지 분산과 경제 활성화를 유도할 계획입니다."
       },
       {
-        "title": "기후부, 2030년까지 재생에너지 100GW 이상 확보…2035 NDC 로드맵 수립",
+        "title": "[2026 국감] 기후부, 2030년까지 재생에너지 100GW 이상 확보…2035 NDC 로...",
         "originallink": "https://www.ajunews.com/view/20261006100915000",
         "link": "https://www.ajunews.com/view/20261006100915000",
         "description": "기후부는 2035 NDC를 반영한 온실가스 감축 로드맵을 마련하고 배출권거래제의 감축 유인을 강화한다. 산업과... 김 장관은 &quot;출범 2년차의 기후부는 재생에너지로의 이행과 탈탄소 전환 가속화, 물관리를 포함한 쾌적하고... ",
         "pubDate": "Tue, 06 Oct 2026 10:42:00 +0900",
         "formatted_date": "10월 06일, 10시 42분",
-        "ai_summary": "기후부가 2035 NDC 로드맵을 수립하고 재생에너지 이행과 탈탄소 전환을 가속화할 계획이다."
+        "ai_summary": "기후부가 2035 NDC를 반영한 온실가스 감축 로드맵을 발표하고 재생에너지 100GW 확보를 추진한다. 탈탄소 전환 가속화와 배출권거래제 유인 강화를 통해 기후 위기에 대응할 계획이다."
       },
       {
         "title": "김성환 기후부 장관 &quot;지역 균형발전 고려한 전기요금제 개편&quot;",
@@ -266,7 +293,7 @@
         "description": "그는 &quot;기후부 출범 후 1년간 2035 NDC를 수립하고, 전기차 100만대를 돌파했다&quot;면서 &quot;재생에너지 확산, 지산지소형 전력망 혁신을 이어왔다&quot;고 설명했다. 이어 &quot;출범 2년차의 기후에너지환경부는 재생에너지로의 이행과... ",
         "pubDate": "Tue, 06 Oct 2026 10:39:00 +0900",
         "formatted_date": "10월 06일, 10시 39분",
-        "ai_summary": "김성환 기후부 장관이 기후부 출범 성과를 공유하고 지역 균형 발전을 고려한 전기요금제 개편을 시사했다."
+        "ai_summary": "김성환 기후부 장관이 출범 2년 차를 맞아 지역 균형발전을 고려한 전기요금제 개편 의지를 밝혔다. 재생에너지 확산과 지산지소형 전력망 혁신을 지속하겠다는 입장이다."
       },
       {
         "title": "&quot;TMS 2000개 사업장 확대&quot; 약속했는데 954곳…기후부 &quot;배출구 기준이었다...",
@@ -275,7 +302,7 @@
         "description": "이에 대해 기후부는 의원실 자료 요구에 2019년 발표 당시 '2000여개'는 사업장이 아니라 TMS를 설치하는... 하지만 당시 환경부 자료가 확대 대상을 명시적으로 '사업장'이라고 표현했다는 점에서 현재 기후부 설명과... ",
         "pubDate": "Tue, 06 Oct 2026 09:26:00 +0900",
         "formatted_date": "10월 06일, 09시 26분",
-        "ai_summary": "기후부가 TMS 설치 사업장 확대 약속 이행 논란에 대해 과거 발표 기준은 사업장이 아닌 배출구 기준이었다고 해명했다."
+        "ai_summary": "기후부가 약속한 TMS 2000개 사업장 확대가 실제로는 사업장이 아닌 배출구 기준이었다는 논란이 일었다. 환경부의 과거 발표와 현재 기후부의 해명이 엇갈리며 신뢰성 문제가 제기된다."
       },
       {
         "title": "[정책브리핑] 기후부, 에너지이용합리화자금 금리 0.5%p 추가 인하",
@@ -284,7 +311,7 @@
         "description": "특히 기후부는 기업의 금융부담을 신속히 완화하기 위해 관련 규정의 제·개정에 앞서 적극행정 심의를 통해... 이번 금리 인하로 융자 지원기업의 총 이자 부담은 연간 약 50억 원 줄어들 것으로 예상된다 아울러 기후부... ",
         "pubDate": "Tue, 06 Oct 2026 09:20:00 +0900",
         "formatted_date": "10월 06일, 09시 20분",
-        "ai_summary": "기후부가 기업의 금융 부담 완화를 위해 에너지이용합리화자금 금리를 0.5%p 추가 인하합니다. 이를 통해 기업들의 연간 이자 부담이 약 50억 원 줄어들 것으로 예상됩니다."
+        "ai_summary": "기후부가 기업의 금융부담 완화를 위해 에너지이용합리화자금 금리를 0.5%p 인하한다. 이를 통해 연간 약 50억 원의 이자 부담이 줄어들 것으로 기대된다."
       },
       {
         "title": "[산업부·기후부 장차관 일정(2026년 10월 6일)]",
@@ -293,7 +320,7 @@
         "description": "◆ 산업통상부 ▲ 장관: 10:00 국정감사 (국회) ◆ 기후부 ▲ 장관: 10:00 국정감사 (국회) ▲ 1차관: 10:00 국정감사 (국회) ▲ 2차관: 10:00 국정감사 (국회)",
         "pubDate": "Tue, 06 Oct 2026 08:16:00 +0900",
         "formatted_date": "10월 06일, 08시 16분",
-        "ai_summary": "2026년 10월 6일, 산업통상부와 기후부의 장·차관들이 국회에서 열리는 국정감사에 출석합니다."
+        "ai_summary": "2026년 10월 6일 산업통상부와 기후부의 장·차관들이 국회 국정감사에 참석한다. 주요 정책 현안에 대한 질의와 답변이 진행될 예정이다."
       },
       {
         "title": "기후부 오늘 국감…반도체 전력 공급부터 원전 역할까지 현안 산적",
@@ -302,34 +329,7 @@
         "description": "서남권 반도체 클러스터에 필요한 대규모 전력·용수 공급 계획과 제12차 전력수급기본계획을 둘러싼 원전 역할, 2040년 탈석탄 등 기후부 주요 정책이 검증대에 오를 전망이다. 국회와 기후부 등에 따르면 이번... ",
         "pubDate": "Tue, 06 Oct 2026 06:00:00 +0900",
         "formatted_date": "10월 06일, 06시 00분",
-        "ai_summary": "기후부 국감에서 반도체 클러스터 전력 공급, 원전 역할, 2040 탈석탄 등 주요 현안에 대한 집중 검증이 진행될 예정입니다."
-      },
-      {
-        "title": "기후부, 환경영향평가 ‘공탁제’ 첫 시범운영 돌입",
-        "originallink": "https://www.viva100.com/article/20261005500622",
-        "link": "https://www.viva100.com/article/20261005500622",
-        "description": "기후부에 따르면 공탁제는 사업자가 대행업체를 직접 선정하던 기존 구조에서 벗어나 제3의 전문 기관이... 기후부는 이번 첫 적용을 시작으로 연내에 2건 이상의 추가 시범사업을 진행해 현장 작동 가능성을 면밀히 검증할... ",
-        "pubDate": "Mon, 05 Oct 2026 18:10:00 +0900",
-        "formatted_date": "10월 05일, 18시 10분",
-        "ai_summary": "기후부가 환경영향평가 공정성 제고를 위해 제3의 기관이 대행업체를 선정하는 '공탁제' 시범운영을 시작했습니다. 연내 추가 시범사업을 통해 현장 적용성을 검증할 계획입니다."
-      },
-      {
-        "title": "기업 에너지효율 투자 돕는다…기후부, 정책자금 금리 0.5%p 인하",
-        "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/10/05/2026100590076.html",
-        "link": "https://n.news.naver.com/mnews/article/448/0000643137?sid=101",
-        "description": "특히 기후부는 기업의 금융 부담을 신속히 완화하기 위해 관련 규정의 제·개정에 앞서 적극 행정 심의를... 오일영 기후부 기후에너지정책실장은 &quot;이번 금리 인하가 중소기업 등의 금융비용 부담을 덜고 에너지 효율... ",
-        "pubDate": "Mon, 05 Oct 2026 16:34:00 +0900",
-        "formatted_date": "10월 05일, 16시 34분",
-        "ai_summary": "기후부가 에너지 효율 투자를 독려하고자 정책자금 금리를 0.5%p 인하했습니다. 기업의 금융비용을 덜어주는 적극 행정의 일환입니다."
-      },
-      {
-        "title": "기후부, 에너지이용합리화자금 대출 금리 0.5% 인하…e효율 투자 부담 경...",
-        "originallink": "http://www.e-platform.net/news/articleView.html?idxno=105914",
-        "link": "http://www.e-platform.net/news/articleView.html?idxno=105914",
-        "description": "기후부가 에너지이용합리화자금 대출 금리를 인하하면서 에너지효율 강화에 대한 기업 투자 부담을 낮춘다. 기후에너지환경부는 기업의 금융비용 부담을 완화하고 에너지 효율 투자를 촉진하기 위해 지난 1일자로... ",
-        "pubDate": "Mon, 05 Oct 2026 15:36:00 +0900",
-        "formatted_date": "10월 05일, 15시 36분",
-        "ai_summary": "기후부가 에너지이용합리화자금 대출 금리를 0.5% 인하하여 기업의 에너지 효율 개선 투자를 지원합니다. 이는 지난 1일부터 시행되었습니다."
+        "ai_summary": "기후부 국정감사에서 반도체 클러스터 전력 공급, 제12차 전력수급기본계획 내 원전 역할 등이 핵심 쟁점으로 다뤄질 전망이다. 2040 탈석탄 등 주요 정책의 검증이 예고됐다."
       }
     ],
     "산업혁신기반구축": []
@@ -337,13 +337,31 @@
   "pane3": {
     "호르무즈": [
       {
+        "title": "“원유 썩히는 것보단 낫다” 호르무즈서 500억 짜리 ‘셔틀운항’ 인기",
+        "originallink": "https://www.sedaily.com/article/20098435?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/011/0004668505?sid=104",
+        "description": "(VLCC)을 호르무즈 해협 안쪽으로 보내 항구에서 원유를 실은 뒤, 해협 밖에 대기 중인 다른 선박에 원유를... 위험천만 호르무즈 뚫고...원유 수출량 전쟁 전 수준으로 선박들은 해협을 통과할 때 야간에 창문을 닫고... ",
+        "pubDate": "Tue, 06 Oct 2026 11:32:00 +0900",
+        "formatted_date": "10월 06일, 11시 32분",
+        "ai_summary": "위험한 호르무즈 해협을 뚫고 셔틀운항을 통해 원유를 수출하는 사례가 늘고 있다. 원유를 재고로 두기보다 위험을 감수하고서라도 판매하려는 전략으로 풀이된다."
+      },
+      {
+        "title": "중동發 불확실성에 출렁이는 유가…트럼프 &quot;호르무즈 문제 아냐&quot;",
+        "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2002889",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2002889",
+        "description": "매일일보 = 이상래 기자   |  도널드 트럼프 미국 대통령은 5일(현지시간) 휘발윳값 상승이 더는 호르무즈... 이상 호르무즈 해협이 아니다. 왜냐면 (호르무즈 해협에선) 이제 거의 매일 기록적 규모의 배럴(의 원유)이... ",
+        "pubDate": "Tue, 06 Oct 2026 11:24:00 +0900",
+        "formatted_date": "10월 06일, 11시 24분",
+        "ai_summary": "트럼프 대통령이 휘발윳값 상승의 원인이 호르무즈 해협이 아닌 정유시설 문제라고 주장했다. 유가 불확실성이 지속되는 가운데 호르무즈를 원유 수급의 핵심 경로로 강조했다."
+      },
+      {
         "title": "“호르무즈 문제 아냐”...트럼프, 기름값 상승 두고 우크라·야당 탓",
         "originallink": "https://www.munhwa.com/article/11621561?ref=naver",
         "link": "https://n.news.naver.com/mnews/article/021/0002823225?sid=104",
         "description": "더는 호르무즈 해협이 아닌 정유시설의 문제라고 주장했다. 트럼프 대통령은 이날 트루스소셜에서 “휘발유 가격을 끌어올리는 것은 이제 더 이상 호르무즈 해협이 아니다. 왜냐면 (호르무즈 해협에선) 이제 거의 매일... ",
         "pubDate": "Tue, 06 Oct 2026 10:49:00 +0900",
         "formatted_date": "10월 06일, 10시 49분",
-        "ai_summary": "트럼프 대통령이 휘발유 가격 상승의 원인을 호르무즈 해협 문제가 아닌 정유시설 부족 탓으로 돌렸습니다."
+        "ai_summary": "트럼프 대통령이 기름값 상승을 우크라이나와 야당의 탓으로 돌리며 호르무즈 해협은 더 이상 문제가 아니라고 주장했다. 원유 수급 상황이 안정적임을 강조하려는 의도로 보인다."
       },
       {
         "title": "호르무즈 유조선 7척 피격…이란 타격 능력 향상, 미 당국 인정",
@@ -352,7 +370,7 @@
         "description": "호르무즈 해협에서 유조선 7척을 잇따라 공격하면서 국제 원유 수급에 비상이 걸렸다. 영국 해사무역기구(UKMTO)는 9월 28일 이후 해협 인근에서 선박 7척에 대한 공격이 접수됐다고 밝혔다. 피격 선박 모두 호르무즈 해협... ",
         "pubDate": "Tue, 06 Oct 2026 10:35:00 +0900",
         "formatted_date": "10월 06일, 10시 35분",
-        "ai_summary": "호르무즈 해협에서 최근 유조선 7척이 잇따라 피격당하며 국제 원유 수급에 비상이 걸렸습니다. 미 당국은 이란의 타격 능력 향상을 인정했습니다."
+        "ai_summary": "호르무즈 해협에서 유조선 7척이 연이어 피격당하며 국제 원유 수급에 비상이 걸렸다. 이란의 타격 능력 향상이 확인되면서 중동 지역의 긴장감이 고조되고 있다."
       },
       {
         "title": "트럼프 &quot;휘발윳값 상승 원인은 호르무즈 아닌 정유시설&quot;",
@@ -361,7 +379,7 @@
         "description": "원인이 호르무즈 해협을 통한 원유 공급 차질이 아니라 세계적인 정유 능력 부족에 있다고 주장했다. [사진=AP연합]  도널드 트럼프 미국 대통령이 최근 휘발윳값 상승의 원인이 호르무즈 해협을 통한 원유 공급 차질이... ",
         "pubDate": "Tue, 06 Oct 2026 09:30:00 +0900",
         "formatted_date": "10월 06일, 09시 30분",
-        "ai_summary": "트럼프 대통령은 휘발윳값 상승 원인이 호르무즈 해협을 통한 공급 차질이 아닌, 세계적인 정유 능력 부족 때문이라고 주장했습니다."
+        "ai_summary": "트럼프 대통령은 최근 휘발윳값 상승의 원인이 원유 공급 차질이 아닌 세계적인 정유 능력 부족에 있다고 주장했다."
       },
       {
         "title": "호르무즈 셔틀운항 특수…&quot;1회 왕복 500억에 선원도 3400만원씩&quot;",
@@ -370,7 +388,7 @@
         "description": "이란 전쟁으로 사실상 봉쇄된 호르무즈 해협에서 위험을 무릅쓰고 항해에 나서는 선원들에게 항해 한 회당... 월스트리트저널(WSJ)은 5일(현지시간) 걸프 산유국들이 이란의 호르무즈 해협 봉쇄를 뚫고 석유를 수출하기... ",
         "pubDate": "Tue, 06 Oct 2026 09:10:00 +0900",
         "formatted_date": "10월 06일, 09시 10분",
-        "ai_summary": "호르무즈 해협 봉쇄로 인해 위험을 감수하는 선원들에게 회당 수천만 원의 수당이 지급되는 등 '셔틀 운항' 특수가 발생하고 있습니다."
+        "ai_summary": "이란의 위협으로 봉쇄된 호르무즈 해협에서 산유국들이 석유 수출을 위해 위험을 무릅쓰고 고액의 보상을 지불하며 셔틀 운항을 강행하고 있다."
       },
       {
         "title": "&quot;호르무즈 비워 버리겠다&quot; UAE 3000억불 '대작전' [여의도 Pick!]",
@@ -379,7 +397,7 @@
         "description": "아랍에미리트(UAE)가 이란이 영향력을 행사하는 호르무즈 해협에 대한 의존도를 사실상 ‘제로(0)’로 만들기 위해 3000억달러 규모의 국부펀드를 활용해 대규모 인프라 구축에 나섰습니다. 이란이 호르무즈 해협을... ",
         "pubDate": "Tue, 06 Oct 2026 09:04:00 +0900",
         "formatted_date": "10월 06일, 09시 04분",
-        "ai_summary": "아랍에미리트가 이란의 영향력이 강한 호르무즈 해협 의존도를 없애기 위해 3,000억 달러 규모의 인프라 구축에 나섰습니다."
+        "ai_summary": "UAE가 이란의 호르무즈 해협 봉쇄 위협에 대응해 3000억 달러를 투입하여 해협 의존도를 제로로 만드는 인프라 구축에 나섰다."
       },
       {
         "title": "호르무즈 공격 위협에도···위험천만 ‘셔틀 운항’ 이어가는 걸프국",
@@ -388,7 +406,7 @@
         "description": "호르무즈 해협을 둘러싼 군사적 위협에도 걸프 지역 산유국들이 막대한 비용과 위험을 감수한 채 ‘셔틀... 월스트리트저널(WSJ)은 5일(현지시간) 사우디아라비아 등 걸프 지역 산유국들이 호르무즈 해협 안팎을 오가며... ",
         "pubDate": "Tue, 06 Oct 2026 08:34:00 +0900",
         "formatted_date": "10월 06일, 08시 34분",
-        "ai_summary": "걸프 지역 산유국들이 호르무즈 해협의 군사적 긴장 상황 속에서도 원유 수출을 위해 위험을 감수한 셔틀 운항을 이어가고 있습니다."
+        "ai_summary": "걸프 지역 산유국들이 군사적 긴장 속에서도 석유 수출을 위해 막대한 비용과 위험을 감수하며 호르무즈 해협 셔틀 운항을 이어가고 있다."
       },
       {
         "title": "[국제금융 브리핑] 이란 호르무즈 개방 조건 제시...브렌트유 100.32달러...",
@@ -397,7 +415,7 @@
         "description": "이란이 호르무즈 해협 개방 조건을 재확인했지만 중동 원유 수출은 개선됐다. 유가 하락과 빅테크 강세가... 전까지 호르무즈 개방은 없다고 밝혔다. 동시에 9월 미국 ISM 서비스업 PMI는 54.9로 전월보다 소폭... ",
         "pubDate": "Tue, 06 Oct 2026 08:32:00 +0900",
         "formatted_date": "10월 06일, 08시 32분",
-        "ai_summary": "이란이 호르무즈 해협 개방 조건을 재확인했으나 중동 원유 수출은 다소 개선되었으며, 미국 경제지표와 함께 유가 변동성이 주목받고 있습니다."
+        "ai_summary": "이란이 호르무즈 개방 조건을 재확인했으나 중동 원유 수출 상황은 다소 개선되었으며, 유가 하락과 함께 경제 지표들이 발표되었다."
       },
       {
         "title": "목숨 건 호르무즈 '셔틀 운항'…선원 월급 2∼3배·1년치 보너스도",
@@ -406,120 +424,138 @@
         "description": "보도에 따르면 사우디아라비아 등 걸프 지역 산유국들은 초대형 유조선(VLCC)을 호르무즈 해협 안쪽으로... 이들 산유국은 호르무즈 해협의 긴장이 고조된 상황에도 원유 수출을 중단하는 것보다 막대한 운송 비용을... ",
         "pubDate": "Tue, 06 Oct 2026 08:24:00 +0900",
         "formatted_date": "10월 06일, 08시 24분",
-        "ai_summary": "호르무즈 해협의 긴장 고조로 산유국들은 유조선 운항에 막대한 비용을 지불하며, 선원들에게 고액의 급여와 보너스를 지급하고 있습니다."
-      },
-      {
-        "title": "트럼프 &quot;호르무즈 해협 더는 차질 없어…기름값 상승, 우크라·민주당 ...",
-        "originallink": "https://news.tf.co.kr/read/world/2373038.htm",
-        "link": "https://n.news.naver.com/mnews/article/629/0000539465?sid=104",
-        "description": "더는 호르무즈 해협이 아닌 정유시설의 문제라며 우크라이나와 민주당 탓을 했다. 트럼프 대통령은 5일(현지시간) 소셜미디어 트루스소셜을 통해 &quot;휘발유 가격을 끌어올리는 것은 이제 더 이상 호르무즈 해협이 아니다... ",
-        "pubDate": "Tue, 06 Oct 2026 08:12:00 +0900",
-        "formatted_date": "10월 06일, 08시 12분",
-        "ai_summary": "트럼프 대통령은 휘발유 가격 상승의 원인이 호르무즈 해협이 아닌 정유 시설의 문제이며, 이를 우크라이나와 민주당의 탓으로 돌렸습니다."
-      },
-      {
-        "title": "트럼프 &quot;휘발윳값 상승 주범은 정유시설 차질…호르무즈 때문 아냐&quot;",
-        "originallink": "http://www.joseilbo.com/news/news_read.php?uid=576854&class=42&grp=",
-        "link": "https://n.news.naver.com/mnews/article/123/0002391324?sid=104",
-        "description": "이란의 호르무즈 해협 봉쇄가 아닌 정유시설 가동 차질을 지목했다. 미국 정치전문 매체 더힐에 따르면 트럼프 대통령은 이날 소셜미디어 트루스소셜을 통해 &quot;이제 휘발유 가격을 끌어올리는 주범은 호르무즈 해협이... ",
-        "pubDate": "Tue, 06 Oct 2026 07:22:00 +0900",
-        "formatted_date": "10월 06일, 07시 22분",
-        "ai_summary": "트럼프 대통령은 호르무즈 해협 봉쇄보다 정유 시설 가동 차질이 휘발유값 상승의 주된 원인이라고 주장했습니다."
+        "ai_summary": "산유국들이 호르무즈 해협을 지나는 유조선 선원들에게 평소보다 훨씬 높은 임금과 파격적인 보너스를 지급하며 원유 운송을 지속하고 있다."
       }
     ],
     "트럼프": [
       {
-        "title": "선거 유세 중 행정명령에 서명한 트럼프 대통령",
-        "originallink": "https://www.newsis.com/view/NISI20261006_0002256184",
-        "link": "https://n.news.naver.com/mnews/article/003/0014234964?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 5일(현지 시간) 미 네브래스카주 그랜드아일랜드의 피너클 뱅크 엑스포센터에서 열린 중간 선거 유세 중 서명한 행정명령을 들어 보이고 있다. 2026.10.06.",
-        "pubDate": "Tue, 06 Oct 2026 10:50:00 +0900",
-        "formatted_date": "10월 06일, 10시 50분",
-        "ai_summary": "도널드 트럼프 대통령이 네브래스카주 선거 유세 현장에서 행정명령에 서명하는 모습이 포착되었습니다."
+        "title": "트럼프 ‘중남미 지도’ 마지막 퍼즐… 보우소나루, 1위로 대선 결선행",
+        "originallink": "https://www.munhwa.com/article/11621634?ref=naver",
+        "link": "https://n.news.naver.com/mnews/article/021/0002823297?sid=104",
+        "description": "브라질이 도널드 트럼프 미국 대통령의 중남미 패권 구상에 마지막 퍼즐이 될 것인가. 브라질 대통령선거... 완성되고, 트럼프 정부가 추진하는 마약과의 전쟁에도 힘이 실릴 전망이다. 다만 이 같은 남미 ‘블루타이드’... ",
+        "pubDate": "Tue, 06 Oct 2026 11:50:00 +0900",
+        "formatted_date": "10월 06일, 11시 50분",
+        "ai_summary": "브라질 대선에서 보우소나루 후보가 결선에 진출하며 트럼프의 중남미 패권 구상이 완성될지 주목받고 있다."
       },
       {
-        "title": "트럼프, 경윳값 인하 추진···경유 보급 확대 행정명령에 서명",
-        "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3713727",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3713727",
-        "description": "도널드 트럼프 미국 대통령이 5일 네브래스카주 그랜드 아일랜드에 위치한 네브래스카 주립 박람회장 내... 사진제공/AFP통신 도널드 트럼프 미국 대통령이 농기계와 건설기계 등에 주로 사용되는 '적색 착색 경유'(red-dyed... ",
-        "pubDate": "Tue, 06 Oct 2026 10:50:00 +0900",
-        "formatted_date": "10월 06일, 10시 50분",
-        "ai_summary": "트럼프 대통령이 경유 가격 인하와 보급 확대를 골자로 하는 적색 착색 경유 관련 행정명령에 서명했습니다."
+        "title": "트럼프, '세금으로 만든 광고' 논란에…&quot;비용 직접 부담하겠다&quot;",
+        "originallink": "http://www.joseilbo.com/news/news_read.php?uid=576883&class=42&grp=",
+        "link": "https://n.news.naver.com/mnews/article/123/0002391352?sid=104",
+        "description": "도널드 트럼프 미국 대통령은 오는 11월 중간선거를 앞두고 제작해 온 홍보성 TV 광고를 둘러싸고 세금이 투입됐다는 논란이 일자 광고비를 직접 부담하겠다고 밝혔다. 5일(현지시간) CNN에 따르면 트럼프 대통령은... ",
+        "pubDate": "Tue, 06 Oct 2026 11:49:00 +0900",
+        "formatted_date": "10월 06일, 11시 49분",
+        "ai_summary": "트럼프 대통령이 중간선거 홍보 광고에 세금을 썼다는 논란이 일자, 해당 비용을 직접 부담하겠다고 밝혔다."
       },
       {
-        "title": "트럼프 행정명령 서명 중 대기하는 하프 보좌관",
-        "originallink": "https://www.newsis.com/view/NISI20261006_0002256185",
-        "link": "https://n.news.naver.com/mnews/article/003/0014234966?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 5일(현지 시간) 미 네브래스카주 그랜드아일랜드의 피너클 뱅크 엑스포센터에서 열린 중간 선거 유세 중 행정명령에 서명하는 동안 나탈리 하프 백악관 보좌관이 무대에 서서 대기하고... ",
-        "pubDate": "Tue, 06 Oct 2026 10:50:00 +0900",
-        "formatted_date": "10월 06일, 10시 50분",
-        "ai_summary": "트럼프 대통령이 유세 중 행정명령에 서명하는 동안 나탈리 하프 백악관 보좌관이 대기하고 있는 모습입니다."
+        "title": "중간선거 다급했나…트럼프, 경윳값 깎고 ‘中 미국산 수입 2배’ 깜짝...",
+        "originallink": "https://www.joongang.co.kr/article/25467412",
+        "link": "https://n.news.naver.com/mnews/article/025/0003555990?sid=104",
+        "description": "도널드 트럼프 미국 대통령이 11월 중간선거를 앞두고 핵심 지지 기반인 ‘팜벨트’ 농민 표심 잡기에... 트럼프 대통령은 5일(현지시간) 네브래스카주 유세 현장에서 ‘적색 착색 경유’를 제한 없이 구매할 수 있도록 하는... ",
+        "pubDate": "Tue, 06 Oct 2026 11:48:00 +0900",
+        "formatted_date": "10월 06일, 11시 48분",
+        "ai_summary": "트럼프 대통령이 중간선거를 앞두고 농민 표심을 잡기 위해 경유 규제 완화와 중국의 미국산 수입 확대를 언급했다."
       },
       {
-        "title": "하프 보좌관에서 행정명령서 건네는 트럼프",
-        "originallink": "https://www.newsis.com/view/NISI20261006_0002256186",
-        "link": "https://n.news.naver.com/mnews/article/003/0014234963?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 5일(현지 시간) 미 네브래스카주 그랜드아일랜드의 피너클 뱅크 엑스포센터에서 열린 중간 선거 유세 중 나탈리 하프 백악관 보좌관에게 서명한 행정명령서를 건네고 있다. 2026.10.06.",
-        "pubDate": "Tue, 06 Oct 2026 10:50:00 +0900",
-        "formatted_date": "10월 06일, 10시 50분",
-        "ai_summary": "트럼프 대통령이 네브래스카주 선거 유세장에서 서명을 마친 행정명령서를 나탈리 하프 보좌관에게 전달했습니다."
+        "title": "[오늘 트럼프는] 세금으로 정책 홍보 논란에 &quot;앞으로 내 돈 내겠다&quot;",
+        "originallink": "https://www.news1.kr/world/usa-canada/6311243",
+        "link": "https://n.news.naver.com/mnews/article/421/0009211407?sid=104",
+        "description": "따르면 트럼프 대통령의 국정수행을 긍정적으로 평가한 응답자는 32%로 집계됐다. 이는 지난달 조사와 같은 수준으로, 트럼프 대통령의 정치 경력상 가장 낮은 수치다. 특히 히스패닉계 미국인 응답자 가운데 긍정 평가... ",
+        "pubDate": "Tue, 06 Oct 2026 11:48:00 +0900",
+        "formatted_date": "10월 06일, 11시 48분",
+        "ai_summary": "정책 홍보 논란에 대한 비용 부담 의사를 밝힌 가운데, 트럼프 대통령의 국정수행 지지율이 정치 경력 중 최저치인 32%를 기록했다."
       },
       {
-        "title": "트럼프에게 행정명령서 전달하는 하프 보좌관",
-        "originallink": "https://www.newsis.com/view/NISI20261006_0002256187",
-        "link": "https://n.news.naver.com/mnews/article/003/0014234961?sid=104",
-        "description": "나탈리 하프 백악관 보좌관이 5일(현지 시간) 미 네브래스카주 그랜드아일랜드의 피너클 뱅크 엑스포센터에서 열린 중간 선거 유세장에서 도널드 트럼프 대통령이 서명할 행정명령서를 전달하고 있다. 2026.10.06.",
-        "pubDate": "Tue, 06 Oct 2026 10:50:00 +0900",
-        "formatted_date": "10월 06일, 10시 50분",
-        "ai_summary": "나탈리 하프 백악관 보좌관이 네브래스카주 유세 현장에서 트럼프 대통령에게 서명을 위한 행정명령서를 전달했습니다."
+        "title": "중간선거 앞두고 미워도 다시 한번? '결별설' 일축한 머스크…트럼프 '...",
+        "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=321175",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=321175",
+        "description": "도널드 트럼프 미 행정부의 정책 기조에 적극 보조를 맞추는 모습이다. 일론 머스크는 앞서 트럼프 대통령의 대선운동을 도우며 슈퍼 루키로 등장한 바 있다. 하지만 그 이후 트럼프 대통령과 사실상 '결별' 했다는... ",
+        "pubDate": "Tue, 06 Oct 2026 11:48:00 +0900",
+        "formatted_date": "10월 06일, 11시 48분",
+        "ai_summary": "일론 머스크가 트럼프 대통령의 대선 운동을 지원하며 과거의 결별설을 일축하고 협력을 강화하고 있습니다."
       },
       {
-        "title": "“호르무즈 문제 아냐”...트럼프, 기름값 상승 두고 우크라·야당 탓",
-        "originallink": "https://www.munhwa.com/article/11621561?ref=naver",
-        "link": "https://n.news.naver.com/mnews/article/021/0002823225?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 5일(현지시간) 휘발윳값 상승이 더는 호르무즈 해협이 아닌 정유시설의 문제라고 주장했다. 트럼프 대통령은 이날 트루스소셜에서 “휘발유 가격을 끌어올리는 것은 이제 더 이상... ",
-        "pubDate": "Tue, 06 Oct 2026 10:49:00 +0900",
-        "formatted_date": "10월 06일, 10시 49분",
-        "ai_summary": "트럼프 대통령이 휘발유 가격 상승의 원인을 호르무즈 해협이 아닌 정유시설 문제와 우크라이나, 야당의 탓으로 돌렸습니다."
+        "title": "경윳값 치솟자 농심 잡기…트럼프, 면세유 확대 승부수",
+        "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000071122",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000071122",
+        "description": "도널드 트럼프 미국 대통령이 11월 중간선거를 앞두고 고공행진하는 경윳값에 불만이 커진 '팜벨트' 농민들의 표심 잡기에 나섰다. 트럼프 대통령은 5일(현지시간) 네브래스카주 유세에서 '적색 착색 경유'를 제한 없이... ",
+        "pubDate": "Tue, 06 Oct 2026 11:35:00 +0900",
+        "formatted_date": "10월 06일, 11시 35분",
+        "ai_summary": "트럼프 대통령이 중간선거를 앞두고 농민들의 표심을 잡기 위해 농업용 면세유 규제를 대폭 완화했습니다."
       },
       {
-        "title": "트럼프, 면세유 확대로 農心 구애…&quot;中, 미국산 수입 두배로&quot;(종합)",
-        "originallink": "https://www.yna.co.kr/view/AKR20261006008951071?input=1195m",
-        "link": "https://n.news.naver.com/mnews/article/001/0016359100?sid=104",
-        "description": "도널드 트럼프 미국 대통령이 11월 중간선거에서 위기감이 커지는 '팜벨트'(농장지대) 공략을 위해 농민들의 표심 구애에 나섰다. 트럼프 대통령은 5일(현지시간) 팜벨트 중 한 곳인 네브래스카주 유세에서 '적색 착색 경유... ",
-        "pubDate": "Tue, 06 Oct 2026 10:49:00 +0900",
-        "formatted_date": "10월 06일, 10시 49분",
-        "ai_summary": "트럼프 대통령이 중간선거를 앞두고 농장지대 표심을 잡기 위해 면세 경유 공급 확대와 중국의 미국산 농산물 수입 확대 계획을 밝혔습니다."
+        "title": "'트럼프의 입' 레빗 前 백악관 대변인, 폭스뉴스 합류",
+        "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/10/06/2026100690090.html",
+        "link": "https://n.news.naver.com/mnews/article/448/0000643268?sid=100",
+        "description": "도널드 트럼프 2기 행정부 백악관 대변인을 지낸 캐럴라인 레빗이 친 트럼프 성향 언론사 폭스뉴스에 합류했다. 뉴욕타임스에 따르면 폭스뉴스는 레빗 전 대변인이 다음달 1일부터 방송 출연 기고자로 합류한다고 현지시간... ",
+        "pubDate": "Tue, 06 Oct 2026 11:29:00 +0900",
+        "formatted_date": "10월 06일, 11시 29분",
+        "ai_summary": "트럼프 2기 행정부 백악관 대변인을 지낸 캐럴라인 레빗이 폭스뉴스 방송 출연 기고자로 합류했습니다."
       },
       {
-        "title": "[집중진단] 트럼프 으름장 “알래스카 투자 안 하면 2배 청구”…한국도...",
-        "originallink": "https://biz.sbs.co.kr/article_hub/20000338099?division=NAVER",
-        "link": "https://n.news.naver.com/mnews/article/374/0000536369?sid=101",
-        "description": "트럼프 대통령은 밀어붙이는데 어떻게 해야 할까요. 전문가 두 분과 얘기 나눠보겠습니다.... 알래스카 LNG 투자 프로젝트를 놓고 트럼프 대통령의 발표와 이재명 대통령의 X글이 부딪치고 있습니다. 트럼프 대통령은... ",
-        "pubDate": "Tue, 06 Oct 2026 10:48:00 +0900",
-        "formatted_date": "10월 06일, 10시 48분",
-        "ai_summary": "트럼프 대통령이 알래스카 LNG 프로젝트 투자를 압박하는 가운데, 한국 정부와의 입장 차이로 인해 향후 대응 방안이 주목받고 있습니다."
+        "title": "트럼프, 세금으로 선거 광고 논란 일자 &quot;내 돈 내겠다&quot;",
+        "originallink": "https://imnews.imbc.com/news/2026/world/article/6855987_36925.html",
+        "link": "https://n.news.naver.com/mnews/article/214/0001527364?sid=104",
+        "description": "미국 도널드 트럼프 대통령이 자신의 국정홍보 광고에 세금이 투입됐다는 논란이 일자 앞으로는 후원단체 자금이나 사재로 비용을 대기로 했습니다. 트럼프 대통령은 현지시간 5일 SNS를 통해 &quot;앞으로는 내가 비용을... ",
+        "pubDate": "Tue, 06 Oct 2026 11:29:00 +0900",
+        "formatted_date": "10월 06일, 11시 29분",
+        "ai_summary": "트럼프 대통령이 국정홍보 광고의 세금 투입 논란이 일자 향후 비용을 사재나 후원금으로 충당하겠다고 밝혔습니다."
       },
       {
-        "title": "트럼프는 압박, 밴스는 달래기?...&quot;알래스카 LNG 사업, 韓과 세부사항 협...",
-        "originallink": "https://www.livebiz.today/news/articleView.html?idxno=205360",
-        "link": "https://www.livebiz.today/news/articleView.html?idxno=205360",
-        "description": "앞서 도널드 트럼프 대통령이 한국이 알래스카 LNG 프로젝트에 500억달러 넘는 금액을 투자키로 했다면서... 트럼프 대통령은 지난달 30일 백악관에서 한국의 대미투자 계획을 발표하면서 알래스카 LNG 개발 사업에 한국이... ",
-        "pubDate": "Tue, 06 Oct 2026 10:48:00 +0900",
-        "formatted_date": "10월 06일, 10시 48분",
-        "ai_summary": "트럼프 대통령은 한국의 알래스카 LNG 사업 투자를 공식화하며 압박하고 있으나, 세부 사항에 대해서는 조율이 진행 중인 것으로 알려졌습니다."
+        "title": "트럼프 지지율 30% 초반 급락... 이란전쟁 후 민생고에 중간선거 위기",
+        "originallink": "https://www.insight.co.kr/news/576621",
+        "link": "https://www.insight.co.kr/news/576621",
+        "description": "미국 중간선거를 약 한 달 앞두고 도널드 트럼프 미국 대통령의 지지율이 30%대 초반까지 주저앉으면서 집권 공화당의 참패 위기감이 현실화하고 있다. 비당파 선거 분석 매체인 쿡 폴리티컬 리포트는 트럼프 대통령의... ",
+        "pubDate": "Tue, 06 Oct 2026 11:28:00 +0900",
+        "formatted_date": "10월 06일, 11시 28분",
+        "ai_summary": "이란 전쟁 여파에 따른 민생고로 트럼프 대통령의 지지율이 30%대 초반까지 떨어지며 중간선거 위기감이 고조되고 있습니다."
       },
       {
-        "title": "트럼프, 폭스뉴스 폐업까지 거론했는데… ‘트럼프의 입’ 폭스뉴스 합...",
-        "originallink": "https://www.mediawatch.kr/news/article.html?no=261271",
-        "link": "https://www.mediawatch.kr/news/article.html?no=261271",
-        "description": "트럼프 “MAGA 유세 제대로 보도 안 해” 폭스뉴스 공개 저격 트럼프 최측근 캐럴라인 레빗, 다음 달 폭스뉴스 합류 인싸잇=윤승배 기자 ｜ 도널드 트럼프 미국 대통령이 자신의 정치적 기반인 ‘MAGA(미국을 다시 위대하게)... ",
-        "pubDate": "Tue, 06 Oct 2026 10:46:00 +0900",
-        "formatted_date": "10월 06일, 10시 46분",
-        "ai_summary": "자신의 유세 보도를 비판하며 폭스뉴스를 저격했던 트럼프 대통령의 측근 캐럴라인 레빗이 폭스뉴스에 합류하게 되었습니다."
+        "title": "중동發 불확실성에 출렁이는 유가…트럼프 &quot;호르무즈 문제 아냐&quot;",
+        "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2002889",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2002889",
+        "description": "매일일보 = 이상래 기자   |  도널드 트럼프 미국 대통령은 5일(현지시간) 휘발윳값 상승이 더는 호르무즈... 연합뉴스에 따르면 트럼프 대통령은 이날 소셜미디어 트루스소셜에서 &quot;휘발유 가격을 끌어올리는 것은 이제 더... ",
+        "pubDate": "Tue, 06 Oct 2026 11:24:00 +0900",
+        "formatted_date": "10월 06일, 11시 24분",
+        "ai_summary": "트럼프 대통령이 휘발유 가격 상승의 원인이 호르무즈 해협 문제 때문이 아니라고 주장하며 책임을 회피했습니다."
       }
     ],
     "유가": [
+      {
+        "title": "선거판 흔드는 '6달러 경윳값'...트럼프, 유가 잡기 '올인'",
+        "originallink": "https://www.ytn.co.kr/_ln/0104_202610061153209225",
+        "link": "https://n.news.naver.com/mnews/article/052/0002415178?sid=104",
+        "description": "발등에 불이 떨어진 트럼프 대통령이 농업용 면세유 규제까지 대폭 푸는 등 유가를 잡기 위해 쓸 수 있는 모든 수단을 쏟아붓고 있습니다. 권영희 기자가 보도합니다. [기자] 주유기 미터기의 숫자가 무섭게 올라가자... ",
+        "pubDate": "Tue, 06 Oct 2026 11:53:00 +0900",
+        "formatted_date": "10월 06일, 11시 53분",
+        "ai_summary": "트럼프 대통령이 중간선거 승리를 위해 치솟는 경윳값을 잡고자 가용 가능한 모든 유가 안정 수단을 동원하고 있습니다."
+      },
+      {
+        "title": "중동發 불확실성에 출렁이는 유가…트럼프 &quot;호르무즈 문제 아냐&quot;",
+        "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2002889",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2002889",
+        "description": "중동 최대 산유국인 사우디아라비아는 예멘의 친이란 반군 후티와 무력충돌을 이어가며 국제유가... 트럼프 대통령 주장과 달리 중동에선 국제유가에 대한 우려가 확산되고 있다. 사우디 국영 석유기업 아람코의 아민... ",
+        "pubDate": "Tue, 06 Oct 2026 11:24:00 +0900",
+        "formatted_date": "10월 06일, 11시 24분",
+        "ai_summary": "중동의 무력 충돌로 유가 불안이 확산되고 있으나, 트럼프 대통령은 호르무즈 이슈와의 연관성을 부인하고 있습니다."
+      },
+      {
+        "title": "G7 비축유 방출에 국제유가 하락… 브렌트유 100달러선 '턱걸이'",
+        "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=278812",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278812",
+        "description": "국제 유가가 주요 7국(G7)의 비축유 방출 합의와 중동 산유국 원유 수출 회복에 하락했다. 6일 한국석유공사에 따르면 5일(이하 현지 시각) 런던 ICE 선물거래소에서 브렌트유 최근월물은 전 거래일보다 배럴당 1.... ",
+        "pubDate": "Tue, 06 Oct 2026 11:00:00 +0900",
+        "formatted_date": "10월 06일, 11시 00분",
+        "ai_summary": "G7의 비축유 방출 합의와 산유국 수출 회복으로 국제유가가 하락하며 브렌트유가 100달러 선을 유지하고 있습니다."
+      },
+      {
+        "title": "국제유가보다 더 뛴 항공유 … 11월 유류할증료 다시 27단계까지 오르나",
+        "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600113.html",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600113.html",
+        "description": "뉴데일리 최유경 기자 = 국제유가 오름세가 주춤한 가운데 항공유 가격은 좀처럼 떨어지지 않고 있다.... 유럽의 항공유 재고가 7년 만의 최저 수준으로 떨어지면서 한국을 비롯한 아시아산 항공유가 유럽으로... ",
+        "pubDate": "Tue, 06 Oct 2026 11:00:00 +0900",
+        "formatted_date": "10월 06일, 11시 00분",
+        "ai_summary": "국제유가는 주춤하나 항공유 재고 부족 현상으로 항공유 가격은 여전히 강세를 보이며 유류할증료 인상 우려가 나오고 있습니다."
+      },
       {
         "title": "G7 비축유 방출·美 금리인상 완화…유가·환율 안정세",
         "originallink": "https://www.junggi.co.kr/news/articleView.html?idxno=37996",
@@ -527,55 +563,82 @@
         "description": "주요 7개국(G7)이 비축유 방출을 결정하고 미국 고용지표 둔화에 따른 금리 인상 기대가 낮아지면서, 국제유가와 원달러 환율이 하락 안정세를 보이고 있다. 5일 뉴욕과 서울 금융시장에서 국제유가는 1% 이상 떨어지고... ",
         "pubDate": "Tue, 06 Oct 2026 10:36:00 +0900",
         "formatted_date": "10월 06일, 10시 36분",
-        "ai_summary": "G7의 비축유 방출 결정과 미국의 금리 인상 기대감 완화로 인해 국제 유가와 원달러 환율이 하락하며 안정세를 보이고 있습니다."
-      },
-      {
-        "title": "유가에 발목 잡힌 트럼프, 면세 경유 보급 행정명령…“비싼 휘발유는 ...",
-        "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000020100&cp=nv",
-        "link": "https://n.news.naver.com/mnews/article/005/0001876948?sid=104",
-        "description": "다음달 중간선거를 앞두고 고유가에 대한 유권자의 불만이 폭발하자 경유 보급 방안을 내놓은 것이다. 백악관에 따르면 트럼프 대통령은 이날 오클라호마주에서 열린 유세 현장에서 국민 누구나 세금 없이 ‘적색 착색... ",
-        "pubDate": "Tue, 06 Oct 2026 10:01:00 +0900",
-        "formatted_date": "10월 06일, 10시 01분",
-        "ai_summary": "트럼프 대통령이 고유가에 대한 유권자들의 불만을 잠재우기 위해 면세 경유 보급 행정명령을 발표하며 민심 구애에 나섰습니다."
-      },
-      {
-        "title": "트럼프 &quot;정유소 타격에 경유 수급 차질…비축유 방출해 유가 안정&quot;",
-        "originallink": "http://www.joseilbo.com/news/news_read.php?uid=576864&class=42&grp=",
-        "link": "https://n.news.naver.com/mnews/article/123/0002391333?sid=104",
-        "description": "통해 유가 안정을 이끌겠다고 밝혔다. 백악관에 따르면 트럼프 대통령은 이날 네브래스카주로 출발하기 전... 그는 &quot;호르무즈 해협에서 기록적인 규모의 원유가 공급되고 있다&quot;며 &quot;현재 우리가 직면한 문제 중 하나는... ",
-        "pubDate": "Tue, 06 Oct 2026 09:55:00 +0900",
-        "formatted_date": "10월 06일, 09시 55분",
-        "ai_summary": "트럼프 대통령이 정유소 타격으로 인한 경유 수급 차질을 해결하기 위해 비축유 방출을 통한 유가 안정 의지를 밝혔습니다."
-      },
-      {
-        "title": "국제유가, 중동 원유 수출 증가·G7 비축유 방출에 1.8% ↓",
-        "originallink": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539539",
-        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539539",
-        "description": "국제유가가 중동 지역의 원유 수출 증가와 주요 7개국, G7의 비축유 1억 배럴 방출 결정으로 2거래일 연속 하락했습니다. 현지시간 5일 런던 ICE 선물거래소에서 12월 인도분 브렌트유 선물은 전장보다 1.89% 내린... ",
-        "pubDate": "Tue, 06 Oct 2026 09:50:00 +0900",
-        "formatted_date": "10월 06일, 09시 50분",
-        "ai_summary": "중동의 원유 수출 증가와 G7의 비축유 1억 배럴 방출 결정이 겹치면서 국제 유가가 2거래일 연속 하락했습니다."
-      },
-      {
-        "title": "중동 원유 수출 늘고 G7 비축유 푼다… 국제유가 1.8%↓",
-        "originallink": "https://www.fntoday.co.kr/news/articleView.html?idxno=394607",
-        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=394607",
-        "description": "중동의 원유 수출 물량 증가와 주요 7개국(G7)의 비축유 방출 결정이 호재로 작용하며 국제유가가 이틀째... 장 초반 국제유가는 중동 지역의 원유 수출이 빠르게 늘고 있다는 소식에 하락 압력을 받았다.... ",
-        "pubDate": "Tue, 06 Oct 2026 09:44:00 +0900",
-        "formatted_date": "10월 06일, 09시 44분",
-        "ai_summary": "중동의 원유 수출 증가와 G7의 비축유 방출 결정이 겹치며 국제유가가 이틀 연속 하락했다."
-      },
-      {
-        "title": "환율, 1340원대 중반으로 하락…달러 강세·유가 하락 엇갈려",
-        "originallink": "https://www.news2day.co.kr/article/20261006500071",
-        "link": "https://www.news2day.co.kr/article/20261006500071",
-        "description": "유럽 통화 약세로 달러화가 강세를 보이는 가운데 국제유가 하락이 환율 상승 압력을 일부 낮추는... 국제유가는 다시 배럴당 90달러 아래로 내려왔다. 5일(현지시간) 서부텍사스산원유(WTI)는 전 거래일보다 1.84... ",
-        "pubDate": "Tue, 06 Oct 2026 09:42:00 +0900",
-        "formatted_date": "10월 06일, 09시 42분",
-        "ai_summary": "달러 강세와 유가 하락이 맞물리며 원·달러 환율이 1340원대 중반으로 하락했다."
+        "ai_summary": "G7의 비축유 방출 결정과 미국의 금리 인상 기대감 하락으로 국제유가와 원달러 환율이 안정세를 보이고 있다."
       }
     ],
     "코스피": [
+      {
+        "title": "한국투자증권 &quot;10월 코스피 6400∼7600 예상…가파른 반등은 어려워&quot;",
+        "originallink": "https://biz.sbs.co.kr/article_hub/20000338433?division=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/374/0000536399?sid=101",
+        "description": "한국투자증권이 이달 코스피 등락 범위로 6400∼7600을 제시했습니다. 김대준 한국투자증권 연구원은 오늘(6일) 보고서에서 &quot;증시 유동성 환경이 상반기 대비 위축된 가운데 매크로 불확실성이 잔존한 점이 지수 상단을... ",
+        "pubDate": "Tue, 06 Oct 2026 11:45:00 +0900",
+        "formatted_date": "10월 06일, 11시 45분",
+        "ai_summary": "한국투자증권은 유동성 위축과 매크로 불확실성을 이유로 10월 코스피 예상 등락 범위를 6400~7600으로 제시하며 반등을 경계했다."
+      },
+      {
+        "title": "외국인 팔자에 코스피 7천선 붕괴…뉴욕증시 상승",
+        "originallink": "https://biz.sbs.co.kr/article_hub/20000338406?division=NAVER",
+        "link": "https://n.news.naver.com/mnews/article/374/0000536392?sid=101",
+        "description": "보이면서 코스피가 7천선 밑으로 떨어졌습니다. 반면 코스닥은 2% 넘게 급등하고 있습니다. 오전 증시 알아봅니다. 김종윤 기자, 오전장 흐름 어떻습니까? [기자] 코스피는 7044로 상승 출발했지만 이내 7천선을... ",
+        "pubDate": "Tue, 06 Oct 2026 11:39:00 +0900",
+        "formatted_date": "10월 06일, 11시 39분",
+        "ai_summary": "외국인의 대규모 매도세로 코스피가 7천 선을 하회한 반면, 코스닥은 2% 넘는 급등세를 보이고 있다."
+      },
+      {
+        "title": "코스피, 외인 7천600억 순매도에 7,000선 '하회'…반도체도 '약세'",
+        "originallink": "https://www.youthdaily.co.kr/news/article.html?no=227967",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=227967",
+        "description": "51% 상승…915선 회복 개천절 연휴 이후 첫 거래일인 6일 코스피가 외국인의 대규모 순매도와 반도체... 한국거래소에 따르면 이날 오전 11시 25분 기준 코스피는 전 거래일보다 39.05포인트(0.56%) 내린 6,964.69를... ",
+        "pubDate": "Tue, 06 Oct 2026 11:36:00 +0900",
+        "formatted_date": "10월 06일, 11시 36분",
+        "ai_summary": "외국인의 대량 순매도와 반도체주 약세로 코스피가 7천 선 아래로 밀려났으며, 코스닥은 915선을 회복했다."
+      },
+      {
+        "title": "코스피, 7,000선 턱걸이 공방…장 초반 상승세 축소",
+        "originallink": "https://www.m-economynews.com/news/article.html?no=71369",
+        "link": "https://www.m-economynews.com/news/article.html?no=71369",
+        "description": "개천절 연휴 후 개장 첫날인 6일 국내 증시가 코스피 7,000선을 중심으로 등락하고 있다. 한국거래소에 따르면 이날 오전 코스피는 전 거래일보다 40.93포인트(0.58%) 오른 7,044.67로 출발한 뒤, 상승 동력이... ",
+        "pubDate": "Tue, 06 Oct 2026 11:34:00 +0900",
+        "formatted_date": "10월 06일, 11시 34분",
+        "ai_summary": "연휴 후 개장한 코스피가 상승 출발했으나 상승 동력 부족으로 7천 선을 두고 치열한 공방을 이어가고 있다."
+      },
+      {
+        "title": "코스피, 장중 7,000선 내주며 약보합…코스닥 2%대 상승",
+        "originallink": "https://www.yna.co.kr/view/AKR20261006081400008?input=1195m",
+        "link": "https://n.news.naver.com/mnews/article/001/0016359264?sid=101",
+        "description": "삼전·닉스 하락…이차전지·보안주 강세 코스피가 개천절 연휴 직후인 6일 장 중 약보합세를 보이며 7,000선 아래에서 움직이고 있다. 한국거래소에 따르면 이날 오전 11시 현재 코스피는 전 거래일 대비 20.... ",
+        "pubDate": "Tue, 06 Oct 2026 11:21:00 +0900",
+        "formatted_date": "10월 06일, 11시 21분",
+        "ai_summary": "코스피는 삼성전자 등 주요 종목 약세로 7천 선을 내주었으나, 코스닥은 이차전지주 등의 강세로 2%대 상승 중이다."
+      },
+      {
+        "title": "[오늘증시] 7000선 내준 코스피…외인 매도 속 코스닥은 '상승모드'",
+        "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815049",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815049",
+        "description": "코스피가 사상 첫 7000선 안착 이후 숨 고르기에 들어갔다. 외국인이 6000억 원 넘게 순매도하며 지수를 끌어내리는 반면 코스닥은 2% 넘게 뛰며 910선까지 올라섰다. 6일 오전 10시38분 기준 코스피는 전 거래일보다... ",
+        "pubDate": "Tue, 06 Oct 2026 11:10:00 +0900",
+        "formatted_date": "10월 06일, 11시 10분",
+        "ai_summary": "코스피가 외국인 매도로 7천 선을 내주며 숨 고르기에 들어갔으나, 코스닥은 2% 이상 상승하며 910선에 안착했다."
+      },
+      {
+        "title": "삼성전기, 코스피 약세에도 5%대 껑충…LG이노텍 등 기판주 강세",
+        "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=612676",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612676",
+        "description": "코스피가 약세를 나타내는 가운데서도 상승 흐름을 유지하고 있어 눈길을 끈다. 6일 오전 10시 54분 기준 삼성전기는 전 거래일보다 9만3000원(5.88%) 오른 167만4000원에 거래되고 있다. 같은 시각 코스피는 전장보다... ",
+        "pubDate": "Tue, 06 Oct 2026 10:58:00 +0900",
+        "formatted_date": "10월 06일, 10시 58분",
+        "ai_summary": "코스피의 전반적인 약세 흐름 속에서도 삼성전기를 비롯한 기판주들은 강세를 보이며 투자자들의 관심을 받고 있다."
+      },
+      {
+        "title": "외인 '팔자'에 코스피 6970선 약세…코스닥은 910선 '훌쩍'",
+        "originallink": "https://www.mediapen.com/news/view/1128061",
+        "link": "https://www.mediapen.com/news/view/1128061",
+        "description": "6일 오전 코스피 지수가 외국인의 대량 매도세에 눌려 7000선을 내어주고 하락 중이다. 반면 코스닥 지수는 2% 이상 급등하며 910선을 훌쩍 넘어섰다. 6일 오전 코스피 지수가 외국인의 대량 매도세에 눌려... ",
+        "pubDate": "Tue, 06 Oct 2026 10:52:00 +0900",
+        "formatted_date": "10월 06일, 10시 52분",
+        "ai_summary": "외국인의 매도 공세로 코스피가 6970선까지 밀려난 가운데 코스닥 지수는 910선을 돌파하며 급등세를 이어갔다."
+      },
       {
         "title": "코스피,장 초반 7,000선 공방전…코스닥은 2%대 상승",
         "originallink": "http://www.seouleconews.com/news/articleView.html?idxno=94140",
@@ -583,7 +646,7 @@
         "description": "·6일 서울 중구 하나은행 본점 딜링룸 전광판에 코스피와 코스닥, 환율이 표시되고 있다.  코스피가 개천절 연휴를 마치고 개장 첫날인 6일 장 초반 7,000선 안팎을 등락하고 있다. 한국거래소에 따르면 이날... ",
         "pubDate": "Tue, 06 Oct 2026 10:44:00 +0900",
         "formatted_date": "10월 06일, 10시 44분",
-        "ai_summary": "연휴 후 개장한 코스피가 7,000선 근처에서 등락을 거듭하는 가운데 코스닥은 2%대 상승세를 보였다."
+        "ai_summary": "연휴 후 개장한 국내 증시에서 코스피는 7천 선을 중심으로 등락을 거듭하고 있으며, 코스닥은 2%대 상승세를 기록 중이다."
       },
       {
         "title": "[개장] 코스피, 하락반전… 나스닥 강세 불구 삼전닉스 약세",
@@ -592,81 +655,9 @@
         "description": "개천절 연휴를 끝내고 개장한 코스피가 미국 인공지능(AI) 관련주 강세에도 장 초반 7000선에서 혼조세를 보이고 있다. 6일 한국거래소에 따르면 오전 10시 20분 현재 코스피는 전 거래일 대비 23.93(0.34%) 내린... ",
         "pubDate": "Tue, 06 Oct 2026 10:42:00 +0900",
         "formatted_date": "10월 06일, 10시 42분",
-        "ai_summary": "미국 AI 관련주 강세에도 불구하고 삼성전자 등 주요 종목이 약세를 보이며 코스피가 하락 전환했다."
-      },
-      {
-        "title": "코스피, 미 증시 훈풍에도 7000선 공방",
-        "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1315723&inflow=N",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1315723&inflow=N",
-        "description": "뉴스토마토 = 김주하 기자 | 코스피가 개천절 연휴 이후 첫 거래일 장 초반 7000선을 중심으로 등락하고... 6일 한국거래소에 따르면 오전 10시18분 기준 코스피는 전 거래일보다 12.18포인트(0.17%) 내린 6991.56을... ",
-        "pubDate": "Tue, 06 Oct 2026 10:34:00 +0900",
-        "formatted_date": "10월 06일, 10시 34분",
-        "ai_summary": "미국 증시의 훈풍에도 불구하고 코스피는 장 초반 7,000선을 중심으로 치열한 공방전을 펼쳤다."
-      },
-      {
-        "title": "코스피 7000선 공방 속 코스닥 2%대 급등…중소형 성장주로 매수세 확산",
-        "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=230653",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=230653",
-        "description": "코스피는 7000선을 놓고 치열한 공방을 벌이는 반면 코스닥은 2% 넘게 급등하며 910선을 돌파했다. 6일 오전 10시15분께 코스피는 전 거래일보다 23.81포인트(0.34%) 하락한 6979.93을 나타내고 있다. 같은 시각 코스닥은 21.... ",
-        "pubDate": "Tue, 06 Oct 2026 10:34:00 +0900",
-        "formatted_date": "10월 06일, 10시 34분",
-        "ai_summary": "코스피는 7,000선을 두고 등락 중이나, 코스닥은 중소형 성장주 중심의 매수세 유입으로 2%대 급등했다."
-      },
-      {
-        "title": "[증시 오늘(6일) 주요 특징주] 코스피 숨고르기속 코스닥 훈풍…제약·바...",
-        "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=89865",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=89865",
-        "description": "6일 오전 10시 27분 현재 국내 증시가 코스피의 약보합세와 코스닥의 2%대 급등세로 갈리는 차별화 장세를 이어가는 가운데 시장의 시선이 각 시장별 주도 종목군으로 쏠리고 있다. 코스피 시장에서는 삼성전자와... ",
-        "pubDate": "Tue, 06 Oct 2026 10:32:00 +0900",
-        "formatted_date": "10월 06일, 10시 32분",
-        "ai_summary": "코스피의 약보합세와 코스닥의 2%대 급등세로 증시 차별화가 나타나며 제약·바이오 등 주도주에 시선이 쏠리고 있다."
-      },
-      {
-        "title": "[위클리오늘] 코스피 7000선 상승 출발···환율 1340원대",
-        "originallink": "http://www.weeklytoday.com/news/articleView.html?idxno=796920",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=796920",
-        "description": "AI 관련주 강세에 뉴욕증시가 상승하면서 6일 코스피가 7000선에서 상승 출발했다. 한국거래소에 따르면 이날 코스피는 직전 거래일보다 40.93포인트(0.58%) 오른 7044.67에 개장했다. 코스닥지수는 8.87포인트... ",
-        "pubDate": "Tue, 06 Oct 2026 10:28:00 +0900",
-        "formatted_date": "10월 06일, 10시 28분",
-        "ai_summary": "뉴욕증시의 AI 관련주 강세에 힘입어 코스피가 7,000선 위에서 상승 출발했다."
-      },
-      {
-        "title": "코스피 미국 기술주 강세에도 장중 7010선 강보합, 코스닥은 2%대 상승",
-        "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=448644",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448644",
-        "description": "코스피지수가 장중 7천 선을 지키며 강보합세를 보이고 있다. 6일 오전 9시40분 기준 코스피지수는 직전 거래일보다 0.17%(11.82포인트) 오른 7015.56을 보이고 있다. 6일 오전 장중 코스피지수가 장중 7천 선을... ",
-        "pubDate": "Tue, 06 Oct 2026 10:22:00 +0900",
-        "formatted_date": "10월 06일, 10시 22분",
-        "ai_summary": "미국 기술주 강세의 영향으로 코스피가 장중 7,010선에서 강보합세를 유지하고 있다."
-      },
-      {
-        "title": "코스피, 美 AI 강세에도 6,990선 하락 전환…외국인 매도 속 기관 매수",
-        "originallink": "https://www.news2day.co.kr/article/20261006500081",
-        "link": "https://www.news2day.co.kr/article/20261006500081",
-        "description": "기자] 코스피 지수가 간밤 뉴욕증시의 인공지능(AI) 반도체주 강세에 힘입어 상승 출발했으나 외국인의 대규모 순매도세에 하락 전환해 약세를 보이고 있다. 6일 한국거래소에 따르면 코스피는 이날 오전... ",
-        "pubDate": "Tue, 06 Oct 2026 10:18:00 +0900",
-        "formatted_date": "10월 06일, 10시 18분",
-        "ai_summary": "뉴욕증시 AI주 강세로 상승 출발했으나, 외국인의 대규모 매도세가 이어지며 코스피가 하락 전환했다."
-      },
-      {
-        "title": "&quot;코스피 이번주 6800~7300&quot;…삼성전자 실적이 분수령",
-        "originallink": "https://www.junggi.co.kr/news/articleView.html?idxno=37989",
-        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=37989",
-        "description": "이번 주 코스피가 미국 장기금리 향방, 9월 연방공개시장위원회(FOMC) 의사록, 8일 발표되는 삼성전자 3분기... 키움증권은 마이크론의 시장 예상을 웃돈 실적과 수출 지표가 반도체 업황 개선 기대를 되살려 코스피가... ",
-        "pubDate": "Tue, 06 Oct 2026 10:16:00 +0900",
-        "formatted_date": "10월 06일, 10시 16분",
-        "ai_summary": "이번 주 코스피는 미국 금리와 삼성전자 3분기 실적 발표에 따라 6800~7300선에서 등락할 전망입니다. 마이크론의 호실적으로 반도체 업황 개선 기대감이 커지고 있습니다."
-      },
-      {
-        "title": "삼전·닉스 주춤하며 코스피 7000선 공방…코스닥은 2%대 껑충",
-        "originallink": "https://www.segye.com/newsView/20261006505343?OutUrl=naver",
-        "link": "https://n.news.naver.com/mnews/article/022/0004164343?sid=101",
-        "description": "연 코스피가 6일 장초반 7000선을 경계로 공방을 벌이고 있다. 코스닥 지수는 외국인과 기관의 동반 매수세가 몰리며 2%대 강세를 나타내고 있다. 한국거래소에 따르면 이날 오전 9시58분 기준 코스피는 전... ",
-        "pubDate": "Tue, 06 Oct 2026 10:09:00 +0900",
-        "formatted_date": "10월 06일, 10시 09분",
-        "ai_summary": "코스피는 삼성전자와 SK하이닉스의 부진으로 7000선에서 보합세를 보이고 있습니다. 반면 코스닥은 외국인과 기관의 매수세에 힘입어 2%대 강세를 기록 중입니다."
+        "ai_summary": "미국 AI 관련주 강세에도 불구하고 삼성전자와 SK하이닉스의 약세로 코스피가 하락 반전했습니다. 연휴 이후 개장한 시장에서 지수는 혼조세를 보이며 2600선 아래에서 움직이고 있습니다."
       }
     ]
   },
-  "last_updated": "2026-10-06 11:01:11"
+  "last_updated": "2026-10-06 12:00:27"
 }
