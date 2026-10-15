@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-10-15 01:31:25",
+  "last_updated": "2026-10-15 08:23:28",
   "schedules": [
+    {
+      "date": "2026-11-03",
+      "time": "14:00~16:00",
+      "title": "AI 대전환과 마리나산업 고도화 방안",
+      "committee": "",
+      "location": "의원회관 신관 제3세미나실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "13:00~15:00",
+      "title": "대한민국 목재산업 미래비전",
+      "committee": "",
+      "location": "의원회관 제5간담회의실(208호)",
+      "type": "sanja"
+    },
     {
       "date": "2026-10-21",
       "time": "14:00~17:00",
@@ -8,6 +24,14 @@
       "committee": "",
       "location": "의원회관 제1소회의실",
       "type": "sanja"
+    },
+    {
+      "date": "2026-10-19",
+      "time": "14:00",
+      "title": "중앙차세대여성위원회 임명장 수여식 및 전체회의",
+      "committee": "",
+      "location": "국회박물관 국회체험관",
+      "type": "session"
     },
     {
       "date": "2026-10-16",
@@ -27,11 +51,27 @@
     },
     {
       "date": "2026-10-15",
+      "time": "17:30",
+      "title": "제439회국회(정기회) 제5차 전체회의",
+      "committee": "국토교통위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-10-15",
       "time": "15:00",
       "title": "2026 백화점·면세점 판매노동자 근무환경 및 건강실태조사 결과 발표 국회 토론회",
       "committee": "",
       "location": "의원회관 제7간담회의실(210호)",
       "type": "gihyu"
+    },
+    {
+      "date": "2026-10-15",
+      "time": "14:06",
+      "title": "제439회국회(정기회) 제8차 전체회의",
+      "committee": "행정안전위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-10-15",
@@ -69,15 +109,15 @@
       "date": "2026-10-14",
       "time": "10:00",
       "title": "제439회국회(정기회) 제7차 전체회의",
-      "committee": "국방위원회",
+      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-10-14",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제8차 전체회의",
-      "committee": "행정안전위원회",
+      "title": "제439회국회(정기회) 제7차 전체회의",
+      "committee": "국방위원회",
       "location": null,
       "type": "session"
     },
@@ -86,14 +126,6 @@
       "time": "10:00",
       "title": "제439회국회(정기회) 제3차 전체회의",
       "committee": "성평등가족위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-10-14",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제4차 전체회의",
-      "committee": "교육위원회",
       "location": null,
       "type": "session"
     },
@@ -116,8 +148,8 @@
     {
       "date": "2026-10-14",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제7차 전체회의",
-      "committee": "행정안전위원회",
+      "title": "제439회국회(정기회) 제4차 전체회의",
+      "committee": "교육위원회",
       "location": null,
       "type": "session"
     },
@@ -204,8 +236,8 @@
     {
       "date": "2026-10-07",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제4차 전체회의",
-      "committee": "문화체육관광위원회",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -220,10 +252,26 @@
     {
       "date": "2026-10-07",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제4차 전체회의",
-      "committee": "산업통상자원중소벤처기업위원회",
+      "title": "제439회국회(정기회) 제5차 전체회의",
+      "committee": "국방위원회",
       "location": null,
-      "type": "sanja"
+      "type": "session"
+    },
+    {
+      "date": "2026-10-07",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제4차 전체회의",
+      "committee": "문화체육관광위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-10-07",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "교육위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-10-07",
@@ -236,26 +284,10 @@
     {
       "date": "2026-10-07",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제5차 전체회의",
-      "committee": "국방위원회",
+      "title": "제439회국회(정기회) 제4차 전체회의",
+      "committee": "산업통상자원중소벤처기업위원회",
       "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-10-07",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-10-07",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "교육위원회",
-      "location": null,
-      "type": "session"
+      "type": "sanja"
     },
     {
       "date": "2026-10-06",
@@ -285,17 +317,17 @@
       "date": "2026-10-06",
       "time": "10:00",
       "title": "제439회국회(정기회) 제4차 전체회의",
-      "committee": "기후에너지환경노동위원회",
+      "committee": "과학기술정보방송통신위원회",
       "location": null,
-      "type": "gihyu"
+      "type": "session"
     },
     {
       "date": "2026-10-06",
       "time": "10:00",
       "title": "제439회국회(정기회) 제4차 전체회의",
-      "committee": "과학기술정보방송통신위원회",
+      "committee": "기후에너지환경노동위원회",
       "location": null,
-      "type": "session"
+      "type": "gihyu"
     },
     {
       "date": "2026-10-06",
