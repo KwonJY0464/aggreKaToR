@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22 08:42:09",
+  "last_updated": "2026-10-23 01:34:33",
   "schedules": [
     {
       "date": "2026-11-11",
@@ -236,8 +236,8 @@
     {
       "date": "2026-10-14",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제7차 전체회의",
-      "committee": "행정안전위원회",
+      "title": "제439회국회(정기회) 제5차 전체회의",
+      "committee": "보건복지위원회",
       "location": null,
       "type": "session"
     },
@@ -252,8 +252,16 @@
     {
       "date": "2026-10-14",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제4차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "성평등가족위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제7차 전체회의",
+      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
     },
@@ -268,16 +276,8 @@
     {
       "date": "2026-10-14",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "성평등가족위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-10-14",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제5차 전체회의",
-      "committee": "보건복지위원회",
+      "title": "제439회국회(정기회) 제4차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -364,14 +364,6 @@
     {
       "date": "2026-10-07",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제5차 전체회의",
-      "committee": "행정안전위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-10-07",
-      "time": "10:00",
       "title": "제439회국회(정기회) 제3차 전체회의",
       "committee": "농림축산식품해양수산위원회",
       "location": null,
@@ -380,16 +372,8 @@
     {
       "date": "2026-10-07",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "교육위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-10-07",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제4차 전체회의",
-      "committee": "보건복지위원회",
+      "title": "제439회국회(정기회) 제5차 전체회의",
+      "committee": "국방위원회",
       "location": null,
       "type": "session"
     },
@@ -405,17 +389,33 @@
       "date": "2026-10-07",
       "time": "10:00",
       "title": "제439회국회(정기회) 제4차 전체회의",
-      "committee": "산업통상자원중소벤처기업위원회",
+      "committee": "보건복지위원회",
       "location": null,
-      "type": "sanja"
+      "type": "session"
     },
     {
       "date": "2026-10-07",
       "time": "10:00",
       "title": "제439회국회(정기회) 제5차 전체회의",
-      "committee": "국방위원회",
+      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-10-07",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "교육위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-10-07",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제4차 전체회의",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
     },
     {
       "date": "2026-10-06",
