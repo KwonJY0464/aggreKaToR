@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03 15:15:43",
+  "last_updated": "2026-11-04 03:01:29",
   "schedules": [
     {
       "date": "2026-11-16",
@@ -83,9 +83,25 @@
     },
     {
       "date": "2026-11-04",
+      "time": "14:00",
+      "title": "2026 국회 SAF 산업과 국내 농업 원료 공급망 구축 토론회",
+      "committee": "",
+      "location": "의원회관 제7간담회의실(210호)",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-11-04",
       "time": "10:00",
       "title": "제439회국회(정기회) 제3차 전체회의",
       "committee": "예산결산특별위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제11차 전체회의",
+      "committee": "법제사법위원회",
       "location": null,
       "type": "session"
     },
