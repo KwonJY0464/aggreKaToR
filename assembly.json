@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 04:39:15",
+  "last_updated": "2026-11-10 15:38:19",
   "schedules": [
     {
       "date": "2026-11-25",
@@ -11,9 +11,25 @@
     },
     {
       "date": "2026-11-24",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제12차 전체회의",
+      "committee": "과학기술정보방송통신위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-24",
       "time": "09:30",
       "title": "제439회국회(정기회) 제4차 전체회의",
       "committee": "정보위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제7차 전체회의",
+      "committee": "국회운영위원회",
       "location": null,
       "type": "session"
     },
@@ -36,6 +52,14 @@
     {
       "date": "2026-11-16",
       "time": "14:00",
+      "title": "푸드테크산업법 제정 1년 성과 및 발전방향",
+      "committee": "",
+      "location": "의원회관 제1소회의실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "14:00",
       "title": "제439회국회(정기회) 제9차 전체회의",
       "committee": "국방위원회",
       "location": null,
@@ -43,11 +67,11 @@
     },
     {
       "date": "2026-11-16",
-      "time": "14:00",
-      "title": "푸드테크산업법 제정 1년 성과 및 발전방향",
-      "committee": "",
-      "location": "의원회관 제1소회의실",
-      "type": "sanja"
+      "time": "10:30",
+      "title": "제439회국회(정기회) 제6차 전체회의",
+      "committee": "국회운영위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-11-13",
@@ -68,16 +92,24 @@
     {
       "date": "2026-11-12",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제9차 전체회의",
-      "committee": "예산결산특별위원회",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "외교통일위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-11-12",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "외교통일위원회",
+      "title": "제439회국회(정기회) 제2차 예산결산소위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제9차 전체회의",
+      "committee": "예산결산특별위원회",
       "location": null,
       "type": "session"
     },
@@ -107,6 +139,38 @@
     },
     {
       "date": "2026-11-11",
+      "time": "13:20",
+      "title": "제439회국회(정기회) 제9차 전체회의",
+      "committee": "재정경제기획위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제9차 전체회의",
+      "committee": "문화체육관광위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제1차 예산결산소위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제8차 전체회의",
+      "committee": "예산결산특별위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-11",
       "time": "10:00",
       "title": "조선해양산업 경쟁력 강화를 위한 지속가능 공급망 전환 정책토론회",
       "committee": "",
@@ -120,14 +184,6 @@
       "committee": "",
       "location": "의원회관 신관 제1세미나실",
       "type": "gihyu"
-    },
-    {
-      "date": "2026-11-11",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제8차 전체회의",
-      "committee": "예산결산특별위원회",
-      "location": null,
-      "type": "session"
     },
     {
       "date": "2026-11-10",
@@ -156,10 +212,10 @@
     {
       "date": "2026-11-09",
       "time": "14:00",
-      "title": "제439회국회(정기회) 제9차 전체회의",
-      "committee": "정무위원회",
+      "title": "제439회국회(정기회) 제7차 전체회의",
+      "committee": "기후에너지환경노동위원회",
       "location": null,
-      "type": "session"
+      "type": "gihyu"
     },
     {
       "date": "2026-11-09",
@@ -172,10 +228,10 @@
     {
       "date": "2026-11-09",
       "time": "14:00",
-      "title": "제439회국회(정기회) 제7차 전체회의",
-      "committee": "기후에너지환경노동위원회",
+      "title": "제439회국회(정기회) 제9차 전체회의",
+      "committee": "정무위원회",
       "location": null,
-      "type": "gihyu"
+      "type": "session"
     },
     {
       "date": "2026-11-09",
@@ -189,17 +245,17 @@
       "date": "2026-11-09",
       "time": "10:00",
       "title": "제439회국회(정기회) 제6차 전체회의",
-      "committee": "산업통상자원중소벤처기업위원회",
+      "committee": "예산결산특별위원회",
       "location": null,
-      "type": "sanja"
+      "type": "session"
     },
     {
       "date": "2026-11-09",
       "time": "10:00",
       "title": "제439회국회(정기회) 제6차 전체회의",
-      "committee": "예산결산특별위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
       "location": null,
-      "type": "session"
+      "type": "sanja"
     },
     {
       "date": "2026-11-06",
@@ -260,16 +316,16 @@
     {
       "date": "2026-11-04",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제11차 전체회의",
-      "committee": "법제사법위원회",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "예산결산특별위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-11-04",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "예산결산특별위원회",
+      "title": "제439회국회(정기회) 제11차 전체회의",
+      "committee": "법제사법위원회",
       "location": null,
       "type": "session"
     },
