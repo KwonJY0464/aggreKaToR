@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13 03:26:38",
+  "last_updated": "2026-11-13 15:26:59",
   "schedules": [
     {
       "date": "2026-11-25",
@@ -52,26 +52,18 @@
     {
       "date": "2026-11-18",
       "time": "10:00",
-      "title": "프론티어 AI가 여는 대한민국 산업 대전환: 2026 폴리뉴스·상생과통일포럼 제27차 산업포럼",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "sanja"
-    },
-    {
-      "date": "2026-11-18",
-      "time": "10:00",
       "title": "한복 일상화를 위한 제도적 기반과 산업생태계 조성방안 토론회",
       "committee": "",
       "location": "의원회관 신관 제1세미나실",
       "type": "sanja"
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제5차 전체회의",
-      "committee": "성평등가족위원회",
-      "location": null,
-      "type": "session"
+      "title": "프론티어 AI가 여는 대한민국 산업 대전환: 2026 폴리뉴스·상생과통일포럼 제27차 산업포럼",
+      "committee": "",
+      "location": "의원회관 제2소회의실",
+      "type": "sanja"
     },
     {
       "date": "2026-11-17",
@@ -99,9 +91,41 @@
     },
     {
       "date": "2026-11-16",
-      "time": "10:30",
+      "time": "10:40",
       "title": "제439회국회(정기회) 제6차 전체회의",
       "committee": "국회운영위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제1차 예산결산기금심사소위원회",
+      "committee": "기후에너지환경노동위원회",
+      "location": null,
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제7차 전체회의",
+      "committee": "교육위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제12차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제11차 전체회의",
+      "committee": "행정안전위원회",
       "location": null,
       "type": "session"
     },
@@ -164,16 +188,16 @@
     {
       "date": "2026-11-12",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제7차 전체회의",
-      "committee": "국토교통위원회",
+      "title": "제439회국회(정기회) 제3차 전체회의",
+      "committee": "외교통일위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-11-12",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제3차 전체회의",
-      "committee": "외교통일위원회",
+      "title": "제439회국회(정기회) 제7차 전체회의",
+      "committee": "국토교통위원회",
       "location": null,
       "type": "session"
     },
@@ -220,9 +244,17 @@
     {
       "date": "2026-11-11",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제1차 예산결산심사소위원회",
-      "committee": "산업통상자원중소벤처기업위원회",
-      "location": null,
+      "title": "학교 교육환경 개선 어디서부터 시작할 것인가",
+      "committee": "",
+      "location": "의원회관 신관 제1세미나실",
+      "type": "gihyu"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "10:00",
+      "title": "조선해양산업 경쟁력 강화를 위한 지속가능 공급망 전환 정책토론회",
+      "committee": "",
+      "location": "의원회관 제8간담회의실(211호)",
       "type": "sanja"
     },
     {
@@ -236,26 +268,18 @@
     {
       "date": "2026-11-11",
       "time": "10:00",
-      "title": "조선해양산업 경쟁력 강화를 위한 지속가능 공급망 전환 정책토론회",
-      "committee": "",
-      "location": "의원회관 제8간담회의실(211호)",
-      "type": "sanja"
-    },
-    {
-      "date": "2026-11-11",
-      "time": "10:00",
-      "title": "학교 교육환경 개선 어디서부터 시작할 것인가",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-11-11",
-      "time": "10:00",
       "title": "제439회국회(정기회) 제10차 전체회의",
       "committee": "행정안전위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제1차 예산결산심사소위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
     },
     {
       "date": "2026-11-11",
@@ -308,14 +332,6 @@
     {
       "date": "2026-11-09",
       "time": "14:00",
-      "title": "제439회국회(정기회) 제9차 전체회의",
-      "committee": "정무위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-11-09",
-      "time": "14:00",
       "title": "제439회국회(정기회) 제7차 전체회의",
       "committee": "기후에너지환경노동위원회",
       "location": null,
@@ -323,11 +339,11 @@
     },
     {
       "date": "2026-11-09",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제6차 전체회의",
-      "committee": "산업통상자원중소벤처기업위원회",
+      "time": "14:00",
+      "title": "제439회국회(정기회) 제9차 전체회의",
+      "committee": "정무위원회",
       "location": null,
-      "type": "sanja"
+      "type": "session"
     },
     {
       "date": "2026-11-09",
@@ -336,6 +352,14 @@
       "committee": "예산결산특별위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-11-09",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제6차 전체회의",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
     },
     {
       "date": "2026-11-06",
@@ -356,16 +380,16 @@
     {
       "date": "2026-11-05",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제6차 전체회의",
-      "committee": "농림축산식품해양수산위원회",
+      "title": "제439회국회(정기회) 제8차 전체회의",
+      "committee": "문화체육관광위원회",
       "location": null,
       "type": "session"
     },
     {
       "date": "2026-11-05",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제8차 전체회의",
-      "committee": "문화체육관광위원회",
+      "title": "제439회국회(정기회) 제6차 전체회의",
+      "committee": "농림축산식품해양수산위원회",
       "location": null,
       "type": "session"
     },
@@ -388,18 +412,18 @@
     {
       "date": "2026-11-04",
       "time": "10:00",
-      "title": "반환경보조금 발굴 제안 및 개혁과제 세미나",
-      "committee": "",
-      "location": "의원회관 제4간담회의실(204호)",
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-11-04",
-      "time": "10:00",
       "title": "제439회국회(정기회) 제3차 전체회의",
       "committee": "예산결산특별위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "10:00",
+      "title": "반환경보조금 발굴 제안 및 개혁과제 세미나",
+      "committee": "",
+      "location": "의원회관 제4간담회의실(204호)",
+      "type": "gihyu"
     },
     {
       "date": "2026-11-04",
