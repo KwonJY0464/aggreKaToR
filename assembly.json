@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26 05:08:03",
+  "last_updated": "2026-11-26 17:45:48",
   "schedules": [
     {
       "date": "2026-12-03",
@@ -32,6 +32,14 @@
       "committee": "",
       "location": "의원회관 제10간담회의실(217호)",
       "type": "gihyu"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "14:00",
+      "title": "제439회국회(정기회) 제15차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-11-27",
@@ -76,6 +84,14 @@
     {
       "date": "2026-11-26",
       "time": "10:00",
+      "title": "제439회국회(정기회) 제5차 전체회의",
+      "committee": "외교통일위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "10:00",
       "title": "제439회국회(정기회) 제8차 전체회의",
       "committee": "산업통상자원중소벤처기업위원회",
       "location": null,
@@ -88,14 +104,6 @@
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
-    },
-    {
-      "date": "2026-11-26",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제5차 전체회의",
-      "committee": "외교통일위원회",
-      "location": null,
-      "type": "session"
     },
     {
       "date": "2026-11-25",
@@ -148,6 +156,14 @@
     {
       "date": "2026-11-24",
       "time": "10:00",
+      "title": "제439회국회(정기회) 제14차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
+    },
+    {
+      "date": "2026-11-24",
+      "time": "10:00",
       "title": "제439회국회(정기회) 제12차 전체회의",
       "committee": "과학기술정보방송통신위원회",
       "location": null,
@@ -160,14 +176,6 @@
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
-    },
-    {
-      "date": "2026-11-24",
-      "time": "10:00",
-      "title": "제439회국회(정기회) 제14차 전체회의",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "session"
     },
     {
       "date": "2026-11-24",
@@ -204,17 +212,17 @@
     {
       "date": "2026-11-23",
       "time": "14:00",
-      "title": "대한민국 반도체 미래지도와 인프라 전략",
+      "title": "AI글라스 악용 방지 및 공정한 산업 생태계 조성을 위한 국회 토론회",
       "committee": "",
-      "location": "의원회관 신관 제2세미나실",
+      "location": "의원회관 신관 제1세미나실",
       "type": "sanja"
     },
     {
       "date": "2026-11-23",
       "time": "14:00",
-      "title": "AI글라스 악용 방지 및 공정한 산업 생태계 조성을 위한 국회 토론회",
+      "title": "대한민국 반도체 미래지도와 인프라 전략",
       "committee": "",
-      "location": "의원회관 신관 제1세미나실",
+      "location": "의원회관 신관 제2세미나실",
       "type": "sanja"
     },
     {
@@ -356,17 +364,9 @@
     {
       "date": "2026-11-18",
       "time": "10:00",
-      "title": "프론티어 AI가 여는 대한민국 산업 대전환: 2026 폴리뉴스·상생과통일포럼 제27차 산업포럼",
-      "committee": "",
-      "location": "의원회관 제2소회의실",
-      "type": "sanja"
-    },
-    {
-      "date": "2026-11-18",
-      "time": "10:00",
-      "title": "한복 일상화를 위한 제도적 기반과 산업생태계 조성방안 토론회",
-      "committee": "",
-      "location": "의원회관 신관 제1세미나실",
+      "title": "제439회국회(정기회) 제2차 중소벤처기업지식재산소위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
       "type": "sanja"
     },
     {
@@ -396,9 +396,17 @@
     {
       "date": "2026-11-18",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 중소벤처기업지식재산소위원회",
-      "committee": "산업통상자원중소벤처기업위원회",
-      "location": null,
+      "title": "한복 일상화를 위한 제도적 기반과 산업생태계 조성방안 토론회",
+      "committee": "",
+      "location": "의원회관 신관 제1세미나실",
+      "type": "sanja"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "10:00",
+      "title": "프론티어 AI가 여는 대한민국 산업 대전환: 2026 폴리뉴스·상생과통일포럼 제27차 산업포럼",
+      "committee": "",
+      "location": "의원회관 제2소회의실",
       "type": "sanja"
     },
     {
@@ -452,18 +460,18 @@
     {
       "date": "2026-11-16",
       "time": "14:00",
-      "title": "제439회국회(정기회) 제9차 전체회의",
-      "committee": "국방위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-11-16",
-      "time": "14:00",
       "title": "푸드테크산업법 제정 1년 성과 및 발전방향",
       "committee": "",
       "location": "의원회관 제1소회의실",
       "type": "sanja"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "14:00",
+      "title": "제439회국회(정기회) 제9차 전체회의",
+      "committee": "국방위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-11-16",
@@ -500,18 +508,18 @@
     {
       "date": "2026-11-16",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제12차 전체회의",
-      "committee": "법제사법위원회",
-      "location": null,
-      "type": "session"
-    },
-    {
-      "date": "2026-11-16",
-      "time": "10:00",
       "title": "제439회국회(정기회) 제1차 예산결산기금심사소위원회",
       "committee": "기후에너지환경노동위원회",
       "location": null,
       "type": "gihyu"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제12차 전체회의",
+      "committee": "법제사법위원회",
+      "location": null,
+      "type": "session"
     },
     {
       "date": "2026-11-13",
@@ -564,18 +572,18 @@
     {
       "date": "2026-11-12",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제2차 예산결산심사소위원회",
-      "committee": "산업통상자원중소벤처기업위원회",
-      "location": null,
-      "type": "sanja"
-    },
-    {
-      "date": "2026-11-12",
-      "time": "10:00",
       "title": "제439회국회(정기회) 제3차 전체회의",
       "committee": "외교통일위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제2차 예산결산심사소위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
     },
     {
       "date": "2026-11-12",
@@ -636,14 +644,6 @@
     {
       "date": "2026-11-11",
       "time": "10:00",
-      "title": "제439회국회(정기회) 제1차 예산결산심사소위원회",
-      "committee": "산업통상자원중소벤처기업위원회",
-      "location": null,
-      "type": "sanja"
-    },
-    {
-      "date": "2026-11-11",
-      "time": "10:00",
       "title": "조선해양산업 경쟁력 강화를 위한 지속가능 공급망 전환 정책토론회",
       "committee": "",
       "location": "의원회관 제8간담회의실(211호)",
@@ -656,6 +656,14 @@
       "committee": "행정안전위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "10:00",
+      "title": "제439회국회(정기회) 제1차 예산결산심사소위원회",
+      "committee": "산업통상자원중소벤처기업위원회",
+      "location": null,
+      "type": "sanja"
     },
     {
       "date": "2026-11-11",
@@ -676,18 +684,18 @@
     {
       "date": "2026-11-10",
       "time": "10:30",
-      "title": "기후위기를 넘어, 에너지 돌봄이 시작됩니다.",
-      "committee": "",
-      "location": "의원회관 대회의실",
-      "type": "gihyu"
-    },
-    {
-      "date": "2026-11-10",
-      "time": "10:30",
       "title": "제439회국회(정기회) 제7차 전체회의",
       "committee": "보건복지위원회",
       "location": null,
       "type": "session"
+    },
+    {
+      "date": "2026-11-10",
+      "time": "10:30",
+      "title": "기후위기를 넘어, 에너지 돌봄이 시작됩니다.",
+      "committee": "",
+      "location": "의원회관 대회의실",
+      "type": "gihyu"
     },
     {
       "date": "2026-11-10",
